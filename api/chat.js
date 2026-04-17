@@ -12,6 +12,8 @@ module.exports = async function handler(req, res) {
   }
 
   const { messages } = req.body;
+  
+  console.log("Question:", messages[messages.length - 1].content);
 
   const system = `You are a helpful assistant for Nuno's Soccer Pool.
 Answer questions only about the pool using the information below.
