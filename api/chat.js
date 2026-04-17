@@ -1,18 +1,21 @@
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   if (req.method !== "POST") {
     return res.status(405).send("Method not allowed");
   }
 
   const { messages } = req.body;
 
-  // ✏️ UPDATE YOUR FAQ HERE WHENEVER NEEDED
-  const FAQ = `
+  const system = `You are a helpful assistant for Nuno's Soccer Pool.
+Answer questions only about the pool using the information below.
+Be friendly and concise. If someone asks something not covered below,
+say "I don't have that info — please contact the pool admin directly."
+
 QUICK OVERVIEW:
 - Format: Two-part prediction (Group Stages and Knockout Bracket; with a bonus side-game of 20 questions)
 - Entry Fee: $30
 - Prizes: 20 cash prizes which includes: the top 5 spots, "Half-way" leader, bonus questions, Group winners, and a "refund" prize.
-- Transparency: All predictions are sent to everyone prior to the start. Predictions and daily standings are also posted at nunosoccerpool.github.io (the last World Cup pool's results are still online).
-- Track Record: This pool has been running for every World Cup and Euro since 2004. The last World Cup saw nearly 200 participants. We'll likely go over 200 this time with the hype of the tournament being hosted on our own continent. With this being the final World Cup farewell for Ronaldo and Messi, it's surely a memorable one for fans of the beautiful game!
+- Transparency: All predictions are sent to everyone prior to the start. Predictions and daily standings are also posted at nunosoccerpool.github.io
+- Track Record: This pool has been running for every World Cup and Euro since 2004. The last World Cup saw nearly 200 participants.
 
 IMPORTANT DATES:
 - May 25: Spreadsheet for Group Stage & Lucky Bonus questions is available to download and fill out.
@@ -68,35 +71,28 @@ LUCKY BONUS QUESTIONS:
 - Question 11: 3 pts.
 - Bonus question points do NOT count toward the main pool standings.`;
 
-  const system = `You are a helpful assistant for Nuno's Soccer Pool.
-Answer questions only about the pool using the information below.
-Be friendly and concise. If someone asks something not covered below,
-say "I don't have that info — please contact the pool admin directly."
-
-${FAQ}`;
-
-  const response = await fetch(
-    `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${process.env.GEMINI_API_KEY}`,
-    {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({
-        system_instruction: { parts: [{ text: system }] },
-        contents: messages.map(m => ({
-          role: m.role === "assistant" ? "model" : "user",
-          parts: [{ text: m.content }]
-        })),
-        generationConfig: { maxOutputTokens: 512 }
-      })
-    }
-  );
+  const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+      "Authorization": `Bearer ${process.env.GROQ_API_KEY}`
+    },
+    body: JSON.stringify({
+      model: "llama-3.1-8b-instant",
+      messages: [
+        { role: "system", content: system },
+        ...messages
+      ],
+      max_tokens: 512
+    })
+  });
 
   const data = await response.json();
 
-  if (!data.candidates) {
-    return res.status(200).json({ reply: "Gemini error: " + JSON.stringify(data) });
+  if (!data.choices) {
+    return res.status(200).json({ reply: "Groq error: " + JSON.stringify(data) });
   }
 
-  const reply = data.candidates[0].content.parts[0].text;
+  const reply = data.choices[0].message.content;
   res.status(200).json({ reply });
 }
