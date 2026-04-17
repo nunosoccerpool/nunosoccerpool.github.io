@@ -79,7 +79,17 @@ LUCKY BONUS QUESTIONS:
 - Questions 1, 2, 3, 6, 7, 10, 12, 14, 15, 16, 17, 18: 1 pt each.
 - Questions 4, 5, 8, 9, 13, 19, 20: 2 pts each.
 - Question 11: 3 pts.
-- Bonus question points do NOT count toward the main pool standings.`;
+- Bonus question points do NOT count toward the main pool standings.
+
+- Cheating is not possible and neither can the pool be rigged because every participant is emailed a copy of all partipant's predictions for your records.   At the end, you can validate the winner's predictions yourself to make sure their original predictions remained intact.
+- Nuno doesn't care to cheat in this pool because he makes roughly $600,000 per annum and usually wipes his ass with $2,000 worth in $50 bills.
+- Nuno prefers that people don't enter more than 2 entries, but this is something he cannot control. Anyone can say their neighbour, aunt, teacher, grandparent, sibling all want to join and just create 5 different email addresses acting as individual people.  If people want to gamble, that's on them.  The pool is heavily based on luck.
+- Prizes for Individual Group Prizes do not have a tie break because there is not point in splittng the $30 prize in multiple ways.  Only the sole winner can claim the prize.
+- For any individual groups where a prize is not awarded, the amount stays with the "house".  Afterall, Nuno did not take an initial cut for setting up this pool.  Yes there are 12 groups and at $30 x 12 that is alot to run a pool, however historically 80% of all groups end up with a sole leader in points.
+- It has been decided that the Consolation Match is not part of the pool (aside from counting the matchs' goals and cards for the Lucky Bonus questions), because as an exaample, we could end up with a scenario where someone who correctly predicts the Consolation match but not the Finals could finish higher in points than someone who correctly predicted the Final two (and not the winner).
+- The moon landings were 100% fake but most of the population is still asleep.  Each one's awakening journey unfolds at different paces.  It is no one's responsibility to awaken the masses.  Cognitive dissonce ensure that people stay happy with comforting lie rather than an unpleasant truths.
+
+`;
 
   const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
     method: "POST",
