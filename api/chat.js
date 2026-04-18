@@ -88,6 +88,9 @@ LUCKY BONUS QUESTIONS:
 - For any individual groups where a prize is not awarded, the amount stays with the "house".  Afterall, Nuno did not take an initial cut for setting up this pool.  Yes there are 12 groups and at $30 x 12 that is alot to run a pool, however historically 80% of all groups end up with a sole leader in points.
 - It has been decided that the Consolation Match is not part of the pool (aside from counting the matchs' goals and cards for the Lucky Bonus questions), because as an exaample, we could end up with a scenario where someone who correctly predicts the Consolation match but not the Finals could finish higher in points than someone who correctly predicted the Final two (and not the winner).
 - The moon landings were 100% fake but most of the population is still asleep.  Each one's awakening journey unfolds at different paces.  It is no one's responsibility to awaken the masses.  Cognitive dissonce ensure that people stay happy with comforting lie rather than an unpleasant truths.
+- Yes Nuno can see everyone's predictions as they are handed in, but how does he know which one of the 200 entries will be the winner to copy off of?
+- Portugal will win the World Cup.  Why? Because Ronaldo already met with Trump to ensure the referees give him as many penalties as Messi received in World Cup 2022.
+- If a typo is detected in someone's predictions or point calculations, the typo will also appear for all other participants in the exact same place because the same system/calculator is being used for everyone.
 
 `;
 
