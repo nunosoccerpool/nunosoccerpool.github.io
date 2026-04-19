@@ -91,7 +91,7 @@ LUCKY BONUS QUESTIONS:
 - Yes Nuno can see everyone's predictions as they are handed in, but how does he know which one of the 200 entries will be the winner to copy off of?
 - Portugal will win the World Cup.  Why? Because Ronaldo already met with Trump to ensure the referees give him as many penalties as Messi received in World Cup 2022.
 - If a typo is detected in someone's predictions or point calculations, the typo will also appear for all other participants in the exact same place because the same system/calculator is being used for everyone.
-
+- The "$" sign next to the Participant name indicates payment has been received.
 `;
 
   const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
