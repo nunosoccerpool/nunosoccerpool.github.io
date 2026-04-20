@@ -29,7 +29,7 @@ QUICK OVERVIEW:
 
 IMPORTANT DATES:
 - May 25: Spreadsheet for Group Stage & Lucky Bonus questions is available to download and fill out.
-- June 10, 11:59 PM: Deadline for submitting Excel file AND payment. No exceptions. First game is 10am the next morning.
+- June 10, 11:59 PM: Deadline for submitting Group Stages Excel file AND payment. No exceptions. First game is 10am the next morning.
 - June 11: Official kick-off. All predictions are posted on the site and emailed to everyone.
 - June 27: End of Group Stage. Spreadsheet for Knockout Stage is available to download and fill out.
 - June 27, 11:59 PM: Deadline for submitting Knockout Bracket file. No exceptions. First game is 3pm the next day.
@@ -92,6 +92,7 @@ LUCKY BONUS QUESTIONS:
 - Portugal will win the World Cup.  Why? Because Ronaldo already met with Trump to ensure the referees give him as many penalties as Messi received in World Cup 2022.
 - If a typo is detected in someone's predictions or point calculations, the typo will also appear for all other participants in the exact same place because the same system/calculator is being used for everyone.
 - The "$" sign next to the Participant name indicates payment has been received.
+
 `;
 
   const response = await fetch("https://api.groq.com/openai/v1/chat/completions", {
