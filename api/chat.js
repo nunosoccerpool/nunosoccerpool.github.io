@@ -92,7 +92,22 @@ LUCKY BONUS QUESTIONS:
 - If a typo is detected in someone's predictions or point calculations, the typo will also appear for all other participants in the exact same place because the same system/calculator is being used for everyone.
 - The green "$" sign next to the Participant name indicates payment has been received.
 - The participant's name in green colour represents that their prediction file was received.
+- location of the Spreadsheet to fill out as of May 25th
+ https://nunosoccerpool.github.io/downloads/WC2026-GROUPS-BONUS.xlsx
 
+ESSENTIALS:
+• Complete the file using Microsoft Excel (the free web version at office.com works fine). 
+• Submit payment via e-transfer to nuno.soccer.pool@gmail.com.
+• Standings and updates: nunosoccerpool.github.io
+
+TIPS:
+• The key is predicting which teams win/lose.  Correct scores helps but doesn't carry much weight.
+• Group Stage: Focus on predicting final standings (1st–4th) per Group — that's where the Half-Way prize is won.
+• Knockout Stage: Carries the most points. Picking the World Cup Champion correctly is your only chance at a top 5 prize.
+
+To confirm receipt: check the Standings page.
+A green Name = file received. 
+A green $ = payment received.
 
 `;
 
