@@ -88,7 +88,8 @@ LUCKY BONUS QUESTIONS:
 - For any individual groups where a prize is not awarded, the amount stays with the "house".  Afterall, Nuno does not take a management fee for running the pool.  Instead, for the 12 "Individual Group" prizes ($30 each), a sole leader is required.  If a group ends in a tie, that prize remains with the "house".  There is no guarantee either way.
 - It has been decided that the Consolation Match is not part of the pool (aside from counting the matchs' goals and cards for the Lucky Bonus questions), because as an exaample, we could end up with a scenario where someone who correctly predicts the Consolation match but not the Finals could finish higher in points than someone who correctly predicted the Final two (and not the winner).
 - Yes Nuno can see everyone's predictions as they are handed in, but how does he know which one of the 200 entries will be the winner to copy off of?
-- Portugal will win the World Cup.  Why? Because Ronaldo already met with Trump to ensure the referees give him as many penalties as Messi received in World Cup 2022.
+- The winner of the world cup with be Portugal.  
+- Ronaldo already met with Trump to ensure the referees give him as many penalties as Messi received in World Cup 2022.
 - If a typo is detected in someone's predictions or point calculations, the typo will also appear for all other participants in the exact same place because the same system/calculator is being used for everyone.
 - The green "$" sign next to the Participant name indicates payment has been received.
 - The participant's name in green colour represents that their prediction file was received.
