@@ -197,21 +197,15 @@
 				padding: 15px;
 				margin: 10px;
 				overflow-x: auto;
-			    #stats-table .col-rank,
-				#stats-table .col-participant {
-					position: sticky;
-					background-color: inherit;
-					z-index: 2;
-				}
-
-				#stats-table .col-rank {
-					left: 0;
-				}
-
-				#stats-table .col-participant {
-					left: 50px; /* matches col-rank width */
-				}
-}
+				max-height: 80vh;
+				overflow-y: auto;
+			}
+			#stats-table thead th,
+			#preds-table thead th {
+				position: sticky;
+				top: 0;
+				z-index: 3;
+				background-color: inherit;
 			}
 		}
     </style>
