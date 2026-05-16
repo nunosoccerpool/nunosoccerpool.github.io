@@ -16,7 +16,8 @@
             margin-bottom: 0; 
             border-bottom: 4px solid #FFD700; 
             padding: 8px 20px;
-            position: relative;
+            position: sticky;
+			top: 0;
             z-index: 100;
         }
         .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
@@ -95,21 +96,27 @@
         .last-updated { font-size: 0.9rem; color: #888; margin-top: 10px; }
 
         /* Table Container */
-        .master-table-container {
-            margin: 20px auto;
-            max-width: fit-content;
-            background-color: #ffffff;
-            border: 2px solid #3a5a40; 
-            border-radius: 15px;      
-            box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
-            padding: 50px; 
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            gap: 20px;
-            overflow-x: auto;
-        }
+		.master-table-container {
+			margin: 20px auto;
+			max-width: fit-content;
+			background-color: #ffffff;
+			border: 2px solid #3a5a40; 
+			border-radius: 15px;      
+			box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
+			padding: 50px; 
+			display: flex;
+			justify-content: center;
+			align-items: flex-start;
+			gap: 20px;
+			overflow-x: auto;
+<!--			max-height: 90vh;  -->
+			overflow-y: auto; 
+			scrollbar-width: none; /* Firefox */
+		}
 
+		.master-table-container::-webkit-scrollbar {
+			display: none; /* Chrome, Safari */
+		}
         .table-wrapper { display: flex; flex-direction: column; }
         .table-title { font-size: 0.85rem; color: #999; margin-bottom: 8px; height: 20px; text-align: center; }
 
@@ -179,6 +186,7 @@
 
         .game-gap { width: 10px !important; border: none !important; background-color: transparent !important; }
         .table a { text-decoration: none; color: #000000 !important; }
+		td.col-points-group a, td.col-points-bracket a, td.col-points-possible a, td.col-bonus a { color: #969696 !important; }
         .table a:hover { text-decoration: underline; }
 
         /* Highlight Colors */
@@ -186,6 +194,19 @@
         .bg-standard { background-color: #F2F2F2 !important; } 
         .bg-top-five-bonus { background-color: #E5FFE5 !important; }
         .bg-standard-bonus { background-color: #FAFAFA !important; }
+
+		#stats-table thead th {
+			position: sticky;
+			top: -50px;
+			z-index: 3;
+			background-color: #F2F2F2;
+		}
+		#preds-table thead th {
+			position: sticky;
+			top: -50px;
+			z-index: 3;
+			background-color: #ffffff;
+		}
 
         .stack-header { display: inline-block; width: min-content; line-height: 1.1; }
 		
@@ -197,7 +218,7 @@
 				padding: 15px;
 				margin: 10px;
 				overflow-x: auto;
-				max-height: 80vh;
+<!--				max-height: 60vh;  -->
 				overflow-y: auto;
 				justify-content: flex-start;
 			}
