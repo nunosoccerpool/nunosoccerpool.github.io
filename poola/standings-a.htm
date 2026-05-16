@@ -203,17 +203,21 @@
 		}		
 		
 		@media (max-width: 768px) {
-			.col-points-group,
-			.col-points-bracket,
-			.col-points-possible,
-			.col-bonus,
-			.col-spacer { display: none; }
+			.master-table-container {
+				flex-direction: column;
+				padding: 15px;
+				margin: 10px;
+			}
 
-			tbody td.col-participant,
-			tbody td.col-spacer { font-size: 16px !important; }
+			.standings-title { font-size: 2.5rem; letter-spacing: 1px; }
+			.pool-title { font-size: 1.5rem; }
 
-			tbody td.col-rank,
-			tbody td.col-total { font-size: 15px !important; }
+			.table-wrapper {
+				overflow-x: auto;
+				width: 100%;
+			}
+
+			.table-wrapper:last-child { display: none; }
 		}
     </style>
 </head>
