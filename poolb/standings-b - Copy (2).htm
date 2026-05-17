@@ -14,10 +14,9 @@
         .navbar { 
             background-color: #570000; 
             margin-bottom: 0; 
-            border-bottom: 4px solid #FFD700; 
+            border-bottom: 4px solid #b2d8d8; 
             padding: 8px 20px;
-            position: sticky;
-			top: 0;
+            position: relative;
             z-index: 100;
         }
         .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
@@ -48,13 +47,39 @@
             background-color: rgba(255, 255, 255, 0.1);
         }
 
+        /* Viewing Dropdown Button*/
 		.btn-pool-switch {
-			background-color: #3a5a40 !important; 
+			background-color: #3a0000 !important; 
 			color: white !important;
-			border: 1px solid #FFD700 !important; 
+			border: 1px solid #b2d8d8 !important;
 			font-weight: bold;
 			font-size: 0.85rem;
 			box-shadow: none !important;
+		}
+		
+		.btn-pool-switch:hover {
+			border: 1px solid transparent !important;
+		}
+
+		/* White background base for all dropdown items */
+		.dropdown-item {
+			background-color: #ffffff !important;
+			color: #212529 !important;
+		}
+        
+        .dropdown-item:hover:not(.active) {
+            background-color: #f8f9fa !important; 
+            color: #212529 !important;
+        }
+
+		.dropdown-item[href*="standings-a"]:hover {
+			background-color: #5a8562 !important;
+			color: #ffffff !important;
+		}
+
+		.dropdown-item[href*="standings-b"]:hover {
+			background-color: #a33838 !important;
+			color: #ffffff !important;
 		}
 
         /* Titles */
@@ -65,8 +90,8 @@
             text-align: center; 
             margin: 0; 
         }
+        .pool-title { font-size: 2.5rem; font-weight: bold; color: #570000; margin-bottom: 25px; text-transform: uppercase; }
         .standings-title { font-size: 6rem; color: #570000; text-transform: uppercase; letter-spacing: 4px; font-weight: bold; margin: 0; line-height: 1; }
-		.standings-subtitle { font-size: 4.5rem; position: relative; top: -0.5rem; }
         .last-updated { font-size: 0.9rem; color: #888; margin-top: 10px; }
 
         /* Table Container */
@@ -76,7 +101,7 @@
             background-color: #ffffff;
             border: 2px solid #570000; 
             border-radius: 15px;      
-            box-shadow: 0 15px 60px 5px rgba(87, 0, 0, 0.25)); 
+            box-shadow: 0 15px 60px 5px rgba(87, 0, 0, 0.25); 
             padding: 50px; 
             display: flex;
             justify-content: center;
@@ -122,18 +147,17 @@
             color: #969696 !important; 
             font-weight: normal !important; 
             text-transform: none !important; 
-            background-color: #E5E5E5 !important;
+            background-color: #F2F2F2 !important;
         }
 
         thead th.col-bonus-header { 
             color: #969696 !important; 
             font-weight: normal !important; 
             text-transform: none !important; 
-            background-color: #F2F2F2 !important;
-			font-size: 16px !important;			
+            background-color: #FAFAFA !important; 
         }
         
-        .header-grey { background-color: #E5E5E5 !important; }
+        .header-grey { background-color: #F2F2F2 !important; }
         
         /* Column Widths */
         .col-rank { width: 50px !important; }
@@ -142,7 +166,7 @@
         .col-total { width: 85px !important; }
         .col-points-group, .col-points-bracket { width: 75px !important; }
         .col-points-possible { width: 80px !important; }
-        .col-bonus { width: 60px !important; }
+        .col-bonus { width: 75px !important; }
 
         .vertical-header { width: 20px !important; min-width: 20px !important; padding: 2px 0 !important; line-height: 1.1; font-weight: normal !important; }
         tbody td.vertical-header { color: #969696 !important; }
@@ -155,87 +179,62 @@
 
         .game-gap { width: 10px !important; border: none !important; background-color: transparent !important; }
         .table a { text-decoration: none; color: #000000 !important; }
-		td.col-points-group a, td.col-points-bracket a, td.col-points-possible a, td.col-bonus a { color: #969696 !important; }
         .table a:hover { text-decoration: underline; }
 
         /* Highlight Colors */
-        .bg-top-five { background-color: #FFECEC !important; }
+        .bg-top-five { background-color: #CCFFCC !important; }
         .bg-standard { background-color: #F2F2F2 !important; } 
-        .bg-top-five-bonus { background-color: #FFF5F5 !important; }
+        .bg-top-five-bonus { background-color: #E5FFE5 !important; }
         .bg-standard-bonus { background-color: #FAFAFA !important; }
 
         .stack-header { display: inline-block; width: min-content; line-height: 1.1; }
-		
+
 		@media (max-width: 768px) {
 			.standings-title { font-size: 2.5rem; letter-spacing: 1px; }
-			.standings-subtitle { font-size: 1.7rem; top: -0.3rem; }
-			.last-updated { font-size: 0.72rem; } 
+			.pool-title { font-size: 1.5rem; }
 			.master-table-container {
 				flex-direction: row;
 				padding: 15px;
 				margin: 10px;
 				overflow-x: auto;
-				max-height: 80vh;
-				overflow-y: auto;
-				justify-content: flex-start;
 			}
-			#stats-table thead th {
-				position: sticky;
-				top: -15px;
-				z-index: 3;
-				background-color: #F2F2F2;
-			}
-			#preds-table thead th {
-				position: sticky;
-				top: -15px;
-				z-index: 3;
-				background-color: #ffffff;
-			}
-			#navbarNav .navbar-nav {
-				align-items: flex-start;
-			}
-			#navbarNav .navbar-nav .nav-link {
-				display: inline-block !important;
-				width: auto !important;
-			}
-			.nav-link.d-lg-none {
-				background-color: #3a5a40 !important;
-				color: #ffffff !important;
-				border-radius: 25px;
-			}
-			.col-points-group, .col-points-bracket { 
-				width: 75px !important; 
-				min-width: 75px !important; 
-			}
-		}
+		}		
     </style>
 </head>
 <body>
 
 <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="standings-a.html">EURO 2028 POOL B</a>
+        <a class="navbar-brand" href="standings-a.html">EURO 2028</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
 		<div class="collapse navbar-collapse" id="navbarNav">
 			<div class="navbar-nav">
-				<a class="nav-link active" href="standings-a.htm">Standings</a>
-				<a class="nav-link" href="prizes-a.htm">Prizes</a>
-				<a class="nav-link" href="stats-a.htm">Stats</a>
-				<a class="nav-link" href="tallies-a.htm">Tallies</a>
-				<a class="nav-link" href="points-a.htm">Points System</a>
+				<a class="nav-link active" href="standings-b.htm">Standings</a>
+				<a class="nav-link" href="prizes-b.htm">Prizes</a>
+				<a class="nav-link" href="stats-b.htm">Stats</a>
+				<a class="nav-link" href="tallies-b.htm">Tallies</a>
+				<a class="nav-link" href="points-b.htm">Points System</a>
 				<hr class="d-lg-none border-secondary my-1">
-				<a class="nav-link d-lg-none" href="\poola\standings-a.htm">SWITCH TO POOL A</a>
+				<a class="nav-link d-lg-none" href="\poola\standings-a.htm">View Pool A</a>
 			</div>
 		</div>
         
-		<a class="btn btn-pool-switch d-none d-lg-inline-block" href="/poola/standings-a.htm">SWITCH TO POOL A</a>
+        <div class="dropdown d-none d-lg-block">
+            <button class="btn btn-pool-switch dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                VIEWING: POOL B
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end">
+                 <li><a class="dropdown-item" href="\poola\standings-a.htm">Switch to Pool A</a></li>
+            </ul>
+        </div>
     </div>
 </nav>
 
 <div class="header-full-width">
-    <h2 class="standings-title">Standings <span class="standings-subtitle">(B)</span></h2>
+    <h1 class="pool-title">2028 EURO POOL (B)</h1>
+    <h2 class="standings-title">Standings</h2>
     <div class="last-updated" id="update-timestamp">Loading...</div>
 </div>
 

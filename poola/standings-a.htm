@@ -48,39 +48,13 @@
             background-color: rgba(255, 255, 255, 0.1);
         }
 
-        /* Viewing Dropdown Button*/
 		.btn-pool-switch {
-			background-color: #2d4531 !important; 
+			background-color: #570000 !important; 
 			color: white !important;
-			border: 1px solid #FFD700 !important;  /* ← change this line */
+			border: 1px solid #FFD700 !important; 
 			font-weight: bold;
 			font-size: 0.85rem;
 			box-shadow: none !important;
-		}
-		
-		.btn-pool-switch:hover {
-			border: 1px solid transparent !important;
-		}
-		
-		/* White background base for all dropdown items */
-		.dropdown-item {
-			background-color: #ffffff !important;
-			color: #212529 !important;
-		}
-        
-        .dropdown-item:hover:not(.active) {
-            background-color: #f8f9fa !important; 
-            color: #212529 !important;
-        }
-
-		.dropdown-item[href*="standings-a"]:hover {
-			background-color: #5a8562 !important;
-			color: #ffffff !important;
-		}
-
-		.dropdown-item[href*="standings-b"]:hover {
-			background-color: #a33838 !important;
-			color: #ffffff !important;
 		}
 
         /* Titles */
@@ -256,14 +230,7 @@
 			</div>
 		</div>
         
-        <div class="dropdown d-none d-lg-block">
-            <button class="btn btn-pool-switch dropdown-toggle" type="button" data-bs-toggle="dropdown">
-                VIEWING: POOL A
-            </button>
-            <ul class="dropdown-menu dropdown-menu-end">
-                 <li><a class="dropdown-item" href="\poolb\standings-b.htm">Switch to Pool B</a></li>
-            </ul>
-        </div>
+		<a class="btn btn-pool-switch d-none d-lg-inline-block" href="/poolb/standings-b.htm">SWITCH TO POOL B</a>
     </div>
 </nav>
 
