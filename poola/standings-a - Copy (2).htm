@@ -16,8 +16,7 @@
             margin-bottom: 0; 
             border-bottom: 4px solid #FFD700; 
             padding: 8px 20px;
-            position: sticky;
-			top: 0;
+            position: relative;
             z-index: 100;
         }
         .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
@@ -58,6 +57,10 @@
 			box-shadow: none !important;
 		}
 		
+		.btn-pool-switch:hover {
+			border: 1px solid transparent !important;
+		}
+		
 		/* White background base for all dropdown items */
 		.dropdown-item {
 			background-color: #ffffff !important;
@@ -87,32 +90,26 @@
             text-align: center; 
             margin: 0; 
         }
-<!--        .pool-title { font-size: 2rem; font-weight: bold; color: #3a5a40; margin-bottom: 25px; text-transform: uppercase; }   -->
+        .pool-title { font-size: 2.5rem; font-weight: bold; color: #3a5a40; margin-bottom: 25px; text-transform: uppercase; }
         .standings-title { font-size: 6rem; color: #3a5a40; text-transform: uppercase; letter-spacing: 4px; font-weight: bold; margin: 0; line-height: 1; }
         .last-updated { font-size: 0.9rem; color: #888; margin-top: 10px; }
 
         /* Table Container */
-		.master-table-container {
-			margin: 20px auto;
-			max-width: fit-content;
-			background-color: #ffffff;
-			border: 2px solid #3a5a40; 
-			border-radius: 15px;      
-			box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
-			padding: 50px; 
-			display: flex;
-			justify-content: center;
-			align-items: flex-start;
-			gap: 20px;
-			overflow-x: auto;
-<!--			max-height: 90vh;  -->
-			overflow-y: auto; 
-			scrollbar-width: none; /* Firefox */
-		}
+        .master-table-container {
+            margin: 20px auto;
+            max-width: fit-content;
+            background-color: #ffffff;
+            border: 2px solid #3a5a40; 
+            border-radius: 15px;      
+            box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
+            padding: 50px; 
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+            gap: 20px;
+            overflow-x: auto;
+        }
 
-		.master-table-container::-webkit-scrollbar {
-			display: none; /* Chrome, Safari */
-		}
         .table-wrapper { display: flex; flex-direction: column; }
         .table-title { font-size: 0.85rem; color: #999; margin-bottom: 8px; height: 20px; text-align: center; }
 
@@ -182,7 +179,6 @@
 
         .game-gap { width: 10px !important; border: none !important; background-color: transparent !important; }
         .table a { text-decoration: none; color: #000000 !important; }
-		td.col-points-group a, td.col-points-bracket a, td.col-points-possible a, td.col-bonus a { color: #969696 !important; }
         .table a:hover { text-decoration: underline; }
 
         /* Highlight Colors */
@@ -191,32 +187,17 @@
         .bg-top-five-bonus { background-color: #E5FFE5 !important; }
         .bg-standard-bonus { background-color: #FAFAFA !important; }
 
-		#stats-table thead th {
-			position: sticky;
-			top: -50px;
-			z-index: 3;
-			background-color: #F2F2F2;
-		}
-		#preds-table thead th {
-			position: sticky;
-			top: -50px;
-			z-index: 3;
-			background-color: #ffffff;
-		}
-
         .stack-header { display: inline-block; width: min-content; line-height: 1.1; }
-
-		.standings-subtitle { font-size: 4.5rem; position: relative; top: -0.5rem; }
 		
 		@media (max-width: 768px) {
 			.standings-title { font-size: 2.5rem; letter-spacing: 1px; }
-<!--			.pool-title { font-size: 1.5rem; }  -->
+			.pool-title { font-size: 1.5rem; }
 			.master-table-container {
 				flex-direction: row;
 				padding: 15px;
 				margin: 10px;
 				overflow-x: auto;
-<!--				max-height: 60vh;  -->
+				max-height: 80vh;
 				overflow-y: auto;
 				justify-content: flex-start;
 			}
@@ -239,7 +220,7 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="standings-a.html">EURO 2028 POOL A</a>
+        <a class="navbar-brand" href="standings-a.html">EURO 2028</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -254,13 +235,21 @@
 				<a class="nav-link d-lg-none" href="\poolb\standings-b.htm">View Pool B</a>
 			</div>
 		</div>
-		<a class="btn btn-pool-switch" href="\poolb\standings-b.htm">SWITCH TO POOL B</a>
+        
+        <div class="dropdown d-none d-lg-block">
+            <button class="btn btn-pool-switch dropdown-toggle" type="button" data-bs-toggle="dropdown">
+                VIEWING: POOL A
+            </button>
+            <ul class="dropdown-menu dropdown-menu-end">
+                 <li><a class="dropdown-item" href="\poolb\standings-b.htm">Switch to Pool B</a></li>
+            </ul>
+        </div>
     </div>
 </nav>
 
 <div class="header-full-width">
-<!--    <h1 class="pool-title">2028 EURO POOL (A)</h1> -->
-	<h1 class="standings-title">Standings <span class="standings-subtitle">(A)</span></h1>
+    <h1 class="pool-title">2028 EURO POOL (A)</h1>
+    <h2 class="standings-title">Standings</h2>
     <div class="last-updated" id="update-timestamp">Loading...</div>
 </div>
 
