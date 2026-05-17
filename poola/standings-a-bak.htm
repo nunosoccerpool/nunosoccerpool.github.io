@@ -16,7 +16,8 @@
             margin-bottom: 0; 
             border-bottom: 4px solid #FFD700; 
             padding: 8px 20px;
-            position: relative;
+            position: sticky;
+			top: 0;
             z-index: 100;
         }
         .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
@@ -57,10 +58,6 @@
 			box-shadow: none !important;
 		}
 		
-		.btn-pool-switch:hover {
-			border: 1px solid transparent !important;
-		}
-		
 		/* White background base for all dropdown items */
 		.dropdown-item {
 			background-color: #ffffff !important;
@@ -90,26 +87,32 @@
             text-align: center; 
             margin: 0; 
         }
+<!--        .pool-title { font-size: 2rem; font-weight: bold; color: #3a5a40; margin-bottom: 25px; text-transform: uppercase; }   -->
         .standings-title { font-size: 6rem; color: #3a5a40; text-transform: uppercase; letter-spacing: 4px; font-weight: bold; margin: 0; line-height: 1; }
-		.standings-subtitle { font-size: 4.5rem; position: relative; top: -0.5rem; }
         .last-updated { font-size: 0.9rem; color: #888; margin-top: 10px; }
 
         /* Table Container */
-        .master-table-container {
-            margin: 20px auto;
-            max-width: fit-content;
-            background-color: #ffffff;
-            border: 2px solid #3a5a40; 
-            border-radius: 15px;      
-            box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
-            padding: 50px; 
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            gap: 20px;
-            overflow-x: auto;
-        }
+		.master-table-container {
+			margin: 20px auto;
+<!--			max-width: fit-content;  -->
+			background-color: #ffffff;
+			border: 2px solid #3a5a40; 
+			border-radius: 15px;      
+			box-shadow: 0 15px 60px 5px rgba(58, 90, 64, 0.4); 
+			padding: 50px; 
+			display: flex;
+			justify-content: center;
+			align-items: flex-start;
+			gap: 20px;
+			overflow-x: auto;
+<!--			max-height: 90vh;  -->
+			overflow-y: auto; 
+			scrollbar-width: none; /* Firefox */
+		}
 
+		.master-table-container::-webkit-scrollbar {
+			display: none; /* Chrome, Safari */
+		}
         .table-wrapper { display: flex; flex-direction: column; }
         .table-title { font-size: 0.85rem; color: #999; margin-bottom: 8px; height: 20px; text-align: center; }
 
@@ -147,18 +150,17 @@
             color: #969696 !important; 
             font-weight: normal !important; 
             text-transform: none !important; 
-            background-color: #E5E5E5 !important;
+            background-color: #F2F2F2 !important;
         }
 
         thead th.col-bonus-header { 
             color: #969696 !important; 
             font-weight: normal !important; 
             text-transform: none !important; 
-            background-color: #F2F2F2 !important;
-			font-size: 16px !important;			
+            background-color: #FAFAFA !important; 
         }
         
-        .header-grey { background-color: #E5E5E5 !important; }
+        .header-grey { background-color: #F2F2F2 !important; }
         
         /* Column Widths */
         .col-rank { width: 50px !important; }
@@ -167,7 +169,7 @@
         .col-total { width: 85px !important; }
         .col-points-group, .col-points-bracket { width: 75px !important; }
         .col-points-possible { width: 80px !important; }
-        .col-bonus { width: 60px !important; }
+        .col-bonus { width: 75px !important; }
 
         .vertical-header { width: 20px !important; min-width: 20px !important; padding: 2px 0 !important; line-height: 1.1; font-weight: normal !important; }
         tbody td.vertical-header { color: #969696 !important; }
@@ -189,12 +191,27 @@
         .bg-top-five-bonus { background-color: #E5FFE5 !important; }
         .bg-standard-bonus { background-color: #FAFAFA !important; }
 
+		#stats-table thead th {
+			position: sticky;
+			top: -50px;
+			z-index: 3;
+			background-color: #F2F2F2;
+		}
+		#preds-table thead th {
+			position: sticky;
+			top: -50px;
+			z-index: 3;
+			background-color: #ffffff;
+		}
+
         .stack-header { display: inline-block; width: min-content; line-height: 1.1; }
+
+		.standings-subtitle { font-size: 4.5rem; position: relative; top: -0.5rem; }
 		
 		@media (max-width: 768px) {
-			.standings-title { font-size: 2.5rem; letter-spacing: 1px; }
-			.standings-subtitle { font-size: 1.7rem; top: -0.3rem; }
-			.last-updated { font-size: 0.72rem; } 
+			.standings-title { font-size: 2.3rem; letter-spacing: 0.5px; }
+			.standings-subtitle { font-size: 1.5rem; top: -0.3rem; }
+<!--			.pool-title { font-size: 1.5rem; }  -->
 			.master-table-container {
 				flex-direction: row;
 				padding: 15px;
@@ -216,22 +233,6 @@
 				z-index: 3;
 				background-color: #ffffff;
 			}
-			#navbarNav .navbar-nav {
-				align-items: flex-start;
-			}
-			#navbarNav .navbar-nav .nav-link {
-				display: inline-block !important;
-				width: auto !important;
-			}
-			.nav-link.d-lg-none {
-				background-color: #570000 !important;
-				color: #ffffff !important;
-				border-radius: 25px;
-			}
-			.col-points-group, .col-points-bracket { 
-				width: 75px !important; 
-				min-width: 75px !important; 
-			}
 		}
     </style>
 </head>
@@ -251,23 +252,16 @@
 				<a class="nav-link" href="tallies-a.htm">Tallies</a>
 				<a class="nav-link" href="points-a.htm">Points System</a>
 				<hr class="d-lg-none border-secondary my-1">
-				<a class="nav-link d-lg-none" href="\poolb\standings-b.htm">SWITCH TO POOL B</a>
+				<a class="nav-link d-lg-none" href="\poolb\standings-b.htm">View Pool B</a>
 			</div>
 		</div>
-        
-        <div class="dropdown d-none d-lg-block">
-            <button class="btn btn-pool-switch dropdown-toggle" type="button" data-bs-toggle="dropdown">
-                VIEWING: POOL A
-            </button>
-            <ul class="dropdown-menu dropdown-menu-end">
-                 <li><a class="dropdown-item" href="\poolb\standings-b.htm">Switch to Pool B</a></li>
-            </ul>
-        </div>
+		<a class="btn btn-pool-switch" href="\poolb\standings-b.htm">SWITCH TO POOL B</a>
     </div>
 </nav>
 
 <div class="header-full-width">
-    <h2 class="standings-title">Standings <span class="standings-subtitle">(A)</span></h2>
+<!--    <h1 class="pool-title">2028 EURO POOL (A)</h1> -->
+	<h1 class="standings-title">Standings <span class="standings-subtitle">(A)</span></h1>
     <div class="last-updated" id="update-timestamp">Loading...</div>
 </div>
 
