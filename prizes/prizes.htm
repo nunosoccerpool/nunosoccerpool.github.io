@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prize Payouts</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* Base styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Verdana, Geneva, sans-serif; 
+            /* Updated to use your local image file */
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+                        url('/images/ball-grass-foot.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            min-height: 100vh;
+			scrollbar-gutter: stable;
+        }
+
+        /* PRIZES CONTENT LAYOUT */
+        .content-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+
+        .page-wrapper {
+            width: 95%;
+            max-width: 850px;
+            margin: 0 auto;
+        }
+
+        /* Filing Cabinet Tabs */
+        .tab-bar {
+            display: flex;
+            gap: 5px;
+            padding-left: 20px;
+        }
+
+        .tab-btn {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-bottom: none;
+            color: #d1d1d1;
+            padding: 12px 30px;
+            font-size: 0.95rem;
+            font-weight: bold;
+            cursor: pointer;
+            text-transform: uppercase;
+            border-radius: 12px 12px 0 0;
+            transition: all 0.3s ease;
+        }
+
+        .tab-btn.active {
+            background: rgba(255, 255, 255, 0.15);
+            color: #bf953f;
+            border-top: 2px solid #bf953f;
+            z-index: 2;
+        }
+
+        /* Content container */
+        .container-glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            padding: 30px 40px;
+            border-radius: 0 20px 20px 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+            margin-top: -1px;
+            min-height: 650px;
+        }
+
+        .tab-content {
+            display: none;
+            animation: fadeIn 0.4s ease;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 5px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            background: linear-gradient(to bottom, #fcf6ba, #bf953f, #8a6e2f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .subtitle {
+            font-style: italic;
+            font-size: 1rem;
+            margin-bottom: 25px;
+            color: #cccccc;
+            text-align: center;
+            line-height: 1.4;
+        }
+
+        .prize-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background: rgba(0, 0, 0, 0.4);
+            padding: 12px 25px;
+            border-radius: 12px;
+            border-left: 4px solid #bf953f; 
+            margin-bottom: 8px;
+            transition: transform 0.2s ease;
+        }
+
+        .prize-row:hover {
+            transform: scale(1.01);
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .rank { font-weight: 500; font-size: 1.1rem; color: #e0e0e0; }
+        .amount { font-weight: 800; font-size: 1.5rem; color: #ffffff; }
+
+        .total-pot {
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid rgba(255, 255, 255, 0.2);
+            text-align: center;
+            font-size: 1rem;
+            text-transform: uppercase;
+        }
+
+        .total-pot span {
+            display: block;
+            font-size: 3rem;
+            margin-top: 5px;
+            background: linear-gradient(to bottom, #fcf6ba, #bf953f, #8a6e2f);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 900;
+        }
+
+        .details-section {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 20px;
+            border-radius: 15px;
+            margin-bottom: 20px;
+            border: 1px solid rgba(191, 149, 63, 0.3);
+            text-align: left;
+        }
+
+        .details-section h2 {
+            color: #bf953f;
+            font-size: 1.4rem;
+            text-transform: uppercase;
+            margin-top: 0;
+            border-bottom: 1px solid rgba(191, 149, 63, 0.4);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+<!--        .details-text { line-height: 1.7; font-size: 1.05rem; color: #e0e0e0; } -->
+
+        /* MOBILE OVERRIDES (From standings-a) */
+        @media (max-width: 991px) {
+            #navbarNav .navbar-nav { align-items: flex-start; }
+            .nav-link.d-lg-none {
+                background-color: #570000 !important;
+                color: #ffffff !important;
+                border-radius: 25px;
+                margin-top: 10px;
+            }
+        }
+
+        @media (max-width: 600px) {
+            h1 { font-size: 2rem; }
+            .container-glass { padding: 20px; }
+            .amount { font-size: 1.2rem; }
+            .tab-btn { padding: 10px 15px; font-size: 0.8rem; }
+        }
+    </style>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar-placeholder').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="content-wrapper">
+    <div class="page-wrapper">
+        <div class="tab-bar">
+            <button class="tab-btn active" onclick="switchTab(event, 'payouts')">Prize Payouts</button>
+            <button class="tab-btn" onclick="switchTab(event, 'details')">Prize Details</button>
+        </div>
+
+        <div class="container-glass">
+            <div id="payouts" class="tab-content active">
+                <h1>Prize Payouts</h1>
+                <div class="subtitle">
+                    *Estimated based on 200 participants ($30 per entry).<br>
+                    Will be finalized once all entries and payments are in.
+                </div>
+
+                <div class="prize-list">
+                    <div class="prize-row"><span class="rank">1st Place</span><span class="amount">$2,700</span></div>
+                    <div class="prize-row"><span class="rank">2nd Place</span><span class="amount">$1,300</span></div>
+                    <div class="prize-row"><span class="rank">3rd Place</span><span class="amount">$600</span></div>
+                    <div class="prize-row"><span class="rank">4th Place</span><span class="amount">$400</span></div>
+                    <div class="prize-row"><span class="rank">5th Place</span><span class="amount">$200</span></div>
+                    <div class="prize-row"><span class="rank">Half-Way Leader</span><span class="amount">$310</span></div>
+                    <div class="prize-row"><span class="rank">Bonus Questions Side Game</span><span class="amount">$100</span></div>
+                    <div class="prize-row"><span class="rank">Random Refund</span><span class="amount">$30</span></div>
+                    <div class="prize-row"><span class="rank">Individual Groups (Sole Leader)</span><span class="amount">$30<span style="font-size: 0.8rem;"> x12</span></span></div>
+                </div>
+
+                <div class="total-pot">
+                    TOTAL ESTIMATED POT
+                    <span>$6,000</span>
+                </div>
+            </div>
+
+            <div id="details" class="tab-content">
+                <h1>Prize Details</h1>
+                <div class="subtitle">Official descriptions and tie-breaker criteria.</div>
+
+                <div class="details-section">
+                    <h2>Top 5 (Main Standings)</h2>
+                    <div class="details-text">
+                        <strong>Description:</strong> Top 5 spots based on your combined Group and Knockout Stage points.<br>
+                        <strong>Tie-breaker:</strong> Most points in the Finals, then Semis, then entire Knockout Stage, then Group Stage.
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <h2>"Half-Way" Prize</h2>
+                    <div class="details-text">
+                        <strong>Description:</strong> Awarded to the 1st place immediately following the conclusion of the Group Stage matches.<br>
+                        <strong>Tie-breaker:</strong> 1) Most groups with perfect 1st–4th order, 2) Most correct outcomes, 3) Most exact scores. If still tied, the prize is split evenly.
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <h2>"Bonus Questions" Side-Game</h2>
+                    <div class="details-text">
+                        <strong>Description:</strong> Most points from the 20 bonus questions side game. Note: These points do not count toward the main pool.<br>
+                        <strong>Tie-breaker:</strong> 1) Total number of correct answers, 2) Higher ranking in the main pool.
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <h2>"Refund" Prize</h2>
+                    <div class="details-text">
+                        <strong>Description:</strong> A random entry fee refund -- based on the Finals match.<br>
+                        <strong>Criteria:</strong> If the minute of the first goal or first card (whichever happens first) matches your ranking heading into the Final.<br>
+                        <strong>Example:</strong> The first card/goal is in the 14th minute and you were ranked 14th just before the Finals match, you win.
+                    </div>
+                </div>
+
+                <div class="details-section">
+                    <h2>"Individual Group" Prizes (12)</h2>
+                    <div class="details-text">
+                        <strong>Description:</strong> Independently awarded to the sole leader in points for each of the 12 groups (A–L).<br>
+                        <strong>Tie-breaker:</strong> Most points obtained in the Ranking portion of that respective group.<br>
+                        <strong>Sole Leader Rule:</strong> If two or more people are tied for the lead in a group, no prize is awarded for that group.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function switchTab(evt, tabName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tab-content");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].classList.remove("active");
+        }
+        tablinks = document.getElementsByClassName("tab-btn");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].classList.remove("active");
+        }
+        document.getElementById(tabName).classList.add("active");
+        evt.currentTarget.classList.add("active");
+    }
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top "Bonus Game" Answers</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* Base styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Verdana, Geneva, sans-serif; 
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+                        url('/images/ball-stats.png') no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            min-height: 100vh;
+			scrollbar-gutter: stable;
+        }
+
+        /* CONTENT LAYOUT */
+        .content-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 10px;
+        }
+
+        .container-glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+            width: 100%;
+            max-width: 1350px;
+            margin: 0 auto;
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 30px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #C8E6C9;
+            font-weight: bold;
+        }
+
+        /* Table Styling */
+        .custom-table {
+            width: 100%; 
+            margin: 0 auto 25px auto; 
+            border-collapse: separate;
+            border-spacing: 0 4px;
+            color: #ffffff;
+            table-layout: fixed; 
+        }
+
+        .span-header {
+            background: rgba(245, 245, 220, 0.15) !important; 
+            color: #F5F5DC !important;
+            padding: 12px !important;
+            text-align: center;
+            border: 1px solid rgba(245, 245, 220, 0.3) !important;
+            border-radius: 10px;
+            font-size: 0.9rem;
+        }
+
+        .custom-table td {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 8px 6px; 
+            font-size: 0.85rem;
+            vertical-align: middle;
+            line-height: 1.3;
+            white-space: nowrap;
+        }
+
+        /* Dual Column Layout Structural Identifiers */
+        .col-left { border-radius: 8px 0 0 8px; border-left: 4px solid #F5F5DC; text-align: left; width: calc(100% - 28px); }
+        .col-right { border-radius: 0 8px 8px 0; text-align: right; width: 28px; padding-left: 2px !important; padding-right: 4px !important; }
+
+        /* Arrow navigation — hidden on desktop */
+        .table-nav { display: none; }
+
+        @media (max-width: 991px) {
+            h1 { font-size: 1.5rem; margin-bottom: 15px; }
+            .content-wrapper { padding: 20px 5px; }
+            .container-glass { padding: 15px; max-width: 95%; }
+            
+            /* Toggle the entire column wrapper on mobile to prevent layout height stacking */
+            .table-col {
+                display: none;
+            }
+            .table-col.active {
+                display: block !important;
+            }
+
+            .custom-table {
+                table-layout: auto;
+                width: 90% !important;
+                margin-top: 0 !important;
+                margin-bottom: 15px !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
+            }
+            
+            .col-right { width: 65px; }
+
+            .span-header { 
+                white-space: normal;
+                font-size: 0.85rem;
+                padding: 10px !important;
+            }
+
+            .table-nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                background: rgba(0, 0, 0, 0.3);
+                padding: 10px;
+                border-radius: 12px;
+                border: 1px solid rgba(255, 255, 255, 0.1);
+                width: 90%;
+                margin: 0 auto 20px auto !important;
+            }
+
+            .table-nav-btn {
+                background: rgba(255,255,255,0.15);
+                border: 1px solid rgba(255,255,255,0.3);
+                color: #ffffff;
+                padding: 6px 14px;
+                border-radius: 20px;
+                cursor: pointer;
+                font-size: 0.8rem;
+                font-weight: bold;
+                transition: background 0.2s;
+            }
+            .table-nav-btn:hover {
+                background: rgba(255,255,255,0.25);
+            }
+
+            .table-nav-label {
+                font-size: 0.85rem;
+                color: #F5F5DC;
+                font-weight: bold;
+                text-align: center;
+                padding: 0 5px;
+            }
+        }
+    </style>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar-placeholder').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="content-wrapper">
+    <div class="container-glass">
+        <h1>TOP "BONUS GAME" ANSWERS</h1>
+
+        <div class="table-nav">
+            <button class="table-nav-btn" onclick="prevTable()">&#8592; Prev</button>
+            <span class="table-nav-label" id="table-nav-label">Loading...</span>
+            <button class="table-nav-btn" onclick="nextTable()">Next &#8594;</button>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-xl-5 g-5 justify-content-center">
+            <div id="col1" class="col table-col active"><table id="table1" class="custom-table"><thead><tr><th colspan="2" id="title1" class="span-header">&nbsp;</th></tr></thead><tbody id="body1"></tbody></table></div>
+            <div id="col2" class="col table-col"><table id="table2" class="custom-table"><thead><tr><th colspan="2" id="title2" class="span-header">&nbsp;</th></tr></thead><tbody id="body2"></tbody></table></div>
+            <div id="col3" class="col table-col"><table id="table3" class="custom-table"><thead><tr><th colspan="2" id="title3" class="span-header">&nbsp;</th></tr></thead><tbody id="body3"></tbody></table></div>
+            <div id="col4" class="col table-col"><table id="table4" class="custom-table"><thead><tr><th colspan="2" id="title4" class="span-header">&nbsp;</th></tr></thead><tbody id="body4"></tbody></table></div>
+            <div id="col5" class="col table-col"><table id="table5" class="custom-table"><thead><tr><th colspan="2" id="title5" class="span-header">&nbsp;</th></tr></thead><tbody id="body5"></tbody></table></div>
+            <div id="col6" class="col table-col"><table id="table6" class="custom-table"><thead><tr><th colspan="2" id="title6" class="span-header">&nbsp;</th></tr></thead><tbody id="body6"></tbody></table></div>
+            <div id="col7" class="col table-col"><table id="table7" class="custom-table"><thead><tr><th colspan="2" id="title7" class="span-header">&nbsp;</th></tr></thead><tbody id="body7"></tbody></table></div>
+            <div id="col8" class="col table-col"><table id="table8" class="custom-table"><thead><tr><th colspan="2" id="title8" class="span-header">&nbsp;</th></tr></thead><tbody id="body8"></tbody></table></div>
+            <div id="col9" class="col table-col"><table id="table9" class="custom-table"><thead><tr><th colspan="2" id="title9" class="span-header">&nbsp;</th></tr></thead><tbody id="body9"></tbody></table></div>
+            <div id="col10" class="col table-col"><table id="table10" class="custom-table"><thead><tr><th colspan="2" id="title10" class="span-header">&nbsp;</th></tr></thead><tbody id="body10"></tbody></table></div>
+            <div id="col11" class="col table-col"><table id="table11" class="custom-table"><thead><tr><th colspan="2" id="title11" class="span-header">&nbsp;</th></tr></thead><tbody id="body11"></tbody></table></div>
+            <div id="col12" class="col table-col"><table id="table12" class="custom-table"><thead><tr><th colspan="2" id="title12" class="span-header">&nbsp;</th></tr></thead><tbody id="body12"></tbody></table></div>
+            <div id="col13" class="col table-col"><table id="table13" class="custom-table"><thead><tr><th colspan="2" id="title13" class="span-header">&nbsp;</th></tr></thead><tbody id="body13"></tbody></table></div>
+            <div id="col14" class="col table-col"><table id="table14" class="custom-table"><thead><tr><th colspan="2" id="title14" class="span-header">&nbsp;</th></tr></thead><tbody id="body14"></tbody></table></div>
+            <div id="col15" class="col table-col"><table id="table15" class="custom-table"><thead><tr><th colspan="2" id="title15" class="span-header">&nbsp;</th></tr></thead><tbody id="body15"></tbody></table></div>
+            <div id="col16" class="col table-col"><table id="table16" class="custom-table"><thead><tr><th colspan="2" id="title16" class="span-header">&nbsp;</th></tr></thead><tbody id="body16"></tbody></table></div>
+            <div id="col17" class="col table-col"><table id="table17" class="custom-table"><thead><tr><th colspan="2" id="title17" class="span-header">&nbsp;</th></tr></thead><tbody id="body17"></tbody></table></div>
+            <div id="col18" class="col table-col"><table id="table18" class="custom-table"><thead><tr><th colspan="2" id="title18" class="span-header">&nbsp;</th></tr></thead><tbody id="body18"></tbody></table></div>
+            <div id="col19" class="col table-col"><table id="table19" class="custom-table"><thead><tr><th colspan="2" id="title19" class="span-header">&nbsp;</th></tr></thead><tbody id="body19"></tbody></table></div>
+            <div id="col20" class="col table-col"><table id="table20" class="custom-table"><thead><tr><th colspan="2" id="title20" class="span-header">&nbsp;</th></tr></thead><tbody id="body20"></tbody></table></div>
+        </div>
+    </div>
+</div>
+
+<script>
+    let tableLabels = [];
+    let currentTableIndex = 0;
+
+    async function loadStats() {
+        try {
+            const response = await fetch('/json/top-bonus-answers.json');
+            const data = await response.json();
+
+            for (let i = 1; i <= 20; i++) {
+                const tableKey = `table${i}`;
+                const currentTableData = data[tableKey];
+
+                if (currentTableData) {
+                    document.getElementById(`title${i}`).textContent = currentTableData.title;
+                    
+                    // Automatically generate the clean page indicators ("Bonus #1", "Bonus #2", etc.)
+                    tableLabels.push(`Bonus #${i}`);
+
+                    const bodyElement = document.getElementById(`body${i}`);
+                    bodyElement.innerHTML = ''; 
+
+                    currentTableData.rows.forEach(row => {
+                        const cell1 = row.col1 === "" ? "&nbsp;" : row.col1;
+                        const cell2 = row.col2 === "" ? "&nbsp;" : row.col2;
+
+                        bodyElement.innerHTML += `
+                            <tr>
+                                <td class="col-left">${cell1}</td>
+                                <td class="col-right">${cell2}</td>
+                            </tr>`;
+                    });
+                }
+            }
+
+            updateMobileNavigation();
+
+        } catch (error) {
+            console.error("Error executing ingestion pipelines for structural layout:", error);
+        }
+    }
+
+    function showTable(index) {
+        for (let i = 1; i <= 20; i++) {
+            const columnWrapper = document.getElementById(`col${i}`);
+            if (columnWrapper) {
+                columnWrapper.classList.toggle('active', (i - 1) === index);
+            }
+        }
+        const label = document.getElementById('table-nav-label');
+        if (label && tableLabels[index]) {
+            label.textContent = tableLabels[index];
+        }
+    }
+
+    function updateMobileNavigation() {
+        showTable(currentTableIndex);
+    }
+
+    function prevTable() {
+        if (tableLabels.length === 0) return;
+        currentTableIndex = (currentTableIndex - 1 + tableLabels.length) % tableLabels.length;
+        showTable(currentTableIndex);
+    }
+
+    function nextTable() {
+        if (tableLabels.length === 0) return;
+        currentTableIndex = (currentTableIndex + 1) % tableLabels.length;
+        showTable(currentTableIndex);
+    }
+
+    window.onload = loadStats;
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

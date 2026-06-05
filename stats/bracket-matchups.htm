@@ -1,0 +1,398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bracket Matchups</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        body {
+            margin: 0; padding: 0;
+            font-family: Verdana, Geneva, sans-serif; 
+            background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('/images/ball-stats.png') no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            min-height: 100vh;
+			scrollbar-gutter: stable;
+        }
+ 
+        .content-wrapper { display: flex; justify-content: center; align-items: flex-start; padding: 40px 10px; }
+
+        .container-glass {
+            background: rgba(255,255,255,0.1);
+            backdrop-filter: blur(15px);
+            border-radius: 20px;
+            border: 1px solid rgba(255,255,255,0.2);
+            box-shadow: 0 8px 32px 0 rgba(0,0,0,0.8);
+            width: 670px; 
+            min-width: 620px; 
+            max-width: calc(100vw - 40px);
+            margin: 0 auto; overflow: hidden;
+        }
+
+        /* TAB BAR */
+        .tab-bar { display: flex; width: 100%; }
+        .tab-btn {
+            flex: 1;
+            background: rgba(0,0,0,0.3);
+            border: none;
+            border-bottom: 2px solid rgba(255,255,255,0.1);
+            color: rgba(255,255,255,0.6);
+            padding: 14px 10px;
+            font-size: 0.8rem; font-weight: bold;
+            cursor: pointer; text-transform: uppercase;
+            transition: all 0.3s ease; letter-spacing: 0.5px;
+        }
+        .tab-btn:not(:last-child) { border-right: 1px solid rgba(255,255,255,0.1); }
+        .tab-btn.active { background: rgba(255,255,255,0.08); color: #C8E6C9; border-bottom: 2px solid #C8E6C9; }
+        .tab-btn:hover:not(.active) { background: rgba(255,255,255,0.05); color: rgba(255,255,255,0.85); }
+
+        /* TAB CONTENT */
+        .tab-content { display: none; padding: 30px; animation: fadeIn 0.3s ease; }
+        .tab-content.active { display: block; }
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+
+        h1 {
+            font-size: 2.2rem; margin-bottom: 25px; text-align: center;
+            text-transform: uppercase; letter-spacing: 2px; color: #C8E6C9; font-weight: bold;
+        }
+
+        /* DESKTOP TABLE ROWS */
+        .tables-row { display: flex; justify-content: center; gap: 30px; margin-bottom: 30px; }
+        .tables-row:last-child { margin-bottom: 0; }
+
+        /* R16 two-column layout */
+        .tables-cols { display: flex; justify-content: center; gap: 60px; padding: 0 40px; }
+        .tables-col { display: flex; flex-direction: column; gap: 28px; }
+
+        /* Per-table accent colours applied to .col-name border-left */
+        .r16-accent-0 .col-name { border-left-color: #e05c5c; }
+        .r16-accent-1 .col-name { border-left-color: #e09a3c; }
+        .r16-accent-2 .col-name { border-left-color: #d4c84a; }
+        .r16-accent-3 .col-name { border-left-color: #5cb85c; }
+        .r16-accent-4 .col-name { border-left-color: #3db8c8; }
+        .r16-accent-5 .col-name { border-left-color: #5b8de8; }
+        .r16-accent-6 .col-name { border-left-color: #a86be0; }
+        .r16-accent-7 .col-name { border-left-color: #e06baa; }
+
+        /* Semis side by side wrapper */
+        .tables-wrapper { display: flex; justify-content: center; gap: 30px; }
+
+        /* TABLE STYLING */
+        .custom-table { 
+            border-collapse: separate; 
+            border-spacing: 0 4px; 
+            color: #ffffff; 
+            table-layout: fixed; 
+            margin-bottom: 0;
+            width: 250px; 
+        }
+        .custom-table td { background: rgba(0,0,0,0.4); padding: 7px 10px; font-size: 0.85rem; white-space: nowrap; height: 42px;}
+        .col-name { border-radius: 8px 0 0 8px; border-left: 4px solid #F5F5DC; width: 200px; overflow: hidden; text-overflow: ellipsis; }
+        .col-count { border-radius: 0 8px 8px 0; text-align: center; width: 45px; font-weight: bold; }
+
+        /* Arrow navigation hidden on desktop */
+        .table-nav { display: none; }
+
+        /* Mobile pairs */
+        .mob-pair { display: none; }
+        .mob-pair.active { display: flex; flex-direction: column; gap: 20px; align-items: center; }
+
+        @media (max-width: 900px) {
+            .content-wrapper { padding: 20px 10px; }
+            .container-glass { min-width: 100%; width: 100%; max-width: 100%; } 
+            .tab-btn { font-size: 0.62rem; padding: 10px 4px; }
+            .tab-content { padding: 15px; }
+            h1 { font-size: 1.1rem; margin-bottom: 12px; }
+            
+            /* Fluid sizing on mobile lets tables stretch to matching widths uniformly */
+            .custom-table { width: 100%; max-width: 240px; } 
+            .col-name { width: 80%; }
+            .col-count { width: 20%; }
+
+            /* Hide desktop rows */
+            .tables-row { display: none; }
+            .tables-cols { display: none; }
+            .tables-wrapper { display: none; }
+
+            /* Show arrow nav */
+            .table-nav {
+                display: flex; justify-content: space-between;
+                align-items: center; margin-bottom: 15px;
+                width: 100%; max-width: 240px; margin-left: auto; margin-right: auto;
+            }
+            .table-nav-btn {
+                background: rgba(255,255,255,0.15);
+                border: 1px solid rgba(255,255,255,0.3);
+                color: #ffffff; padding: 8px 16px;
+                border-radius: 20px; cursor: pointer; font-size: 0.85rem;
+                transition: opacity 0.2s ease, background-color 0.2s ease;
+            }
+            .table-nav-btn:disabled {
+                opacity: 0.3;
+                cursor: not-allowed;
+                background: rgba(255,255,255,0.05);
+            }
+
+            /* PAGINATION DOTS CONTAINER */
+            .dots-container {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                justify-content: center;
+            }
+
+            /* INDIVIDUAL DOT */
+            .nav-dot {
+                width: 8px;
+                height: 8px;
+                border-radius: 50%;
+                background-color: rgba(255, 255, 255, 0.4);
+                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            }
+
+            /* ENLARGED ACTIVE DOT */
+            .nav-dot.active {
+                background-color: #C8E6C9;
+                transform: scale(1.4);
+                box-shadow: 0 0 8px rgba(200, 230, 201, 0.6);
+            }
+
+            /* Finals single table */
+            .finals-mob { display: flex; justify-content: center; }
+            .finals-mob .custom-table { width: 100%; max-width: 240px; }
+        }
+
+        @media (min-width: 901px) {
+            .mob-pair { display: none !important; }
+            .table-nav { display: none !important; }
+            .finals-mob { display: none !important; }
+        }
+    </style>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar-placeholder').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="content-wrapper">
+    <div class="container-glass">
+
+        <div class="tab-bar">
+            <button class="tab-btn active" onclick="switchTab('r16', this)">Round of 16</button>
+            <button class="tab-btn" onclick="switchTab('quarters', this)">Quarter-Finals</button>
+            <button class="tab-btn" onclick="switchTab('semis', this)">Semi-Finals</button>
+            <button class="tab-btn" onclick="switchTab('finals', this)">Finals</button>
+        </div>
+
+        <div id="tab-r16" class="tab-content active">
+            <h1>POPULAR R-16 MATCHUPS</h1>
+            <div class="table-nav">
+                <button id="r16-prev" class="table-nav-btn" onclick="prevPair('r16')">&#8592; Prev</button>
+                <div id="r16-dots" class="dots-container"></div>
+                <button id="r16-next" class="table-nav-btn" onclick="nextPair('r16')">Next &#8594;</button>
+            </div>
+            <div class="tables-cols" id="r16-desktop">
+                <div class="tables-col" id="r16-col1"></div>
+                <div class="tables-col" id="r16-col2"></div>
+            </div>
+            <div id="r16-mob"></div>
+        </div>
+
+        <div id="tab-quarters" class="tab-content">
+            <h1>POPULAR QUARTER MATCHUPS</h1>
+            <div class="table-nav">
+                <button id="quarters-prev" class="table-nav-btn" onclick="prevPair('quarters')">&#8592; Prev</button>
+                <div id="quarters-dots" class="dots-container"></div>
+                <button id="quarters-next" class="table-nav-btn" onclick="nextPair('quarters')">Next &#8594;</button>
+            </div>
+            <div class="tables-cols" id="quarters-desktop">
+                <div class="tables-col" id="quarters-col1"></div>
+                <div class="tables-col" id="quarters-col2"></div>
+            </div>
+            <div id="quarters-mob"></div>
+        </div>
+
+        <div id="tab-semis" class="tab-content">
+            <h1>POPULAR SEMIS MATCHUPS</h1>
+            <div class="table-nav">
+                <button id="semis-prev" class="table-nav-btn" onclick="prevPair('semis')">&#8592; Prev</button>
+                <div id="semis-dots" class="dots-container"></div>
+                <button id="semis-next" class="table-nav-btn" onclick="nextPair('semis')">Next &#8594;</button>
+            </div>
+            <div class="tables-cols" id="semis-desktop">
+                <div class="tables-col" id="semis-col1"></div>
+                <div class="tables-col" id="semis-col2"></div>
+            </div>
+            <div id="semis-mob"></div>
+        </div>
+
+        <div id="tab-finals" class="tab-content">
+            <h1>POPULAR FINAL MATCHUPS</h1>
+            <div class="tables-row" id="finals-row"></div>
+            <div class="finals-mob" id="finals-mob"></div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    function switchTab(name, btn) {
+        document.querySelectorAll('.tab-content').forEach(el => el.classList.remove('active'));
+        document.querySelectorAll('.tab-btn').forEach(el => el.classList.remove('active'));
+        document.getElementById('tab-' + name).classList.add('active');
+        btn.classList.add('active');
+    }
+
+    function padRows(rows, count = 4) {
+        const actualCount = Math.max(rows.length, count);
+        const padded = rows.slice(0, actualCount);
+        while (padded.length < actualCount) padded.push({ col1: '\u00a0', col2: '\u00a0' });
+        return padded;
+    }
+
+    function buildTable(rows, accentIndex) {
+        const table = document.createElement('table');
+        table.className = 'custom-table' + (accentIndex !== undefined ? ` r16-accent-${accentIndex % 8}` : '');
+        let html = '<tbody>';
+        rows.forEach(row => {
+            html += `<tr><td class="col-name">${row.col1}</td><td class="col-count">${row.col2}</td></tr>`;
+        });
+        html += '</tbody>';
+        table.innerHTML = html;
+        return table;
+    }
+
+    const state = {
+        r16:      { current: 0, total: 0 },
+        quarters: { current: 0, total: 0 },
+        semis:    { current: 0, total: 0 },
+    };
+
+    function showPair(section) {
+        // Toggle mobile cards visibility
+        document.querySelectorAll(`#${section}-mob .mob-pair`).forEach((el, i) => {
+            el.classList.toggle('active', i === state[section].current);
+        });
+
+        // Toggle dot indicators active class
+        document.querySelectorAll(`#${section}-dots .nav-dot`).forEach((dot, i) => {
+            dot.classList.toggle('active', i === state[section].current);
+        });
+
+        updateNavButtons(section);
+    }
+
+    function updateNavButtons(section) {
+        const prevBtn = document.getElementById(`${section}-prev`);
+        const nextBtn = document.getElementById(`${section}-next`);
+
+        if (prevBtn && nextBtn) {
+            prevBtn.disabled = (state[section].current === 0);
+            nextBtn.disabled = (state[section].current === state[section].total - 1);
+        }
+    }
+
+    function prevPair(section) {
+        if (state[section].current > 0) {
+            state[section].current--;
+            showPair(section);
+        }
+    }
+
+    function nextPair(section) {
+        if (state[section].current < state[section].total - 1) {
+            state[section].current++;
+            showPair(section);
+        }
+    }
+
+    function buildMobPairs(tables, containerId, section, useAccent, maxTablesPerPage = 2) {
+        const container = document.getElementById(containerId);
+        const dotsContainer = document.getElementById(`${section}-dots`);
+        
+        for (let i = 0; i < tables.length; i += maxTablesPerPage) {
+            const pair = tables.slice(i, i + maxTablesPerPage);
+            const div = document.createElement('div');
+            div.className = `mob-pair${i === 0 ? ' active' : ''}`;
+            pair.forEach((rows, j) => div.appendChild(buildTable(rows, useAccent ? i + j : undefined)));
+            container.appendChild(div);
+            state[section].total++;
+
+            // Create a dynamic pagination dot
+            if (dotsContainer) {
+                const dot = document.createElement('div');
+                dot.className = `nav-dot${i === 0 ? ' active' : ''}`;
+                dotsContainer.appendChild(dot);
+            }
+        }
+    }
+
+    async function loadData() {
+        try {
+            const response = await fetch('/json/bracket-matchups.json');
+            const data = await response.json();
+
+            // R16 desktop: 2 columns of 4 tables each, rows padded to 4
+            data.r16.forEach((rows, i) => {
+                const colId = i < 4 ? 'r16-col1' : 'r16-col2';
+                document.getElementById(colId).appendChild(buildTable(padRows(rows), i));
+            });
+            buildMobPairs(data.r16.map(r => padRows(r)), 'r16-mob', 'r16', true, 2);
+
+            // Quarters desktop: 2 columns of 2 tables each (2×2 grid), rows padded to 6
+            data.quarters.forEach((rows, i) => {
+                const colId = i < 2 ? 'quarters-col1' : 'quarters-col2';
+                document.getElementById(colId).appendChild(buildTable(padRows(rows, 6), i));
+            });
+            buildMobPairs(data.quarters.map(r => padRows(r, 6)), 'quarters-mob', 'quarters', true, 2);
+
+            // Semis desktop: 2 columns of 1 table each, rows padded dynamically
+            data.semis.forEach((rows, i) => {
+                const colId = i < 1 ? 'semis-col1' : 'semis-col2';
+                document.getElementById(colId).appendChild(buildTable(padRows(rows, 6), i));
+            });
+            // Changed maxTablesPerPage parameter to 1 so semis show on individual left/right swiping pages
+            buildMobPairs(data.semis.map(r => padRows(r, 6)), 'semis-mob', 'semis', true, 1);
+
+            // Initialize button state states
+            updateNavButtons('r16');
+            updateNavButtons('quarters');
+            updateNavButtons('semis');
+
+            // Finals
+            document.getElementById('finals-row').appendChild(buildTable(data.finals));
+            document.getElementById('finals-mob').appendChild(buildTable(data.finals));
+
+        } catch (error) {
+            console.error("Error loading JSON:", error);
+        }
+    }
+
+    window.onload = loadData;
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

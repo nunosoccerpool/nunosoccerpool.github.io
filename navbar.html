@@ -1,0 +1,161 @@
+<style>
+    /* ── Navbar ── */
+    .navbar {
+        background-color: #3a5a40;
+        margin-bottom: 0;
+        border-bottom: 4px solid #FFD700;
+        padding: 10px 8px !important;
+        position: sticky;
+        top: 0;
+        z-index: 1000;
+    }
+    .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
+
+    /* Hide mobile-only items on desktop */
+    .mobile-only-nav { display: none !important; }
+
+    @media (max-width: 991px) {
+        .mobile-only-nav { display: block !important; }
+    }
+    @media (min-width: 992px) {
+        .navbar-collapse {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+    }
+    @media (max-width: 991px) {
+		.navbar-toggler {
+		padding: 1px 4px;
+		font-size: 1.2rem;
+		}
+        .navbar-collapse {
+            position: relative;
+            left: auto;
+            transform: none;
+            background-color: #3a5a40;
+            padding: 10px 0;
+			.navbar { padding: 8px 10px !important; }
+        }
+        .navbar-collapse .nav-link {
+            padding: 10px 20px !important;
+            border-radius: 0;
+            margin: 2px 10px;
+        }
+        .navbar-collapse .dropdown-menu {
+            position: static;
+            background-color: rgba(0,0,0,0.2);
+            border: none;
+            box-shadow: none;
+            padding-left: 15px;
+        }
+    }
+    .nav-link {
+        color: rgba(255,255,255,0.85) !important;
+        margin: 0 5px;
+        padding: 8px 18px !important;
+        font-size: 0.85rem;
+        text-transform: uppercase;
+        border-radius: 25px;
+        transition: all 0.3s ease;
+        border: 1px solid transparent;
+    }
+    .nav-link.active {
+        color: #ffffff !important;
+        background-color: #5a8562 !important;
+        font-weight: bold;
+        text-decoration: none !important;
+        box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+    }
+    .nav-link:hover:not(.active) {
+        color: #ffffff !important;
+        background-color: rgba(255,255,255,0.1);
+    }
+    .dropdown-menu {
+        background-color: #3a5a40;
+        border: 1px solid #FFD700;
+        border-radius: 10px;
+        box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+        margin-top: 5px;
+    }
+    .dropdown-item {
+        color: rgba(255,255,255,0.85) !important;
+        font-size: 0.8rem;
+        text-transform: uppercase;
+        padding: 8px 20px;
+        transition: background 0.2s;
+    }
+    .dropdown-item.active, .dropdown-item:hover {
+        background-color: #5a8562 !important;
+        color: #ffffff !important;
+    }
+</style>
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/index.html">2026 WORLD CUP POOL</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <div class="navbar-nav">
+                <a class="nav-link" href="/index.html">Standings</a>
+                <a class="nav-link mobile-only-nav" href="/possible_points/possible_points.htm">Possible Points Left</a>								
+                <div class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" id="statsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Stats
+                    </a>
+                    <ul class="dropdown-menu" aria-labelledby="statsDropdown">
+                        <li><a class="dropdown-item" href="/stats/group-matches-accuracy.htm">Group Stage Accuracy</a></li>
+                        <li><a class="dropdown-item" href="/stats/individual-groups.htm">Leaders per Group</a></li>
+                        <li><a class="dropdown-item" href="/stats/bracket-accuracy.htm">Knockout Stage Accuracy</a></li>
+                        <li><a class="dropdown-item" href="/stats/bracket-matchups.htm">Top Bracket Matchups</a></li>
+                        <li><a class="dropdown-item" href="/stats/top-bonus-answers.htm">Top "Bonus Game" Answers</a></li>
+                    </ul>
+                </div>
+                <a class="nav-link" href="/tallies/tallies.htm">Tallies</a>				
+                <a class="nav-link mobile-only-nav" href="/bonus_questions/bonus_questions.htm">Bonus Game</a>				
+                <a class="nav-link" href="/prizes/prizes.htm">Prizes</a>
+                <a class="nav-link" href="/points-system/points-system.htm">Points System</a>
+                <a class="nav-link" href="/downloads/WC2026-GROUPS-BONUS.xlsx" download="WC2026-GROUPS-BONUS.xlsx" style="border: 1px solid #FFD700;">Excel File</a>
+            </div>
+        </div>
+    </div>
+</nav>
+
+<script>
+(function() {
+    const currentPage = window.location.pathname.split('/').pop();
+    const statsPages = [
+        'group-matches-accuracy.htm',
+        'individual-groups.htm',
+        'bracket-matchups.htm',
+        'bracket-accuracy.htm',
+        'top-bonus-answers.htm'
+    ];
+
+    // Highlight matching nav-link
+    document.querySelectorAll('.nav-link:not(.dropdown-toggle):not(.dropdown-item)').forEach(function(link) {
+        const linkPage = link.getAttribute('href').split('/').pop();
+        if (linkPage === currentPage) {
+            link.classList.add('active');
+        }
+    });
+
+    // If current page is a stats sub-page, highlight the Stats dropdown toggle
+    if (statsPages.includes(currentPage)) {
+        document.getElementById('statsDropdown').classList.add('active');
+        // Also highlight the matching dropdown item
+        document.querySelectorAll('.dropdown-item').forEach(function(item) {
+            if (item.getAttribute('href').split('/').pop() === currentPage) {
+                item.classList.add('active');
+            }
+        });
+    }
+
+    // Special case: index.html or root path
+    if (currentPage === 'index.html' || currentPage === '') {
+        document.querySelector('.nav-link[href="/index.html"]').classList.add('active');
+    }
+})();
+</script>

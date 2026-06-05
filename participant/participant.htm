@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Participant Overview</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        html { width: 100%; }
+        *, *::before, *::after { box-sizing: border-box; }
+        body {
+            font-family: Verdana, Geneva, sans-serif;
+            margin: 0; padding: 0; width: 100%;
+            background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('/images/grass.png') center center fixed;
+            background-size: cover;
+        }
+
+        h1 { text-align: center; color: #000; white-space: nowrap; margin-top: 4px; margin-bottom: 4px; font-size: 2em; }
+        h2 { text-align: center; color: #86e5f0; margin-top: 30px; margin-bottom: 16px; }
+        h3 { color: #555; margin-top: 0; font-size: 0.95em; text-align: center; font-weight: bold}
+
+        /* TOTAL POINTS BOX */
+        .total-box {
+            display: inline-flex; flex-direction: column; align-items: center; justify-content: center;
+            background-color: #4D93D9; color: #FFDC6D; font-weight: bold;
+            border-radius: 12px; padding: 8px 18px;
+            margin: 8px auto 6px auto;
+            min-width: 60px; min-height: 50px;
+            width: auto; height: auto;
+        }
+        .total-box .total-val { font-size: clamp(1.2em, 4vw, 2em); line-height: 1.1; white-space: nowrap; }
+
+        /* STICKY HEADER */
+        .sticky-header { position: sticky; top: 0; z-index: 999; background-color: #e3e7e8; }
+        .sticky-header .container { max-width: 100%; width: 100%; padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px; }
+        .sticky-divider { border: none; border-top: 2px solid #dee2e6; margin: 0; }
+
+        /* SECTION WRAPPER */
+        .section-wrapper { max-width: 1400px; margin: 0 auto; padding: 0 20px 30px 20px; }
+
+        /* CARD */
+        .card {
+            background: white; border: 1px solid #ccc;
+            padding: 10px 12px; border-radius: 6px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+            height: 100%;
+        }
+
+        /* ── GROUP MATCHES: 4 rows × 3 cards, 33% narrower ── */
+        .group-matches-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 14px;
+            max-width: 67%;
+            margin: 0 auto;
+        }
+        .match-row {
+            display: flex; align-items: center; justify-content: center;
+            padding: 3px 0; font-size: 0.88em;
+            border-bottom: 1px solid #eee;
+        }
+        .match-home { flex: 1; text-align: right; padding-right: 6px; }
+        .match-score { white-space: nowrap; font-weight: bold; color: #305CDE; text-align: center; min-width: 40px; }
+        .match-away { flex: 1; text-align: left; padding-left: 6px; }
+
+        /* ── GROUP RANK: 2 rows × 6 cards, 33% narrower ── */
+        .group-rank-grid {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 14px;
+            max-width: 67%;
+            margin: 0 auto;
+        }
+        .rank-col { text-align: center; }
+        .rank-item { padding: 3px 2px; font-size: 0.85em; background: white; color: #305CDE; border-bottom: 1px solid #eee; }
+
+        /* ── KNOCKOUT STAGE: 3-column layout, 70% narrower ── */
+        .knockout-outer {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 14px;
+            align-items: start;
+            max-width: 57%;
+            margin: 0 auto;
+        }
+        .ko-col-left { display: flex; flex-direction: column; }
+        .ko-col-mid  { display: flex; flex-direction: column; }
+        .ko-col-right { display: flex; flex-direction: column; gap: 14px; }
+
+        .bracket-grid { display: grid; grid-template-columns: 1fr; gap: 0; }
+        .game-cell { padding: 3px 4px 3px 8px; font-size: 0.88em; }
+        .team-row { display: flex; align-items: center; }
+        .team-name { flex: 1; text-align: left; padding-right: 6px; }
+        .team-score { width: 22px; text-align: left; font-weight: bold; color: #305CDE; }
+        .game-divider { border: none; border-top: 1px solid #eee; margin: 6px 0; }
+
+        .champion-name {
+            text-align: center; text-transform: uppercase;
+            font-size: 1.3em; font-weight: bold;
+            color: #004cff; padding: 12px 4px;
+            word-break: break-word;
+        }
+
+        /* ── BONUS QUESTIONS ── */
+        .bonus-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 0;
+            max-width: 50%;
+            margin: 0 auto;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            padding: 10px 12px;
+            box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+        }
+        .bonus-question {
+            font-size: 0.9em; font-style: italic; color: #444;
+            padding: 8px 6px 3px 6px;
+            background: #f5f5f5; border-radius: 4px;
+            text-align: center; white-space: normal;
+            margin-top: 28px;
+        }
+        .bonus-answer {
+            font-size: 0.9em; padding: 4px 10px 8px 10px;
+            text-align: center; border-bottom: 1px solid #e0e0e0;
+            font-weight: bold; color: #305CDE;
+        }
+        .bonus-answer:last-child { border-bottom: none; }
+
+        /* MOBILE */
+        @media (max-width: 700px) {
+            .sticky-header .container { padding-top: 2px; padding-bottom: 2px; }
+            h1 { font-size: 1.2em; margin-top: 2px; margin-bottom: 2px; }
+            h2 { font-size: 1.8em; margin-top: 24px; margin-bottom: 8px; }
+            h3 { font-size: 0.8em; }
+            .total-box { margin: 0 auto; }
+            .total-box .total-val { font-size: 1.6em; }
+            .section-wrapper { padding: 0 6px 20px 6px; }
+
+            /* Matches: 1 col on mobile */
+            .group-matches-grid { grid-template-columns: 1fr; }
+
+            /* Rank: 2 cols on mobile */
+            .group-rank-grid { grid-template-columns: repeat(2, 1fr); }
+
+            /* Knockout: stack on mobile */
+            .knockout-outer { grid-template-columns: 1fr; }
+
+            .match-row { font-size: 0.78em; }
+            .game-cell { font-size: 0.78em; }
+
+            /* Bonus Questions: wider on mobile */
+            .bonus-grid { max-width: 75%; }
+        }
+    </style>
+    <script>
+      function fitTitle() {
+        const h1 = document.getElementById('participantTitle');
+        if (window.innerWidth > 700) return;
+        let size = 28;
+        h1.style.fontSize = size + 'px';
+        while (h1.scrollWidth > h1.offsetWidth && size > 10) {
+          size--;
+          h1.style.fontSize = size + 'px';
+        }
+      }
+      window.addEventListener('load', fitTitle);
+      window.addEventListener('resize', fitTitle);
+    </script>
+    <script>
+        fetch('../navbar.html')
+            .then(r => r.text())
+            .then(html => { document.getElementById('navbar').innerHTML = html; });
+    </script>
+</head>
+<body>
+
+<div class="sticky-header">
+    <div id="navbar"></div>
+    <div class="container">
+        <h1 id="participantTitle">Loading...</h1>
+        
+    </div>
+    <hr class="sticky-divider">
+</div>
+
+<div class="section-wrapper">
+    <div id="content"></div>
+</div>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const rawName = params.get('name') || "Participant";
+
+    const groups = ['GroupA','GroupB','GroupC','GroupD','GroupE','GroupF',
+                    'GroupG','GroupH','GroupI','GroupJ','GroupK','GroupL'];
+    const formatGroup = g => g.replace('Group', 'Group ');
+
+    function renderTeamRow(name, score) {
+        if (!name) return `<div class="team-row"><span class="team-name" style="color:#ccc">TBD</span><span class="team-score"></span></div>`;
+        return `<div class="team-row"><span class="team-name">${name}</span><span class="team-score">${score ?? ''}</span></div>`;
+    }
+
+    // Fetch all JSONs in parallel
+    Promise.all([
+        fetch('/json/group_pts.json').then(r => r.json()),
+        fetch('/json/knockout_pts.json').then(r => r.json()),
+        fetch('/json/bonus_pts.json').then(r => r.json())
+    ]).then(([possData, koData, bonusData]) => {
+
+        // Resolve name
+        const lookupName = possData[rawName] ? rawName : Object.keys(possData)[0];
+        const pData = possData[lookupName] || {};
+        const kData = koData[lookupName]   || {};
+        const bData = bonusData[lookupName] || {};
+
+        document.getElementById('participantTitle').innerText = `${lookupName}'s Predictions`;
+
+        // Total points
+        const total = (pData.total_points ?? 0) + (kData.total_points ?? 0);
+
+
+        let html = '';
+
+        // ── 1. GROUP MATCHES ──────────────────────────────
+        html += '<h2>Group Matches</h2>';
+        html += '<div class="group-matches-grid">';
+        groups.forEach(group => {
+            const matches = (pData.matches && pData.matches[group]) || [];
+            html += `<div class="card"><h3>${formatGroup(group)}</h3>`;
+            matches.forEach(m => {
+                const hs = m.home_score != null ? m.home_score : '';
+                const as = m.away_score != null ? m.away_score : '';
+                html += `<div class="match-row">
+                    <span class="match-home">${m.home_name || '—'}</span>
+                    <span class="match-score">${hs} - ${as}</span>
+                    <span class="match-away">${m.away_name || '—'}</span>
+                </div>`;
+            });
+            html += `</div>`;
+        });
+        html += '</div>';
+
+        // ── 2. GROUP RANK ─────────────────────────────────
+        html += '<h2>Group Rank</h2>';
+        html += '<div class="group-rank-grid">';
+        groups.forEach(group => {
+            const ranking = (pData.rankings && pData.rankings[group]) || { player_ranking: [] };
+            html += `<div class="card"><h3>${formatGroup(group)}</h3><div class="rank-col">`;
+            const rows = ranking.player_ranking.slice(0, 4);
+            while (rows.length < 4) rows.push(null);
+            rows.forEach(r => {
+                html += r && r.rank_name
+                    ? `<div class="rank-item">${r.rank_name}</div>`
+                    : `<div class="rank-item" style="color:#ccc">—</div>`;
+            });
+            html += `</div></div>`;
+        });
+        html += '</div>';
+
+        // ── 3. KNOCKOUT STAGE ─────────────────────────────
+        html += '<h2>Knockout Stage</h2>';
+        html += '<div class="knockout-outer">';
+
+        // Helper: build a round card (no pts column)
+        function buildRoundCard(title, games) {
+            let c = `<div class="card"><h3>${title}</h3><div class="bracket-grid">`;
+            games.forEach((g, i) => {
+                c += `<div class="game-cell">${renderTeamRow(g.pred_home_name, g.pred_home_score)}</div>`;
+                c += `<div class="game-cell">${renderTeamRow(g.pred_away_name, g.pred_away_score)}</div>`;
+                if (i < games.length - 1) c += `<hr class="game-divider">`;
+            });
+            c += `</div></div>`;
+            return c;
+        }
+
+        const r32  = kData.round_of_32   || [];
+        const r16  = kData.round_of_16   || [];
+        const qf   = kData.quarterfinals || [];
+        const sf   = kData.semifinals    || [];
+        const fin  = kData.finals        || [];
+        const champ = (kData.champions   || [{}])[0] || {};
+
+        // Left col: Round-of-32
+        html += `<div class="ko-col-left">${buildRoundCard('Round-of-32', r32)}</div>`;
+
+        // Mid col: Round-of-16
+        html += `<div class="ko-col-mid">${buildRoundCard('Round-of-16', r16)}</div>`;
+
+        // Right col: QF, SF, Finals, Champion stacked
+        html += `<div class="ko-col-right">`;
+        html += buildRoundCard('Quarter-finals', qf);
+        html += buildRoundCard('Semi-finals', sf);
+        html += buildRoundCard('Finals', fin);
+        // Champion card
+        html += `<div class="card"><h3>Champion</h3>
+            <div class="champion-name">${champ.pred_home_name || '—'}</div>
+        </div>`;
+        html += `</div>`;
+
+        html += '</div>'; // knockout-outer
+
+        // ── 4. BONUS QUESTIONS ────────────────────────────
+        const QUESTIONS = [
+            { key: 'question1',  label: 'First team to score 5 goals in one match' },
+            { key: 'question2',  label: 'Team of the first player to score 3 goals in one match' },
+            { key: 'question3',  label: 'First team to be awarded a penalty shot' },
+            { key: 'question4',  label: 'First team to score an own-goal' },
+            { key: 'question5',  label: 'Total goals scored via penalty shot (not incl. shootouts)' },
+            { key: 'question6',  label: 'First \u201cstraight\u201d red card went to a player from this team' },
+            { key: 'question7',  label: 'First \u201ctwo yellow\u201d red card went to a player from this team' },
+            { key: 'question8',  label: 'Total number of red cards in the tournament' },
+            { key: 'question9',  label: 'Total number of yellow cards in the tournament' },
+            { key: 'question10', label: 'Most yellow cards in one game shown to this team' },
+            { key: 'question11', label: 'Total number of goals scored in the tournament (not incl. penalty shootout)' },
+            { key: 'question12', label: 'Total number of games that went go to a penalty shootout' },
+            { key: 'question13', label: 'The first goal in the Finals match was scored between these minutes' },
+            { key: 'question14', label: 'Total yellow cards shown in the Finals match' },
+            { key: 'question15', label: 'Total red cards shown in the Finals match' },
+            { key: 'question16', label: 'Did the World Cup Final go to penalty shootout?' },
+            { key: 'question17', label: 'Team with the fastest goal of the tournament' },
+            { key: 'question18', label: 'Group Stage game with the highest combined goals' },
+            { key: 'question19', label: 'First Group Stage game with two penalties awarded' },
+            { key: 'question20', label: 'First Group Stage game with 0 cards shown' },
+        ];
+
+        html += '<h2>Bonus Questions</h2>';
+        html += '<div class="bonus-grid">';
+        QUESTIONS.forEach(q => {
+            const row = bData[q.key] || {};
+            const predicted = row.predicted != null ? row.predicted : '—';
+            html += `<div class="bonus-question">${q.label}</div>`;
+            html += `<div class="bonus-answer">${predicted}</div>`;
+        });
+        html += '</div>';
+
+        document.getElementById('content').innerHTML = html;
+
+    }).catch(err => {
+        document.getElementById('content').innerHTML = `<p style="color:red">Error: ${err.message}</p>`;
+    });
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

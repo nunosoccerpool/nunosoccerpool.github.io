@@ -1,0 +1,451 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Pool Tallies</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <style>
+    /* Base styles matched from group-matches-accuracy.htm */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Verdana, Geneva, sans-serif;
+      background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+                  url('/images/soccer-calculations.png') no-repeat center center fixed;
+      background-size: cover;
+      color: #ffffff;
+      min-height: 100vh;
+	  scrollbar-gutter: stable;
+    }
+
+
+    /* CONTENT LAYOUT & SPACINGS */
+    .content-wrapper {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 40px 10px;
+    }
+    .container-glass {
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(15px);
+      padding: 30px;
+      border-radius: 20px;
+      border: 1px solid rgba(255, 255, 255, 0.2);
+      box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+      width: fit-content;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 2.8rem;
+      margin-bottom: 30px;
+      text-align: center;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: #C8E6C9;
+      font-weight: bold;
+    }
+
+    /* Original Table Layout Architecture */
+    table {
+      border-collapse: separate; 
+      border-spacing: 0;
+      background: transparent;
+      color: #ffffff;
+      font-size: 0.82rem;
+      table-layout: fixed !important;
+      width: 1044px !important;
+    }
+
+    /* Removed strict vertical height clamp from general th rules to allow text wrapping safely */
+    th {
+      padding: 8px 6px;
+      text-align: center;
+      white-space: normal !important; /* Allow natural text line breaks */
+      word-wrap: break-word;
+      vertical-align: middle;
+      border: 1px solid rgba(200,200,200,0.2);
+      overflow: visible !important; /* Prevent text clipping metrics */
+    }
+
+    td {
+      padding: 6px 6px;
+      text-align: center;
+      white-space: pre-line;
+      vertical-align: middle;
+      border: 1px solid rgba(200,200,200,0.2);
+      height: 26px;
+      overflow: hidden;
+    }
+
+    /* COLUMN WIDTH ENFORCEMENT */
+    .col-a {
+      width: 200px !important;
+      min-width: 200px !important;
+      max-width: 200px !important;
+      text-align: right !important; 
+    }
+    .col-narrow {
+      width: 78px !important;
+      min-width: 78px !important;
+      max-width: 78px !important;
+    }
+    .col-h {
+      width: 200px !important;
+      min-width: 200px !important;
+      max-width: 200px !important;
+    }
+    .col-min {
+      width: 48px !important;
+      min-width: 48px !important;
+      max-width: 48px !important;
+    }
+    .col-team {
+      width: 128px !important;
+      min-width: 128px !important;
+      max-width: 128px !important;
+    }
+
+    /* DYNAMIC VARIABLES FOR VERTICAL FREEZE LAYOUT */
+    :root {
+      --header-top: 0px;    
+      --total-top: 46px;    
+      --sublabel-top: 77px; 
+    }
+
+    /* Row #1 (Header Row) */
+    tr.header-row th {
+      position: sticky;
+      top: var(--header-top); 
+      z-index: 100;
+      background: #19201a !important; 
+      font-weight: bold;
+      color: #F5F5DC;
+      letter-spacing: 0.5px;
+      font-size: 0.78rem;
+    }
+
+    /* Row #2 (Total Row) */
+    tr.total-row td {
+      position: sticky;
+      top: var(--total-top); 
+      z-index: 100;
+      background: #f5ebb8 !important;
+      font-weight: bold !important;
+      font-size: 1rem !important;
+      color: #1b3322 !important;
+      border: 1px solid #c2ba92 !important;
+    }
+
+    /* Row #3 (Sublabel Row) */
+    tr.sublabel-row td {
+      position: sticky;
+      top: var(--sublabel-top); 
+      z-index: 100;
+      font-size: 0.75rem;
+      color: #F5F5DC;
+      padding: 2px 6px;
+      background: #19201a !important; 
+    }
+
+    /* Data row styling */
+    tr.data-row td {
+      background: rgba(0,0,0,0.35);
+    }
+
+    /* Empty row dimensions default */
+    tr.data-row.empty-row td {
+      height: 26px;
+    }
+
+    tr.data-row.border-top    td { border-top:    2px solid rgba(200,200,200,0.55) !important; }
+    tr.data-row.border-bottom td { border-bottom: 2px solid rgba(200,200,200,0.55) !important; }
+    tr.data-row.border-both   td { 
+      border-top:    2px solid rgba(200,200,200,0.55) !important; 
+      border-bottom: 2px solid rgba(200,200,200,0.55) !important; 
+    }
+
+    tr.data-row:hover td {
+      background: rgba(255,255,255,0.07) !important;
+    }
+
+    /* MOBILE LAYOUT ADJUSTMENTS */
+    @media (max-width: 991px) {
+      h1 { font-size: 1.3rem; margin-bottom: 15px; }
+      .content-wrapper { padding: 30px 10px; }
+
+      .container-glass {
+        padding: 10px;
+        max-width: 95%;
+        width: 95%;
+        overflow: hidden;        
+      }
+
+      .table-scroll {
+        overflow-x: auto;
+        overflow-y: visible;
+        width: 100%;
+      }
+
+      table {
+        width: max-content !important;
+      }
+
+      /* DUAL-AXIS STICKY TRACKING FOR LEFT COLUMN */
+      th.col-a,
+      td.col-a {
+        position: sticky !important;
+        left: 0 !important;
+        z-index: 50 !important;
+        background: #111318 !important;
+        border-right: 1px solid rgba(200,200,200,0.35) !important;
+      }
+
+      /* On mobile, offsets drop the 58px navbar and evaluate from 0 up */
+      tr.header-row th.col-a {
+        top: var(--header-top) !important;
+        z-index: 150 !important;
+        background: #111318 !important;
+      }
+
+      tr.total-row td.col-a {
+        top: var(--total-top) !important;
+        z-index: 150 !important;
+        background: #c9b96a !important; 
+      }
+
+      tr.sublabel-row td.col-a {
+        top: var(--sublabel-top) !important;
+        z-index: 150 !important;
+        background: #111318 !important;
+      }
+
+      tr.data-row td.col-a,
+      tr.data-row.empty-row td.col-a {
+        background: #111318 !important;
+      }
+    }
+  </style>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar-placeholder').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="content-wrapper">
+  <div class="container-glass">
+    <h1>Pool Tallies</h1>
+    <div class="table-scroll">
+    <table>
+      <colgroup>
+        <col class="col-a">
+        <col class="col-narrow"><col class="col-narrow"><col class="col-narrow">
+        <col class="col-narrow"><col class="col-narrow"><col class="col-narrow">
+        <col class="col-h">
+        <col class="col-min"><col class="col-team">
+      </colgroup>
+      <thead>
+        <tr class="header-row">
+          <th class="col-a"></th>
+          <th class="col-narrow">Goals scored</th>
+          <th class="col-narrow">Yellow Cards</th>
+          <th class="col-narrow">Red Cards<br><span style="font-size:10px">(2 yellow)</span></th>
+          <th class="col-narrow">Red Cards<br><span style="font-size:10px">(straight)</span></th>
+          <th class="col-narrow">Penalty shot goal</th>
+          <th class="col-narrow">Own goals</th>
+          <th class="col-h">Match with most yellow cards shown</th>
+          <th colspan="2" style="width: 176px !important;">Team with fastest goal</th>
+        </tr>
+      </thead>
+      <tbody id="tallies-tbody">
+      </tbody>
+    </table>
+    </div>
+  </div>
+</div>
+
+<script>
+  // Function to calculate exact row heights and set the sticky variables dynamically
+  function calculateStickyOffsets() {
+    const isMobile = window.innerWidth <= 991;
+    // On desktop, headers start sticking at the absolute top of the screen (0). On mobile, layout parameters are evaluated similarly from 0.
+    const baseNavbarOffset = 0;
+
+    const headerRow = document.querySelector('tr.header-row');
+    const totalRow = document.querySelector('tr.total-row');
+
+    if (headerRow && totalRow) {
+      const headerHeight = headerRow.getBoundingClientRect().height;
+      const totalHeight = totalRow.getBoundingClientRect().height;
+
+      const totalRowTop = baseNavbarOffset + headerHeight;
+      const sublabelRowTop = totalRowTop + totalHeight;
+
+      // Inject accurate dimensions straight to CSS variables
+      document.documentElement.style.setProperty('--header-top', `${baseNavbarOffset}px`);
+      document.documentElement.style.setProperty('--total-top', `${totalRowTop}px`);
+      document.documentElement.style.setProperty('--sublabel-top', `${sublabelRowTop}px`);
+    }
+  }
+
+  document.addEventListener("DOMContentLoaded", function() {
+    fetch('/json/tallies.json')
+      .then(response => {
+        if (!response.ok) {
+          throw new Error("HTTP error reading tallies database: " + response.statusText);
+        }
+        return response.json();
+      })
+      .then(data => {
+        const tbody = document.getElementById("tallies-tbody");
+        let htmlStr = "";
+
+        // 1. Build Totals Summary Section and Sub-label Layer
+        const t = data.totals || { goals: 0, yellow_cards: 0, red_two_yellow: 0, red_straight: 0, penalty_goals: 0, own_goals: 0 };
+        
+        htmlStr += `
+          <tr class="total-row">
+            <td class="col-a">TOTAL</td>
+            <td class="col-narrow">${t.goals}</td>
+            <td class="col-narrow">${t.yellow_cards}</td>
+            <td class="col-narrow">${t.red_two_yellow}</td>
+            <td class="col-narrow">${t.red_straight}</td>
+            <td class="col-narrow">${t.penalty_goals}</td>
+            <td class="col-narrow">${t.own_goals}</td>
+            <td class="col-h"></td>
+            <td colspan="2" style="width: 176px !important;"></td>
+          </tr>
+          <tr class="sublabel-row">
+            <td class="col-a"></td>
+            <td class="col-narrow"></td>
+            <td class="col-narrow"></td>
+            <td class="col-narrow"></td>
+            <td class="col-narrow"></td>
+            <td class="col-narrow"></td>
+            <td class="col-narrow"></td>
+            <td class="col-h"></td>
+            <td class="col-min" ;">Min</td>
+            <td class="col-team" ;">Team</td>
+          </tr>
+        `;
+
+        // Helper to clear out empty zeros for clean viewing
+		const fmtNum = (val) => (val === null || val === undefined || val === "" ? "" : val);
+
+        // 2. Build Match Data Rows Dynamically
+        const matches = data.matches || [];
+        matches.forEach((match, idx) => {
+          let borderClass = "";
+          if (idx === 0) borderClass = " border-top";
+
+          htmlStr += `
+            <tr class="data-row${borderClass}">
+              <td class="col-a">${match.name}</td>
+              <td class="col-narrow">${fmtNum(match.goals)}</td>
+              <td class="col-narrow">${fmtNum(match.yellow_cards)}</td>
+              <td class="col-narrow">${fmtNum(match.red_two_yellow)}</td>
+              <td class="col-narrow">${fmtNum(match.red_straight)}</td>
+              <td class="col-narrow">${fmtNum(match.penalty_goals)}</td>
+              <td class="col-narrow">${fmtNum(match.own_goals)}</td>
+              <td class="col-h">${match.most_yc_details || ''}</td>
+              <td class="col-min">${match.fastest_goal_min || ''}</td>
+              <td class="col-team">${match.fastest_goal_team || ''}</td>
+            </tr>
+          `;
+        });
+
+        // 3. Render Exactly 32 Cosmetic Structural Space Rows Below Data
+        const totalEmptyRows = 32; 
+        const groupBorderIndices = {
+          0: " border-top",
+          15: " border-bottom",
+          16: " border-top",
+          23: " border-bottom",
+          24: " border-top",
+          27: " border-bottom",
+          28: " border-top",
+          29: " border-bottom",
+          30: " border-both",
+          31: " border-both"
+        };
+
+        for (let i = 0; i < totalEmptyRows; i++) {
+          let borderClass = groupBorderIndices[i] || "";
+          htmlStr += `
+            <tr class="data-row empty-row${borderClass}">
+              <td class="col-a"></td>
+              <td class="col-narrow"></td>
+              <td class="col-narrow"></td>
+              <td class="col-narrow"></td>
+              <td class="col-narrow"></td>
+              <td class="col-narrow"></td>
+              <td class="col-narrow"></td>
+              <td class="col-h"></td>
+              <td class="col-min"></td>
+              <td class="col-team"></td>
+            </tr>
+          `;
+        }
+
+        tbody.innerHTML = htmlStr;
+
+        // Execute offset calculations once structural content elements exist in DOM
+        calculateStickyOffsets();
+
+        // 4. Force Every Row Below "Jordan vs Argentina" to match its calculated height
+        const targetRow = Array.from(tbody.querySelectorAll("tr")).find(row => {
+          const firstCell = row.querySelector(".col-a");
+          return firstCell && firstCell.textContent.trim() === "Jordan vs Argentina";
+        });
+
+        if (targetRow) {
+          const targetHeight = targetRow.getBoundingClientRect().height;
+          let processRow = false;
+
+          Array.from(tbody.querySelectorAll("tr")).forEach(row => {
+            if (processRow) {
+              Array.from(row.children).forEach(cell => {
+                cell.style.height = `${targetHeight}px`;
+              });
+            }
+            if (row === targetRow) {
+              processRow = true; 
+            }
+          });
+        }
+      })
+      .catch(err => {
+        console.error("Pipeline layout error parsing data streams:", err);
+      });
+  });
+
+  // Re-run setup on layout adjustments to prevent shifting artifacts
+  window.addEventListener('resize', calculateStickyOffsets);
+</script>
+
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

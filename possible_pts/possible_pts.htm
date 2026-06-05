@@ -1,0 +1,410 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Possible Points Remaining</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" defer></script>
+    <style>
+        html { width: 100%; }
+        *, *::before, *::after { box-sizing: border-box; }
+        body { 
+            font-family: Verdana, Geneva, sans-serif; 
+            margin: 0; padding: 0; width: 100%;
+            background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('/images/grass.png') center center fixed;
+            background-size: cover;
+        }
+        .container-matches  { max-width: 480px; margin: auto; padding: 10px; }
+        .container-rank     { max-width: 380px; margin: auto; padding: 10px; }
+        .container-knockout { max-width: 400px; margin: auto; padding: 10px; }
+        .card {
+            background: white; border: 1px solid #ccc; margin-bottom: 13px;
+            padding: 10px 13px; border-radius: 6px; box-shadow: 0 4px 16px rgba(0,0,0,0.35);
+        }
+        h1 { text-align: center; color: #000; white-space: nowrap; font-size: 1.6em; margin-top: 4px; margin-bottom: 4px; font-size: 2em; }
+        h2 { text-align: center; color: #86e5f0; margin-top: 30px; margin-bottom: 20px; }
+        h3 { color: #555; margin-top: 0; font-size: 1.0em; text-align: left; }
+        .text-center-h3 { text-align: left; }
+
+        /* TOTAL POINTS BOX */
+        .total-box {
+            display: inline-flex; flex-direction: column; align-items: center; justify-content: center;
+            background-color: #4D93D9; color: #FFDC6D; font-weight: bold;
+            border-radius: 12px; padding: 8px 18px;
+            margin: 8px auto 6px auto;
+            min-width: 60px; min-height: 50px;
+            width: auto; height: auto;
+        }
+        .total-box .total-val { font-size: clamp(1.2em, 4vw, 2em); line-height: 1.1; white-space: nowrap; }
+
+        /* MATCHES GRID */
+        .match-grid {
+            display: grid; grid-template-columns: 1fr 0.2fr;
+            gap: 6px; padding: 5px 8px; border-bottom: 1px solid #eee; align-items: center;
+        }
+        .header { font-weight: bold; background: #e9ecef; border-radius: 4px; }
+        .match-grid > span:nth-child(2) { text-align: center; }
+
+        /* MATCH ROW: Home [score - score] Away, aligned by dash */
+        .match-row {
+            display: flex; align-items: center; justify-content: center;
+            padding: 3px 0;
+        }
+        .match-home { flex: 1; text-align: right; padding-right: 6px; }
+        .match-score { white-space: nowrap; font-weight: bold; text-align: center; min-width: 52px; }
+        .match-score-pred { color: #004cff; }
+        .match-away { flex: 1; text-align: left; padding-left: 6px; }
+        
+        /* RANKINGS GRID (No Actual Column) */
+        .rank-grid { 
+            display: grid; grid-template-columns: 1fr 0.2fr; 
+            gap: 4px; align-items: center; text-align: center;
+        }
+        .rank-header { font-weight: bold; background: #e9ecef; padding: 4px; border-radius: 4px; }
+        .rank-col { text-align: center; }
+        .rank-item { padding: 4px 2px 4px 16px; font-size: 1em; background: white; color: #004cff; }
+
+        /* BRACKET GRID (No Actual Column) */
+        .bracket-grid {
+            display: grid;
+            grid-template-columns: 1fr 0.2fr;
+            gap: 0;
+            align-items: stretch;
+        }
+        .bracket-header {
+            font-weight: bold; background: #e9ecef;
+            padding: 6px 8px; border-radius: 4px;
+            text-align: center; font-size: 1em;
+        }
+        .game-cell { padding: 4px 2px 4px 8px; font-size: 1em; }
+        .game-cell.predicted { padding-left: 48px; padding-right: 64px; min-height: 28px;}
+        
+        /* Justification logic: Name right, Score left */
+        .team-row { display: flex; align-items: center; }
+        .team-name { flex: 1; text-align: right; padding-right: 8px; }
+        .team-score { width: 25px; text-align: left; font-weight: bold; }
+        
+        /* Set Knockout Prediction scores to blue */
+        .game-cell.predicted .team-score { color: #004cff; }
+        
+        /* Point Status Tags */
+        .pts-0 { background-color: #e0e0e0; color: #888888; font-weight: bold; padding: 2px 16px; border-radius: 3px; display: inline-block; min-width: 24px; }
+        .pts-1 { background-color: #4D93D9; color: #FFDC6D; font-weight: bold; padding: 2px 16px; border-radius: 3px; display: inline-block; min-width: 24px; }
+        .pts-2 { background-color: #4D93D9; color: #FFDC6D; font-weight: bold; padding: 2px 16px; border-radius: 3px; display: inline-block; min-width: 24px; }
+        
+        .pts-span {
+            display: flex; align-items: center; justify-content: center;
+            font-size: 1.6em; font-weight: bold;
+            border-radius: 3px;
+            background-color: #4D93D9; color: #FFDC6D;
+        }
+        .pts-zero  { background-color: #e0e0e0; color: #888888; }
+        .pts-none  { background-color: #e0e0e0; color: #888888; }
+        .pts-pos   { background-color: #4D93D9; color: #FFDC6D; }
+
+        .pts-cell { display: flex; flex-direction: column; height: 100%; justify-content: center; }
+        .pts-val { font-size: 2em; font-weight: bold; }
+        .pts-low { background-color: #4D93D9; color: #FFDC6D; border-radius: 3px; }
+        .pts-mid { background-color: #4D93D9; color: #FFDC6D; border-radius: 3px; }
+        .pts-high { background-color: #4D93D9; color: #FFDC6D; border-radius: 3px; }
+
+        .game-divider { grid-column: 1 / -1; border: none; margin: 10px 0; }
+
+        /* Placeholder rows */
+        .placeholder-row {
+            border: 1px solid #e0e0e0;
+            border-radius: 3px;
+            background: #fafafa;
+            min-height: 28px;
+            margin: 2px 4px;
+        }
+        
+        /* STICKY HEADER & NAVBAR OVERRIDES */
+        .navbar { position: relative !important; }
+        .sticky-header { position: sticky; top: 0; z-index: 999; background-color: #e3e7e8; }
+        .sticky-header .container { max-width: 100%; width: 100%; padding-left: 10px; padding-right: 10px; padding-top: 4px; padding-bottom: 4px; }
+        .sticky-divider { border: none; border-top: 2px solid #dee2e6; margin: 0; }
+
+        .champion-pts { min-height: 96px; font-size: 1.8em; }
+        .champion-row {
+            display: flex; align-items: center; justify-content: center;
+            padding-left: 0 !important; padding-right: 0 !important;
+        }
+        .champion-row .team-row { width: 100%; justify-content: center; align-items: center; }
+        .champion-row .team-name {
+            flex: 0 0 auto; text-align: center; padding-right: 0;
+            text-transform: uppercase; font-size: 1.6em; font-weight: bold;
+            white-space: normal; word-break: break-word; color: #004cff;
+        }
+        .champion-row .team-score { display: none; }
+
+        /* RESPONSIVE DESIGN */
+        @media (max-width: 700px) {
+            .container { max-width: 100%; padding: 10px; }
+
+            .container-matches, .container-rank { width: 100%; max-width: 100%; padding: 4px 6px; box-sizing: border-box; }
+            .container-knockout { width: 100%; max-width: 100%; padding: 4px 48px; box-sizing: border-box; }
+            .match-grid { grid-template-columns: 1fr 0.2fr; font-size: 0.8em; }
+            .bracket-grid { grid-template-columns: 1fr 0.2fr; }
+            .game-cell { font-size: 0.75em; padding: 3px 2px 3px 5px; }
+            .game-cell.predicted { padding-left: 8px; padding-right: 16px; }
+            h1 { font-size: 1.4em; margin-top: 2px; margin-bottom: 2px; }
+            h2 { font-size: 1.8em; margin-top: 16px; }
+            h3 { font-size: 1em; }
+            .total-box { margin: 0; }
+            .total-box .total-val { font-size: 2.2em; }
+        }
+    </style>
+<script>
+  function fitTitle() {
+    const h1 = document.getElementById('participantTitle');
+    if (window.innerWidth > 700) return;
+    let size = 28;
+    h1.style.fontSize = size + 'px';
+    while (h1.scrollWidth > h1.offsetWidth && size > 10) {
+      size--;
+      h1.style.fontSize = size + 'px';
+    }
+  }
+  window.addEventListener('load', fitTitle);
+  window.addEventListener('resize', fitTitle);
+</script>
+    <script>
+        fetch('../navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="sticky-header">
+    <div id="navbar"></div>
+    <div class="container">
+        <h1 id="participantTitle">Loading...</h1>
+        <div style="display:flex; justify-content:center;"><div id="totalBox"></div></div>
+    </div>
+    <hr class="sticky-divider">
+</div>
+
+<div class="container-matches">
+    <div id="content-matches"></div>
+</div>
+<div class="container-rank">
+    <div id="content-rank"></div>
+</div>
+<div class="container-knockout">
+    <div id="content-knockout"></div>
+</div>
+
+<script>
+    // Navbar Import Setup
+    const params = new URLSearchParams(window.location.search);
+    const rawName = params.get('name') || "Participant";
+    const displayName = rawName.split('_possible_pts')[0];
+    document.getElementById('participantTitle').innerText = `${displayName}'s Possible Points Remaining`;
+
+    function renderTeam(name, score) {
+        return `
+            <div class="team-row">
+                <span class="team-name">${name ?? ''}</span>
+                <span class="team-score">${score ?? ''}</span>
+            </div>`;
+    }
+
+    function buildRoundCard(title, games) {
+        let html = `<div class="card">
+            <h3 class="text-center-h3">${title}</h3>
+            <div class="bracket-grid">
+                <div class="bracket-header">Prediction</div>
+                <div class="bracket-header">Possible<br>Points</div>
+                <div style="height:10px"></div><div style="height:10px"></div>`;
+
+        games.forEach((g, i) => {
+            const ptsClass = g.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+            const isEmpty = !g.pred_home_name && !g.pred_away_name;
+
+            if (isEmpty) {
+                html += `
+                <div class="game-cell predicted"><div class="placeholder-row"></div></div>
+                <div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded}</div>
+                <div class="game-cell predicted"><div class="placeholder-row"></div></div>`;
+            } else {
+                html += `
+                <div class="game-cell predicted">${renderTeam(g.pred_home_name, g.pred_home_score)}</div>
+                <div class="pts-span ${ptsClass}" style="grid-row: span 2">${g.pts_awarded}</div>
+                <div class="game-cell predicted">${renderTeam(g.pred_away_name, g.pred_away_score)}</div>`;
+            }
+
+            if (i < games.length - 1) {
+                html += `<hr class="game-divider">`;
+            }
+        });
+
+        html += `</div></div>`;
+        return html;
+    }
+
+    function buildChampionCard(title, game) {
+        const ptsClass = game.pts_awarded === 0 ? 'pts-zero' : 'pts-pos';
+        const isEmpty = !game.pred_home_name;
+        const predCell = isEmpty
+            ? `<div class="game-cell predicted champion-row" style="min-height:64px;"><div class="placeholder-row" style="min-height:58px; margin:3px 8px; width:100%;"></div></div>`
+            : `<div class="game-cell predicted champion-row" style="min-height:64px;"><div class="placeholder-row" style="min-height:58px; margin:3px 8px; display:flex; align-items:center; justify-content:center;">${renderTeam(game.pred_home_name, '')}</div></div>`;
+
+        return `
+            <div class="card">
+                <h3 class="text-center-h3">${title}</h3>
+                <div class="bracket-grid">
+                    <div class="bracket-header">Prediction</div>
+                    <div class="bracket-header">Possible<br>Points</div>
+
+                    <div style="height:10px"></div>
+                    <div style="height:10px"></div>
+
+                    ${predCell}
+
+                    <div class="pts-span ${ptsClass} champion-pts" style="min-height:64px;">
+                        ${game.pts_awarded}
+                    </div>
+                </div>
+            </div>`;
+    }
+
+    // Dynamic extraction processing from possible_pts.json
+    fetch('/json/possible_pts.json')
+        .then(response => response.json())
+        .then(data => {
+            // Try displayName first, then rawName, then first key in JSON
+            const lookupName = data[displayName] ? displayName
+                             : data[rawName]      ? rawName
+                             : Object.keys(data)[0];
+            const pData = data[lookupName] || {};
+
+            // Debug: show which name was resolved (remove once working)
+            console.log('URL name param:', rawName, '| displayName:', displayName, '| resolved to:', lookupName);
+            document.getElementById('participantTitle').innerText = `${lookupName}'s Possible Points Remaining`;
+
+            // Load Total Score Frame
+            document.getElementById('totalBox').innerHTML = `
+                <div class="total-box">
+                    <div class="total-val">${pData.total_points ?? '—'}</div>
+                </div>`;
+            
+            const formatGroup = (g) => g.replace('Group', 'Group ');
+            const groups = ['GroupA','GroupB','GroupC','GroupD','GroupE','GroupF',
+                            'GroupG','GroupH','GroupI','GroupJ','GroupK','GroupL'];
+
+            // 1. GROUP MATCHES COMPONENT
+            let htmlMatches = "<h2>Group Matches</h2>";
+            groups.forEach(group => {
+                const matches = (pData.matches && pData.matches[group]) || [];
+                htmlMatches += `<div class="card"><h3>${formatGroup(group)}</h3>
+                         <div class="match-grid header">
+                            <span style="text-align:center">Prediction</span><span>Possible<br>Points</span>
+                         </div>`;
+                matches.forEach(m => {
+                    let mClass = m.pts_awarded === 0 ? "pts-0" : m.pts_awarded === 1 ? "pts-1" : "pts-2";
+                    htmlMatches += `<div class="match-grid">
+                                <span><div class="match-row">
+                                    <span class="match-home">${m.home_name}</span>
+                                    <span class="match-score match-score-pred">${m.home_score} - ${m.away_score}</span>
+                                    <span class="match-away">${m.away_name}</span>
+                                </div></span>
+                                <span class="${mClass}">${m.pts_awarded}</span>
+                             </div>`;
+                });
+                htmlMatches += `</div>`;
+            });
+            document.getElementById('content-matches').innerHTML = htmlMatches;
+
+            // 2. GROUP RANK COMPONENT
+            let htmlRank = "<h2>Group Rank</h2>";
+            groups.forEach(group => {
+                const ranking = (pData.rankings && pData.rankings[group]) || { player_ranking: [] };
+                const groupPoints = ranking.player_ranking.length > 0
+                    ? ranking.player_ranking[0].pts_awarded : 0;
+                let rankClass = groupPoints === 0 ? "pts-none" : "pts-low";
+                if (groupPoints === 4 || groupPoints === 5) rankClass = "pts-mid";
+                else if (groupPoints === 9) rankClass = "pts-high";
+
+                htmlRank += `<div class="card"><h3>${formatGroup(group)}</h3>
+                         <div class="rank-grid">
+                            <div class="rank-header">Predicted<br>Group Ranking</div>
+                            <div class="rank-header">Possible<br>Points</div>
+                            <div class="rank-col">
+                                ${(() => {
+                                    const rows = ranking.player_ranking.slice(0, 4);
+                                    while (rows.length < 4) rows.push(null);
+                                    return rows.map(r => r && r.rank_name
+                                        ? `<div class="rank-item">${r.rank_name}</div>`
+                                        : `<div class="rank-item placeholder-row"></div>`
+                                    ).join('');
+                                })()}
+                            </div>
+                            <div class="pts-cell ${rankClass}">
+                                <div class="pts-val">${groupPoints ?? ''}</div>
+                            </div>
+                         </div></div>`;
+            });
+            document.getElementById('content-rank').innerHTML = htmlRank;
+
+            // 3. KNOCKOUT STAGE COMPONENT
+            let htmlKnockout = "<h2>Knockout Stage</h2>";
+            const knockoutRounds = [
+                { key: 'round_of_32',   title: 'Round-of-32',    count: 16 },
+                { key: 'round_of_16',   title: 'Round-of-16',    count: 8  },
+                { key: 'quarterfinals', title: 'Quarter-finals', count: 4  },
+                { key: 'semifinals',    title: 'Semi-finals',    count: 2  },
+                { key: 'finals',        title: 'Finals',         count: 1  },
+            ];
+
+            knockoutRounds.forEach(r => {
+                const games = pData[r.key] || [];
+                const padded = [...games];
+                while (padded.length < r.count) padded.push({});
+                htmlKnockout += buildRoundCard(r.title, padded);
+            });
+
+            const champGames = pData['champions'] || [{}];
+            htmlKnockout += buildChampionCard('CHAMPIONS', champGames[0] || {});
+            document.getElementById('content-knockout').innerHTML = htmlKnockout;
+        })
+        .catch(err => {
+            document.getElementById('content-matches').innerHTML = `<p style="color:red">Error loading data: ${err.message}</p>`;
+        });
+</script>
+
+<script>
+// Find overflowing elements
+(function() {
+    const docWidth = document.documentElement.offsetWidth;
+    document.querySelectorAll('*').forEach(el => {
+        if (el.offsetWidth > docWidth) {
+            el.style.outline = '2px solid red';
+            console.log('OVERFLOW:', el.tagName, el.className, el.offsetWidth, 'px');
+        }
+    });
+})();
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

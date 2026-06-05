@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pool - Points System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* ── Base ── */
+        body {
+            font-family: Verdana, Geneva, sans-serif;
+            margin: 0;
+            padding: 0;
+            background:
+                linear-gradient(rgba(0, 15, 5, 0.65), rgba(0, 15, 5, 0.65)),
+                url('/images/grass.png') center center / cover fixed;
+            background-color: #030f05;
+            color: #ffffff;
+            min-height: 100vh;
+			scrollbar-gutter: stable;
+        }
+
+        /* ── Navbar ── */
+        .navbar {
+            background-color: #3a5a40;
+            margin-bottom: 0;
+            border-bottom: 4px solid #FFD700;
+            padding: 8px 20px;
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+        }
+        .navbar-brand { font-weight: bold; letter-spacing: 1px; color: #ffffff !important; }
+        @media (min-width: 992px) {
+            .navbar-collapse {
+                position: absolute;
+                left: 50%;
+                transform: translateX(-50%);
+            }
+        }
+        @media (max-width: 991px) {
+            .navbar-collapse {
+                position: relative;
+                left: auto;
+                transform: none;
+                background-color: #3a5a40;
+                padding: 10px 0;
+            }
+            .navbar-collapse .nav-link {
+                padding: 10px 20px !important;
+                border-radius: 0;
+                margin: 2px 10px;
+            }
+            .dropdown-menu {
+                position: static;
+                background-color: rgba(0,0,0,0.2);
+                border: none;
+                box-shadow: none;
+                padding-left: 15px;
+            }
+        }
+        .nav-link {
+            color: rgba(255,255,255,0.85) !important;
+            margin: 0 5px;
+            padding: 8px 18px !important;
+            font-size: 0.85rem;
+            text-transform: uppercase;
+            border-radius: 25px;
+            transition: all 0.3s ease;
+            border: 1px solid transparent;
+        }
+        .nav-link.active {
+            color: #ffffff !important;
+            background-color: #5a8562 !important;
+            font-weight: bold;
+            text-decoration: none !important;
+            box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+        }
+        .nav-link:hover:not(.active) {
+            color: #ffffff !important;
+            background-color: rgba(255,255,255,0.1);
+        }
+        .dropdown-menu {
+            background-color: #3a5a40;
+            border: 1px solid #FFD700;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+            margin-top: 5px;
+        }
+        .dropdown-item {
+            color: rgba(255,255,255,0.85) !important;
+            font-size: 0.8rem;
+            text-transform: uppercase;
+            padding: 8px 20px;
+            transition: background 0.2s;
+        }
+        .dropdown-item.active, .dropdown-item:hover {
+            background-color: #5a8562 !important;
+            color: #ffffff !important;
+        }
+
+        /* ── Content layout ── */
+        .content-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 40px 10px 60px;
+            gap: 7rem;
+        }
+        .container-glass {
+            background: rgba(255,255,255,0.06);
+            backdrop-filter: blur(20px);
+            padding: 30px;
+            border-radius: 30px;
+            border: 2px solid rgba(255,255,255,0.12);
+            box-shadow: 0 8px 32px 0 rgba(0,0,0,0.4);
+            width: 100%;
+            max-width: 1100px;
+        }
+
+        /* ── Page title ── */
+        .page-header-block {
+            width: 100%;
+            max-width: 1100px;
+            text-align: center;
+            margin-bottom: -4rem;
+        }
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 8px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #C8E6C9;
+            font-weight: bold;
+        }
+        .page-subtitle {
+            text-align: center;
+            color: rgba(200,230,200,0.65);
+            font-size: 0.8rem;
+            letter-spacing: 1px;
+            margin-bottom: 0;
+        }
+
+        /* ── Section titles ── */
+        .section-title {
+            font-size: 1.9rem;
+            margin: 0 0 3rem;
+            padding-bottom: 0.4rem;
+            border-bottom: 3px solid rgba(204,16,16,0);
+            color: #86e5f0;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            font-weight: bold;
+			text-align: center;
+        }
+
+        /* ── Grid ── */
+        .grid-2 {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(420px, 1fr));
+            gap: 1.25rem;
+            margin-bottom: 1.25rem;
+        }
+
+        .grid-2 .card {
+            height: 100%;
+            margin-bottom: 0;
+        }
+        
+        .match-examples-card {
+            margin-top: 2.5rem;
+        }
+        .match-examples-card table {
+            border-left: 4px solid #BE5103;
+        }
+
+        /* ── Cards ── */
+        .card {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 12px;
+            padding: 1.25rem;
+            margin-bottom: 1.25rem;
+            backdrop-filter: blur(16px);
+            color: #ffffff;
+        }
+        .card:last-child { margin-bottom: 0; }
+        
+        .card h3 {
+            margin-bottom: 2rem;
+            padding-bottom: 0.5rem;
+            border-bottom: 3px solid rgba(200, 230, 201, 0.25);
+            color: #C8E6C9;
+            font-size: 1.1rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        /* ── Rules list ── */
+        .rules-list { list-style: none; }
+        .rules-list li {
+            display: flex;
+            align-items: flex-start;
+            gap: 0.85rem;
+            padding: 0.6rem 0;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            color: #ffffff;
+        }
+        .rules-list li:last-child { border-bottom: none; }
+        .rules-list li span strong {
+            color: #FFCE1B;
+        }
+
+        /* ── Badges ── */
+        /* Badge base (non-points) */
+        .badge {
+            font-weight: 700;
+            padding: 0.2rem 0.65rem;
+            border-radius: 20px;
+            white-space: nowrap;
+            font-size: 0.8rem;
+            font-family: Verdana, Geneva, sans-serif;
+        }
+
+        /* Type 1: rules lists, stage boxes, bonus tiers */
+        .badge.points {
+            background: #09e871;
+            color: #000000;
+            border: none;
+        }
+
+        /* Type 2: match examples table, group order examples + scenario tables */
+        .match-examples-card .badge.points,
+        .group-order-container .badge.points,
+        .scenario-section .badge.points {
+            background: rgba(95, 236, 154, 0.15);
+            color: #5fec9a;
+            border: 1px solid rgba(95, 236, 154, 0.4);
+        }
+
+        /* ── Tables ── */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 0.5rem;
+            font-size: 0.8rem;
+        }
+        th, td {
+            padding: 0.6rem 0.85rem;
+            text-align: left;
+            border-bottom: 1px solid rgba(255,255,255,0.08);
+            vertical-align: top;
+        }
+        th {
+            background: rgba(255,255,255,0.07);
+            color: #C8E6C9;
+            font-weight: bold;
+            font-size: 0.75rem;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        tbody tr:hover td { background: rgba(255,255,255,0.04); }
+
+        .scenario-section table th:nth-child(1),
+        .scenario-section table td:nth-child(1) { width: 22%; }
+        .scenario-section table th:nth-child(2),
+        .scenario-section table td:nth-child(2) { width: 18%; }
+        .scenario-section table th:nth-child(3),
+        .scenario-section table td:nth-child(3) { width: 15%; }
+        .scenario-section table th:nth-child(4),
+        .scenario-section table td:nth-child(4) { width: 45%; }
+
+        .why-text {
+            font-size: 0.78rem;
+            color: rgba(200,230,200,0.65);
+            font-style: italic;
+        }
+
+        /* ── Knockout grid ── */
+        .knockout-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+            gap: 1rem;
+            margin-bottom: 1.25rem;
+        }
+        .stage-box {
+            background: rgba(255, 255, 255, 0.06);
+            border: 1px solid rgba(255, 255, 255, 0.12);
+            border-radius: 10px;
+            padding: 1rem;
+            text-align: center;
+            backdrop-filter: blur(12px);
+        }
+        .stage-box .rules-list {
+            list-style: none;
+            margin-top: 0.5rem;
+            padding: 0;
+        }
+        .stage-box .rules-list li {
+            border: none;
+            padding: 0.45rem 0;
+            font-size: 0.75rem;
+            color: #ffffff;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            gap: 0.25rem;
+			margin-bottom: 0.75rem;
+        }
+
+        .stage-box h4 {
+            font-size: 0.82rem;
+            font-weight: bold;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            margin-bottom: 1rem;
+            color: #C8E6C9;
+        }
+        
+        .stage-box .why-text { color: rgba(200,230,200,0.65); margin-top: 0.5rem; display: block; font-size: 0.7rem; }
+
+        /* ── Scenario section ── */
+        .scenario-heading {
+            font-size: 0.85rem;
+            color: #C8E6C9;
+            margin-top: 1.25rem;
+            margin-bottom: 0.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-weight: bold;
+        }
+        .scenario-section { margin-bottom: 2rem; }
+        .scenario-table-wrap { padding-left: 1rem; border-left: 4px solid #BE5103; overflow-x: auto; }
+        .scenario-section:last-child { margin-bottom: 0; }
+        .scenario-section .why-text { color: rgba(200,230,200,0.65); }
+
+        /* ── Group order blocks ── */
+        .group-order-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 1rem;
+            margin-top: 1rem;
+        }
+        .order-block {
+            background: rgba(255,255,255,0.05);
+            border-radius: 8px;
+            padding: 0.85rem;
+            border: none;
+            border-left: 4px solid #BE5103;
+            color: #ffffff;
+        }
+            
+        .order-list {
+            list-style: none;
+            margin-top: 1rem;
+            font-size: 0.82rem;
+            color: #ffffff;
+        }
+
+        /* ── Note box ── */
+        .note-box {
+            background: rgba(255,209,102,0.1);
+            border-left: 4px solid #FFD700;
+            padding: 0.85rem 1rem;
+            border-radius: 0 8px 8px 0;
+            margin: 1.25rem 0;
+            font-size: 0.82rem;
+            color: rgba(255,255,255,0.9);
+        }
+
+        /* ── Bonus grid ── */
+        .bonus-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+            align-items: stretch;
+        }
+        .bonus-grid .card { height: 100%; margin-bottom: 0; text-align: center; }
+
+        .mobile-only { display: none; }
+        .col-toggle { display: none; }
+        .explanation-row { display: none; }
+
+        @media (max-width: 991px) {
+            h1 { font-size: 2.5rem; margin-bottom: 10px; }
+			.page-header-block { margin-bottom: -0.2rem; }
+            .content-wrapper { padding: 20px 8px 40px; gap: 3rem; }
+            .container-glass { padding: 15px; }
+            .grid-2 { grid-template-columns: 1fr; }
+            .knockout-grid { grid-template-columns: 1fr; }
+            .stage-box, .stage-box .rules-list, .stage-box .rules-list li, .stage-box .why-text { text-align: center; }
+            .stage-box .rules-list li { align-items: center; }
+            .stage-box .rules-list { margin-left: 0; }
+            .match-examples-card table td:nth-child(1),
+            .match-examples-card table td:nth-child(2) { text-align: center; }
+            .scenario-section table td:nth-child(3) { text-align: center; }
+            .rules-list li { gap: 0.85rem; }
+            .rules-list { margin-left: -1.3rem; }
+            .scenario-section table { table-layout: fixed; width: 100%; }
+            .scenario-section table th:nth-child(1),
+            .scenario-section table td:nth-child(1) { width: 26%; }
+            .scenario-section table th:nth-child(2),
+            .scenario-section table td:nth-child(2) { width: 28%; }
+            .scenario-section table th:nth-child(3),
+            .scenario-section table td:nth-child(3) { width: 30%; }
+            .scenario-section table th:nth-child(5),
+            .scenario-section table td:nth-child(5) { width: 10%; }
+            .desktop-only { display: none; }
+            .mobile-only { display: block; }
+            .mobile-only span { display: block; }
+			
+			.match-examples-card p { text-align: center; }
+			.card:has(strong:contains("Actual Group Order")) p { text-align: center; }
+			.group-order-container {
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+			}
+			
+            /* Hide explanation column header and cells on mobile */
+            .scenario-section table th.col-explanation,
+            .scenario-section table td.col-explanation { display: none; }
+
+            /* Show toggle column on mobile */
+            .col-toggle { display: table-cell !important; }
+
+            /* Expandable explanation row */
+            .explanation-row { display: none; }
+            .explanation-row.open { display: table-row; }
+            .explanation-row td {
+                background: rgba(255,255,255,0.04);
+                color: rgba(200,230,200,0.75);
+                font-style: italic;
+                font-size: 0.78rem;
+                padding: 0.6rem 0.85rem;
+                border-top: 1px solid rgba(255,255,255,0.06);
+            }
+
+            /* Toggle button */
+            .toggle-btn {
+                background: none;
+                border: none;
+                color: rgba(200,230,200,0.8);
+                font-size: 1rem;
+                cursor: pointer;
+                padding: 0 4px;
+                transition: transform 0.2s;
+                display: inline-block;
+            }
+            .toggle-btn.open { transform: rotate(90deg); }
+        }
+    </style>
+</head>
+<body>
+
+<div id="navbar-placeholder"></div>
+
+<div class="content-wrapper">
+    
+    <div class="page-header-block">
+        <h1>Points System</h1>
+        <p class="page-subtitle">Point Allocation &amp; Scoring System</p>
+    </div>
+
+    <div class="container-glass">
+        <h2 class="section-title">Group Stage</h2>
+
+        <div class="grid-2">
+            <div class="card">
+                <h3>Match Score Predictions</h3>
+                <ul class="rules-list">
+                    <li>
+                        <span class="badge points">1 pt</span>
+                        <span>Correctly predict the <strong>outcome</strong> of a match (Win, Loss, or Draw).</span>
+                    </li>
+                    <li>
+                        <span class="badge points">1 pt</span>
+                        <span>Correctly predict the <strong>exact score</strong> of a match.</span>
+                    </li>
+                </ul>
+            </div>
+
+            <div class="card">
+                <h3>Group Rank Order</h3>
+                <ul class="rules-list">
+                    <li>
+                        <span class="badge points">4 pts</span>
+                        <span>Correctly predict the <strong>1st place team</strong> in a group.</span>
+                    </li>
+                    <li>
+                        <span class="badge points">5 pts</span>
+                        <span>Correctly predict the 1st place team <strong>+ any other rank</strong> (e.g., 1st &amp; 2nd, 1st &amp; 3rd, or 1st &amp; Last).</span>
+                    </li>
+                    <li>
+                        <span class="badge points">9 pts</span>
+                        <span>Correctly predict the <strong>exact order</strong> of the group (1st, 2nd, 3rd, 4th).</span>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="card match-examples-card">
+            <h3>Examples - Group Matches Scoring</h3>
+            <p style="font-size:0.82rem; margin-bottom:1rem; color:#ffffff; font-style: italic;">
+                <strong>Actual Match Score:</strong><br> Canada 4 - 1 Estonia
+            </p>
+            <div style="overflow-x: auto;">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Your Prediction</th>
+                            <th>Points Awarded</th>
+                            <th>Reasoning</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td><span class="desktop-only">Canada 4 - 1 Estonia</span><span class="mobile-only"><span>Canada 4</span><span>Estonia 1</span></span></td>
+                            <td><span class="badge points">2 pts</span></td>
+                            <td class="why-text">1 pt for correct outcome + 1 pt for exact score.</td>
+                        </tr>
+                        <tr>
+                            <td><span class="desktop-only">Canada 0 - 3 Estonia</span><span class="mobile-only"><span>Canada 0</span><span>Estonia 3</span></span></td>
+                            <td><span class="badge points">0 pts</span></td>
+                            <td class="why-text">0 pts for wrong outcome and incorrect score.</td>
+                        </tr>
+                        <tr>
+                            <td><span class="desktop-only">Canada 2 - 1 Estonia</span><span class="mobile-only"><span>Canada 2</span><span>Estonia 1</span></span></td>
+                            <td><span class="badge points">1 pt</span></td>
+                            <td class="why-text">1 pt for correct match outcome; 0 pts for score.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="card">
+            <h3>Examples - Group Order</h3>
+            <p style="font-size:0.82rem; margin-bottom:1rem; color:#ffffff; font-style: italic;">
+<!--                <strong>Actual Group Order:</strong> 1st: Brazil &nbsp;|&nbsp; 2nd: Iran &nbsp;|&nbsp; 3rd: Norway &nbsp;|&nbsp; 4th: Japan -->
+					<strong>Actual Group Order:</strong><br> 1st: Brazil <br> 2nd: Iran <br> 3rd: Norway <br> 4th: Japan 
+            </p>
+            <div class="group-order-container">
+                <div class="order-block correct-1st">
+                    <strong style="color: #ffffff;">You gained <span class="badge points">4 pts</span> if you guessed..</strong>
+                    <ul class="order-list">
+                        <li>1st: Brazil (✓)</li><li>2nd: Norway</li><li>3rd: Japan</li><li>4th: Iran</li>
+                    </ul>
+                    <p class="why-text" style="margin-top:0.5rem;">Predicted 1st place correctly, but no other position.</p>
+                </div>
+                <div class="order-block correct-all">
+                    <strong style="color: #ffffff;">You gained <span class="badge points">9 pts</span> if you guessed..</strong>
+                    <ul class="order-list">
+                        <li>1st: Brazil (✓)</li><li>2nd: Iran (✓)</li><li>3rd: Norway (✓)</li><li>4th: Japan (✓)</li>
+                    </ul>
+                    <p class="why-text" style="margin-top:0.5rem;">Full points for predicting the exact order of the group.</p>
+                </div>
+                <div class="order-block">
+                    <strong style="color: #ffffff;">You gained <span class="badge points">0 pts</span> if you guessed..</strong>
+                    <ul class="order-list">
+                        <li>1st: Iran</li><li>2nd: Brazil</li><li>3rd: Norway (✓)</li><li>4th: Japan (✓)</li>
+                    </ul>
+                    <p class="why-text" style="margin-top:0.5rem;">3rd &amp; 4th are accurate, but 1st place MUST be correct to qualify for points.</p>
+                </div>
+                <div class="order-block correct-partial">
+                    <strong style="color: #ffffff;">You gained <span class="badge points">5 pts</span> if you guessed..</strong>
+                    <ul class="order-list">
+                        <li>1st: Brazil (✓)</li><li>2nd: Japan</li><li>3rd: Norway (✓)</li><li>4th: Iran</li>
+                    </ul>
+                    <p class="why-text" style="margin-top:0.5rem;">Correctly predicted 1st place plus one other specific rank (3rd).</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-glass">
+        <h2 class="section-title">Knockout Stage</h2>
+
+        <div class="knockout-grid">
+            <div class="stage-box">
+                <h4>Round of 32</h4>
+                <ul class="rules-list">
+                    <li><span class="badge points">3 pts</span><span class="desktop-only">Exact Score</span><span class="mobile-only">Correctly predict the exact score of a Round-of-32 match</span></li>
+                </ul>
+                <p class="why-text"><span class="desktop-only">(Before penalty shootout).</span><span class="mobile-only">(Before penalty shootout)</span></p>
+            </div>
+            <div class="stage-box">
+                <h4>Round of 16</h4>
+                <ul class="rules-list">
+                    <li><span class="badge points">10 pts</span><span class="desktop-only">per team</span><span class="mobile-only">For each team correctly predicted to reach this round.</span></li>
+                    <li><span class="badge points">+4 pts</span><span class="desktop-only">correct score</span><span class="mobile-only">Correctly predict exact score of a Round-of-16 match.</span></li>
+                </ul>
+                <p class="why-text"><span class="desktop-only">Score requires both teams correct.</span><span class="mobile-only">(Score requires both teams correct)</span></p>
+            </div>
+            <div class="stage-box">
+                <h4>Quarter-Finals</h4>
+                <ul class="rules-list">
+                    <li><span class="badge points">20 pts</span><span class="desktop-only">per team</span><span class="mobile-only">For each team correctly predicted to reach the Quarters.</span></li>
+                    <li><span class="badge points">+8 pts</span><span class="desktop-only">correct score</span><span class="mobile-only">Correctly predict exact score of a Quarter-finals match.</span></li>
+                </ul>
+                <p class="why-text">Score requires both teams correct.</p>
+            </div>
+            <div class="stage-box">
+                <h4>Semi-Finals</h4>
+                <ul class="rules-list">
+                    <li><span class="badge points">40 pts</span><span class="desktop-only">per team</span><span class="mobile-only">For each team correctly predicted to reach the Semis.</span></li>
+                    <li><span class="badge points">+16 pts</span><span class="desktop-only">correct score</span><span class="mobile-only">Correctly predict exact score of a Semi-finals match.</span></li>
+                </ul>
+                <p class="why-text">Score requires both teams correct.</p>
+            </div>
+            <div class="stage-box">
+                <h4>Finals / Champ</h4>
+                <ul class="rules-list">
+                    <li><span class="badge points">80 pts</span><span class="desktop-only">per team</span><span class="mobile-only">For each team correctly predicted to reach the Finals.</span></li>
+                    <li><span class="badge points">+32 pts</span><span class="desktop-only">correct score</span><span class="mobile-only">Correctly predict exact score of a Finals match.</span></li>
+                    <li><span class="badge points">120 pts</span><span class="desktop-only">Champions</span><span class="mobile-only">Correctly predict the World Cup Champion.</span></li>
+                </ul>
+                <p class="why-text">Score requires both teams correct.</p>
+            </div>
+        </div>
+
+        <div class="note-box">
+            <strong>Consolation Match Note:</strong> Third place consolation match is not in scope for this pool. However, its total goals and cards accumulated still count toward applicable "Bonus Questions".
+        </div>
+
+        <div class="card">
+            <h3>Knockout Case Scenarios</h3>
+
+            <h4 class="scenario-heading">Round of 32 Scenarios</h4>
+            <div class="scenario-section">
+                <div class="scenario-table-wrap">
+                    <table>
+                        <thead><tr><th>Actual Score</th><th>Player Guess</th><th>Points Awarded</th><th class="col-explanation">Explanation Breakdown</th><th class="col-toggle"></th></tr></thead>
+                        <tbody>
+                            <tr><td><span class="desktop-only">Iraq 3 - 1 Togo</span><span class="mobile-only"><span>Iraq 3</span><span>Togo 1</span></span></td><td><span class="desktop-only">Iraq 2 - 1 Togo</span><span class="mobile-only"><span>Iraq 2</span><span>Togo 1</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because the score was not correct, but 10 pts will show under Round-of-16 because Iraq won and made it to Round-of-16 as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-1', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-1"><td colspan="4">0 pts because the score was not correct, but 10 pts will show under Round-of-16 because Iraq won and made it to Round-of-16 as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">Iraq 3 - 1 Togo</span><span class="mobile-only"><span>Iraq 3</span><span>Togo 1</span></span></td><td><span class="desktop-only">Iraq 0 - 4 Togo</span><span class="mobile-only"><span>Iraq 0</span><span>Togo 4</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because Togo did not win to advance to Round-of-16. Iraq won.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-2', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-2"><td colspan="4">0 pts because Togo did not win to advance to Round-of-16. Iraq won.</td></tr>
+                            <tr><td><span class="desktop-only">Iraq 3 - 1 Togo</span><span class="mobile-only"><span>Iraq 3</span><span>Togo 1</span></span></td><td><span class="desktop-only">Iraq 3 - 1 Togo</span><span class="mobile-only"><span>Iraq 3</span><span>Togo 1</span></span></td><td><span class="badge points">3 pts</span></td><td class="col-explanation why-text">3 pts earned for correct, and pending 10 pts that will show under Round-of-16 for Iraq advancing.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-3', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-3"><td colspan="4">3 pts earned for correct, and pending 10 pts that will show under Round-of-16 for Iraq advancing.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <h4 class="scenario-heading">Round of 16 Scenarios</h4>
+            <div class="scenario-section">
+                <div class="scenario-table-wrap">
+                    <table>
+                        <thead><tr><th>Actual Score</th><th>Player Guess</th><th>Points Awarded</th><th class="col-explanation">Explanation Breakdown</th><th class="col-toggle"></th></tr></thead>
+                        <tbody>
+                            <tr><td><span class="desktop-only">India 4 - 2 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 2</span></span></td><td><span class="desktop-only">India 3 - 1 Egypt</span><span class="mobile-only"><span>India 3</span><span>Egypt 1</span></span></td><td><span class="badge points">10 pts</span></td><td class="col-explanation why-text">10 pts for correctly predicting that 1 team (India) would make it this round. Extra 20 pts will show under Quarter-finals because India advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-4', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-4"><td colspan="4">10 pts for correctly predicting that 1 team (India) would make it this round. Extra 20 pts will show under Quarter-finals because India advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">India 4 - 2 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 2</span></span></td><td><span class="desktop-only">Haiti 0 - 2 Portugal</span><span class="mobile-only"><span>Haiti 0</span><span>Portugal 2</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because neither Haiti nor Portugal made it to the Round-of-16.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-5', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-5"><td colspan="4">0 pts because neither Haiti nor Portugal made it to the Round-of-16.</td></tr>
+                            <tr><td><span class="desktop-only">India 4 - 2 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 2</span></span></td><td><span class="desktop-only">India 4 - 3 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 3</span></span></td><td><span class="badge points">20 pts</span></td><td class="col-explanation why-text">20 pts for predicting the 2 teams (India and Mali) would make the Round-of-16 (10pts each). Extra 4 pts could have been awarded but the predicted score was incorrect. Another 20 pts will show under Quarter-finals because India advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-6', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-6"><td colspan="4">20 pts for predicting the 2 teams (India and Mali) would make the Round-of-16 (10pts each). Extra 4 pts could have been awarded but the predicted score was incorrect. Another 20 pts will show under Quarter-finals because India advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">India 4 - 2 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 2</span></span></td><td><span class="desktop-only">India 4 - 2 Mali</span><span class="mobile-only"><span>India 4</span><span>Mali 2</span></span></td><td><span class="badge points">24 pts</span></td><td class="col-explanation why-text">24 pts for predicting these 2 teams would make the Round-of-16 (10pts each), plus extra 4 pts for correctly predicting the score. Extra 20 pts will show under Quarter-finals because India advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-7', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-7"><td colspan="4">24 pts for predicting these 2 teams would make the Round-of-16 (10pts each), plus extra 4 pts for correctly predicting the score. Extra 20 pts will show under Quarter-finals because India advanced as predicted.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <h4 class="scenario-heading">Quarter-Finals Scenarios</h4>
+            <div class="scenario-section">
+                <div class="scenario-table-wrap">
+                    <table>
+                        <thead><tr><th>Actual Score</th><th>Player Guess</th><th>Points Awarded</th><th class="col-explanation">Explanation Breakdown</th><th class="col-toggle"></th></tr></thead>
+                        <tbody>
+                            <tr><td><span class="desktop-only">Japan 0 - 1 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 1</span></span></td><td><span class="desktop-only">Japan 0 - 2 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 2</span></span></td><td><span class="badge points">20 pts</span></td><td class="col-explanation why-text">20 pts for correctly predicting that 1 team (Haiti) would make it this round. Extra 40 pts will show under Semi-finals because Haiti advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-8', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-8"><td colspan="4">20 pts for correctly predicting that 1 team (Haiti) would make it this round. Extra 40 pts will show under Semi-finals because Haiti advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">Japan 0 - 1 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 1</span></span></td><td><span class="desktop-only">Greece 0 - 0 Italy</span><span class="mobile-only"><span>Greece 0</span><span>Italy 0</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because neither Greece nor Italy made it to the Quarter-finals.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-9', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-9"><td colspan="4">0 pts because neither Greece nor Italy made it to the Quarter-finals.</td></tr>
+                            <tr><td><span class="desktop-only">Japan 0 - 1 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 1</span></span></td><td><span class="desktop-only">Japan 2 - 2 Haiti</span><span class="mobile-only"><span>Japan 2</span><span>Haiti 2</span></span></td><td><span class="badge points">40 pts</span></td><td class="col-explanation why-text">40 pts for predicting the 2 teams (Japan and Haiti) would make the Quarter-finals (20pts each). Extra 8 pts could have been awarded but the predicted score was incorrect. Another 40 pts will show under Semi-finals because Haiti advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-10', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-10"><td colspan="4">40 pts for predicting the 2 teams (Japan and Haiti) would make the Quarter-finals (20pts each). Extra 8 pts could have been awarded but the predicted score was incorrect. Another 40 pts will show under Semi-finals because Haiti advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">Japan 0 - 1 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 1</span></span></td><td><span class="desktop-only">Japan 0 - 1 Haiti</span><span class="mobile-only"><span>Japan 0</span><span>Haiti 1</span></span></td><td><span class="badge points">48 pts</span></td><td class="col-explanation why-text">48 pts for predicting these 2 teams would make the Quarter-finals (20pts each), plus extra 8 pts for correctly predicting the score. Extra 40 pts will show under Semi-finals because Haiti advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-11', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-11"><td colspan="4">48 pts for predicting these 2 teams would make the Quarter-finals (20pts each), plus extra 8 pts for correctly predicting the score. Extra 40 pts will show under Semi-finals because Haiti advanced as predicted.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <h4 class="scenario-heading">Semi-Finals Scenarios</h4>
+            <div class="scenario-section">
+                <div class="scenario-table-wrap">
+                    <table>
+                        <thead><tr><th>Actual Score</th><th>Player Guess</th><th>Points Awarded</th><th class="col-explanation">Explanation Breakdown</th><th class="col-toggle"></th></tr></thead>
+                        <tbody>
+                            <tr><td><span class="desktop-only">Chile 4 - 0 China</span><span class="mobile-only"><span>Chile 4</span><span>China 0</span></span></td><td><span class="desktop-only">Chile 1 - 0 China</span><span class="mobile-only"><span>Chile 1</span><span>China 0</span></span></td><td><span class="badge points">40 pts</span></td><td class="col-explanation why-text">40 pts for correctly predicting that 1 team (Chile) would make it this round. Extra 80 pts will show under Finals because Chile advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-12', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-12"><td colspan="4">40 pts for correctly predicting that 1 team (Chile) would make it this round. Extra 80 pts will show under Finals because Chile advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">Chile 4 - 0 China</span><span class="mobile-only"><span>Chile 4</span><span>China 0</span></span></td><td><span class="desktop-only">France 3 - 2 England</span><span class="mobile-only"><span>France 3</span><span>England 2</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because neither France nor England made it to the Semi-finals.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-13', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-13"><td colspan="4">0 pts because neither France nor England made it to the Semi-finals.</td></tr>
+                            <tr><td><span class="desktop-only">Chile 4 - 0 China</span><span class="mobile-only"><span>Chile 4</span><span>China 0</span></span></td><td><span class="desktop-only">Chile 2 - 1 China</span><span class="mobile-only"><span>Chile 2</span><span>China 1</span></span></td><td><span class="badge points">80 pts</span></td><td class="col-explanation why-text">80 pts for predicting the 2 teams (Chile and China) would make the Semi-finals (40pts each). Extra 16 pts could have been awarded but the predicted score was incorrect. Another 80 pts will show under Finals because Chile advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-14', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-14"><td colspan="4">80 pts for predicting the 2 teams (Chile and China) would make the Semi-finals (40pts each). Extra 16 pts could have been awarded but the predicted score was incorrect. Another 80 pts will show under Finals because Chile advanced as predicted.</td></tr>
+                            <tr><td><span class="desktop-only">Chile 4 - 0 China</span><span class="mobile-only"><span>Chile 4</span><span>China 0</span></span></td><td><span class="desktop-only">Chile 4 - 0 China</span><span class="mobile-only"><span>Chile 4</span><span>China 0</span></span></td><td><span class="badge points">96 pts</span></td><td class="col-explanation why-text">96 pts for predicting these 2 teams would make the Semi-finals (40pts each), plus extra 16 pts for correctly predicting the score. Extra 80 pts will show under Finals because Chile advanced as predicted.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-15', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-15"><td colspan="4">96 pts for predicting these 2 teams would make the Semi-finals (40pts each), plus extra 16 pts for correctly predicting the score. Extra 80 pts will show under Finals because Chile advanced as predicted.</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <h4 class="scenario-heading">Finals Scenarios</h4>
+            <div class="scenario-section">
+                <div class="scenario-table-wrap">
+                    <table>
+                        <thead><tr><th>Actual Score</th><th>Player Guess</th><th>Points Awarded</th><th class="col-explanation">Explanation Breakdown</th><th class="col-toggle"></th></tr></thead>
+                        <tbody>
+                            <tr><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="desktop-only">Cuba 4 - 0 Serbia</span><span class="mobile-only"><span>Cuba 4</span><span>Serbia 0</span></span></td><td><span class="badge points">200 pts</span></td><td class="col-explanation why-text">80 pts for predicting that 1 team (Cuba) would make the Final and another 120 pts for predicting they would become Champions by winning the Final.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-16', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-16"><td colspan="4">80 pts for predicting that 1 team (Cuba) would make the Final and another 120 pts for predicting they would become Champions by winning the Final.</td></tr>
+                            <tr><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="desktop-only">Cuba 0 - 3 Serbia</span><span class="mobile-only"><span>Cuba 0</span><span>Serbia 3</span></span></td><td><span class="badge points">80 pts</span></td><td class="col-explanation why-text">80 pts for predicting that 1 team (Cuba) would make the Final, but no more pts because the winner was not predicted correctly.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-17', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-17"><td colspan="4">80 pts for predicting that 1 team (Cuba) would make the Final, but no more pts because the winner was not predicted correctly.</td></tr>
+                            <tr><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="desktop-only">Norway 0 - 2 Latvia</span><span class="mobile-only"><span>Norway 0</span><span>Latvia 2</span></span></td><td><span class="badge points">0 pts</span></td><td class="col-explanation why-text">0 pts because neither Norway nor Latvia made it to the Finals.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-18', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-18"><td colspan="4">0 pts because neither Norway nor Latvia made it to the Finals.</td></tr>
+                            <tr><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="desktop-only">Cuba 5 - 2 Fiji</span><span class="mobile-only"><span>Cuba 5</span><span>Fiji 2</span></span></td><td><span class="badge points">280 pts</span></td><td class="col-explanation why-text">160 pts for predicting the 2 teams (Cuba and Fiji) would be in the Finals (80 pts each). Another 120 pts for saying Cuba would win the Finals and become Champions. An extra 32 pts could have been awarded but score was incorrect.</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-19', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-19"><td colspan="4">160 pts for predicting the 2 teams (Cuba and Fiji) would be in the Finals (80 pts each). Another 120 pts for saying Cuba would win the Finals and become Champions. An extra 32 pts could have been awarded but score was incorrect.</td></tr>
+                            <tr><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="desktop-only">Cuba 2 - 0 Fiji</span><span class="mobile-only"><span>Cuba 2</span><span>Fiji 0</span></span></td><td><span class="badge points">312 pts</span></td><td class="col-explanation why-text">160 pts for predicting the 2 teams (Cuba and Fiji) would make the Finals (80 pts each). +120 pts for saying Cuba would win the Finals and become Champions. +32 pts for correctly predicting the score (only applicable if both Finalists are predicted).</td><td class="col-toggle"><button class="toggle-btn" onclick="toggleExp('exp-20', this)">&#9656;</button></td></tr>
+                            <tr class="explanation-row" id="exp-20"><td colspan="4">160 pts for predicting the 2 teams (Cuba and Fiji) would make the Finals (80 pts each). +120 pts for saying Cuba would win the Finals and become Champions. +32 pts for correctly predicting the score (only applicable if both Finalists are predicted).</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-glass">
+        <h2 class="section-title">Bonus Questions</h2>
+
+        <div class="bonus-grid">
+            <div class="card" style="border: none;">
+                <h3>Tier 1 Questions</h3>
+                <span class="badge points" style="margin: 0 auto 0.85rem; display:block; width:fit-content;">1 Point Each</span>
+                <p style="font-weight:bold; color:#C8E6C9; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px;">Questions Evaluated:</p>
+                <p style="font-size:1rem; letter-spacing:1px; margin-top:0.25rem;">1, 2, 3, 6, 7, 10, 12, 14, 15, 16, 17, 18</p>
+            </div>
+            <div class="card" style="border: none;">
+                <h3>Tier 2 Questions</h3>
+                <span class="badge points" style="margin: 0 auto 0.85rem; display:block; width:fit-content;">2 Points Each</span>
+                <p style="font-weight:bold; color:#C8E6C9; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px;">Questions Evaluated:</p>
+                <p style="font-size:1rem; letter-spacing:1px; margin-top:0.25rem;">4, 5, 8, 9, 13, 19, 20</p>
+            </div>
+            <div class="card" style="border: none;">
+                <h3>Tier 3 Question</h3>
+                <span class="badge points" style="margin: 0 auto 0.85rem; display:block; width:fit-content;">3 Points Each</span>
+                <p style="font-weight:bold; color:#C8E6C9; font-size:0.78rem; text-transform:uppercase; letter-spacing:0.5px;">Question Evaluated:</p>
+                <p style="font-size:1rem; letter-spacing:1px; margin-top:0.25rem;">11</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+<script>
+function toggleExp(id, btn) {
+    var row = document.getElementById(id);
+    if (row.classList.contains('open')) {
+        row.classList.remove('open');
+        btn.classList.remove('open');
+    } else {
+        row.classList.add('open');
+        btn.classList.add('open');
+    }
+}
+
+fetch('/navbar.html')
+    .then(r => r.text())
+    .then(html => {
+        // Extract style blocks if present in the fetched navbar
+        const styleMatch = html.match(/<style>([\s\S]*?)<\/style>/i);
+        if (styleMatch) {
+            const style = document.createElement('style');
+            style.textContent = styleMatch[1];
+            document.head.appendChild(style);
+        }
+        // Inject the clean HTML structure
+        document.getElementById('navbar-placeholder').innerHTML = html
+            .replace(/<style>[\s\S]*?<\/style>/i, '')
+            .replace(/<script[\s\S]*?<\/script>/gi, '');
+        
+        // Execute scripts inside the fetched navbar if applicable
+        const scriptMatch = html.match(/<script>([\s\S]*?)<\/script>/i);
+        if (scriptMatch) {
+            const s = document.createElement('script');
+            s.textContent = scriptMatch[1];
+            document.body.appendChild(s);
+        }
+    });
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>

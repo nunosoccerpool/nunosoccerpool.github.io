@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Top Scorers Per Group</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <style>
+        /* Base styles */
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: Verdana, Geneva, sans-serif; 
+            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), 
+                        url('/images/ball-stats.png') no-repeat center center fixed;
+            background-size: cover;
+            color: #ffffff;
+            min-height: 100vh;
+			scrollbar-gutter: stable;
+        }
+
+        /* CONTENT LAYOUT */
+        .content-wrapper {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 40px 10px;
+        }
+
+        .container-glass {
+            background: rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(15px);
+            padding: 30px;
+            border-radius: 20px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.8);
+            width: fit-content; 
+            margin: 0 auto;
+            overflow-x: auto;
+            max-width: calc(100vw - 40px);
+        }
+
+        h1 {
+            font-size: 2.8rem;
+            margin-bottom: 30px;
+            text-align: center;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #C8E6C9;
+            font-weight: bold;
+        }
+
+        /* 4x3 Grid for 12 Tables */
+        .grid-container {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 25px; 
+            justify-items: center;
+        }
+
+        /* Table Styling */
+        .custom-table {
+            width: 100%;
+            margin-bottom: 10px; 
+            border-collapse: separate;
+            border-spacing: 0 4px;
+            color: #ffffff;
+        }
+
+        .span-header {
+            background: rgba(245, 245, 220, 0.15) !important; 
+            color: #F5F5DC !important;
+            padding: 10px !important;
+            text-align: center;
+            border: 1px solid rgba(245, 245, 220, 0.3) !important;
+            border-radius: 10px;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+        }
+
+        .custom-table td {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 6px 8px; 
+            font-size: 0.85rem;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .col-name { 
+            border-radius: 8px 0 0 8px; 
+            border-left: 4px solid #F5F5DC; 
+            width: auto; 
+        }
+        .col-score { 
+            border-radius: 0 8px 8px 0; 
+            text-align: right;
+            padding-right: 8px !important;
+            width: 28px;
+            font-weight: bold; 
+        }
+
+        /* Arrow navigation — hidden on desktop */
+        .table-nav { display: none; }
+
+        /* Mobile: table pairs hidden by default */
+        .table-pair { display: none; }
+        .table-pair.active { display: contents; }
+
+        @media (max-width: 900px) {
+            h1 { font-size: 1.3rem; margin-bottom: 15px; }
+            h1::before { content: "LEADERS PER GROUP "; }
+            h1 > span { display: none; }
+
+            .content-wrapper { padding: 30px 4px; }
+            .container-glass { padding: 15px; width: 100%; max-width: 100%; box-sizing: border-box; }
+
+            .grid-container {
+                grid-template-columns: repeat(2, 1fr);
+                gap: 15px;
+            }
+
+            .custom-table { width: 100%; }
+            .grid-container { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+
+            /* Show arrow nav on mobile */
+            .table-nav {
+                display: flex;
+                justify-content: space-between;
+                align-items: center;
+                margin-bottom: 15px;
+            }
+
+            .table-nav-btn {
+                background: rgba(255,255,255,0.15);
+                border: 1px solid rgba(255,255,255,0.3);
+                color: #ffffff;
+                padding: 8px 16px;
+                border-radius: 20px;
+                cursor: pointer;
+                font-size: 0.85rem;
+                transition: opacity 0.2s ease, background-color 0.2s ease;
+            }
+
+            .table-nav-btn:disabled {
+                opacity: 0.3;
+                cursor: not-allowed;
+                background: rgba(255,255,255,0.05);
+            }
+            
+            /* PAGINATION DOTS CONTAINER */
+            .dots-container {
+                display: flex;
+                gap: 8px;
+                align-items: center;
+                justify-content: center;
+            }
+
+            /* INDIVIDUAL DOT */
+            .nav-dot {
+                width: 8px;
+                height: 8px;
+                border-radius: 50%;
+                background-color: rgba(255, 255, 255, 0.4);
+                transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            }
+
+            /* ENLARGED ACTIVE DOT */
+            .nav-dot.active {
+                background-color: #C8E6C9;
+                transform: scale(1.4);
+                box-shadow: 0 0 8px rgba(200, 230, 201, 0.6);
+            }
+
+            /* Hide all pairs, show only active */
+            .table-pair { display: none; }
+            .table-pair.active { display: contents; }
+        }
+
+        @media (min-width: 901px) {
+            /* On desktop show all pairs */
+            .table-pair { display: contents; }
+        }
+    </style>
+    <div id="navbar-placeholder"></div>
+    <script>
+        fetch('/navbar.html')
+            .then(r => r.text())
+            .then(html => {
+                document.getElementById('navbar-placeholder').innerHTML = html;
+            });
+    </script>
+</head>
+<body>
+
+<div class="content-wrapper">
+    <div class="container-glass">
+        <h1><span>TOP SCORERS PER GROUP</span></h1>
+
+        <div class="table-nav">
+            <button id="prev-btn" class="table-nav-btn" onclick="prevPair()">&#8592; Prev</button>
+            <div id="dots-container" class="dots-container"></div>
+            <button id="next-btn" class="table-nav-btn" onclick="nextPair()">Next &#8594;</button>
+        </div>
+
+        <div id="tables-container" class="grid-container"></div>
+    </div>
+</div>
+
+<script>
+    const GROUPS_PER_PAGE = 2;
+    let currentPair = 0;
+    let totalPairs = 0;
+
+    async function loadGroupStats() {
+        try {
+            const response = await fetch('/json/individual-groups.json');
+            const data = await response.json();
+            const container = document.getElementById('tables-container');
+            const dotsContainer = document.getElementById('dots-container');
+
+            totalPairs = Math.ceil(data.groups.length / GROUPS_PER_PAGE);
+
+            // Generate pagination dots dynamically
+            if (dotsContainer) {
+                dotsContainer.innerHTML = '';
+                for (let i = 0; i < totalPairs; i++) {
+                    const dot = document.createElement('div');
+                    dot.className = `nav-dot${i === 0 ? ' active' : ''}`;
+                    dotsContainer.appendChild(dot);
+                }
+            }
+
+            // Create table-pair layout wrappers
+            for (let i = 0; i < totalPairs; i++) {
+                const wrapper = document.createElement('div');
+                wrapper.className = `table-pair${i === 0 ? ' active' : ''}`;
+                wrapper.dataset.pair = i;
+
+                const startIdx = i * GROUPS_PER_PAGE;
+                const endIdx = Math.min(startIdx + GROUPS_PER_PAGE, data.groups.length);
+
+                for (let j = startIdx; j < endIdx; j++) {
+                    const group = data.groups[j];
+                    const table = document.createElement('table');
+                    table.className = 'custom-table';
+
+                    let tableHTML = `
+                        <thead>
+                            <tr><th colspan="2" class="span-header">${group.title}</th></tr>
+                        </thead>
+                        <tbody>`;
+
+                    // Pad rows to always show 10
+                    const paddedRows = [...group.rows];
+                    while (paddedRows.length < 10) paddedRows.push({ col1: '', col2: '' });
+
+                    paddedRows.forEach(row => {
+                        const cell1 = row.col1 === "" || row.col1 == null ? "&nbsp;" : row.col1;
+                        const cell2 = row.col2 === "" || row.col2 == null ? "&nbsp;" : row.col2;
+                        tableHTML += `
+                            <tr>
+                                <td class="col-name">${cell1}</td>
+                                <td class="col-score">${cell2}</td>
+                            </tr>`;
+                    });
+
+                    tableHTML += `</tbody>`;
+                    table.innerHTML = tableHTML;
+                    wrapper.appendChild(table);
+                }
+                container.appendChild(wrapper);
+            }
+
+            showPair(0);
+
+        } catch (error) {
+            console.error("Error loading JSON data:", error);
+        }
+    }
+
+    function showPair(index) {
+        // Toggle active table layouts
+        document.querySelectorAll('.table-pair').forEach(el => {
+            el.classList.toggle('active', parseInt(el.dataset.pair) === index);
+        });
+
+        // Toggle active dots status
+        document.querySelectorAll('.nav-dot').forEach((dot, i) => {
+            dot.classList.toggle('active', i === index);
+        });
+
+        updateNavButtons();
+    }
+
+    function updateNavButtons() {
+        const prevBtn = document.getElementById('prev-btn');
+        const nextBtn = document.getElementById('next-btn');
+
+        if (prevBtn && nextBtn) {
+            prevBtn.disabled = (currentPair === 0);
+            nextBtn.disabled = (currentPair === totalPairs - 1);
+        }
+    }
+
+    function prevPair() {
+        if (currentPair > 0) {
+            currentPair--;
+            showPair(currentPair);
+        }
+    }
+
+    function nextPair() {
+        if (currentPair < totalPairs - 1) {
+            currentPair++;
+            showPair(currentPair);
+        }
+    }
+
+    window.onload = loadGroupStats;
+</script>
+
+<div id="chatbot-placeholder"></div>
+<script>
+  fetch('/chatbot.html')
+    .then(r => r.text())
+    .then(html => {
+      const placeholder = document.getElementById('chatbot-placeholder');
+      // Inject the non-script HTML
+      placeholder.innerHTML = html;
+      // Re-execute any scripts manually
+      placeholder.querySelectorAll('script').forEach(oldScript => {
+        const newScript = document.createElement('script');
+        newScript.textContent = oldScript.textContent;
+        document.body.appendChild(newScript);
+      });
+    });
+</script>
+</body>
+</html>
