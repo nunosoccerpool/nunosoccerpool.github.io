@@ -177,15 +177,6 @@
   <audio id="player"></audio>
 
   <script>
-    const SONGS = [
-      { file: '/songs/Track1.mp3', label: 'Track 1' },
-      { file: '/songs/Track2.mp3', label: 'Track 2' },
-      { file: '/songs/Track3.mp3', label: 'Track 3' },
-      { file: '/songs/Track4.mp3', label: 'Track 4' },
-	  { file: '/songs/Track5.mp3', label: 'Track 5' },
-	  { file: '/songs/Track6.mp3', label: 'Track 6' },
-    ];
-
     const audio       = document.getElementById('player');
     const btnPlay     = document.getElementById('btn-play-pause');
     const btnStop     = document.getElementById('btn-stop');
@@ -197,8 +188,33 @@
     const progressBg  = document.getElementById('progress-bar-bg');
     const volSlider   = document.getElementById('vol-slider');
 
+    let SONGS      = [];
     let currentIdx = 0;
-    let started    = false;   // true once the user has clicked "Proceed"
+    let started    = false;
+
+    const FALLBACK_SONGS = ['FIFA','FIFA1','FIFA2','FIFA3','FIFA4','FIFA5','FIFA6','FIFA7'];
+
+    async function loadPlaylist() {
+      try {
+        const res  = await fetch('/MAIN/json/songs.json');
+        const data = await res.json();
+        const today = new Date().toISOString().slice(0, 10);
+        const entry = data.find(d => d.date === today);
+        const names = (entry && entry.names.length > 0) ? entry.names : FALLBACK_SONGS;
+        SONGS = names.map(name => ({ file: '/songs/' + name + '.mp3', label: name }));
+      } catch (e) {
+        console.warn('Could not load songs.json:', e);
+        SONGS = FALLBACK_SONGS.map(name => ({ file: '/songs/' + name + '.mp3', label: name }));
+      }
+      // Randomize starting song each day
+      currentIdx = Math.floor(Math.random() * SONGS.length);
+      songName.textContent = SONGS[currentIdx].label;
+      if (sessionStorage.getItem('overlayShown')) {
+        started = true;
+        loadSong(currentIdx, true);
+      }
+    }
+
 
     function fmt(s) {
       const m = Math.floor(s / 60);
@@ -281,20 +297,14 @@
 
     // ── Listen for "Proceed to Standings" message from the iframe ──
     window.addEventListener('message', (e) => {
-      if (e.data === 'startMusic' && !started) {
+      if (e.data === 'startMusic' && !started && SONGS.length > 0) {
         started = true;
         loadSong(0, true);
       }
     });
 
-    // Auto-resume if user already passed the overlay in a previous load
-    if (sessionStorage.getItem('overlayShown')) {
-      started = true;
-      loadSong(0, true);
-    }
-
-    // Pre-load first song title without playing
-    songName.textContent = SONGS[0].label;
+    // Load today's playlist from songs.json
+    loadPlaylist();
   </script>
 
 </body>
