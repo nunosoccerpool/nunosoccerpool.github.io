@@ -93,13 +93,13 @@
 
 <nav class="navbar navbar-expand-lg navbar-dark">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/index.html">2026 WORLD CUP POOL</a>
+        <a class="navbar-brand" href="/standings.html">2026 WORLD CUP POOL</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
             <div class="navbar-nav">
-                <a class="nav-link" href="/index.html">Standings</a>
+                <a class="nav-link" href="/standings.html">Standings</a>
                 <a class="nav-link mobile-only-nav" href="/possible_points/possible_points.htm">Possible Points Left</a>								
                 <div class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="statsDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
@@ -153,9 +153,9 @@
         });
     }
 
-    // Special case: index.html or root path
-    if (currentPage === 'index.html' || currentPage === '') {
-        document.querySelector('.nav-link[href="/index.html"]').classList.add('active');
+    // Special case: standings.html or root path
+    if (currentPage === 'standings.html' || currentPage === '') {
+        document.querySelector('.nav-link[href="/standings.html"]').classList.add('active');
     }
 })();
 </script>

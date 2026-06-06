@@ -1,633 +1,299 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>2026 Pool Standings</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
-    <style>
-        /* Global Font: Verdana & Darkened Stadium Background */
-        body { 
-            background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
-                        url('/images/index-stadium.jpg') no-repeat center center fixed; 
-            background-size: cover;
-            font-family: Verdana, Geneva, sans-serif; 
-            margin: 0; 
-        }
-        
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>2026 World Cup Pool</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
 
-        /* Titles */
-        .header-full-width { 
-            background-color: rgba(255, 255, 255, 0.85); 
-            width: 100%; 
-            padding: 15px 0 10px 0; 
-            text-align: center; 
-            margin: 0; 
-        }
-        .standings-title { font-size: 6rem; color: #3a5a40; text-transform: uppercase; letter-spacing: 4px; font-weight: bold; margin: 0; line-height: 1; }
-        .last-updated { font-size: 0.9rem; color: #888; margin-top: 10px; }
+    html, body {
+      height: 100%;
+      overflow: hidden;
+      background: #000;
+      font-family: Verdana, Geneva, sans-serif;
+    }
 
-        /* Table Container */
-        .master-table-container {
-            margin: 40px auto;
-            max-width: fit-content;
-            background-color: #ffffff;
-            border: 2px solid #3a5a40; 
-            border-radius: 15px;      
-            box-shadow: 0 15px 60px 10px rgba(0, 0, 0, 0.7); 
-            padding: 50px; 
-            display: flex;
-            justify-content: center;
-            align-items: flex-start;
-            gap: 20px;
-        }
+    /* iframe fills the entire viewport */
+    #site-frame {
+      position: fixed;
+      top: 0; left: 0; right: 0; bottom: 0;
+      width: 100%;
+      height: 100%;
+      border: none;
+    }
 
-        .table-wrapper { display: flex; flex-direction: column; }
-        .table-title { font-size: 0.85rem; color: #999; margin-bottom: 8px; height: 20px; text-align: center; }
+    /* ── Audio Player — compact floating widget, bottom-left ── */
+    #audio-bar {
+      position: fixed;
+      bottom: 14px;
+      left: 14px;
+      width: auto;
+      height: auto;
+      background: rgba(26, 26, 26, 0.92);
+      border: 1px solid #FFD700;
+      border-radius: 30px;
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      padding: 6px 10px;
+      z-index: 9999;
+      backdrop-filter: blur(6px);
+      box-shadow: 0 2px 12px rgba(0,0,0,0.4);
+    }
 
-        .table { 
-            border-collapse: separate; 
-            border-spacing: 0; 
-            margin-bottom: 0;
-            width: auto !important;
-            table-layout: fixed;
-            font-family: Verdana, Geneva, sans-serif !important;
-        }
+    #song-title {
+      font-size: 0.65rem;
+      color: #cccccc;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      max-width: 100px;
+    }
 
-        .table td { 
-            vertical-align: middle; 
-            text-align: center; 
-            border: 0.5px solid #dee2e6; 
-            padding: 2px 6px !important; 
-            height: 36px; 
-            font-size: 16px !important; 
-        }
+    #song-title span {
+      font-size: 0.55rem;
+      color: #FFD700;
+      display: block;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
 
-        tbody td.col-points-group, tbody td.col-points-bracket, tbody td.col-points-possible, tbody td.col-bonus { 
-            color: #969696; 
-        }
+    .ctrl-btn {
+      background: none;
+      border: none;
+      color: #ffffff;
+      font-size: 1.1rem;
+      cursor: pointer;
+      padding: 6px 8px;
+      border-radius: 50%;
+      transition: background 0.2s, color 0.2s;
+      line-height: 1;
+      flex-shrink: 0;
+    }
+    .ctrl-btn:hover { background: rgba(255,255,255,0.12); }
+    .ctrl-btn:active { background: rgba(255,255,255,0.22); }
 
-        tbody td.col-rank, tbody td.col-total { font-size: 18px !important; line-height: 1.1 !important; font-weight: bold !important; }
-        tbody td.col-participant, tbody td.col-spacer { font-size: 24px !important; line-height: 1.1 !important; }
+    #btn-play-pause {
+      font-size: 1.3rem;
+      color: #FFD700;
+    }
 
-        .table td.col-participant { font-weight: normal !important; text-align: left !important; white-space: nowrap; }
-        
-        thead th { 
-            height: 85px !important; 
-            border: 0.5px solid #dee2e6; 
-            vertical-align: middle; 
-            text-align: center; 
-            font-size: 18px !important;
-            position: sticky;
-            top: 64px;
-            z-index: 10;
-            background-color: #ffffff; 
-        }
+    /* Progress bar */
+    #progress-wrap {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+      width: 70px;
+    }
+    #progress-bar-bg {
+      width: 100%;
+      height: 4px;
+      background: #444;
+      border-radius: 2px;
+      cursor: pointer;
+      position: relative;
+    }
+    #progress-bar-fill {
+      height: 100%;
+      width: 0%;
+      background: #FFD700;
+      border-radius: 2px;
+      pointer-events: none;
+    }
+    #time-display {
+      font-size: 0.58rem;
+      color: #888;
+      text-align: right;
+    }
 
-        .header-caps { text-transform: uppercase; font-weight: bold !important; color: #000000; }
-        
-        thead th.col-points { 
-            color: #969696 !important; 
-            font-weight: normal !important; 
-            text-transform: none !important; 
-            background-color: #E5E5E5 !important;
-        }
+    /* Volume */
+    #vol-wrap {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      flex-shrink: 0;
+    }
+    #vol-icon { font-size: 0.85rem; color: #aaa; }
+    #vol-slider {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 55px;
+      height: 3px;
+      background: #444;
+      border-radius: 2px;
+      outline: none;
+      cursor: pointer;
+    }
+    #vol-slider::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      background: #FFD700;
+      cursor: pointer;
+    }
 
-        thead th.col-bonus-header { 
-            color: #969696 !important; 
-            font-weight: normal !important; 
-            text-transform: none !important; 
-            background-color: #F2F2F2 !important;
-            font-size: 16px !important;                    
-        }
-        
-        .header-grey { background-color: #E5E5E5 !important; }
-        
-        /* Column Widths */
-        .col-rank { width: 50px !important; }
-        .col-participant { width: 155px !important; }
-        .col-spacer { width: 35px !important; border-left: none !important; border-right: none !important; }
-        .col-total { width: 85px !important; }
-        .col-points-group, .col-points-bracket { width: 75px !important; }
-        .col-points-possible { width: 80px !important; }
-        .col-bonus { width: 60px !important; }
-
-        .vertical-header { width: 20px !important; min-width: 20px !important; padding: 2px 0 !important; line-height: 1.1; font-weight: normal !important; }
-        tbody td.vertical-header { color: #969696; }
-        thead .vertical-header { font-size: 14px !important; color: #000000 !important; background-color: #ffffff; }
-
-        .game-side-left { border-left: none !important; border-right: 0.5px solid #dee2e6 !important; }
-        .game-side-right { border-left: none !important; border-right: none !important; }
-        thead .game-side-left { border-left: 2px solid #dee2e6 !important; }
-        thead .game-side-right { border-right: 2px solid #dee2e6 !important; }
-
-        .game-gap { width: 10px !important; border: none !important; background-color: transparent !important; }
-        .table a { text-decoration: none; color: #000000; }
-        td.col-points-group a, td.col-points-bracket a, td.col-points-possible a, td.col-bonus a { color: inherit; }
-        .table a:hover { text-decoration: underline; }
-
-        .bg-top-five { background-color: #CCFFCC !important; }
-        .bg-standard { background-color: #F2F2F2 !important; } 
-        .bg-top-five-bonus { background-color: #E5FFE5 !important; }
-        .bg-standard-bonus { background-color: #FAFAFA !important; }
-
-        .stack-header { display: inline-block; width: min-content; line-height: 1.1; }
-        
-        /* --- MOBILE ONLY VIEWS (& ALTERATIONS) --- */
-        @media (max-width: 768px) {
-            .standings-title { font-size: 2.5rem; letter-spacing: 1px; }
-            .last-updated { font-size: 0.72rem; } 
-            
-            /* Hide individual table wrappers completely */
-            .master-table-container .table-wrapper { display: none !important; }
-            
-            /* Build alternative setup container layout */
-            .master-table-container {
-                display: block !important;
-                margin: 10px auto;
-                max-width: 98% !important;
-                padding: 10px !important;
-                border-radius: 8px;
-                box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5);
-                overflow-x: hidden !important; /* Block all horizontal scrolls */
-            }
-
-            /* Unhide mobile wrapper frame */
-            .mobile-table-wrapper {
-                display: block !important;
-                width: 100% !important;
-                max-height: 75vh;
-                overflow-y: auto;
-            }
-
-            /* Force responsive layout behaviors over widths */
-            .table-mobile-combined {
-                width: 100% !important;
-                table-layout: fixed !important;
-            }
-
-            /* Shrink global fonts & structural cells safely to avoid blowouts */
-            .table-mobile-combined thead th, 
-            .table-mobile-combined tbody td {
-                padding: 1px 2px !important;
-                height: 26px !important;
-                font-size: 11px !important;
-                word-wrap: break-word;
-            }
-
-            /* Recalibrate explicitly tailored column target definitions */
-            .table-mobile-combined .col-rank { width: 28px !important; font-size: 11px !important; }
-			.table-mobile-combined .col-participant { width: 85px !important; text-overflow: ellipsis; overflow: hidden; }
-			.table-mobile-combined tbody td.col-participant { font-size: 14px !important; }
-            .table-mobile-combined .col-spacer { width: 20px !important; font-size: 11px !important; }
-			.table-mobile-combined .champion-flag { width: 100% !important; height: auto !important; max-width: 20px !important; }			
-            .table-mobile-combined .col-total { width: 42px !important; font-size: 11px !important; }
-            
-            /* Gaps doubled to 8px, Match prediction columns narrowed down to 14px */
-            .table-mobile-combined .vertical-header { width: 14px !important; min-width: 14px !important; font-size: 10px !important; }
-            .table-mobile-combined .game-gap { width: 8px !important; }
-
-            .table-mobile-combined thead th {
-                height: 55px !important;
-                position: sticky;
-                top: 0;
-                z-index: 10;
-                background-color: #ffffff;
-            }
-        }
-        
-        /* Default state hides mobile container wrapper frames on Desktop layouts */
-        .mobile-table-wrapper { display: none; }
-
-        .navbar {
-            position: fixed !important;
-            top: 0 !important;
-            width: 100% !important;
-            z-index: 9999 !important;
-        }
-        body { padding-top: 64px; }
-
-        /* Champion flag — centred in spacer cell on both desktop and mobile */
-        .champion-flag {
-            display: block;
-            height: 18px;
-            width: 28px;
-            object-fit: fill;
-            margin: 0 auto;
-        }
-    
-</style>
-    <script>
-        fetch('/navbar.html')
-            .then(r => r.text())
-            .then(html => {
-                // Inject styles into head
-                const styleMatch = html.match(/<style>([\s\S]*?)<\/style>/i);
-                if (styleMatch) {
-                    const style = document.createElement('style');
-                    style.textContent = styleMatch[1];
-                    document.head.appendChild(style);
-                }
-                // Inject navbar HTML (without style tag)
-                document.getElementById('navbar-placeholder').innerHTML = html.replace(/<style>[\s\S]*?<\/style>/i, '').replace(/<script[\s\S]*?<\/script>/gi, '');
-                // Run navbar script
-                const scriptMatch = html.match(/<script>([\s\S]*?)<\/script>/i);
-                if (scriptMatch) {
-                    const s = document.createElement('script');
-                    s.textContent = scriptMatch[1];
-                    document.body.appendChild(s);
-                }
-            });
-    </script>
+    @media (max-width: 480px) {
+      #progress-wrap { max-width: 100px; }
+      #vol-wrap { display: none; }
+      .ctrl-btn { padding: 5px 6px; font-size: 1rem; }
+      #btn-play-pause { font-size: 1.15rem; }
+    }
+  </style>
 </head>
 <body>
 
-<div id="navbar-placeholder"></div>
+  <iframe id="site-frame" src="/standings.html"></iframe>
 
-<div id="announcement-overlay" style="display: none; position: fixed; inset: 0; z-index: 9999; align-items: center; justify-content: center; padding: 0.5rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: rgba(113, 113, 122, 0.9);">
-  <div style="width: 95%; max-width: 500px; max-height: 85vh; overflow-y: auto; background: #ffffff; border-radius: 16px; padding: 1.25rem; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1); box-sizing: border-box;">
-    
-    <div style="text-align: center; margin-bottom: 1.25rem;">
-      <h1 style="font-size: 1.4rem; font-weight: 700; color: #111827; margin: 0 0 0.4rem 0;">Key Dates &amp; Reminders</h1>
-      <p style="font-size: 0.875rem; color: #6b7280; margin: 0;">Important dates for the pool</p>
+  <!-- ── Audio Player Bar ── -->
+  <div id="audio-bar">
+
+    <button class="ctrl-btn" id="btn-prev" title="Previous">⏮</button>
+    <button class="ctrl-btn" id="btn-play-pause" title="Play/Pause">▶</button>
+    <button class="ctrl-btn" id="btn-stop" title="Stop">⏹</button>
+    <button class="ctrl-btn" id="btn-next" title="Next">⏭</button>
+
+    <div id="song-title">
+      <span>Now Playing</span>
+      <span id="song-name">—</span>
     </div>
 
-    <div style="display: flex; flex-direction: column; gap: 0.6rem; margin-bottom: 2rem;">
-      <!-- May 23 -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #0ea5e9; background: #f0f9ff;">
-        <div style="font-size: 0.8125rem; font-weight: 700; color: #111827; margin-bottom: 0.25rem;">May 23</div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">Spreadsheet for Group Stage &amp; "Lucky Bonus" questions is available to download and fill out.</div>
+    <div id="progress-wrap">
+      <div id="progress-bar-bg">
+        <div id="progress-bar-fill"></div>
       </div>
-
-      <!-- June 10 -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #ef4444; background: #fef2f2;">
-        <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem; flex-wrap: wrap;">
-          <div style="font-size: 0.8125rem; font-weight: 700; color: #111827;">June 10</div>
-          <span style="font-size: 0.6875rem; font-weight: 700; color: #dc2626; background: #fee2e2; padding: 0.125rem 0.375rem; border-radius: 4px; white-space: nowrap;">11:59 PM&nbsp; Deadline</span>
-        </div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">Deadline for submitting Excel file &amp; Payments. No exceptions, first game is 10am next morning.</div>
-      </div>
-
-      <!-- June 11 -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #10b981; background: #f0fdf4;">
-        <div style="font-size: 0.8125rem; font-weight: 700; color: #111827; margin-bottom: 0.25rem;">June 11</div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">Official kick-off. All predictions are posted here and also emailed to everyone.</div>
-      </div>
-
-      <!-- June 27 -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #0ea5e9; background: #f0f9ff;">
-        <div style="font-size: 0.8125rem; font-weight: 700; color: #111827; margin-bottom: 0.25rem;">June 27</div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">End of Group Stage. Spreadsheet for Knockout Stage is available to download and fill out.</div>
-      </div>
-
-      <!-- June 27 Deadline -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #ef4444; background: #fef2f2;">
-        <div style="display: flex; align-items: center; gap: 0.5rem; margin-bottom: 0.25rem; flex-wrap: wrap;">
-          <div style="font-size: 0.8125rem; font-weight: 700; color: #111827;">June 27</div>
-          <span style="font-size: 0.6875rem; font-weight: 700; color: #dc2626; background: #fee2e2; padding: 0.125rem 0.375rem; border-radius: 4px; white-space: nowrap;">11:59 PM&nbsp; Deadline</span>
-        </div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">Deadline for submitting Knockout Bracket file. No exceptions, first game is 3pm next day.</div>
-      </div>
-
-      <!-- June 28 -->
-      <div style="padding: 0.75rem 1rem; border-radius: 8px; border-left: 3px solid #10b981; background: #f0fdf4;">
-        <div style="font-size: 0.8125rem; font-weight: 700; color: #111827; margin-bottom: 0.25rem;">June 28</div>
-        <div style="font-size: 0.8125rem; color: #4b5563; line-height: 1.4;">Knockout Stage begins. All brackets are posted here and also emailed to everyone.</div>
-      </div>
+      <div id="time-display">0:00 / 0:00</div>
     </div>
 
-    <div style="text-align: center; margin-bottom: 1.5rem;">
-      <button onclick="closeOverlay()" style="
-        width: 100%;
-        max-width: 300px;
-        height: 48px;
-        font-size: 1.1rem;
-        font-weight: 600;
-        font-family: inherit;
-        background: #4169e1;
-        border: none;
-        border-radius: 10px;
-        color: white;
-        cursor: pointer;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;">
-        PROCEED TO STANDINGS
-      </button>
+    <div id="vol-wrap">
+      <span id="vol-icon">🔊</span>
+      <input type="range" id="vol-slider" min="0" max="1" step="0.02" value="0.4" />
     </div>
 
-    <hr style="border: 0; border-top: 1px solid #e5e7eb; margin-bottom: 1rem;"/>
-
-    <div style="text-align: center; line-height: 1.5;">
-       <p style="font-size: 0.875rem; font-weight: 600; color: #374151; margin: 0;">Interested in joining?</p>
-       <p style="font-size: 0.8125rem; color: #6b7280; margin: 0;">nuno.soccer.pool</p>
-       <p style="font-size: 0.8125rem; color: #6b7280; margin: 0;">@</p>
-       <p style="font-size: 0.8125rem; color: #6b7280; margin: 0;">gmail.com</p>
-    </div>
   </div>
-</div>
 
-<script>
-  (function() {
-    const overlay = document.getElementById('announcement-overlay');
-    if (!sessionStorage.getItem('overlayShown')) {
-      overlay.style.display = 'flex';
-    }
-    window.closeOverlay = function() {
-      overlay.style.display = 'none';
-      sessionStorage.setItem('overlayShown', 'true');
-    };
-  })();
-</script>
+  <audio id="player"></audio>
 
-<div class="header-full-width">
-    <h2 class="standings-title">STANDINGS</h2>
-    <div class="last-updated" id="update-timestamp">Loading...</div>
-</div>
+  <script>
+    const SONGS = [
+      { file: '/songs/Track1.mp3', label: 'Track 1' },
+      { file: '/songs/Track2.mp3', label: 'Track 2' },
+      { file: '/songs/Track3.mp3', label: 'Track 3' },
+      { file: '/songs/Track4.mp3', label: 'Track 4' },
+	  { file: '/songs/Track5.mp3', label: 'Track 5' },
+	  { file: '/songs/Track6.mp3', label: 'Track 6' },
+    ];
 
-<div class="master-table-container">
-    <div class="table-wrapper">
-        <div class="table-title"></div> 
-        <table class="table table-sm" id="stats-table">
-            <thead>
-                <tr>
-                    <th class="col-rank header-grey header-caps">RANK</th>
-                    <th class="col-participant header-grey header-caps">PARTICIPANT</th>
-                    <th class="col-spacer header-grey"></th>
-                    <th class="col-total header-grey header-caps"><span class="stack-header">TOTAL POINTS</span></th>
-                    <th class="col-points-group col-points"><span class="stack-header">Group Stage Points</span></th>
-                    <th class="col-points-bracket col-points"><span class="stack-header">Bracket Stage Points</span></th>
-                    <th class="col-points-possible col-points"><span class="stack-header">Possible Points Left</span></th>
-                    <th class="col-bonus col-bonus-header"><span>Bonus Game</span></th>
-                </tr>
-            </thead>
-            <tbody id="stats-body"></tbody>
-        </table>
-    </div>
+    const audio       = document.getElementById('player');
+    const btnPlay     = document.getElementById('btn-play-pause');
+    const btnStop     = document.getElementById('btn-stop');
+    const btnPrev     = document.getElementById('btn-prev');
+    const btnNext     = document.getElementById('btn-next');
+    const songName    = document.getElementById('song-name');
+    const fill        = document.getElementById('progress-bar-fill');
+    const timeLbl     = document.getElementById('time-display');
+    const progressBg  = document.getElementById('progress-bar-bg');
+    const volSlider   = document.getElementById('vol-slider');
 
-    <div class="table-wrapper">
-        <div class="table-title">Upcoming Match Predictions</div>
-        <table class="table table-sm" id="preds-table">
-            <thead><tr id="preds-header-row"></tr></thead>
-            <tbody id="preds-body"></tbody>
-        </table>
-    </div>
+    let currentIdx = 0;
+    let started    = false;   // true once the user has clicked "Proceed"
 
-    <div class="mobile-table-wrapper">
-        <table class="table table-sm table-mobile-combined" id="mobile-combined-table">
-            <thead>
-                <tr id="mobile-combined-header-row">
-                    <th class="col-rank header-grey header-caps">RK</th>
-                    <th class="col-participant header-grey header-caps">PARTICIPANT</th>
-                    <th class="col-spacer header-grey"></th>
-                    <th class="col-total header-grey header-caps">TOT</th>
-                    <th class="game-gap"></th> </tr>
-            </thead>
-            <tbody id="mobile-combined-body"></tbody>
-        </table>
-    </div>
-</div>
-
-<script>
-    function formatDate(isoString) {
-        const date = new Date(isoString);
-        const options = { month: 'long', day: 'numeric', year: 'numeric' };
-        const datePart = date.toLocaleDateString('en-US', options);
-        let hours = date.getHours();
-        const minutes = date.getMinutes().toString().padStart(2, '0');
-        const ampm = hours >= 12 ? 'PM' : 'AM';
-        hours = hours % 12 || 12;
-        return `${datePart} @ ${hours}:${minutes} ${ampm}`;
+    function fmt(s) {
+      const m = Math.floor(s / 60);
+      const ss = Math.floor(s % 60).toString().padStart(2, '0');
+      return `${m}:${ss}`;
     }
 
-    async function loadStandings() {
-        try {
-            const [response, koResponse] = await Promise.all([
-                fetch('/json/index.json?t=' + Date.now()),
-                fetch('/json/knockout_pts.json?t=' + Date.now())
-            ]);
-            const data     = await response.json();
-            const koData   = await koResponse.json();
-
-            // Build participant -> champion flag src lookup
-            // pred_home_name e.g. "United States" -> "/images/countries/unitedstates.png"
-            const championFlag = {};
-            for (const [name, val] of Object.entries(koData)) {
-                const champ = (val.champions?.[0]?.pred_home_name || "").trim();
-                if (champ) {
-                    const filename = champ.toLowerCase().replace(/\s+/g, '');
-                    championFlag[name] = `/images/countries/${filename}.png`;
-                }
-            }
-
-            // Helper: returns flag img for the spacer cell (both desktop and mobile)
-            const flagHtml = (participantName) => {
-                const src = championFlag[participantName];
-                if (!src) return '';
-                return `<img src="${src}" class="champion-flag" alt="" onerror="this.style.display='none'">`;
-            };
-
-            document.getElementById('update-timestamp').innerHTML = `<b>Last updated on:</b> <i>${formatDate(data.metadata.last_updated)}</i>`;
-
-            const statsBody = document.getElementById('stats-body');
-            const predsHeadRow = document.getElementById('preds-header-row');
-            const predsBody = document.getElementById('preds-body');
-            
-            // Mobile Specific DOM hooks
-            const mobileHeadRow = document.getElementById('mobile-combined-header-row');
-            const mobileBody = document.getElementById('mobile-combined-body');
-
-            // 1. Build and parse Header Components
-            data.metadata.header_stacks.forEach((stack, idx) => {
-                const sideClass = (idx % 2 === 0) ? "game-side-left" : "game-side-right";
-                
-                // Desktop Header Additions
-                const th = document.createElement('th');
-                th.className = `vertical-header ${sideClass}`;
-                th.innerHTML = `${stack.top}<br>${stack.mid}<br>${stack.btm}`;
-                predsHeadRow.appendChild(th);
-
-                // Mobile Header Additions Clone
-                const thMobile = document.createElement('th');
-                thMobile.className = `vertical-header ${sideClass}`;
-                thMobile.innerHTML = `${stack.top}<br>${stack.mid}<br>${stack.btm}`;
-                mobileHeadRow.appendChild(thMobile);
-
-                if (idx % 2 === 1 && idx < 8) {
-                    // Desktop Spacers
-                    const gap = document.createElement('th');
-                    gap.className = "game-gap";
-                    predsHeadRow.appendChild(gap);
-
-                    // Mobile Spacers
-                    const gapMobile = document.createElement('th');
-                    gapMobile.className = "game-gap";
-                    mobileHeadRow.appendChild(gapMobile);
-                }
-            });
-
-            // 2. Build and render underlying rows
-            data.standings.forEach((row, index) => {
-                const isTopFive = index < 5;
-                const mainRowClass = isTopFive ? 'bg-top-five' : 'bg-standard';
-                const bonusRowClass = isTopFive ? 'bg-top-five-bonus' : 'bg-standard-bonus';
-                
-                const getColorStyle = (hexColor) => hexColor ? `style="color: ${hexColor} !important;"` : '';
-                const renderLink = (val, url, hexColor) => {
-                    if (val === "" || val == null) return "";
-                    const styleAttr = hexColor ? `style="color: ${hexColor} !important;"` : '';
-                    return `<a href="${url}" ${styleAttr}>${val}</a>`;
-                };
-
-                // --- Generate Standard Desktop Rows ---
-                const trStats = document.createElement('tr');
-                trStats.innerHTML = `
-                    <td class="col-rank ${mainRowClass}" ${getColorStyle(row.rank_color)}>${row.rank}</td>
-                    <td class="col-participant ${mainRowClass}"><a href="/participant/participant.htm?name=${encodeURIComponent(row.participant)}" ${getColorStyle(row.participant_color)}>${row.participant}</a></td>
-                    <td class="col-spacer ${mainRowClass}" ${getColorStyle(row.spacer_color)}>${row.spacer_val || ""}${flagHtml(row.participant)}</td>
-                    <td class="col-total ${mainRowClass}" ${getColorStyle(row.total_points_color)}><a href="/total_pts/total_pts.htm?name=${encodeURIComponent(row.participant)}" ${getColorStyle(row.total_points_color)}>${row.total_points}</a></td>
-                    <td class="col-points-group ${mainRowClass}">${renderLink(row.group_points, row.group_url, row.group_points_color)}</td>
-                    <td class="col-points-bracket ${mainRowClass}">${renderLink(row.bracket_points, row.bracket_url, row.bracket_points_color)}</td>
-                    <td class="col-points-possible ${mainRowClass}">${renderLink(row.possible_left, row.possible_url, row.possible_left_color)}</td>
-                    <td class="col-bonus ${bonusRowClass}">${renderLink(row.bonus_game, row.bonus_url, row.bonus_game_color)}</td>
-                `;
-                statsBody.appendChild(trStats);
-
-                const trPreds = document.createElement('tr');
-                row.preds.forEach((p, idx) => {
-                    const sideClass = (idx % 2 === 0) ? "game-side-left" : "game-side-right";
-                    const td = document.createElement('td');
-                    td.className = `vertical-header ${sideClass}`;
-                    td.innerText = p;
-                    trPreds.appendChild(td);
-                    if (idx % 2 === 1 && idx < 8) {
-                        const gapTd = document.createElement('td');
-                        gapTd.className = "game-gap";
-                        trPreds.appendChild(gapTd);
-                    }
-                });
-                predsBody.appendChild(trPreds);
-
-                // --- Generate Mobile Unified Single Rows ---
-                const trMobile = document.createElement('tr');
-                
-                // Build string base containing first 4 columns and the layout spacer gap exclusively
-                let mobileHtmlString = `
-                    <td class="col-rank ${mainRowClass}" ${getColorStyle(row.rank_color)}>${row.rank}</td>
-                    <td class="col-participant ${mainRowClass}"><a href="/participant/participant.htm?name=${encodeURIComponent(row.participant)}" ${getColorStyle(row.participant_color)}>${row.participant}</a></td>
-                    <td class="col-spacer ${mainRowClass}" ${getColorStyle(row.spacer_color)}>${row.spacer_val || ""}${flagHtml(row.participant)}</td>
-                    <td class="col-total ${mainRowClass}" ${getColorStyle(row.total_points_color)}><a href="/total_pts/total_pts.htm?name=${encodeURIComponent(row.participant)}" ${getColorStyle(row.total_points_color)}>${row.total_points}</a></td>
-                    <td class="game-gap"></td>
-                `;
-
-                // Concat prediction segments row items inline
-                row.preds.forEach((p, idx) => {
-                    const sideClass = (idx % 2 === 0) ? "game-side-left" : "game-side-right";
-                    mobileHtmlString += `<td class="vertical-header ${sideClass}">${p}</td>`;
-                    if (idx % 2 === 1 && idx < 8) {
-                        mobileHtmlString += `<td class="game-gap"></td>`;
-                    }
-                });
-
-                trMobile.innerHTML = mobileHtmlString;
-                mobileBody.appendChild(trMobile);
-            });
-        } catch (e) { console.error("Load Error:", e); }
-    }
-    loadStandings();
-</script>
-<!-- CHATBOT_TOGGLE:HTML:START -->
-<div id="chat-widget" style="position:fixed;bottom:20px;right:20px;z-index:2147483647 !important;font-family:sans-serif;">
-<div id="chat-box" style="display:none;width:320px;height:420px;background:#ffffff !important;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,0.3);flex-direction:column;overflow:hidden;border:1px solid #ccc;">
-<div style="background:#4285f4;color:#ffffff !important;padding:14px 16px;font-weight:600">
-      💬 Ask me something about the pool
-      <span id="close-chat" style="float:right;cursor:pointer;padding:0 5px">✕</span>
-</div>
-<div id="messages" style="flex:1;overflow-y:auto;padding:12px;display:flex;flex-direction:column;gap:8px;background:#ffffff !important;color:#333333 !important"></div>
-<div style="padding:10px;border-top:1px solid #eee;display:flex;gap:8px;background:#ffffff !important">
-<input id="user-input" placeholder="Type a question..." style="flex:1;padding:8px;border:1px solid #ddd;border-radius:8px;outline:none;font-size:14px;color:#000000 !important;background-color:#ffffff !important;" type="text"/>
-<button id="send-btn" style="background:#4285f4;color:#ffffff !important;border:none;padding:8px 14px;border-radius:8px;cursor:pointer;font-weight:600">Send</button>
-</div>
-</div>
-<button id="chat-toggle" style="background:#4285f4;color:#ffffff !important;border:none;border-radius:50%;width:56px;height:56px;font-size:24px;cursor:pointer;box-shadow:0 2px 12px rgba(0,0,0,0.3);display:block;margin-left:auto;margin-top:10px">💬</button>
-</div>
-<script>
-  (function() {
-    const history = [];
-
-    document.getElementById("chat-toggle").onclick = () => {
-      const box = document.getElementById("chat-box");
-      box.style.display = (box.style.display === "none" || box.style.display === "") ? "flex" : "none";
-      if(box.style.display === "flex") {
-        setTimeout(() => document.getElementById("user-input").focus(), 100);
-      }
-    };
-
-    document.getElementById("close-chat").onclick = () => {
-      document.getElementById("chat-box").style.display = "none";
-    };
-
-    document.getElementById("send-btn").onclick = sendMessage;
-    document.getElementById("user-input").onkeydown = e => {
-      if(e.key === "Enter") {
-        e.preventDefault();
-        sendMessage();
-      }
-    };
-
-    function addMessage(role, text) {
-      const el = document.createElement("div");
-      el.style.cssText = `padding:8px 12px;border-radius:10px;max-width:85%;word-wrap:break-word;font-size:14px;margin-bottom:4px;
-        ${role === "user" ? "background:#4285f4;color:#fff;align-self:flex-end" : "background:#f1f1f1;color:#333;align-self:flex-start"}`;
-      el.textContent = text;
-      const msgDiv = document.getElementById("messages");
-      msgDiv.appendChild(el);
-      msgDiv.scrollTop = msgDiv.scrollHeight;
-    }
-
-    async function sendMessage() {
-      const input = document.getElementById("user-input");
-      const text = input.value.trim();
-      if (!text) return;
-
-      input.value = "";
-      addMessage("user", text);
-      history.push({ role: "user", content: text });
-
-      const thinking = document.createElement("div");
-      thinking.id = "thinking";
-      thinking.style.cssText = "color:#999;font-size:13px;padding:4px 8px";
-      thinking.textContent = "Talking to server...";
-      document.getElementById("messages").appendChild(thinking);
-
-      try {
-        const res = await fetch("https://nunosoccerpool-github-io.vercel.app/api/chat?t=" + Date.now(), {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify({ messages: history })
-        });
-
-        document.getElementById("thinking")?.remove();
-
-        if (!res.ok) {
-          const errText = await res.text();
-          addMessage("assistant", "Error " + res.status + ": " + errText);
-          return;
-        }
-
-        const data = await res.json();
-        if (data.reply) {
-          addMessage("assistant", data.reply);
-          history.push({ role: "assistant", content: data.reply });
-        }
-      } catch (err) {
-        document.getElementById("thinking")?.remove();
-        addMessage("assistant", "Network error: " + err.message);
+    function loadSong(idx, autoplay) {
+      currentIdx = ((idx % SONGS.length) + SONGS.length) % SONGS.length;
+      audio.src = SONGS[currentIdx].file;
+      songName.textContent = SONGS[currentIdx].label;
+      audio.volume = parseFloat(volSlider.value);
+      fill.style.width = '0%';
+      timeLbl.textContent = '0:00 / 0:00';
+      if (autoplay) {
+        audio.play().catch(() => {});
       }
     }
-  })();
-</script>
-<!-- CHATBOT_TOGGLE:HTML:END -->
+
+    function updatePlayBtn() {
+      btnPlay.textContent = audio.paused ? '▶' : '⏸';
+    }
+
+    // Auto-advance to next song
+    audio.addEventListener('ended', () => loadSong(currentIdx + 1, true));
+
+    audio.addEventListener('timeupdate', () => {
+      if (!audio.duration) return;
+      const pct = (audio.currentTime / audio.duration) * 100;
+      fill.style.width = pct + '%';
+      timeLbl.textContent = `${fmt(audio.currentTime)} / ${fmt(audio.duration)}`;
+    });
+
+    audio.addEventListener('play',  updatePlayBtn);
+    audio.addEventListener('pause', updatePlayBtn);
+
+    // Controls
+    btnPlay.addEventListener('click', () => {
+      if (!started) return;  // no music until "Proceed" clicked
+      if (audio.paused) {
+        audio.play().catch(() => {});
+      } else {
+        audio.pause();
+      }
+    });
+
+    btnStop.addEventListener('click', () => {
+      audio.pause();
+      audio.currentTime = 0;
+      updatePlayBtn();
+    });
+
+    btnPrev.addEventListener('click', () => {
+      if (!started) return;
+      // If more than 3 seconds in, restart current song; otherwise go back
+      if (audio.currentTime > 3) {
+        audio.currentTime = 0;
+      } else {
+        loadSong(currentIdx - 1, !audio.paused);
+      }
+    });
+
+    btnNext.addEventListener('click', () => {
+      if (!started) return;
+      loadSong(currentIdx + 1, !audio.paused);
+    });
+
+    // Seek on click
+    progressBg.addEventListener('click', (e) => {
+      if (!audio.duration) return;
+      const rect = progressBg.getBoundingClientRect();
+      const pct = (e.clientX - rect.left) / rect.width;
+      audio.currentTime = pct * audio.duration;
+    });
+
+    // Volume
+    volSlider.addEventListener('input', () => {
+      audio.volume = parseFloat(volSlider.value);
+    });
+
+    // ── Listen for "Proceed to Standings" message from the iframe ──
+    window.addEventListener('message', (e) => {
+      if (e.data === 'startMusic' && !started) {
+        started = true;
+        loadSong(0, true);
+      }
+    });
+
+    // Auto-resume if user already passed the overlay in a previous load
+    if (sessionStorage.getItem('overlayShown')) {
+      started = true;
+      loadSong(0, true);
+    }
+
+    // Pre-load first song title without playing
+    songName.textContent = SONGS[0].label;
+  </script>
+
 </body>
 </html>
