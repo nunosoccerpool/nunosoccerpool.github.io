@@ -133,12 +133,14 @@
       cursor: pointer;
     }
 
-    @media (max-width: 480px) {
-      #progress-wrap { max-width: 100px; }
-      #vol-wrap { display: none; }
-      .ctrl-btn { padding: 5px 6px; font-size: 1rem; }
-      #btn-play-pause { font-size: 1.15rem; }
-    }
+	@media (max-width: 480px) {
+	  #progress-wrap { display: none; }
+	  #vol-wrap { display: none; }
+<!--	  #song-title { display: none; } -->
+	  .ctrl-btn { padding: 3px 5px; font-size: 0.8rem; }
+	  #btn-play-pause { font-size: 0.9rem; }
+	  #audio-bar { padding: 4px 7px; gap: 2px; bottom: 8px; left: 8px; }
+	}
   </style>
 </head>
 <body>
