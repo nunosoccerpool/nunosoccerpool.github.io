@@ -136,8 +136,10 @@
         
         /* --- MOBILE ONLY VIEWS (& ALTERATIONS) --- */
         @media (max-width: 768px) {
-            .standings-title { font-size: 2.5rem; letter-spacing: 1px; }
-            .last-updated { font-size: 0.72rem; } 
+			body { padding-top: 48px; }
+			.header-full-width { padding: 4px 0 2px 0 !important; }
+			.standings-title { font-size: 2.5rem; letter-spacing: 1px; margin: 0 !important; line-height: 1 !important; }
+			.last-updated { font-size: 0.6rem; margin-top: 2px !important; }
             
             /* Hide individual table wrappers completely */
             .master-table-container .table-wrapper { display: none !important; }
