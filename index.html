@@ -299,7 +299,7 @@
     window.addEventListener('message', (e) => {
       if (e.data === 'startMusic' && !started && SONGS.length > 0) {
         started = true;
-        loadSong(0, true);
+        loadSong(currentIdx, true);  // currentIdx already randomized in loadPlaylist
       }
     });
 
