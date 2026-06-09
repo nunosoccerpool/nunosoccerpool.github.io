@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-06-09T09:07:31",
+        "last_updated": "2026-06-09T09:25:26",
         "header_stacks": [
             {
                 "top": "M",
@@ -1767,8 +1767,8 @@
             "participant": "Dashiel",
             "participant_url": "/predictions/Dashiel.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -4209,8 +4209,8 @@
             "participant": "Jonathan",
             "participant_url": "/predictions/Jonathan.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
