@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-06-08T23:15:43",
+        "last_updated": "2026-06-08T23:29:44",
         "header_stacks": [
             {
                 "top": "M",
@@ -7046,9 +7046,9 @@
             "rank_color": null,
             "participant": "Sean",
             "participant_url": "/predictions/Sean.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
