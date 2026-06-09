@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-06-07T22:54:39",
+        "last_updated": "2026-06-08T22:13:32",
         "header_stacks": [
             {
                 "top": "M",
@@ -48,24 +48,24 @@
         {
             "rank": 1,
             "rank_color": null,
-            "participant": "Aaron",
-            "participant_url": "/predictions/Aaron.html",
-            "participant_color": null,
+            "participant": "Aaron1",
+            "participant_url": "/predictions/Aaron1.html",
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
-            "group_url": "/group_pts/group_pts.htm?name=Aaron",
+            "group_url": "/group_pts/group_pts.htm?name=Aaron1",
             "group_points_color": null,
             "bracket_points": 0.0,
-            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Aaron",
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Aaron1",
             "bracket_points_color": null,
             "possible_left": 1188.0,
-            "possible_url": "/possible_pts/possible_pts.htm?name=Aaron",
+            "possible_url": "/possible_pts/possible_pts.htm?name=Aaron1",
             "possible_left_color": null,
             "bonus_game": 0,
-            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron",
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron1",
             "bonus_game_color": null,
             "preds": [
                 "",
@@ -80,6 +80,72 @@
         },
         {
             "rank": 2,
+            "rank_color": null,
+            "participant": "Aaron2",
+            "participant_url": "/predictions/Aaron2.html",
+            "participant_color": "#00B050",
+            "spacer_val": "",
+            "spacer_color": null,
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Aaron2",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Aaron2",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Aaron2",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron2",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 3,
+            "rank_color": null,
+            "participant": "Aaron3",
+            "participant_url": "/predictions/Aaron3.html",
+            "participant_color": "#00B050",
+            "spacer_val": "",
+            "spacer_color": null,
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Aaron3",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Aaron3",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Aaron3",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron3",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 4,
             "rank_color": null,
             "participant": "Aban",
             "participant_url": "/predictions/Aban.html",
@@ -112,7 +178,7 @@
             ]
         },
         {
-            "rank": 3,
+            "rank": 5,
             "rank_color": null,
             "participant": "Adam",
             "participant_url": "/predictions/Adam.html",
@@ -145,7 +211,7 @@
             ]
         },
         {
-            "rank": 4,
+            "rank": 6,
             "rank_color": "#8DB4E2",
             "participant": "AI",
             "participant_url": "/predictions/AI.html",
@@ -178,11 +244,11 @@
             ]
         },
         {
-            "rank": 5,
+            "rank": 7,
             "rank_color": null,
             "participant": "Albeiro",
             "participant_url": "/predictions/Albeiro.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
@@ -211,13 +277,13 @@
             ]
         },
         {
-            "rank": 6,
+            "rank": 8,
             "rank_color": null,
             "participant": "Alex",
             "participant_url": "/predictions/Alex.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -244,7 +310,7 @@
             ]
         },
         {
-            "rank": 7,
+            "rank": 9,
             "rank_color": null,
             "participant": "Ali",
             "participant_url": "/predictions/Ali.html",
@@ -277,13 +343,13 @@
             ]
         },
         {
-            "rank": 8,
+            "rank": 10,
             "rank_color": null,
             "participant": "Alice",
             "participant_url": "/predictions/Alice.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -310,7 +376,7 @@
             ]
         },
         {
-            "rank": 9,
+            "rank": 11,
             "rank_color": null,
             "participant": "Alnashir",
             "participant_url": "/predictions/Alnashir.html",
@@ -343,7 +409,73 @@
             ]
         },
         {
-            "rank": 10,
+            "rank": 12,
+            "rank_color": null,
+            "participant": "Alston1",
+            "participant_url": "/predictions/Alston1.html",
+            "participant_color": "#00B050",
+            "spacer_val": "",
+            "spacer_color": null,
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Alston1",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Alston1",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Alston1",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Alston1",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 13,
+            "rank_color": null,
+            "participant": "Alston2",
+            "participant_url": "/predictions/Alston2.html",
+            "participant_color": "#00B050",
+            "spacer_val": "",
+            "spacer_color": null,
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Alston2",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Alston2",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Alston2",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Alston2",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 14,
             "rank_color": null,
             "participant": "Ana",
             "participant_url": "/predictions/Ana.html",
@@ -376,7 +508,7 @@
             ]
         },
         {
-            "rank": 11,
+            "rank": 15,
             "rank_color": null,
             "participant": "Andres",
             "participant_url": "/predictions/Andres.html",
@@ -409,7 +541,7 @@
             ]
         },
         {
-            "rank": 12,
+            "rank": 16,
             "rank_color": null,
             "participant": "Angel",
             "participant_url": "/predictions/Angel.html",
@@ -442,7 +574,7 @@
             ]
         },
         {
-            "rank": 13,
+            "rank": 17,
             "rank_color": null,
             "participant": "Anicio",
             "participant_url": "/predictions/Anicio.html",
@@ -475,26 +607,26 @@
             ]
         },
         {
-            "rank": 14,
+            "rank": 18,
             "rank_color": null,
-            "participant": "AnthonyA",
-            "participant_url": "/predictions/AnthonyA.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant": "AniD",
+            "participant_url": "/predictions/AniD.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
-            "group_url": "/group_pts/group_pts.htm?name=AnthonyA",
+            "group_url": "/group_pts/group_pts.htm?name=AniD",
             "group_points_color": null,
             "bracket_points": 0.0,
-            "bracket_url": "/knockout_pts/knockout_pts.htm?name=AnthonyA",
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=AniD",
             "bracket_points_color": null,
             "possible_left": 1188.0,
-            "possible_url": "/possible_pts/possible_pts.htm?name=AnthonyA",
+            "possible_url": "/possible_pts/possible_pts.htm?name=AniD",
             "possible_left_color": null,
             "bonus_game": 0,
-            "bonus_url": "/bonus_pts/bonus_pts.htm?name=AnthonyA",
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=AniD",
             "bonus_game_color": null,
             "preds": [
                 "",
@@ -508,7 +640,7 @@
             ]
         },
         {
-            "rank": 15,
+            "rank": 19,
             "rank_color": null,
             "participant": "Arturo",
             "participant_url": "/predictions/Arturo.html",
@@ -541,7 +673,7 @@
             ]
         },
         {
-            "rank": 16,
+            "rank": 20,
             "rank_color": null,
             "participant": "Ash",
             "participant_url": "/predictions/Ash.html",
@@ -574,7 +706,7 @@
             ]
         },
         {
-            "rank": 17,
+            "rank": 21,
             "rank_color": null,
             "participant": "Atish",
             "participant_url": "/predictions/Atish.html",
@@ -607,13 +739,13 @@
             ]
         },
         {
-            "rank": 18,
+            "rank": 22,
             "rank_color": null,
             "participant": "Augie",
             "participant_url": "/predictions/Augie.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -640,7 +772,7 @@
             ]
         },
         {
-            "rank": 19,
+            "rank": 23,
             "rank_color": null,
             "participant": "Bert",
             "participant_url": "/predictions/Bert.html",
@@ -673,7 +805,7 @@
             ]
         },
         {
-            "rank": 20,
+            "rank": 24,
             "rank_color": null,
             "participant": "Bindu",
             "participant_url": "/predictions/Bindu.html",
@@ -706,7 +838,7 @@
             ]
         },
         {
-            "rank": 21,
+            "rank": 25,
             "rank_color": null,
             "participant": "Brandon",
             "participant_url": "/predictions/Brandon.html",
@@ -739,7 +871,7 @@
             ]
         },
         {
-            "rank": 22,
+            "rank": 26,
             "rank_color": null,
             "participant": "Brendan",
             "participant_url": "/predictions/Brendan.html",
@@ -772,7 +904,7 @@
             ]
         },
         {
-            "rank": 23,
+            "rank": 27,
             "rank_color": null,
             "participant": "BrianS",
             "participant_url": "/predictions/BrianS.html",
@@ -805,7 +937,7 @@
             ]
         },
         {
-            "rank": 24,
+            "rank": 28,
             "rank_color": null,
             "participant": "Cameron",
             "participant_url": "/predictions/Cameron.html",
@@ -838,11 +970,11 @@
             ]
         },
         {
-            "rank": 25,
+            "rank": 29,
             "rank_color": null,
             "participant": "CarlosD",
             "participant_url": "/predictions/CarlosD.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -871,13 +1003,13 @@
             ]
         },
         {
-            "rank": 26,
+            "rank": 30,
             "rank_color": null,
             "participant": "CarlosG",
             "participant_url": "/predictions/CarlosG.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -904,7 +1036,7 @@
             ]
         },
         {
-            "rank": 27,
+            "rank": 31,
             "rank_color": null,
             "participant": "CarlosSal",
             "participant_url": "/predictions/CarlosSal.html",
@@ -937,11 +1069,11 @@
             ]
         },
         {
-            "rank": 28,
+            "rank": 32,
             "rank_color": null,
             "participant": "Carmen",
             "participant_url": "/predictions/Carmen.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
@@ -970,7 +1102,7 @@
             ]
         },
         {
-            "rank": 29,
+            "rank": 33,
             "rank_color": null,
             "participant": "Caroline",
             "participant_url": "/predictions/Caroline.html",
@@ -1003,7 +1135,7 @@
             ]
         },
         {
-            "rank": 30,
+            "rank": 34,
             "rank_color": null,
             "participant": "Chi",
             "participant_url": "/predictions/Chi.html",
@@ -1036,7 +1168,7 @@
             ]
         },
         {
-            "rank": 31,
+            "rank": 35,
             "rank_color": null,
             "participant": "ChrisK",
             "participant_url": "/predictions/ChrisK.html",
@@ -1069,7 +1201,7 @@
             ]
         },
         {
-            "rank": 32,
+            "rank": 36,
             "rank_color": null,
             "participant": "ChrisN",
             "participant_url": "/predictions/ChrisN.html",
@@ -1102,7 +1234,7 @@
             ]
         },
         {
-            "rank": 33,
+            "rank": 37,
             "rank_color": null,
             "participant": "ChrisP",
             "participant_url": "/predictions/ChrisP.html",
@@ -1135,7 +1267,7 @@
             ]
         },
         {
-            "rank": 34,
+            "rank": 38,
             "rank_color": null,
             "participant": "Chrissy",
             "participant_url": "/predictions/Chrissy.html",
@@ -1168,7 +1300,7 @@
             ]
         },
         {
-            "rank": 35,
+            "rank": 39,
             "rank_color": null,
             "participant": "ChristianL",
             "participant_url": "/predictions/ChristianL.html",
@@ -1201,7 +1333,7 @@
             ]
         },
         {
-            "rank": 36,
+            "rank": 40,
             "rank_color": null,
             "participant": "CMD88",
             "participant_url": "/predictions/CMD88.html",
@@ -1234,7 +1366,7 @@
             ]
         },
         {
-            "rank": 37,
+            "rank": 41,
             "rank_color": null,
             "participant": "Coco",
             "participant_url": "/predictions/Coco.html",
@@ -1267,7 +1399,7 @@
             ]
         },
         {
-            "rank": 38,
+            "rank": 42,
             "rank_color": null,
             "participant": "Corey",
             "participant_url": "/predictions/Corey.html",
@@ -1300,7 +1432,7 @@
             ]
         },
         {
-            "rank": 39,
+            "rank": 43,
             "rank_color": null,
             "participant": "Daisy1",
             "participant_url": "/predictions/Daisy1.html",
@@ -1333,7 +1465,7 @@
             ]
         },
         {
-            "rank": 40,
+            "rank": 44,
             "rank_color": null,
             "participant": "Daisy2",
             "participant_url": "/predictions/Daisy2.html",
@@ -1366,7 +1498,7 @@
             ]
         },
         {
-            "rank": 41,
+            "rank": 45,
             "rank_color": null,
             "participant": "Damian",
             "participant_url": "/predictions/Damian.html",
@@ -1399,7 +1531,7 @@
             ]
         },
         {
-            "rank": 42,
+            "rank": 46,
             "rank_color": null,
             "participant": "DanielM",
             "participant_url": "/predictions/DanielM.html",
@@ -1432,7 +1564,7 @@
             ]
         },
         {
-            "rank": 43,
+            "rank": 47,
             "rank_color": null,
             "participant": "DanielR",
             "participant_url": "/predictions/DanielR.html",
@@ -1465,7 +1597,7 @@
             ]
         },
         {
-            "rank": 44,
+            "rank": 48,
             "rank_color": null,
             "participant": "DannyL",
             "participant_url": "/predictions/DannyL.html",
@@ -1498,7 +1630,7 @@
             ]
         },
         {
-            "rank": 45,
+            "rank": 49,
             "rank_color": null,
             "participant": "DannyRa",
             "participant_url": "/predictions/DannyRa.html",
@@ -1531,7 +1663,7 @@
             ]
         },
         {
-            "rank": 46,
+            "rank": 50,
             "rank_color": null,
             "participant": "Darren",
             "participant_url": "/predictions/Darren.html",
@@ -1564,7 +1696,7 @@
             ]
         },
         {
-            "rank": 47,
+            "rank": 51,
             "rank_color": null,
             "participant": "Darryll",
             "participant_url": "/predictions/Darryll.html",
@@ -1597,7 +1729,7 @@
             ]
         },
         {
-            "rank": 48,
+            "rank": 52,
             "rank_color": null,
             "participant": "DarrylMFC",
             "participant_url": "/predictions/DarrylMFC.html",
@@ -1630,7 +1762,7 @@
             ]
         },
         {
-            "rank": 49,
+            "rank": 53,
             "rank_color": null,
             "participant": "DarylF",
             "participant_url": "/predictions/DarylF.html",
@@ -1663,7 +1795,7 @@
             ]
         },
         {
-            "rank": 50,
+            "rank": 54,
             "rank_color": null,
             "participant": "Dashiel",
             "participant_url": "/predictions/Dashiel.html",
@@ -1696,7 +1828,7 @@
             ]
         },
         {
-            "rank": 51,
+            "rank": 55,
             "rank_color": null,
             "participant": "DavidD",
             "participant_url": "/predictions/DavidD.html",
@@ -1729,7 +1861,7 @@
             ]
         },
         {
-            "rank": 52,
+            "rank": 56,
             "rank_color": null,
             "participant": "Deylin",
             "participant_url": "/predictions/Deylin.html",
@@ -1762,7 +1894,7 @@
             ]
         },
         {
-            "rank": 53,
+            "rank": 57,
             "rank_color": null,
             "participant": "Dino",
             "participant_url": "/predictions/Dino.html",
@@ -1795,7 +1927,7 @@
             ]
         },
         {
-            "rank": 54,
+            "rank": 58,
             "rank_color": null,
             "participant": "Dora",
             "participant_url": "/predictions/Dora.html",
@@ -1828,7 +1960,7 @@
             ]
         },
         {
-            "rank": 55,
+            "rank": 59,
             "rank_color": null,
             "participant": "DougM",
             "participant_url": "/predictions/DougM.html",
@@ -1861,7 +1993,7 @@
             ]
         },
         {
-            "rank": 56,
+            "rank": 60,
             "rank_color": null,
             "participant": "Duarte",
             "participant_url": "/predictions/Duarte.html",
@@ -1894,13 +2026,13 @@
             ]
         },
         {
-            "rank": 57,
+            "rank": 61,
             "rank_color": null,
             "participant": "Ed",
             "participant_url": "/predictions/Ed.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -1927,7 +2059,7 @@
             ]
         },
         {
-            "rank": 58,
+            "rank": 62,
             "rank_color": null,
             "participant": "Edsel",
             "participant_url": "/predictions/Edsel.html",
@@ -1960,7 +2092,7 @@
             ]
         },
         {
-            "rank": 59,
+            "rank": 63,
             "rank_color": null,
             "participant": "EdwardD",
             "participant_url": "/predictions/EdwardD.html",
@@ -1993,7 +2125,7 @@
             ]
         },
         {
-            "rank": 60,
+            "rank": 64,
             "rank_color": null,
             "participant": "EdwardT",
             "participant_url": "/predictions/EdwardT.html",
@@ -2026,7 +2158,7 @@
             ]
         },
         {
-            "rank": 61,
+            "rank": 65,
             "rank_color": null,
             "participant": "Elaine",
             "participant_url": "/predictions/Elaine.html",
@@ -2059,7 +2191,7 @@
             ]
         },
         {
-            "rank": 62,
+            "rank": 66,
             "rank_color": null,
             "participant": "Elizabeth",
             "participant_url": "/predictions/Elizabeth.html",
@@ -2092,7 +2224,7 @@
             ]
         },
         {
-            "rank": 63,
+            "rank": 67,
             "rank_color": null,
             "participant": "EricK",
             "participant_url": "/predictions/EricK.html",
@@ -2125,7 +2257,7 @@
             ]
         },
         {
-            "rank": 64,
+            "rank": 68,
             "rank_color": null,
             "participant": "Ethan",
             "participant_url": "/predictions/Ethan.html",
@@ -2158,13 +2290,13 @@
             ]
         },
         {
-            "rank": 65,
+            "rank": 69,
             "rank_color": null,
             "participant": "Farshid",
             "participant_url": "/predictions/Farshid.html",
             "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -2191,7 +2323,7 @@
             ]
         },
         {
-            "rank": 66,
+            "rank": 70,
             "rank_color": null,
             "participant": "Fawzi",
             "participant_url": "/predictions/Fawzi.html",
@@ -2224,7 +2356,7 @@
             ]
         },
         {
-            "rank": 67,
+            "rank": 71,
             "rank_color": null,
             "participant": "Fernanda",
             "participant_url": "/predictions/Fernanda.html",
@@ -2257,13 +2389,13 @@
             ]
         },
         {
-            "rank": 68,
+            "rank": 72,
             "rank_color": null,
             "participant": "Fernando",
             "participant_url": "/predictions/Fernando.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -2290,7 +2422,7 @@
             ]
         },
         {
-            "rank": 69,
+            "rank": 73,
             "rank_color": null,
             "participant": "Filip",
             "participant_url": "/predictions/Filip.html",
@@ -2323,7 +2455,7 @@
             ]
         },
         {
-            "rank": 70,
+            "rank": 74,
             "rank_color": null,
             "participant": "Flavio",
             "participant_url": "/predictions/Flavio.html",
@@ -2356,11 +2488,11 @@
             ]
         },
         {
-            "rank": 71,
+            "rank": 75,
             "rank_color": null,
             "participant": "Franco",
             "participant_url": "/predictions/Franco.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
@@ -2389,7 +2521,7 @@
             ]
         },
         {
-            "rank": 72,
+            "rank": 76,
             "rank_color": null,
             "participant": "FrankC",
             "participant_url": "/predictions/FrankC.html",
@@ -2422,7 +2554,7 @@
             ]
         },
         {
-            "rank": 73,
+            "rank": 77,
             "rank_color": null,
             "participant": "FrankD",
             "participant_url": "/predictions/FrankD.html",
@@ -2455,7 +2587,7 @@
             ]
         },
         {
-            "rank": 74,
+            "rank": 78,
             "rank_color": null,
             "participant": "FrankI",
             "participant_url": "/predictions/FrankI.html",
@@ -2488,7 +2620,7 @@
             ]
         },
         {
-            "rank": 75,
+            "rank": 79,
             "rank_color": null,
             "participant": "Frankie",
             "participant_url": "/predictions/Frankie.html",
@@ -2521,7 +2653,7 @@
             ]
         },
         {
-            "rank": 76,
+            "rank": 80,
             "rank_color": null,
             "participant": "Gabriela",
             "participant_url": "/predictions/Gabriela.html",
@@ -2554,7 +2686,7 @@
             ]
         },
         {
-            "rank": 77,
+            "rank": 81,
             "rank_color": null,
             "participant": "Gary",
             "participant_url": "/predictions/Gary.html",
@@ -2587,7 +2719,7 @@
             ]
         },
         {
-            "rank": 78,
+            "rank": 82,
             "rank_color": null,
             "participant": "GavinH",
             "participant_url": "/predictions/GavinH.html",
@@ -2620,7 +2752,7 @@
             ]
         },
         {
-            "rank": 79,
+            "rank": 83,
             "rank_color": null,
             "participant": "GavinW",
             "participant_url": "/predictions/GavinW.html",
@@ -2653,7 +2785,7 @@
             ]
         },
         {
-            "rank": 80,
+            "rank": 84,
             "rank_color": null,
             "participant": "Greg",
             "participant_url": "/predictions/Greg.html",
@@ -2686,7 +2818,7 @@
             ]
         },
         {
-            "rank": 81,
+            "rank": 85,
             "rank_color": null,
             "participant": "Grosso",
             "participant_url": "/predictions/Grosso.html",
@@ -2719,7 +2851,7 @@
             ]
         },
         {
-            "rank": 82,
+            "rank": 86,
             "rank_color": null,
             "participant": "Gus",
             "participant_url": "/predictions/Gus.html",
@@ -2752,7 +2884,7 @@
             ]
         },
         {
-            "rank": 83,
+            "rank": 87,
             "rank_color": null,
             "participant": "GustavoH",
             "participant_url": "/predictions/GustavoH.html",
@@ -2785,7 +2917,7 @@
             ]
         },
         {
-            "rank": 84,
+            "rank": 88,
             "rank_color": null,
             "participant": "GustavoL",
             "participant_url": "/predictions/GustavoL.html",
@@ -2818,7 +2950,7 @@
             ]
         },
         {
-            "rank": 85,
+            "rank": 89,
             "rank_color": null,
             "participant": "Gwen",
             "participant_url": "/predictions/Gwen.html",
@@ -2851,13 +2983,13 @@
             ]
         },
         {
-            "rank": 86,
+            "rank": 90,
             "rank_color": null,
             "participant": "Heather",
             "participant_url": "/predictions/Heather.html",
             "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -2884,7 +3016,7 @@
             ]
         },
         {
-            "rank": 87,
+            "rank": 91,
             "rank_color": null,
             "participant": "HelderA",
             "participant_url": "/predictions/HelderA.html",
@@ -2917,7 +3049,7 @@
             ]
         },
         {
-            "rank": 88,
+            "rank": 92,
             "rank_color": null,
             "participant": "HelderB",
             "participant_url": "/predictions/HelderB.html",
@@ -2950,7 +3082,7 @@
             ]
         },
         {
-            "rank": 89,
+            "rank": 93,
             "rank_color": null,
             "participant": "Hernani",
             "participant_url": "/predictions/Hernani.html",
@@ -2983,7 +3115,7 @@
             ]
         },
         {
-            "rank": 90,
+            "rank": 94,
             "rank_color": null,
             "participant": "Hugo",
             "participant_url": "/predictions/Hugo.html",
@@ -3016,11 +3148,11 @@
             ]
         },
         {
-            "rank": 91,
+            "rank": 95,
             "rank_color": null,
             "participant": "Ian",
             "participant_url": "/predictions/Ian.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -3049,11 +3181,11 @@
             ]
         },
         {
-            "rank": 92,
+            "rank": 96,
             "rank_color": null,
             "participant": "Ida",
             "participant_url": "/predictions/Ida.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -3082,26 +3214,26 @@
             ]
         },
         {
-            "rank": 93,
+            "rank": 97,
             "rank_color": null,
-            "participant": "Igor",
-            "participant_url": "/predictions/Igor.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant": "Igor1",
+            "participant_url": "/predictions/Igor1.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
-            "group_url": "/group_pts/group_pts.htm?name=Igor",
+            "group_url": "/group_pts/group_pts.htm?name=Igor1",
             "group_points_color": null,
             "bracket_points": 0.0,
-            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Igor",
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Igor1",
             "bracket_points_color": null,
             "possible_left": 1188.0,
-            "possible_url": "/possible_pts/possible_pts.htm?name=Igor",
+            "possible_url": "/possible_pts/possible_pts.htm?name=Igor1",
             "possible_left_color": null,
             "bonus_game": 0,
-            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Igor",
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Igor1",
             "bonus_game_color": null,
             "preds": [
                 "",
@@ -3115,7 +3247,40 @@
             ]
         },
         {
-            "rank": 94,
+            "rank": 98,
+            "rank_color": null,
+            "participant": "Igor2",
+            "participant_url": "/predictions/Igor2.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Igor2",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Igor2",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Igor2",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Igor2",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 99,
             "rank_color": null,
             "participant": "Jalen",
             "participant_url": "/predictions/Jalen.html",
@@ -3148,7 +3313,7 @@
             ]
         },
         {
-            "rank": 95,
+            "rank": 100,
             "rank_color": null,
             "participant": "JamesC",
             "participant_url": "/predictions/JamesC.html",
@@ -3181,13 +3346,13 @@
             ]
         },
         {
-            "rank": 96,
+            "rank": 101,
             "rank_color": null,
             "participant": "JamesP",
             "participant_url": "/predictions/JamesP.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -3214,7 +3379,7 @@
             ]
         },
         {
-            "rank": 97,
+            "rank": 102,
             "rank_color": null,
             "participant": "Janelle",
             "participant_url": "/predictions/Janelle.html",
@@ -3247,7 +3412,7 @@
             ]
         },
         {
-            "rank": 98,
+            "rank": 103,
             "rank_color": null,
             "participant": "JasonB",
             "participant_url": "/predictions/JasonB.html",
@@ -3280,7 +3445,7 @@
             ]
         },
         {
-            "rank": 99,
+            "rank": 104,
             "rank_color": null,
             "participant": "JasonF",
             "participant_url": "/predictions/JasonF.html",
@@ -3313,11 +3478,11 @@
             ]
         },
         {
-            "rank": 100,
+            "rank": 105,
             "rank_color": null,
             "participant": "Jaxon",
             "participant_url": "/predictions/Jaxon.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -3346,13 +3511,13 @@
             ]
         },
         {
-            "rank": 101,
+            "rank": 106,
             "rank_color": null,
             "participant": "JeanMichel",
             "participant_url": "/predictions/JeanMichel.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -3379,7 +3544,7 @@
             ]
         },
         {
-            "rank": 102,
+            "rank": 107,
             "rank_color": null,
             "participant": "JeffB",
             "participant_url": "/predictions/JeffB.html",
@@ -3412,7 +3577,7 @@
             ]
         },
         {
-            "rank": 103,
+            "rank": 108,
             "rank_color": null,
             "participant": "JeffS",
             "participant_url": "/predictions/JeffS.html",
@@ -3445,7 +3610,7 @@
             ]
         },
         {
-            "rank": 104,
+            "rank": 109,
             "rank_color": null,
             "participant": "JeffT",
             "participant_url": "/predictions/JeffT.html",
@@ -3478,13 +3643,46 @@
             ]
         },
         {
-            "rank": 105,
+            "rank": 110,
+            "rank_color": null,
+            "participant": "Jenn",
+            "participant_url": "/predictions/Jenn.html",
+            "participant_color": "#00B050",
+            "spacer_val": "",
+            "spacer_color": null,
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Jenn",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Jenn",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Jenn",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jenn",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 111,
             "rank_color": null,
             "participant": "Jennifer",
             "participant_url": "/predictions/Jennifer.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -3511,11 +3709,11 @@
             ]
         },
         {
-            "rank": 106,
+            "rank": 112,
             "rank_color": null,
             "participant": "Jerry",
             "participant_url": "/predictions/Jerry.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
@@ -3544,7 +3742,7 @@
             ]
         },
         {
-            "rank": 107,
+            "rank": 113,
             "rank_color": null,
             "participant": "Jess",
             "participant_url": "/predictions/Jess.html",
@@ -3577,7 +3775,7 @@
             ]
         },
         {
-            "rank": 108,
+            "rank": 114,
             "rank_color": null,
             "participant": "Jessica",
             "participant_url": "/predictions/Jessica.html",
@@ -3610,7 +3808,7 @@
             ]
         },
         {
-            "rank": 109,
+            "rank": 115,
             "rank_color": null,
             "participant": "Jhon",
             "participant_url": "/predictions/Jhon.html",
@@ -3643,13 +3841,13 @@
             ]
         },
         {
-            "rank": 110,
+            "rank": 116,
             "rank_color": null,
             "participant": "Jim",
             "participant_url": "/predictions/Jim.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -3676,7 +3874,7 @@
             ]
         },
         {
-            "rank": 111,
+            "rank": 117,
             "rank_color": null,
             "participant": "Joanna",
             "participant_url": "/predictions/Joanna.html",
@@ -3709,7 +3907,7 @@
             ]
         },
         {
-            "rank": 112,
+            "rank": 118,
             "rank_color": null,
             "participant": "Joao",
             "participant_url": "/predictions/Joao.html",
@@ -3742,7 +3940,7 @@
             ]
         },
         {
-            "rank": 113,
+            "rank": 119,
             "rank_color": null,
             "participant": "JoeD",
             "participant_url": "/predictions/JoeD.html",
@@ -3775,7 +3973,7 @@
             ]
         },
         {
-            "rank": 114,
+            "rank": 120,
             "rank_color": null,
             "participant": "JoeP",
             "participant_url": "/predictions/JoeP.html",
@@ -3808,7 +4006,7 @@
             ]
         },
         {
-            "rank": 115,
+            "rank": 121,
             "rank_color": null,
             "participant": "JohnC",
             "participant_url": "/predictions/JohnC.html",
@@ -3841,7 +4039,7 @@
             ]
         },
         {
-            "rank": 116,
+            "rank": 122,
             "rank_color": null,
             "participant": "JohnO",
             "participant_url": "/predictions/JohnO.html",
@@ -3874,7 +4072,7 @@
             ]
         },
         {
-            "rank": 117,
+            "rank": 123,
             "rank_color": null,
             "participant": "JohnR",
             "participant_url": "/predictions/JohnR.html",
@@ -3907,7 +4105,7 @@
             ]
         },
         {
-            "rank": 118,
+            "rank": 124,
             "rank_color": null,
             "participant": "Jonathan",
             "participant_url": "/predictions/Jonathan.html",
@@ -3940,13 +4138,13 @@
             ]
         },
         {
-            "rank": 119,
+            "rank": 125,
             "rank_color": null,
             "participant": "JorgeC",
             "participant_url": "/predictions/JorgeC.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -3973,7 +4171,7 @@
             ]
         },
         {
-            "rank": 120,
+            "rank": 126,
             "rank_color": null,
             "participant": "JorgeT",
             "participant_url": "/predictions/JorgeT.html",
@@ -4006,40 +4204,7 @@
             ]
         },
         {
-            "rank": 121,
-            "rank_color": null,
-            "participant": "Joy",
-            "participant_url": "/predictions/Joy.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
-            "total_points": 0.0,
-            "total_points_color": null,
-            "group_points": 0.0,
-            "group_url": "/group_pts/group_pts.htm?name=Joy",
-            "group_points_color": null,
-            "bracket_points": 0.0,
-            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Joy",
-            "bracket_points_color": null,
-            "possible_left": 1188.0,
-            "possible_url": "/possible_pts/possible_pts.htm?name=Joy",
-            "possible_left_color": null,
-            "bonus_game": 0,
-            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Joy",
-            "bonus_game_color": null,
-            "preds": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
-                ""
-            ]
-        },
-        {
-            "rank": 122,
+            "rank": 127,
             "rank_color": null,
             "participant": "Juan",
             "participant_url": "/predictions/Juan.html",
@@ -4072,11 +4237,11 @@
             ]
         },
         {
-            "rank": 123,
+            "rank": 128,
             "rank_color": null,
             "participant": "Julian",
             "participant_url": "/predictions/Julian.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -4105,7 +4270,7 @@
             ]
         },
         {
-            "rank": 124,
+            "rank": 129,
             "rank_color": null,
             "participant": "JustinL",
             "participant_url": "/predictions/JustinL.html",
@@ -4138,7 +4303,7 @@
             ]
         },
         {
-            "rank": 125,
+            "rank": 130,
             "rank_color": null,
             "participant": "Kayden",
             "participant_url": "/predictions/Kayden.html",
@@ -4171,7 +4336,7 @@
             ]
         },
         {
-            "rank": 126,
+            "rank": 131,
             "rank_color": null,
             "participant": "KevinJ",
             "participant_url": "/predictions/KevinJ.html",
@@ -4204,7 +4369,7 @@
             ]
         },
         {
-            "rank": 127,
+            "rank": 132,
             "rank_color": null,
             "participant": "KevinS",
             "participant_url": "/predictions/KevinS.html",
@@ -4237,7 +4402,7 @@
             ]
         },
         {
-            "rank": 128,
+            "rank": 133,
             "rank_color": null,
             "participant": "Kristian",
             "participant_url": "/predictions/Kristian.html",
@@ -4270,7 +4435,7 @@
             ]
         },
         {
-            "rank": 129,
+            "rank": 134,
             "rank_color": null,
             "participant": "Kumar",
             "participant_url": "/predictions/Kumar.html",
@@ -4303,7 +4468,7 @@
             ]
         },
         {
-            "rank": 130,
+            "rank": 135,
             "rank_color": null,
             "participant": "KyleW",
             "participant_url": "/predictions/KyleW.html",
@@ -4336,7 +4501,7 @@
             ]
         },
         {
-            "rank": 131,
+            "rank": 136,
             "rank_color": null,
             "participant": "Lena",
             "participant_url": "/predictions/Lena.html",
@@ -4369,7 +4534,7 @@
             ]
         },
         {
-            "rank": 132,
+            "rank": 137,
             "rank_color": null,
             "participant": "LiamA",
             "participant_url": "/predictions/LiamA.html",
@@ -4402,7 +4567,7 @@
             ]
         },
         {
-            "rank": 133,
+            "rank": 138,
             "rank_color": null,
             "participant": "LiamM",
             "participant_url": "/predictions/LiamM.html",
@@ -4435,13 +4600,13 @@
             ]
         },
         {
-            "rank": 134,
+            "rank": 139,
             "rank_color": null,
             "participant": "Lindsey",
             "participant_url": "/predictions/Lindsey.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -4468,7 +4633,7 @@
             ]
         },
         {
-            "rank": 135,
+            "rank": 140,
             "rank_color": null,
             "participant": "Lisa",
             "participant_url": "/predictions/Lisa.html",
@@ -4501,7 +4666,7 @@
             ]
         },
         {
-            "rank": 136,
+            "rank": 141,
             "rank_color": null,
             "participant": "Luka",
             "participant_url": "/predictions/Luka.html",
@@ -4534,7 +4699,7 @@
             ]
         },
         {
-            "rank": 137,
+            "rank": 142,
             "rank_color": null,
             "participant": "Magno",
             "participant_url": "/predictions/Magno.html",
@@ -4567,7 +4732,7 @@
             ]
         },
         {
-            "rank": 138,
+            "rank": 143,
             "rank_color": null,
             "participant": "Major",
             "participant_url": "/predictions/Major.html",
@@ -4600,7 +4765,7 @@
             ]
         },
         {
-            "rank": 139,
+            "rank": 144,
             "rank_color": null,
             "participant": "Manley",
             "participant_url": "/predictions/Manley.html",
@@ -4633,7 +4798,7 @@
             ]
         },
         {
-            "rank": 140,
+            "rank": 145,
             "rank_color": null,
             "participant": "MannyT",
             "participant_url": "/predictions/MannyT.html",
@@ -4666,7 +4831,7 @@
             ]
         },
         {
-            "rank": 141,
+            "rank": 146,
             "rank_color": null,
             "participant": "MarcioD",
             "participant_url": "/predictions/MarcioD.html",
@@ -4699,7 +4864,7 @@
             ]
         },
         {
-            "rank": 142,
+            "rank": 147,
             "rank_color": null,
             "participant": "MarcioS",
             "participant_url": "/predictions/MarcioS.html",
@@ -4732,7 +4897,7 @@
             ]
         },
         {
-            "rank": 143,
+            "rank": 148,
             "rank_color": null,
             "participant": "MarcoR",
             "participant_url": "/predictions/MarcoR.html",
@@ -4765,7 +4930,7 @@
             ]
         },
         {
-            "rank": 144,
+            "rank": 149,
             "rank_color": null,
             "participant": "Maria",
             "participant_url": "/predictions/Maria.html",
@@ -4798,7 +4963,7 @@
             ]
         },
         {
-            "rank": 145,
+            "rank": 150,
             "rank_color": null,
             "participant": "Marta",
             "participant_url": "/predictions/Marta.html",
@@ -4831,7 +4996,7 @@
             ]
         },
         {
-            "rank": 146,
+            "rank": 151,
             "rank_color": null,
             "participant": "MatthewG",
             "participant_url": "/predictions/MatthewG.html",
@@ -4864,7 +5029,7 @@
             ]
         },
         {
-            "rank": 147,
+            "rank": 152,
             "rank_color": null,
             "participant": "MatthewSa",
             "participant_url": "/predictions/MatthewSa.html",
@@ -4897,7 +5062,7 @@
             ]
         },
         {
-            "rank": 148,
+            "rank": 153,
             "rank_color": null,
             "participant": "MatthewSm1",
             "participant_url": "/predictions/MatthewSm1.html",
@@ -4930,7 +5095,7 @@
             ]
         },
         {
-            "rank": 149,
+            "rank": 154,
             "rank_color": null,
             "participant": "MatthewSm2",
             "participant_url": "/predictions/MatthewSm2.html",
@@ -4963,7 +5128,7 @@
             ]
         },
         {
-            "rank": 150,
+            "rank": 155,
             "rank_color": null,
             "participant": "Mauricio",
             "participant_url": "/predictions/Mauricio.html",
@@ -4996,7 +5161,7 @@
             ]
         },
         {
-            "rank": 151,
+            "rank": 156,
             "rank_color": null,
             "participant": "Max",
             "participant_url": "/predictions/Max.html",
@@ -5029,7 +5194,7 @@
             ]
         },
         {
-            "rank": 152,
+            "rank": 157,
             "rank_color": null,
             "participant": "Melissa",
             "participant_url": "/predictions/Melissa.html",
@@ -5062,7 +5227,7 @@
             ]
         },
         {
-            "rank": 153,
+            "rank": 158,
             "rank_color": null,
             "participant": "MichaelL",
             "participant_url": "/predictions/MichaelL.html",
@@ -5095,7 +5260,7 @@
             ]
         },
         {
-            "rank": 154,
+            "rank": 159,
             "rank_color": null,
             "participant": "MichaelM",
             "participant_url": "/predictions/MichaelM.html",
@@ -5128,7 +5293,7 @@
             ]
         },
         {
-            "rank": 155,
+            "rank": 160,
             "rank_color": null,
             "participant": "MichaelPa",
             "participant_url": "/predictions/MichaelPa.html",
@@ -5161,7 +5326,7 @@
             ]
         },
         {
-            "rank": 156,
+            "rank": 161,
             "rank_color": null,
             "participant": "MichaelPi",
             "participant_url": "/predictions/MichaelPi.html",
@@ -5194,7 +5359,7 @@
             ]
         },
         {
-            "rank": 157,
+            "rank": 162,
             "rank_color": null,
             "participant": "Michele",
             "participant_url": "/predictions/Michele.html",
@@ -5227,7 +5392,7 @@
             ]
         },
         {
-            "rank": 158,
+            "rank": 163,
             "rank_color": null,
             "participant": "Michiel",
             "participant_url": "/predictions/Michiel.html",
@@ -5260,7 +5425,7 @@
             ]
         },
         {
-            "rank": 159,
+            "rank": 164,
             "rank_color": null,
             "participant": "MikeD",
             "participant_url": "/predictions/MikeD.html",
@@ -5293,7 +5458,73 @@
             ]
         },
         {
-            "rank": 160,
+            "rank": 165,
+            "rank_color": null,
+            "participant": "Misic1",
+            "participant_url": "/predictions/Misic1.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Misic1",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Misic1",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Misic1",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Misic1",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 166,
+            "rank_color": null,
+            "participant": "Misic2",
+            "participant_url": "/predictions/Misic2.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Misic2",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Misic2",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Misic2",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Misic2",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 167,
             "rank_color": null,
             "participant": "Mitchell",
             "participant_url": "/predictions/Mitchell.html",
@@ -5326,7 +5557,7 @@
             ]
         },
         {
-            "rank": 161,
+            "rank": 168,
             "rank_color": null,
             "participant": "Moncef",
             "participant_url": "/predictions/Moncef.html",
@@ -5359,7 +5590,7 @@
             ]
         },
         {
-            "rank": 162,
+            "rank": 169,
             "rank_color": null,
             "participant": "Mugwe",
             "participant_url": "/predictions/Mugwe.html",
@@ -5392,7 +5623,7 @@
             ]
         },
         {
-            "rank": 163,
+            "rank": 170,
             "rank_color": null,
             "participant": "Nas",
             "participant_url": "/predictions/Nas.html",
@@ -5425,26 +5656,26 @@
             ]
         },
         {
-            "rank": 164,
+            "rank": 171,
             "rank_color": null,
-            "participant": "Neha",
-            "participant_url": "/predictions/Neha.html",
-            "participant_color": null,
+            "participant": "Nelson",
+            "participant_url": "/predictions/Nelson.html",
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
-            "group_url": "/group_pts/group_pts.htm?name=Neha",
+            "group_url": "/group_pts/group_pts.htm?name=Nelson",
             "group_points_color": null,
             "bracket_points": 0.0,
-            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Neha",
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Nelson",
             "bracket_points_color": null,
             "possible_left": 1188.0,
-            "possible_url": "/possible_pts/possible_pts.htm?name=Neha",
+            "possible_url": "/possible_pts/possible_pts.htm?name=Nelson",
             "possible_left_color": null,
             "bonus_game": 0,
-            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Neha",
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nelson",
             "bonus_game_color": null,
             "preds": [
                 "",
@@ -5458,7 +5689,7 @@
             ]
         },
         {
-            "rank": 165,
+            "rank": 172,
             "rank_color": null,
             "participant": "NickM",
             "participant_url": "/predictions/NickM.html",
@@ -5491,7 +5722,7 @@
             ]
         },
         {
-            "rank": 166,
+            "rank": 173,
             "rank_color": null,
             "participant": "Nicole1",
             "participant_url": "/predictions/Nicole1.html",
@@ -5524,7 +5755,7 @@
             ]
         },
         {
-            "rank": 167,
+            "rank": 174,
             "rank_color": null,
             "participant": "Nicole2",
             "participant_url": "/predictions/Nicole2.html",
@@ -5557,13 +5788,13 @@
             ]
         },
         {
-            "rank": 168,
+            "rank": 175,
             "rank_color": null,
             "participant": "Nima",
             "participant_url": "/predictions/Nima.html",
             "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -5590,7 +5821,7 @@
             ]
         },
         {
-            "rank": 169,
+            "rank": 176,
             "rank_color": null,
             "participant": "Niousha",
             "participant_url": "/predictions/Niousha.html",
@@ -5623,7 +5854,7 @@
             ]
         },
         {
-            "rank": 170,
+            "rank": 177,
             "rank_color": null,
             "participant": "Nolan",
             "participant_url": "/predictions/Nolan.html",
@@ -5656,7 +5887,7 @@
             ]
         },
         {
-            "rank": 171,
+            "rank": 178,
             "rank_color": null,
             "participant": "Nuno1",
             "participant_url": "/predictions/Nuno1.html",
@@ -5689,7 +5920,7 @@
             ]
         },
         {
-            "rank": 172,
+            "rank": 179,
             "rank_color": null,
             "participant": "Nuno2",
             "participant_url": "/predictions/Nuno2.html",
@@ -5722,7 +5953,7 @@
             ]
         },
         {
-            "rank": 173,
+            "rank": 180,
             "rank_color": null,
             "participant": "PabloL",
             "participant_url": "/predictions/PabloL.html",
@@ -5755,7 +5986,7 @@
             ]
         },
         {
-            "rank": 174,
+            "rank": 181,
             "rank_color": null,
             "participant": "Pam",
             "participant_url": "/predictions/Pam.html",
@@ -5788,13 +6019,13 @@
             ]
         },
         {
-            "rank": 175,
+            "rank": 182,
             "rank_color": null,
             "participant": "Paolo",
             "participant_url": "/predictions/Paolo.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -5821,7 +6052,7 @@
             ]
         },
         {
-            "rank": 176,
+            "rank": 183,
             "rank_color": null,
             "participant": "Pardeep",
             "participant_url": "/predictions/Pardeep.html",
@@ -5854,7 +6085,7 @@
             ]
         },
         {
-            "rank": 177,
+            "rank": 184,
             "rank_color": null,
             "participant": "Pascal",
             "participant_url": "/predictions/Pascal.html",
@@ -5887,7 +6118,40 @@
             ]
         },
         {
-            "rank": 178,
+            "rank": 185,
+            "rank_color": null,
+            "participant": "Patullo",
+            "participant_url": "/predictions/Patullo.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Patullo",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Patullo",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Patullo",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Patullo",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 186,
             "rank_color": null,
             "participant": "PaulA",
             "participant_url": "/predictions/PaulA.html",
@@ -5920,7 +6184,7 @@
             ]
         },
         {
-            "rank": 179,
+            "rank": 187,
             "rank_color": null,
             "participant": "PaulC",
             "participant_url": "/predictions/PaulC.html",
@@ -5953,7 +6217,40 @@
             ]
         },
         {
-            "rank": 180,
+            "rank": 188,
+            "rank_color": null,
+            "participant": "Pierfelice",
+            "participant_url": "/predictions/Pierfelice.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Pierfelice",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Pierfelice",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Pierfelice",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Pierfelice",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 189,
             "rank_color": null,
             "participant": "Pouya",
             "participant_url": "/predictions/Pouya.html",
@@ -5986,7 +6283,7 @@
             ]
         },
         {
-            "rank": 181,
+            "rank": 190,
             "rank_color": null,
             "participant": "Preto1",
             "participant_url": "/predictions/Preto1.html",
@@ -6019,7 +6316,7 @@
             ]
         },
         {
-            "rank": 182,
+            "rank": 191,
             "rank_color": null,
             "participant": "Preto2",
             "participant_url": "/predictions/Preto2.html",
@@ -6052,11 +6349,11 @@
             ]
         },
         {
-            "rank": 183,
+            "rank": 192,
             "rank_color": null,
             "participant": "Punit",
             "participant_url": "/predictions/Punit.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "$",
             "spacer_color": "#00B050",
             "total_points": 0.0,
@@ -6085,7 +6382,40 @@
             ]
         },
         {
-            "rank": 184,
+            "rank": 193,
+            "rank_color": null,
+            "participant": "Rachel",
+            "participant_url": "/predictions/Rachel.html",
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
+            "total_points": 0.0,
+            "total_points_color": null,
+            "group_points": 0.0,
+            "group_url": "/group_pts/group_pts.htm?name=Rachel",
+            "group_points_color": null,
+            "bracket_points": 0.0,
+            "bracket_url": "/knockout_pts/knockout_pts.htm?name=Rachel",
+            "bracket_points_color": null,
+            "possible_left": 1188.0,
+            "possible_url": "/possible_pts/possible_pts.htm?name=Rachel",
+            "possible_left_color": null,
+            "bonus_game": 0,
+            "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rachel",
+            "bonus_game_color": null,
+            "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        },
+        {
+            "rank": 194,
             "rank_color": null,
             "participant": "RD2026",
             "participant_url": "/predictions/RD2026.html",
@@ -6118,7 +6448,7 @@
             ]
         },
         {
-            "rank": 185,
+            "rank": 195,
             "rank_color": null,
             "participant": "Ricardo1",
             "participant_url": "/predictions/Ricardo1.html",
@@ -6151,7 +6481,7 @@
             ]
         },
         {
-            "rank": 186,
+            "rank": 196,
             "rank_color": null,
             "participant": "Ricardo2",
             "participant_url": "/predictions/Ricardo2.html",
@@ -6184,7 +6514,7 @@
             ]
         },
         {
-            "rank": 187,
+            "rank": 197,
             "rank_color": null,
             "participant": "RichardMa",
             "participant_url": "/predictions/RichardMa.html",
@@ -6217,7 +6547,7 @@
             ]
         },
         {
-            "rank": 188,
+            "rank": 198,
             "rank_color": null,
             "participant": "RichardMo",
             "participant_url": "/predictions/RichardMo.html",
@@ -6250,7 +6580,7 @@
             ]
         },
         {
-            "rank": 189,
+            "rank": 199,
             "rank_color": null,
             "participant": "RickT",
             "participant_url": "/predictions/RickT.html",
@@ -6283,7 +6613,7 @@
             ]
         },
         {
-            "rank": 190,
+            "rank": 200,
             "rank_color": null,
             "participant": "Rita",
             "participant_url": "/predictions/Rita.html",
@@ -6316,7 +6646,7 @@
             ]
         },
         {
-            "rank": 191,
+            "rank": 201,
             "rank_color": null,
             "participant": "RobertP",
             "participant_url": "/predictions/RobertP.html",
@@ -6349,7 +6679,7 @@
             ]
         },
         {
-            "rank": 192,
+            "rank": 202,
             "rank_color": null,
             "participant": "RobertS",
             "participant_url": "/predictions/RobertS.html",
@@ -6382,7 +6712,7 @@
             ]
         },
         {
-            "rank": 193,
+            "rank": 203,
             "rank_color": null,
             "participant": "RobSi",
             "participant_url": "/predictions/RobSi.html",
@@ -6415,7 +6745,7 @@
             ]
         },
         {
-            "rank": 194,
+            "rank": 204,
             "rank_color": null,
             "participant": "RobTu",
             "participant_url": "/predictions/RobTu.html",
@@ -6448,7 +6778,7 @@
             ]
         },
         {
-            "rank": 195,
+            "rank": 205,
             "rank_color": null,
             "participant": "RobW",
             "participant_url": "/predictions/RobW.html",
@@ -6481,7 +6811,7 @@
             ]
         },
         {
-            "rank": 196,
+            "rank": 206,
             "rank_color": null,
             "participant": "Rodrigo",
             "participant_url": "/predictions/Rodrigo.html",
@@ -6514,7 +6844,7 @@
             ]
         },
         {
-            "rank": 197,
+            "rank": 207,
             "rank_color": null,
             "participant": "Rousse",
             "participant_url": "/predictions/Rousse.html",
@@ -6547,7 +6877,7 @@
             ]
         },
         {
-            "rank": 198,
+            "rank": 208,
             "rank_color": null,
             "participant": "Roy",
             "participant_url": "/predictions/Roy.html",
@@ -6580,7 +6910,7 @@
             ]
         },
         {
-            "rank": 199,
+            "rank": 209,
             "rank_color": null,
             "participant": "Sabrina",
             "participant_url": "/predictions/Sabrina.html",
@@ -6613,7 +6943,7 @@
             ]
         },
         {
-            "rank": 200,
+            "rank": 210,
             "rank_color": null,
             "participant": "Salim",
             "participant_url": "/predictions/Salim.html",
@@ -6646,7 +6976,7 @@
             ]
         },
         {
-            "rank": 201,
+            "rank": 211,
             "rank_color": null,
             "participant": "Sam",
             "participant_url": "/predictions/Sam.html",
@@ -6679,7 +7009,7 @@
             ]
         },
         {
-            "rank": 202,
+            "rank": 212,
             "rank_color": null,
             "participant": "Sean",
             "participant_url": "/predictions/Sean.html",
@@ -6712,7 +7042,7 @@
             ]
         },
         {
-            "rank": 203,
+            "rank": 213,
             "rank_color": null,
             "participant": "Shawn1",
             "participant_url": "/predictions/Shawn1.html",
@@ -6745,7 +7075,7 @@
             ]
         },
         {
-            "rank": 204,
+            "rank": 214,
             "rank_color": null,
             "participant": "Shawn2",
             "participant_url": "/predictions/Shawn2.html",
@@ -6778,7 +7108,7 @@
             ]
         },
         {
-            "rank": 205,
+            "rank": 215,
             "rank_color": null,
             "participant": "Sheila",
             "participant_url": "/predictions/Sheila.html",
@@ -6811,7 +7141,7 @@
             ]
         },
         {
-            "rank": 206,
+            "rank": 216,
             "rank_color": null,
             "participant": "Simon",
             "participant_url": "/predictions/Simon.html",
@@ -6844,13 +7174,13 @@
             ]
         },
         {
-            "rank": 207,
+            "rank": 217,
             "rank_color": null,
             "participant": "Simone",
             "participant_url": "/predictions/Simone.html",
             "participant_color": "#00B050",
-            "spacer_val": "",
-            "spacer_color": null,
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -6877,7 +7207,7 @@
             ]
         },
         {
-            "rank": 208,
+            "rank": 218,
             "rank_color": null,
             "participant": "Simrun",
             "participant_url": "/predictions/Simrun.html",
@@ -6910,7 +7240,7 @@
             ]
         },
         {
-            "rank": 209,
+            "rank": 219,
             "rank_color": null,
             "participant": "Stallone",
             "participant_url": "/predictions/Stallone.html",
@@ -6943,11 +7273,11 @@
             ]
         },
         {
-            "rank": 210,
+            "rank": 220,
             "rank_color": null,
             "participant": "Stanley",
             "participant_url": "/predictions/Stanley.html",
-            "participant_color": null,
+            "participant_color": "#00B050",
             "spacer_val": "",
             "spacer_color": null,
             "total_points": 0.0,
@@ -6976,7 +7306,7 @@
             ]
         },
         {
-            "rank": 211,
+            "rank": 221,
             "rank_color": null,
             "participant": "StevenD",
             "participant_url": "/predictions/StevenD.html",
@@ -7009,7 +7339,7 @@
             ]
         },
         {
-            "rank": 212,
+            "rank": 222,
             "rank_color": null,
             "participant": "StevenT",
             "participant_url": "/predictions/StevenT.html",
@@ -7042,7 +7372,7 @@
             ]
         },
         {
-            "rank": 213,
+            "rank": 223,
             "rank_color": null,
             "participant": "Stirling",
             "participant_url": "/predictions/Stirling.html",
@@ -7075,7 +7405,7 @@
             ]
         },
         {
-            "rank": 214,
+            "rank": 224,
             "rank_color": null,
             "participant": "Tanya",
             "participant_url": "/predictions/Tanya.html",
@@ -7108,7 +7438,7 @@
             ]
         },
         {
-            "rank": 215,
+            "rank": 225,
             "rank_color": null,
             "participant": "Tomas",
             "participant_url": "/predictions/Tomas.html",
@@ -7141,7 +7471,7 @@
             ]
         },
         {
-            "rank": 216,
+            "rank": 226,
             "rank_color": null,
             "participant": "TomI",
             "participant_url": "/predictions/TomI.html",
@@ -7174,7 +7504,7 @@
             ]
         },
         {
-            "rank": 217,
+            "rank": 227,
             "rank_color": null,
             "participant": "TomP",
             "participant_url": "/predictions/TomP.html",
@@ -7207,7 +7537,7 @@
             ]
         },
         {
-            "rank": 218,
+            "rank": 228,
             "rank_color": null,
             "participant": "TonyH",
             "participant_url": "/predictions/TonyH.html",
@@ -7240,13 +7570,13 @@
             ]
         },
         {
-            "rank": 219,
+            "rank": 229,
             "rank_color": null,
             "participant": "TonyMa",
             "participant_url": "/predictions/TonyMa.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -7273,7 +7603,7 @@
             ]
         },
         {
-            "rank": 220,
+            "rank": 230,
             "rank_color": null,
             "participant": "TonyMi",
             "participant_url": "/predictions/TonyMi.html",
@@ -7306,7 +7636,7 @@
             ]
         },
         {
-            "rank": 221,
+            "rank": 231,
             "rank_color": null,
             "participant": "TonyS",
             "participant_url": "/predictions/TonyS.html",
@@ -7339,7 +7669,7 @@
             ]
         },
         {
-            "rank": 222,
+            "rank": 232,
             "rank_color": null,
             "participant": "TonyV",
             "participant_url": "/predictions/TonyV.html",
@@ -7372,7 +7702,7 @@
             ]
         },
         {
-            "rank": 223,
+            "rank": 233,
             "rank_color": null,
             "participant": "Trevor",
             "participant_url": "/predictions/Trevor.html",
@@ -7405,7 +7735,7 @@
             ]
         },
         {
-            "rank": 224,
+            "rank": 234,
             "rank_color": null,
             "participant": "Tristan",
             "participant_url": "/predictions/Tristan.html",
@@ -7438,7 +7768,7 @@
             ]
         },
         {
-            "rank": 225,
+            "rank": 235,
             "rank_color": null,
             "participant": "Victor",
             "participant_url": "/predictions/Victor.html",
@@ -7471,7 +7801,7 @@
             ]
         },
         {
-            "rank": 226,
+            "rank": 236,
             "rank_color": null,
             "participant": "Vishal",
             "participant_url": "/predictions/Vishal.html",
@@ -7504,7 +7834,7 @@
             ]
         },
         {
-            "rank": 227,
+            "rank": 237,
             "rank_color": null,
             "participant": "Vito",
             "participant_url": "/predictions/Vito.html",
@@ -7537,7 +7867,7 @@
             ]
         },
         {
-            "rank": 228,
+            "rank": 238,
             "rank_color": null,
             "participant": "William",
             "participant_url": "/predictions/William.html",
@@ -7570,7 +7900,7 @@
             ]
         },
         {
-            "rank": 229,
+            "rank": 239,
             "rank_color": null,
             "participant": "Wilson",
             "participant_url": "/predictions/Wilson.html",
@@ -7603,7 +7933,7 @@
             ]
         },
         {
-            "rank": 230,
+            "rank": 240,
             "rank_color": null,
             "participant": "Yogi",
             "participant_url": "/predictions/Yogi.html",
