@@ -1,6 +1,6 @@
 {
     "metadata": {
-        "last_updated": "2026-06-10T22:27:16",
+        "last_updated": "2026-06-10T22:39:28",
         "header_stacks": [
             {
                 "top": "M",
@@ -347,9 +347,9 @@
             "rank_color": null,
             "participant": "Ali",
             "participant_url": "/predictions/Ali.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
@@ -8564,9 +8564,9 @@
             "rank_color": null,
             "participant": "Wilson",
             "participant_url": "/predictions/Wilson.html",
-            "participant_color": null,
-            "spacer_val": "",
-            "spacer_color": null,
+            "participant_color": "#00B050",
+            "spacer_val": "$",
+            "spacer_color": "#00B050",
             "total_points": 0.0,
             "total_points_color": null,
             "group_points": 0.0,
