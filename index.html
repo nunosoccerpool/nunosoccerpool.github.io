@@ -198,7 +198,10 @@
       try {
         const res  = await fetch('/MAIN/json/songs.json');
         const data = await res.json();
-        const today = new Date().toISOString().slice(0, 10);
+        const now = new Date();
+        const today = now.getFullYear() + '-' +
+                      String(now.getMonth() + 1).padStart(2, '0') + '-' +
+                      String(now.getDate()).padStart(2, '0');
         const entry = data.find(d => d.date === today);
         const names = (entry && entry.names.length > 0) ? entry.names : FALLBACK_SONGS;
         SONGS = names.map(name => ({ file: '/songs/' + name + '.mp3', label: name }));
