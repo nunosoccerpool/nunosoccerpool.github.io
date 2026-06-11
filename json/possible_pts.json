@@ -269734,5 +269734,1949 @@
                 "pts_awarded": 120
             }
         ]
+    },
+    "JoeA": {
+        "total_points": 1188,
+        "matches": {
+            "GroupA": [
+                {
+                    "home_name": "Mexico",
+                    "away_name": "South Africa",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "South Korea",
+                    "away_name": "Czechia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Czechia",
+                    "away_name": "South Africa",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Mexico",
+                    "away_name": "South Korea",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Czechia",
+                    "away_name": "Mexico",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "South Africa",
+                    "away_name": "South Korea",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupB": [
+                {
+                    "home_name": "Canada",
+                    "away_name": "Bosnia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Qatar",
+                    "away_name": "Switzerland",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Switzerland",
+                    "away_name": "Bosnia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Canada",
+                    "away_name": "Qatar",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Switzerland",
+                    "away_name": "Canada",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Bosnia",
+                    "away_name": "Qatar",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupC": [
+                {
+                    "home_name": "Haiti",
+                    "away_name": "Scotland",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Brazil",
+                    "away_name": "Morocco",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Brazil",
+                    "away_name": "Haiti",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Scotland",
+                    "away_name": "Morocco",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Scotland",
+                    "away_name": "Brazil",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Morocco",
+                    "away_name": "Haiti",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupD": [
+                {
+                    "home_name": "USA",
+                    "away_name": "Paraguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Australia",
+                    "away_name": "Turkey",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Turkey",
+                    "away_name": "Paraguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "USA",
+                    "away_name": "Australia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Turkey",
+                    "away_name": "USA",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Paraguay",
+                    "away_name": "Australia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupE": [
+                {
+                    "home_name": "Ivory Coast",
+                    "away_name": "Ecuador",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Germany",
+                    "away_name": "Curacao",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Germany",
+                    "away_name": "Ivory Coast",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Ecuador",
+                    "away_name": "Curacao",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Curacao",
+                    "away_name": "Ivory Coast",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Ecuador",
+                    "away_name": "Germany",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupF": [
+                {
+                    "home_name": "Netherlands",
+                    "away_name": "Japan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Sweden",
+                    "away_name": "Tunisia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Netherlands",
+                    "away_name": "Sweden",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Tunisia",
+                    "away_name": "Japan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Japan",
+                    "away_name": "Sweden",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Tunisia",
+                    "away_name": "Netherlands",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupG": [
+                {
+                    "home_name": "Iran",
+                    "away_name": "New Zealand",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Belgium",
+                    "away_name": "Egypt",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Belgium",
+                    "away_name": "Iran",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "New Zealand",
+                    "away_name": "Egypt",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Egypt",
+                    "away_name": "Iran",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "New Zealand",
+                    "away_name": "Belgium",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupH": [
+                {
+                    "home_name": "Saudi Arabia",
+                    "away_name": "Uruguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Spain",
+                    "away_name": "Cabo Verde",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uruguay",
+                    "away_name": "Cabo Verde",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Spain",
+                    "away_name": "Saudi Arabia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Cabo Verde",
+                    "away_name": "Saudi Arabia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uruguay",
+                    "away_name": "Spain",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupI": [
+                {
+                    "home_name": "France",
+                    "away_name": "Senegal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Iraq",
+                    "away_name": "Norway",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Norway",
+                    "away_name": "Senegal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "France",
+                    "away_name": "Iraq",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Norway",
+                    "away_name": "France",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Senegal",
+                    "away_name": "Iraq",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupJ": [
+                {
+                    "home_name": "Argentina",
+                    "away_name": "Algeria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Austria",
+                    "away_name": "Jordan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Argentina",
+                    "away_name": "Austria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Jordan",
+                    "away_name": "Algeria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Algeria",
+                    "away_name": "Austria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Jordan",
+                    "away_name": "Argentina",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupK": [
+                {
+                    "home_name": "Portugal",
+                    "away_name": "Congo",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uzbekistan",
+                    "away_name": "Colombia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Portugal",
+                    "away_name": "Uzbekistan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Colombia",
+                    "away_name": "Congo",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Colombia",
+                    "away_name": "Portugal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Congo",
+                    "away_name": "Uzbekistan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupL": [
+                {
+                    "home_name": "Ghana",
+                    "away_name": "Panama",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "England",
+                    "away_name": "Croatia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "England",
+                    "away_name": "Ghana",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Panama",
+                    "away_name": "Croatia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Panama",
+                    "away_name": "England",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Croatia",
+                    "away_name": "Ghana",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ]
+        },
+        "rankings": {
+            "GroupA": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupB": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupC": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupD": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupE": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupF": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupG": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupH": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupI": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupJ": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupK": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupL": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            }
+        },
+        "round_of_32": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            }
+        ],
+        "round_of_16": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            }
+        ],
+        "quarterfinals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            }
+        ],
+        "semifinals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 96
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 96
+            }
+        ],
+        "finals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 192
+            }
+        ],
+        "champions": [
+            {
+                "pred_home_name": "",
+                "pts_awarded": 120
+            }
+        ]
+    },
+    "KevinC": {
+        "total_points": 1188,
+        "matches": {
+            "GroupA": [
+                {
+                    "home_name": "Mexico",
+                    "away_name": "South Africa",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "South Korea",
+                    "away_name": "Czechia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Czechia",
+                    "away_name": "South Africa",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Mexico",
+                    "away_name": "South Korea",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Czechia",
+                    "away_name": "Mexico",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "South Africa",
+                    "away_name": "South Korea",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupB": [
+                {
+                    "home_name": "Canada",
+                    "away_name": "Bosnia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Qatar",
+                    "away_name": "Switzerland",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Switzerland",
+                    "away_name": "Bosnia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Canada",
+                    "away_name": "Qatar",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Switzerland",
+                    "away_name": "Canada",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Bosnia",
+                    "away_name": "Qatar",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupC": [
+                {
+                    "home_name": "Haiti",
+                    "away_name": "Scotland",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Brazil",
+                    "away_name": "Morocco",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Brazil",
+                    "away_name": "Haiti",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Scotland",
+                    "away_name": "Morocco",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Scotland",
+                    "away_name": "Brazil",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Morocco",
+                    "away_name": "Haiti",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupD": [
+                {
+                    "home_name": "USA",
+                    "away_name": "Paraguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Australia",
+                    "away_name": "Turkey",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Turkey",
+                    "away_name": "Paraguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "USA",
+                    "away_name": "Australia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Turkey",
+                    "away_name": "USA",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Paraguay",
+                    "away_name": "Australia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupE": [
+                {
+                    "home_name": "Ivory Coast",
+                    "away_name": "Ecuador",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Germany",
+                    "away_name": "Curacao",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Germany",
+                    "away_name": "Ivory Coast",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Ecuador",
+                    "away_name": "Curacao",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Curacao",
+                    "away_name": "Ivory Coast",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Ecuador",
+                    "away_name": "Germany",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupF": [
+                {
+                    "home_name": "Netherlands",
+                    "away_name": "Japan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Sweden",
+                    "away_name": "Tunisia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Netherlands",
+                    "away_name": "Sweden",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Tunisia",
+                    "away_name": "Japan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Japan",
+                    "away_name": "Sweden",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Tunisia",
+                    "away_name": "Netherlands",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupG": [
+                {
+                    "home_name": "Iran",
+                    "away_name": "New Zealand",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Belgium",
+                    "away_name": "Egypt",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Belgium",
+                    "away_name": "Iran",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "New Zealand",
+                    "away_name": "Egypt",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Egypt",
+                    "away_name": "Iran",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "New Zealand",
+                    "away_name": "Belgium",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupH": [
+                {
+                    "home_name": "Saudi Arabia",
+                    "away_name": "Uruguay",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Spain",
+                    "away_name": "Cabo Verde",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uruguay",
+                    "away_name": "Cabo Verde",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Spain",
+                    "away_name": "Saudi Arabia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Cabo Verde",
+                    "away_name": "Saudi Arabia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uruguay",
+                    "away_name": "Spain",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupI": [
+                {
+                    "home_name": "France",
+                    "away_name": "Senegal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Iraq",
+                    "away_name": "Norway",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Norway",
+                    "away_name": "Senegal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "France",
+                    "away_name": "Iraq",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Norway",
+                    "away_name": "France",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Senegal",
+                    "away_name": "Iraq",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupJ": [
+                {
+                    "home_name": "Argentina",
+                    "away_name": "Algeria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Austria",
+                    "away_name": "Jordan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Argentina",
+                    "away_name": "Austria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Jordan",
+                    "away_name": "Algeria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Algeria",
+                    "away_name": "Austria",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Jordan",
+                    "away_name": "Argentina",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupK": [
+                {
+                    "home_name": "Portugal",
+                    "away_name": "Congo",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Uzbekistan",
+                    "away_name": "Colombia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Portugal",
+                    "away_name": "Uzbekistan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Colombia",
+                    "away_name": "Congo",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Colombia",
+                    "away_name": "Portugal",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Congo",
+                    "away_name": "Uzbekistan",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ],
+            "GroupL": [
+                {
+                    "home_name": "Ghana",
+                    "away_name": "Panama",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "England",
+                    "away_name": "Croatia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "England",
+                    "away_name": "Ghana",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Panama",
+                    "away_name": "Croatia",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Panama",
+                    "away_name": "England",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                },
+                {
+                    "home_name": "Croatia",
+                    "away_name": "Ghana",
+                    "home_score": "",
+                    "away_score": "",
+                    "pts_awarded": 2
+                }
+            ]
+        },
+        "rankings": {
+            "GroupA": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupB": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupC": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupD": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupE": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupF": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupG": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupH": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupI": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupJ": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupK": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            },
+            "GroupL": {
+                "player_ranking": [
+                    {
+                        "rank_name": "",
+                        "pts_awarded": 9
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    },
+                    {
+                        "rank_name": ""
+                    }
+                ]
+            }
+        },
+        "round_of_32": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 3
+            }
+        ],
+        "round_of_16": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 24
+            }
+        ],
+        "quarterfinals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 48
+            }
+        ],
+        "semifinals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 96
+            },
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 96
+            }
+        ],
+        "finals": [
+            {
+                "pred_home_name": "",
+                "pred_home_score": "",
+                "pred_away_name": "",
+                "pred_away_score": "",
+                "pts_awarded": 192
+            }
+        ],
+        "champions": [
+            {
+                "pred_home_name": "",
+                "pts_awarded": 120
+            }
+        ]
     }
 }
