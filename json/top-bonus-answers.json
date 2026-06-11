@@ -8,11 +8,11 @@
             },
             {
                 "col1": "Spain",
-                "col2": "49"
+                "col2": "50"
             },
             {
                 "col1": "Brazil",
-                "col2": "45"
+                "col2": "46"
             },
             {
                 "col1": "France",
@@ -40,12 +40,12 @@
                 "col2": "31"
             },
             {
-                "col1": "Spain",
+                "col1": "Brazil",
                 "col2": "28"
             },
             {
-                "col1": "Brazil",
-                "col2": "27"
+                "col1": "Spain",
+                "col2": "28"
             },
             {
                 "col1": "Germany",
@@ -53,7 +53,7 @@
             },
             {
                 "col1": "Portugal",
-                "col2": "16"
+                "col2": "17"
             }
         ]
     },
@@ -62,43 +62,43 @@
         "rows": [
             {
                 "col1": "Mexico",
-                "col2": "76"
+                "col2": "77"
             },
             {
                 "col1": "Canada",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Brazil",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "USA",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Argentina",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "France",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "South Korea",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Spain",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "BOSNIA",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Czechia",
-                "col2": "36"
+                "col2": "37"
             }
         ]
     },
@@ -107,7 +107,7 @@
         "rows": [
             {
                 "col1": "Curacao",
-                "col2": "26"
+                "col2": "27"
             },
             {
                 "col1": "Qatar",
@@ -123,7 +123,7 @@
             },
             {
                 "col1": "Cabo Verde",
-                "col2": "15"
+                "col2": "16"
             },
             {
                 "col1": "NO OWN-GOALS",
@@ -159,12 +159,12 @@
                 "col2": "13"
             },
             {
-                "col1": "12 goals",
+                "col1": "6 goals",
                 "col2": "12"
             },
             {
-                "col1": "6 goals",
-                "col2": "11"
+                "col1": "12 goals",
+                "col2": "12"
             },
             {
                 "col1": "17 goals",
@@ -189,11 +189,11 @@
             },
             {
                 "col1": "Uruguay",
-                "col2": "17"
+                "col2": "18"
             },
             {
                 "col1": "South Africa",
-                "col2": "12"
+                "col2": "13"
             },
             {
                 "col1": "Iran",
@@ -279,7 +279,7 @@
             },
             {
                 "col1": "5 cards",
-                "col2": "23"
+                "col2": "24"
             },
             {
                 "col1": "4 cards",
@@ -319,7 +319,7 @@
                 "col2": "5"
             },
             {
-                "col1": "200 cards",
+                "col1": "20 cards",
                 "col2": "4"
             }
         ]
@@ -337,7 +337,7 @@
             },
             {
                 "col1": "Colombia",
-                "col2": "12"
+                "col2": "13"
             },
             {
                 "col1": "Ecuador",
@@ -407,7 +407,7 @@
             },
             {
                 "col1": "6 games",
-                "col2": "37"
+                "col2": "38"
             },
             {
                 "col1": "5 games",
@@ -415,7 +415,7 @@
             },
             {
                 "col1": "7 games",
-                "col2": "27"
+                "col2": "28"
             },
             {
                 "col1": "3 games",
@@ -436,7 +436,7 @@
             },
             {
                 "col1": "minute 13 - 24",
-                "col2": "68"
+                "col2": "70"
             },
             {
                 "col1": "minute 37 - 48",
@@ -523,7 +523,7 @@
         "rows": [
             {
                 "col1": "No",
-                "col2": "197"
+                "col2": "199"
             },
             {
                 "col1": "Yes",
@@ -536,11 +536,11 @@
         "rows": [
             {
                 "col1": "Spain",
-                "col2": "42"
+                "col2": "43"
             },
             {
                 "col1": "France",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Germany",
@@ -573,7 +573,7 @@
             },
             {
                 "col1": "Brazil vs Haiti",
-                "col2": "30"
+                "col2": "31"
             },
             {
                 "col1": "Brazil vs Morocco",
@@ -601,11 +601,11 @@
                 "col2": "22"
             },
             {
-                "col1": "Argentina vs Algeria",
-                "col2": "15"
+                "col1": "Mexico vs South Africa",
+                "col2": "16"
             },
             {
-                "col1": "Mexico vs South Africa",
+                "col1": "Argentina vs Algeria",
                 "col2": "15"
             },
             {
@@ -635,7 +635,7 @@
             },
             {
                 "col1": "Korea vs Czechia",
-                "col2": "15"
+                "col2": "16"
             },
             {
                 "col1": "Qatar vs Switzerland",
