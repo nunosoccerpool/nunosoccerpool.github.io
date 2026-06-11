@@ -196,7 +196,7 @@
 
     async function loadPlaylist() {
       try {
-        const res  = await fetch('/MAIN/json/songs.json');
+        const res  = await fetch('/json/songs.json');
         const data = await res.json();
         const now = new Date();
         const today = now.getFullYear() + '-' +
