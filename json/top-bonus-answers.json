@@ -12,7 +12,7 @@
             },
             {
                 "col1": "Brazil",
-                "col2": "46"
+                "col2": "45"
             },
             {
                 "col1": "France",
@@ -49,11 +49,11 @@
             },
             {
                 "col1": "Germany",
-                "col2": "26"
+                "col2": "25"
             },
             {
                 "col1": "Portugal",
-                "col2": "15"
+                "col2": "16"
             }
         ]
     },
@@ -62,7 +62,7 @@
         "rows": [
             {
                 "col1": "Mexico",
-                "col2": "77"
+                "col2": "76"
             },
             {
                 "col1": "Canada",
@@ -115,7 +115,7 @@
             },
             {
                 "col1": "South Africa",
-                "col2": "24"
+                "col2": "23"
             },
             {
                 "col1": "Haiti",
@@ -124,6 +124,10 @@
             {
                 "col1": "Cabo Verde",
                 "col2": "15"
+            },
+            {
+                "col1": "NO OWN-GOALS",
+                "col2": "10"
             },
             {
                 "col1": "Algeria",
@@ -138,10 +142,6 @@
                 "col2": "9"
             },
             {
-                "col1": "NO OWN-GOALS",
-                "col2": "9"
-            },
-            {
                 "col1": "Uzbekistan",
                 "col2": "9"
             }
@@ -152,7 +152,7 @@
         "rows": [
             {
                 "col1": "15 goals",
-                "col2": "21"
+                "col2": "22"
             },
             {
                 "col1": "19 goals",
@@ -181,7 +181,7 @@
         "rows": [
             {
                 "col1": "Paraguay",
-                "col2": "26"
+                "col2": "25"
             },
             {
                 "col1": "Haiti",
@@ -275,7 +275,7 @@
             },
             {
                 "col1": "7 cards",
-                "col2": "24"
+                "col2": "25"
             },
             {
                 "col1": "5 cards",
@@ -414,11 +414,11 @@
                 "col2": "36"
             },
             {
-                "col1": "3 games",
-                "col2": "26"
+                "col1": "7 games",
+                "col2": "27"
             },
             {
-                "col1": "7 games",
+                "col1": "3 games",
                 "col2": "26"
             },
             {
@@ -432,7 +432,7 @@
         "rows": [
             {
                 "col1": "minute 25 - 36",
-                "col2": "87"
+                "col2": "86"
             },
             {
                 "col1": "minute 13 - 24",
@@ -448,7 +448,7 @@
             },
             {
                 "col1": "minute 49 - 60",
-                "col2": "12"
+                "col2": "13"
             },
             {
                 "col1": "minute 61 - 72",
@@ -481,7 +481,7 @@
             },
             {
                 "col1": "4 cards",
-                "col2": "50"
+                "col2": "51"
             },
             {
                 "col1": "3 cards",
@@ -489,7 +489,7 @@
             },
             {
                 "col1": "6 cards",
-                "col2": "34"
+                "col2": "33"
             },
             {
                 "col1": "2 cards",
@@ -536,7 +536,7 @@
         "rows": [
             {
                 "col1": "Spain",
-                "col2": "41"
+                "col2": "42"
             },
             {
                 "col1": "France",
@@ -601,12 +601,12 @@
                 "col2": "22"
             },
             {
-                "col1": "Mexico vs South Africa",
+                "col1": "Argentina vs Algeria",
                 "col2": "15"
             },
             {
-                "col1": "Argentina vs Algeria",
-                "col2": "14"
+                "col1": "Mexico vs South Africa",
+                "col2": "15"
             },
             {
                 "col1": "Canada vs Bosnia",
@@ -643,7 +643,7 @@
             },
             {
                 "col1": "Japan vs Sweden",
-                "col2": "12"
+                "col2": "13"
             }
         ]
     }
