@@ -4,7 +4,7 @@
         "rows": [
             {
                 "col1": "Germany",
-                "col2": "64"
+                "col2": "65"
             },
             {
                 "col1": "Spain",
@@ -110,11 +110,11 @@
                 "col2": "27"
             },
             {
-                "col1": "Qatar",
-                "col2": "24"
+                "col1": "South Africa",
+                "col2": "25"
             },
             {
-                "col1": "South Africa",
+                "col1": "Qatar",
                 "col2": "24"
             },
             {
@@ -204,15 +204,15 @@
                 "col2": "9"
             },
             {
+                "col1": "Algeria",
+                "col2": "8"
+            },
+            {
                 "col1": "Bosnia",
                 "col2": "8"
             },
             {
                 "col1": "Cabo Verde",
-                "col2": "8"
-            },
-            {
-                "col1": "Congo",
                 "col2": "8"
             },
             {
@@ -234,7 +234,7 @@
             },
             {
                 "col1": "Colombia",
-                "col2": "13"
+                "col2": "12"
             },
             {
                 "col1": "Mexico",
@@ -275,7 +275,7 @@
             },
             {
                 "col1": "7 cards",
-                "col2": "25"
+                "col2": "26"
             },
             {
                 "col1": "5 cards",
@@ -315,12 +315,12 @@
                 "col2": "5"
             },
             {
-                "col1": "360 cards",
+                "col1": "300 cards",
                 "col2": "5"
             },
             {
-                "col1": "20 cards",
-                "col2": "4"
+                "col1": "360 cards",
+                "col2": "5"
             }
         ]
     },
@@ -353,7 +353,7 @@
             },
             {
                 "col1": "Congo",
-                "col2": "9"
+                "col2": "8"
             },
             {
                 "col1": "Haiti",
@@ -411,19 +411,19 @@
             },
             {
                 "col1": "5 games",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "7 games",
                 "col2": "28"
             },
             {
-                "col1": "3 games",
+                "col1": "8 games",
                 "col2": "26"
             },
             {
-                "col1": "8 games",
-                "col2": "26"
+                "col1": "3 games",
+                "col2": "25"
             }
         ]
     },
@@ -436,7 +436,7 @@
             },
             {
                 "col1": "minute 13 - 24",
-                "col2": "70"
+                "col2": "69"
             },
             {
                 "col1": "minute 37 - 48",
@@ -464,7 +464,7 @@
             },
             {
                 "col1": "minute 97 - 108",
-                "col2": "1"
+                "col2": "2"
             },
             {
                 "col1": "minute",
@@ -481,11 +481,11 @@
             },
             {
                 "col1": "4 cards",
-                "col2": "51"
+                "col2": "50"
             },
             {
                 "col1": "3 cards",
-                "col2": "41"
+                "col2": "42"
             },
             {
                 "col1": "6 cards",
@@ -523,11 +523,11 @@
         "rows": [
             {
                 "col1": "No",
-                "col2": "200"
+                "col2": "201"
             },
             {
                 "col1": "Yes",
-                "col2": "38"
+                "col2": "37"
             }
         ]
     },
@@ -548,7 +548,7 @@
             },
             {
                 "col1": "Brazil",
-                "col2": "28"
+                "col2": "27"
             },
             {
                 "col1": "Portugal",
@@ -569,7 +569,7 @@
             },
             {
                 "col1": "Germany vs Curacao",
-                "col2": "36"
+                "col2": "37"
             },
             {
                 "col1": "Brazil vs Haiti",
@@ -630,11 +630,11 @@
                 "col2": "18"
             },
             {
-                "col1": "Netherlands vs Japan",
+                "col1": "Korea vs Czechia",
                 "col2": "17"
             },
             {
-                "col1": "Korea vs Czechia",
+                "col1": "Netherlands vs Japan",
                 "col2": "16"
             },
             {
