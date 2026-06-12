@@ -1,12 +1,12 @@
 {
     "totals": {
-        "total_goals": "5",
-        "yellow_cards": "4",
+        "total_goals": "7",
+        "yellow_cards": "9",
         "red_two_yellow": "0",
         "red_straight": "3",
         "penalty_goals": "0",
         "own_goals": "0",
-        "most_yc_details": "South Africa",
+        "most_yc_details": "Bosnia",
         "fastest_goal_team": "Mexico"
     },
     "matches": [
@@ -18,7 +18,7 @@
             "red_straight": "3",
             "penalty_goals": "0",
             "own_goals": "0",
-            "most_yc_details": "South Africa (2)",
+            "most_yc_details": "",
             "fastest_goal_min": "9",
             "fastest_goal_team": "Mexico"
         },
@@ -36,15 +36,15 @@
         },
         {
             "name": "Canada vs Bosnia",
-            "goals": "-",
-            "yellow_cards": "",
+            "goals": "1 - 1",
+            "yellow_cards": "5",
             "red_two_yellow": "",
             "red_straight": "",
             "penalty_goals": "",
             "own_goals": "",
-            "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "most_yc_details": "Bosnia (3)",
+            "fastest_goal_min": "21",
+            "fastest_goal_team": "Bosnia"
         },
         {
             "name": "USA vs Paraguay",
