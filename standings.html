@@ -338,6 +338,10 @@
     window.closeOverlay = function() {
       overlay.style.display = 'none';
       sessionStorage.setItem('overlayShown', 'true');
+      // Signal the shell player to start music (only fires once; shell ignores repeats)
+      if (window.parent !== window) {
+        window.parent.postMessage('startMusic', '*');
+      }
     };
   })();
 </script>
