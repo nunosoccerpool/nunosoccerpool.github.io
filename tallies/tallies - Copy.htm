@@ -308,19 +308,19 @@
         let htmlStr = "";
 
         // 1. Build Totals Summary Section and Sub-label Layer
-        const t = data.totals || { total_goals: 0, yellow_cards: 0, red_two_yellow: 0, red_straight: 0, penalty_goals: 0, own_goals: 0, most_yc_details: '', fastest_goal_team: '' };
+        const t = data.totals || { goals: 0, yellow_cards: 0, red_two_yellow: 0, red_straight: 0, penalty_goals: 0, own_goals: 0 };
         
         htmlStr += `
           <tr class="total-row">
             <td class="col-a">TOTAL</td>
-            <td class="col-narrow">${t.total_goals}</td>
+            <td class="col-narrow">${t.goals}</td>
             <td class="col-narrow">${t.yellow_cards}</td>
             <td class="col-narrow">${t.red_two_yellow}</td>
             <td class="col-narrow">${t.red_straight}</td>
             <td class="col-narrow">${t.penalty_goals}</td>
             <td class="col-narrow">${t.own_goals}</td>
-            <td class="col-h">${t.most_yc_details || ''}</td>
-            <td colspan="2" style="width: 176px !important;">${t.fastest_goal_team || ''}</td>
+            <td class="col-h"></td>
+            <td colspan="2" style="width: 176px !important;"></td>
           </tr>
           <tr class="sublabel-row">
             <td class="col-a"></td>
