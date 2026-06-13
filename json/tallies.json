@@ -1,10 +1,10 @@
 {
     "totals": {
-        "total_goals": "12",
-        "yellow_cards": "15",
+        "total_goals": "14",
+        "yellow_cards": "18",
         "red_two_yellow": "0",
         "red_straight": "3",
-        "penalty_goals": "0",
+        "penalty_goals": "1",
         "own_goals": "1",
         "most_yc_details": "Paraguay",
         "fastest_goal_team": "USA"
@@ -60,15 +60,15 @@
         },
         {
             "name": "Qatar vs Switzerland",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "1 - 1",
+            "yellow_cards": "3",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "17",
+            "fastest_goal_team": "Switzerland"
         },
         {
             "name": "Brazil vs Morocco",

@@ -88,8 +88,8 @@
                     "away_name": "Switzerland",
                     "pts_awarded": null,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -1365,10 +1365,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -2644,10 +2644,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -3923,10 +3923,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -5202,10 +5202,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -6481,10 +6481,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -7760,10 +7760,10 @@
                     "home_score": 0,
                     "away_score": 5,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -9039,10 +9039,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -10318,10 +10318,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -11597,10 +11597,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -12876,10 +12876,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -14155,10 +14155,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -15434,10 +15434,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -16713,10 +16713,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -17992,10 +17992,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -19271,10 +19271,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -20550,10 +20550,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -21829,10 +21829,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -23108,10 +23108,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -24387,10 +24387,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -25666,10 +25666,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -26945,10 +26945,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -28224,10 +28224,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -29503,10 +29503,10 @@
                     "home_score": 3,
                     "away_score": 5,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -30782,10 +30782,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -32061,10 +32061,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -33340,10 +33340,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 3
     },
     "Bindu": {
         "matches": {
@@ -34619,10 +34619,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -35898,10 +35898,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -37177,10 +37177,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -38456,10 +38456,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "CarlosD": {
         "matches": {
@@ -39735,10 +39735,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -41014,10 +41014,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -42293,10 +42293,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -43572,10 +43572,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -44851,10 +44851,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -46130,10 +46130,10 @@
                     "home_score": 0,
                     "away_score": 5,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -47409,10 +47409,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -48688,10 +48688,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -49967,10 +49967,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -51246,10 +51246,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -52525,10 +52525,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -53804,10 +53804,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -55083,10 +55083,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -56362,10 +56362,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -57641,10 +57641,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -58920,10 +58920,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -60199,10 +60199,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -61478,10 +61478,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -62757,10 +62757,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -64036,10 +64036,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -65315,10 +65315,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -66594,10 +66594,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -67873,10 +67873,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -69152,10 +69152,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -70431,10 +70431,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -71710,10 +71710,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -72989,10 +72989,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -74268,10 +74268,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -75547,10 +75547,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -76826,10 +76826,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -78105,10 +78105,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -79384,10 +79384,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -80663,10 +80663,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -81942,10 +81942,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -83221,10 +83221,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -84500,10 +84500,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -85779,10 +85779,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -87058,10 +87058,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -88248,7 +88248,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Farshid": {
         "matches": {
@@ -88337,10 +88337,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -89616,10 +89616,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -90895,10 +90895,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -92174,10 +92174,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -93453,10 +93453,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -94732,10 +94732,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -96011,10 +96011,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -97290,10 +97290,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -98569,10 +98569,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -99848,10 +99848,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -101127,10 +101127,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -102406,10 +102406,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -103685,10 +103685,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -104964,10 +104964,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -106243,10 +106243,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -107522,10 +107522,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "GustavoL": {
         "matches": {
@@ -108801,10 +108801,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -110080,10 +110080,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -111359,10 +111359,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -112638,10 +112638,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -113917,10 +113917,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -115196,10 +115196,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -116475,10 +116475,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -117754,10 +117754,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -119033,10 +119033,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -120312,10 +120312,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -121591,10 +121591,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -122870,10 +122870,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -124149,10 +124149,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -125428,10 +125428,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -126707,10 +126707,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -127986,10 +127986,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -129265,10 +129265,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -130544,10 +130544,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -131823,10 +131823,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -133102,10 +133102,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -134381,10 +134381,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -135660,10 +135660,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -136939,10 +136939,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -138218,10 +138218,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -139497,10 +139497,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -140776,10 +140776,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -142055,10 +142055,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -143334,10 +143334,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -144613,10 +144613,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -145892,10 +145892,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -147171,10 +147171,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -148450,10 +148450,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -149729,10 +149729,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -151008,10 +151008,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -152287,10 +152287,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -153566,10 +153566,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -154845,10 +154845,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -156124,10 +156124,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -157403,10 +157403,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -158682,10 +158682,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -159961,10 +159961,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -161240,10 +161240,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "JustinL": {
         "matches": {
@@ -162519,10 +162519,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -163798,10 +163798,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -165077,10 +165077,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -166356,10 +166356,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -167635,10 +167635,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -168914,10 +168914,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -170193,10 +170193,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -171472,10 +171472,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -172751,10 +172751,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -174030,10 +174030,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -175309,10 +175309,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -176588,10 +176588,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -177867,10 +177867,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -179146,10 +179146,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -180425,10 +180425,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -181704,10 +181704,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -182983,10 +182983,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -184262,10 +184262,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -185541,10 +185541,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -186820,10 +186820,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -188099,10 +188099,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -189378,10 +189378,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -190657,10 +190657,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -191936,10 +191936,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -193215,10 +193215,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -194494,10 +194494,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -195773,10 +195773,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -197052,10 +197052,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -198331,10 +198331,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -199610,10 +199610,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -200889,10 +200889,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -202168,10 +202168,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -203447,10 +203447,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -204726,10 +204726,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -206005,10 +206005,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -207284,10 +207284,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -208563,10 +208563,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -209842,10 +209842,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -211121,10 +211121,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -212400,10 +212400,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -213679,10 +213679,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -214958,10 +214958,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -216237,10 +216237,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -217516,10 +217516,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -218795,10 +218795,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -220074,10 +220074,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -221353,10 +221353,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -223911,10 +223911,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -225190,10 +225190,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -226469,10 +226469,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -227748,10 +227748,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -229027,10 +229027,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -230306,10 +230306,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -231585,10 +231585,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -232864,10 +232864,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -234143,10 +234143,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -235422,10 +235422,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -236701,10 +236701,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -237980,10 +237980,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -239259,10 +239259,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Ricardo1": {
         "matches": {
@@ -240538,10 +240538,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -241817,10 +241817,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -243096,10 +243096,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -244375,10 +244375,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -245654,10 +245654,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -246933,10 +246933,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -248212,10 +248212,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -249491,10 +249491,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -250770,10 +250770,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -252049,10 +252049,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -253328,10 +253328,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -254607,10 +254607,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -255886,10 +255886,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -257165,10 +257165,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -258444,10 +258444,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -259723,10 +259723,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -261002,10 +261002,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -262281,10 +262281,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -263560,10 +263560,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -264839,10 +264839,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -266118,10 +266118,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -267397,10 +267397,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -268676,10 +268676,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -269955,10 +269955,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -271234,10 +271234,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -272513,10 +272513,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -273792,10 +273792,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -275071,10 +275071,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -276350,10 +276350,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -277629,10 +277629,10 @@
                     "home_score": 0,
                     "away_score": 5,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -278908,10 +278908,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -280187,10 +280187,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -281466,10 +281466,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -282745,10 +282745,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -284024,10 +284024,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -285303,10 +285303,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -286582,10 +286582,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -287861,10 +287861,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -289140,10 +289140,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -290419,10 +290419,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -291698,10 +291698,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -292977,10 +292977,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -294256,10 +294256,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -295535,10 +295535,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -296814,10 +296814,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -298093,10 +298093,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -299372,10 +299372,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -300651,10 +300651,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -301930,10 +301930,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -303209,10 +303209,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -304488,10 +304488,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
@@ -305767,10 +305767,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Switzerland",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Qatar",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Switzerland"
                 },
                 {
