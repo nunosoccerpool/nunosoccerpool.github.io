@@ -1,46 +1,54 @@
 {
     "metadata": {
-        "last_updated": "2026-06-12T23:44:25",
+        "last_updated": "2026-06-13T00:16:28",
         "header_stacks": [
             {
                 "top": "Q",
                 "mid": "A",
-                "btm": "T"
+                "btm": "T",
+                "flag": "Qatar"
             },
             {
                 "top": "S",
                 "mid": "U",
-                "btm": "I"
+                "btm": "I",
+                "flag": "Switzerland"
             },
             {
                 "top": "B",
                 "mid": "R",
-                "btm": "A"
+                "btm": "A",
+                "flag": "Brazil"
             },
             {
                 "top": "M",
                 "mid": "A",
-                "btm": "R"
+                "btm": "R",
+                "flag": "Morocco"
             },
             {
                 "top": "H",
                 "mid": "A",
-                "btm": "I"
+                "btm": "I",
+                "flag": "Haiti"
             },
             {
                 "top": "S",
                 "mid": "C",
-                "btm": "O"
+                "btm": "O",
+                "flag": "Scotland"
             },
             {
                 "top": "A",
                 "mid": "U",
-                "btm": "S"
+                "btm": "S",
+                "flag": "Australia"
             },
             {
                 "top": "T",
                 "mid": "U",
-                "btm": "R"
+                "btm": "R",
+                "flag": "Turkey"
             }
         ]
     },

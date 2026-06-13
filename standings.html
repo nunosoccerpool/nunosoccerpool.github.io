@@ -44,7 +44,15 @@
         }
 
         .table-wrapper { display: flex; flex-direction: column; }
-        .table-title { font-size: 0.85rem; color: #999; margin-bottom: 8px; height: 20px; text-align: center; }
+        .table-title { font-size: 0.85rem; color: #999; margin-bottom: 2px; height: 20px; text-align: center; }
+
+        .pred-header-flag {
+            display: block;
+            width: 18px;
+            height: 12px;
+            object-fit: fill;
+            margin: 0 auto 2px auto;
+        }
 
         .table { 
             border-collapse: separate; 
@@ -188,6 +196,12 @@
             /* Gaps doubled to 8px, Match prediction columns narrowed down to 14px */
             .table-mobile-combined .vertical-header { width: 14px !important; min-width: 14px !important; font-size: 10px !important; }
             .table-mobile-combined .game-gap { width: 8px !important; }
+
+            .table-mobile-combined .pred-header-flag {
+                width: 12px !important;
+                height: 8px !important;
+                margin: 0 auto 1px auto !important;
+            }
 
             .table-mobile-combined thead th {
                 height: 55px !important;
@@ -460,13 +474,15 @@
                 // Desktop Header Additions
                 const th = document.createElement('th');
                 th.className = `vertical-header ${sideClass}`;
-                th.innerHTML = `${stack.top}<br>${stack.mid}<br>${stack.btm}`;
+                const flagFilename = (stack.flag || "").toLowerCase().replace(/\s+/g, '');
+                const flagImg = flagFilename ? `<img src="/images/countries/${flagFilename}.png" class="pred-header-flag" alt="${stack.flag}">` : '';
+                th.innerHTML = `${flagImg}${stack.top}<br>${stack.mid}<br>${stack.btm}`;
                 predsHeadRow.appendChild(th);
 
                 // Mobile Header Additions Clone
                 const thMobile = document.createElement('th');
                 thMobile.className = `vertical-header ${sideClass}`;
-                thMobile.innerHTML = `${stack.top}<br>${stack.mid}<br>${stack.btm}`;
+                thMobile.innerHTML = `${flagImg}${stack.top}<br>${stack.mid}<br>${stack.btm}`;
                 mobileHeadRow.appendChild(thMobile);
 
                 if (idx % 2 === 1 && idx < 8) {
