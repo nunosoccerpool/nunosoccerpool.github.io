@@ -213,8 +213,8 @@
                     "away_name": "Paraguay",
                     "pts_awarded": null,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -1490,10 +1490,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Aaron2": {
         "matches": {
@@ -2769,10 +2769,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Aaron3": {
         "matches": {
@@ -4048,10 +4048,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -5327,10 +5327,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -6606,10 +6606,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Adrian": {
         "matches": {
@@ -7885,10 +7885,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "AI": {
         "matches": {
@@ -9164,10 +9164,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Albeiro": {
         "matches": {
@@ -10443,10 +10443,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Alex": {
         "matches": {
@@ -11722,10 +11722,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Ali": {
         "matches": {
@@ -13001,10 +13001,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Alice": {
         "matches": {
@@ -14280,10 +14280,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -15559,10 +15559,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Alston1": {
         "matches": {
@@ -16838,10 +16838,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -18117,10 +18117,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -19396,10 +19396,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "AnaS": {
         "matches": {
@@ -20675,10 +20675,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -21954,10 +21954,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Angel": {
         "matches": {
@@ -23233,10 +23233,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -24512,10 +24512,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "AniD": {
         "matches": {
@@ -25791,10 +25791,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Ante": {
         "matches": {
@@ -27070,10 +27070,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -28349,10 +28349,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Arjun": {
         "matches": {
@@ -29628,10 +29628,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 0
+        "total_points": 1
     },
     "Arturo": {
         "matches": {
@@ -30907,10 +30907,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -32186,10 +32186,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Augie": {
         "matches": {
@@ -33465,10 +33465,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -34744,10 +34744,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Brendan": {
         "matches": {
@@ -36023,10 +36023,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "BrianS": {
         "matches": {
@@ -37302,10 +37302,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Cameron": {
         "matches": {
@@ -38581,10 +38581,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "CarlosD": {
         "matches": {
@@ -39860,10 +39860,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -41139,10 +41139,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "CarlosS1": {
         "matches": {
@@ -42418,10 +42418,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "CarlosS2": {
         "matches": {
@@ -43697,10 +43697,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Carmen": {
         "matches": {
@@ -44976,10 +44976,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Caroline": {
         "matches": {
@@ -46255,10 +46255,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Charles": {
         "matches": {
@@ -47534,10 +47534,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "ChrisK": {
         "matches": {
@@ -48813,10 +48813,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "ChrisN": {
         "matches": {
@@ -50092,10 +50092,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "ChrisP": {
         "matches": {
@@ -51371,10 +51371,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Chrissy": {
         "matches": {
@@ -52650,10 +52650,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "ChristianL": {
         "matches": {
@@ -53929,10 +53929,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -55208,10 +55208,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Coco": {
         "matches": {
@@ -56487,10 +56487,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Corey": {
         "matches": {
@@ -57766,10 +57766,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -59045,10 +59045,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Daisy2": {
         "matches": {
@@ -60324,10 +60324,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Damian": {
         "matches": {
@@ -61603,10 +61603,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "DanielM": {
         "matches": {
@@ -62882,10 +62882,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "DanielR": {
         "matches": {
@@ -64161,10 +64161,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "DannyCR7": {
         "matches": {
@@ -65440,10 +65440,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "DannyL": {
         "matches": {
@@ -66719,10 +66719,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "DannyRa": {
         "matches": {
@@ -67998,10 +67998,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Darryll": {
         "matches": {
@@ -69277,10 +69277,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "DarylF": {
         "matches": {
@@ -70556,10 +70556,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Dashiel": {
         "matches": {
@@ -71835,10 +71835,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "DazRob": {
         "matches": {
@@ -73114,10 +73114,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -74393,10 +74393,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Dino": {
         "matches": {
@@ -75672,10 +75672,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -76951,10 +76951,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "DougM": {
         "matches": {
@@ -78230,10 +78230,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Duarte": {
         "matches": {
@@ -79509,10 +79509,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Ed": {
         "matches": {
@@ -80788,10 +80788,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Edsel": {
         "matches": {
@@ -82067,10 +82067,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "EdwardT": {
         "matches": {
@@ -83346,10 +83346,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Elliott": {
         "matches": {
@@ -84625,10 +84625,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -85904,10 +85904,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -87183,10 +87183,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -88462,10 +88462,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -89741,10 +89741,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Fernando": {
         "matches": {
@@ -91020,10 +91020,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Filip": {
         "matches": {
@@ -92299,10 +92299,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Franco": {
         "matches": {
@@ -93578,10 +93578,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "FrankC": {
         "matches": {
@@ -94857,10 +94857,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "FrankD1": {
         "matches": {
@@ -96136,10 +96136,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "FrankD2": {
         "matches": {
@@ -97415,10 +97415,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "GabyDavide": {
         "matches": {
@@ -98694,10 +98694,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -99973,10 +99973,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -101252,10 +101252,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "GavinW": {
         "matches": {
@@ -102531,10 +102531,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Goran": {
         "matches": {
@@ -103810,10 +103810,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -105089,10 +105089,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Grosso": {
         "matches": {
@@ -106368,10 +106368,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -107647,10 +107647,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "GustavoL": {
         "matches": {
@@ -108926,10 +108926,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -110205,10 +110205,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Heather": {
         "matches": {
@@ -111484,10 +111484,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -112763,10 +112763,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Hernani": {
         "matches": {
@@ -114042,10 +114042,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Hugo": {
         "matches": {
@@ -115321,10 +115321,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -116600,10 +116600,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ida": {
         "matches": {
@@ -117879,10 +117879,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -119158,10 +119158,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Igor2": {
         "matches": {
@@ -120437,10 +120437,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Jalen": {
         "matches": {
@@ -121716,10 +121716,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JamesC": {
         "matches": {
@@ -122995,10 +122995,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "JamesP": {
         "matches": {
@@ -124274,10 +124274,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Janelle": {
         "matches": {
@@ -125553,10 +125553,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "JasonB": {
         "matches": {
@@ -126832,10 +126832,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -128111,10 +128111,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Jaxon": {
         "matches": {
@@ -129390,10 +129390,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "JeanMichel": {
         "matches": {
@@ -130669,10 +130669,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -131948,10 +131948,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -133227,10 +133227,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "JeffS2": {
         "matches": {
@@ -134506,10 +134506,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "JeffT": {
         "matches": {
@@ -135785,10 +135785,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Jenn": {
         "matches": {
@@ -137064,10 +137064,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 0
+        "total_points": 1
     },
     "Jennifer": {
         "matches": {
@@ -138343,10 +138343,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Jeremy": {
         "matches": {
@@ -139622,10 +139622,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Jerry": {
         "matches": {
@@ -140901,10 +140901,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -142180,10 +142180,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "JessicaG": {
         "matches": {
@@ -143459,10 +143459,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "JessicaS": {
         "matches": {
@@ -144738,10 +144738,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Jhon": {
         "matches": {
@@ -146017,10 +146017,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Jim": {
         "matches": {
@@ -147296,10 +147296,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -148575,10 +148575,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "JoeA": {
         "matches": {
@@ -149854,10 +149854,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -151133,10 +151133,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -152412,10 +152412,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "JohnR": {
         "matches": {
@@ -153691,10 +153691,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Jonathan": {
         "matches": {
@@ -154970,10 +154970,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "JorgeC": {
         "matches": {
@@ -156249,10 +156249,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JorgeT": {
         "matches": {
@@ -157528,10 +157528,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -158807,10 +158807,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -160086,10 +160086,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -161365,10 +161365,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JustinL": {
         "matches": {
@@ -162644,10 +162644,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Kayden": {
         "matches": {
@@ -163923,10 +163923,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -165202,10 +165202,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -166481,10 +166481,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "KevinS": {
         "matches": {
@@ -167760,10 +167760,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Kristian": {
         "matches": {
@@ -169039,10 +169039,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Kumar": {
         "matches": {
@@ -170318,10 +170318,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Kyle": {
         "matches": {
@@ -171597,10 +171597,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Lena": {
         "matches": {
@@ -172876,10 +172876,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -174155,10 +174155,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "LiamMoh": {
         "matches": {
@@ -175434,10 +175434,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -176713,10 +176713,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -177992,10 +177992,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Luka": {
         "matches": {
@@ -179271,10 +179271,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Magno": {
         "matches": {
@@ -180550,10 +180550,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -181829,10 +181829,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Manley": {
         "matches": {
@@ -183108,10 +183108,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "MannyT": {
         "matches": {
@@ -184387,10 +184387,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -185666,10 +185666,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "MarcioS": {
         "matches": {
@@ -186945,10 +186945,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -188224,10 +188224,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -189503,10 +189503,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Marta": {
         "matches": {
@@ -190782,10 +190782,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "MatthewG": {
         "matches": {
@@ -192061,10 +192061,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "MatthewSa": {
         "matches": {
@@ -193340,10 +193340,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "MatthewSm1": {
         "matches": {
@@ -194619,10 +194619,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "MatthewSm2": {
         "matches": {
@@ -195898,10 +195898,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -197177,10 +197177,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -198456,10 +198456,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "MichaelL": {
         "matches": {
@@ -199735,10 +199735,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -201014,10 +201014,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "MichaelPi": {
         "matches": {
@@ -202293,10 +202293,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Michele": {
         "matches": {
@@ -203572,10 +203572,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Mihajlo": {
         "matches": {
@@ -204851,10 +204851,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "MikeD": {
         "matches": {
@@ -206130,10 +206130,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -207409,10 +207409,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Misic2": {
         "matches": {
@@ -208688,10 +208688,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Nas": {
         "matches": {
@@ -209967,10 +209967,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Nelson": {
         "matches": {
@@ -211246,10 +211246,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "NickM": {
         "matches": {
@@ -212525,10 +212525,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Nicolas": {
         "matches": {
@@ -213804,10 +213804,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Nicole1": {
         "matches": {
@@ -215083,10 +215083,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Nicole2": {
         "matches": {
@@ -216362,10 +216362,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Nima": {
         "matches": {
@@ -217641,10 +217641,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Nolan": {
         "matches": {
@@ -218920,10 +218920,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Nuno1": {
         "matches": {
@@ -220199,10 +220199,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Nuno2": {
         "matches": {
@@ -221478,10 +221478,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -224036,10 +224036,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Pardeep": {
         "matches": {
@@ -225315,10 +225315,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Pascal": {
         "matches": {
@@ -226594,10 +226594,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Patullo": {
         "matches": {
@@ -227873,10 +227873,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "PaulA": {
         "matches": {
@@ -229152,10 +229152,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "PaulC": {
         "matches": {
@@ -230431,10 +230431,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "PetarS": {
         "matches": {
@@ -231710,10 +231710,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Pierfelice": {
         "matches": {
@@ -232989,10 +232989,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Preto1": {
         "matches": {
@@ -234268,10 +234268,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -235547,10 +235547,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -236826,10 +236826,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -238105,10 +238105,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "RD2026": {
         "matches": {
@@ -239384,10 +239384,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -240663,10 +240663,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -241942,10 +241942,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -243221,10 +243221,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "RichardMo": {
         "matches": {
@@ -244500,10 +244500,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -245779,10 +245779,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -247058,10 +247058,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Rita": {
         "matches": {
@@ -248337,10 +248337,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -249616,10 +249616,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -250895,10 +250895,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "RobertS": {
         "matches": {
@@ -252174,10 +252174,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -253453,10 +253453,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "RobTu": {
         "matches": {
@@ -254732,10 +254732,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "RobW": {
         "matches": {
@@ -256011,10 +256011,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Rodrigo": {
         "matches": {
@@ -257290,10 +257290,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Rousse": {
         "matches": {
@@ -258569,10 +258569,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Roy": {
         "matches": {
@@ -259848,10 +259848,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Salim": {
         "matches": {
@@ -261127,10 +261127,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Sarujan": {
         "matches": {
@@ -262406,10 +262406,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Sean": {
         "matches": {
@@ -263685,10 +263685,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -264964,10 +264964,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Shawn2": {
         "matches": {
@@ -266243,10 +266243,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Sheila": {
         "matches": {
@@ -267522,10 +267522,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Simon": {
         "matches": {
@@ -268801,10 +268801,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -270080,10 +270080,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Simrun": {
         "matches": {
@@ -271359,10 +271359,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -272638,10 +272638,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Stallone2": {
         "matches": {
@@ -273917,10 +273917,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Stanley": {
         "matches": {
@@ -275196,10 +275196,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -276475,10 +276475,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -277754,10 +277754,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Tanya": {
         "matches": {
@@ -279033,10 +279033,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Theo": {
         "matches": {
@@ -280312,10 +280312,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Todaro": {
         "matches": {
@@ -281591,10 +281591,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -282870,10 +282870,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "TomP": {
         "matches": {
@@ -284149,10 +284149,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -285428,10 +285428,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "TonyMa": {
         "matches": {
@@ -286707,10 +286707,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "TonyMi": {
         "matches": {
@@ -287986,10 +287986,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -289265,10 +289265,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -290544,10 +290544,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -291823,10 +291823,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -293102,10 +293102,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Victor": {
         "matches": {
@@ -294381,10 +294381,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Vishal": {
         "matches": {
@@ -295660,10 +295660,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Vito": {
         "matches": {
@@ -296939,10 +296939,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -298218,10 +298218,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -299497,10 +299497,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -300776,10 +300776,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "JoeA2": {
         "matches": {
@@ -302055,10 +302055,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -303334,10 +303334,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -304613,10 +304613,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Samantha": {
         "matches": {
@@ -305892,10 +305892,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Paraguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "USA",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Paraguay"
                 },
                 {

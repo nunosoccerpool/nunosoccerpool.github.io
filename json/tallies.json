@@ -1,12 +1,12 @@
 {
     "totals": {
-        "total_goals": "7",
-        "yellow_cards": "9",
+        "total_goals": "12",
+        "yellow_cards": "15",
         "red_two_yellow": "0",
         "red_straight": "3",
         "penalty_goals": "0",
-        "own_goals": "0",
-        "most_yc_details": "Bosnia",
+        "own_goals": "1",
+        "most_yc_details": "Paraguay",
         "fastest_goal_team": "Mexico"
     },
     "matches": [
@@ -42,19 +42,19 @@
             "red_straight": "0",
             "penalty_goals": "0",
             "own_goals": "0",
-            "most_yc_details": "Bosnia (3)",
+            "most_yc_details": "",
             "fastest_goal_min": "21",
             "fastest_goal_team": "Bosnia"
         },
         {
             "name": "USA vs Paraguay",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
-            "most_yc_details": "",
+            "goals": "4 - 1",
+            "yellow_cards": "6",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "1",
+            "most_yc_details": "Paraguay (5)",
             "fastest_goal_min": "",
             "fastest_goal_team": ""
         },
