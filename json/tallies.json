@@ -1,7 +1,7 @@
 {
     "totals": {
-        "total_goals": "16",
-        "yellow_cards": "20",
+        "total_goals": "19",
+        "yellow_cards": "25",
         "red_two_yellow": "0",
         "red_straight": "3",
         "penalty_goals": "1",
@@ -84,27 +84,27 @@
         },
         {
             "name": "Haiti vs Scotland",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "0 - 1",
+            "yellow_cards": "4",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "20",
+            "fastest_goal_team": "Scotland"
         },
         {
             "name": "Australia vs Turkey",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "2 - 0",
+            "yellow_cards": "1",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "27",
+            "fastest_goal_team": "Australia"
         },
         {
             "name": "Germany vs Curacao",
