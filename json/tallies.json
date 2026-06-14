@@ -1,13 +1,13 @@
 {
     "totals": {
-        "total_goals": "19",
-        "yellow_cards": "25",
+        "total_goals": "31",
+        "yellow_cards": "28",
         "red_two_yellow": "0",
         "red_straight": "3",
-        "penalty_goals": "1",
+        "penalty_goals": "2",
         "own_goals": "1",
         "most_yc_details": "Paraguay",
-        "fastest_goal_team": "USA"
+        "fastest_goal_team": "Germany"
     },
     "matches": [
         {
@@ -108,27 +108,27 @@
         },
         {
             "name": "Germany vs Curacao",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "7 - 1",
+            "yellow_cards": "0",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "6",
+            "fastest_goal_team": "Germany"
         },
         {
             "name": "Netherlands vs Japan",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "2 - 2",
+            "yellow_cards": "3",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "50",
+            "fastest_goal_team": "Netherlands"
         },
         {
             "name": "Ivory Coast vs Ecuador",

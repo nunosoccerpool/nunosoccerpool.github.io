@@ -3,8 +3,8 @@
         "total_points": 0,
         "question1": {
             "predicted": null,
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": null,
@@ -98,16 +98,16 @@
         },
         "question20": {
             "predicted": null,
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Aaron1": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -201,16 +201,16 @@
         },
         "question20": {
             "predicted": "Colombia vs Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Aaron2": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -304,16 +304,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Aaron3": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -407,16 +407,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Aban": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -510,16 +510,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Adam": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -613,16 +613,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Adrian": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -716,16 +716,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "AI": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -819,16 +819,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Albeiro": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -922,16 +922,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Alex": {
-        "total_points": 1,
+        "total_points": 2,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -1025,16 +1025,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ali": {
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -1128,16 +1128,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Alice": {
         "total_points": 0,
         "question1": {
             "predicted": "Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -1231,16 +1231,16 @@
         },
         "question20": {
             "predicted": "Ecuador vs Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Alnashir": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -1334,16 +1334,16 @@
         },
         "question20": {
             "predicted": "Czechia vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Alston1": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -1437,16 +1437,16 @@
         },
         "question20": {
             "predicted": "Bolivia vs Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Alston2": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -1540,16 +1540,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "AnaL": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -1643,16 +1643,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "AnaS": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -1746,16 +1746,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Andres": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -1849,16 +1849,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Angel": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Colombia",
@@ -1952,16 +1952,16 @@
         },
         "question20": {
             "predicted": "Germany vs Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 2,
+            "actual": "Germany vs Curacao"
         }
     },
     "Anicio": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -2055,16 +2055,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "AniD": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -2158,16 +2158,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ante": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -2261,16 +2261,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "AnthonyV": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -2364,16 +2364,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Arjun": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -2467,16 +2467,16 @@
         },
         "question20": {
             "predicted": "Cabo Verde vs Saudi Arabia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Arturo": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -2570,16 +2570,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ash": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -2673,16 +2673,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Augie": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -2776,16 +2776,16 @@
         },
         "question20": {
             "predicted": "Belgium vs Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Bindu": {
         "total_points": 1,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -2879,16 +2879,16 @@
         },
         "question20": {
             "predicted": "Spain vs Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Brendan": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -2982,16 +2982,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "BrianS": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -3085,16 +3085,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Cameron": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -3188,16 +3188,16 @@
         },
         "question20": {
             "predicted": "Jordan vs Algeria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "CarlosD": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -3291,16 +3291,16 @@
         },
         "question20": {
             "predicted": "Congo vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "CarlosG": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -3394,16 +3394,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "CarlosS1": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -3497,16 +3497,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "CarlosS2": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -3600,16 +3600,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Carmen": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -3703,16 +3703,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Caroline": {
         "total_points": 0,
         "question1": {
             "predicted": "Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -3806,16 +3806,16 @@
         },
         "question20": {
             "predicted": "Spain vs Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Charles": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -3909,16 +3909,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "ChrisK": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -4012,16 +4012,16 @@
         },
         "question20": {
             "predicted": "Czechia vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "ChrisN": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -4115,16 +4115,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "ChrisP": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -4218,16 +4218,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Chrissy": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -4321,16 +4321,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "ChristianL": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -4424,16 +4424,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "CMD88": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -4527,16 +4527,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Coco": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -4630,16 +4630,16 @@
         },
         "question20": {
             "predicted": "Spain vs Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Corey": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Netherlands",
@@ -4733,16 +4733,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Daisy1": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -4836,16 +4836,16 @@
         },
         "question20": {
             "predicted": "Tunisia vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Daisy2": {
         "total_points": 1,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -4939,16 +4939,16 @@
         },
         "question20": {
             "predicted": "Tunisia vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Damian": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -5042,16 +5042,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DanielM": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -5145,16 +5145,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DanielR": {
         "total_points": 1,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -5248,16 +5248,16 @@
         },
         "question20": {
             "predicted": "USA vs Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DannyCR7": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -5351,16 +5351,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DannyL": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -5454,16 +5454,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DannyRa": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -5557,16 +5557,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Darryll": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -5660,16 +5660,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DarylF": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -5763,16 +5763,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Dashiel": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -5866,16 +5866,16 @@
         },
         "question20": {
             "predicted": "Paraguay vs Australia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DazRob": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -5969,16 +5969,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Deylin": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -6072,16 +6072,16 @@
         },
         "question20": {
             "predicted": "Congo vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Dino": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -6175,16 +6175,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Dora": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -6278,16 +6278,16 @@
         },
         "question20": {
             "predicted": "Portugal vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "DougM": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -6381,16 +6381,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Duarte": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -6484,16 +6484,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ed": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -6587,16 +6587,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Edsel": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -6690,16 +6690,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "EdwardT": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -6793,16 +6793,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Elliott": {
         "total_points": 0,
         "question1": {
             "predicted": "Morocco",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -6896,16 +6896,16 @@
         },
         "question20": {
             "predicted": "Haiti vs Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "EricK": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -6999,16 +6999,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ethan": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -7102,16 +7102,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Farshid": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -7205,16 +7205,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Fawzi": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -7308,16 +7308,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Fernando": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -7411,16 +7411,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Filip": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -7514,16 +7514,16 @@
         },
         "question20": {
             "predicted": "Congo vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Franco": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -7617,16 +7617,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "FrankC": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -7720,16 +7720,16 @@
         },
         "question20": {
             "predicted": "Belgium vs Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "FrankD1": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -7823,16 +7823,16 @@
         },
         "question20": {
             "predicted": "Jordan vs Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "FrankD2": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -7926,16 +7926,16 @@
         },
         "question20": {
             "predicted": "Tunisia vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "GabyDavide": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -8029,16 +8029,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Gary": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -8132,16 +8132,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "GavinRiya": {
         "total_points": 2,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -8235,16 +8235,16 @@
         },
         "question20": {
             "predicted": "Australia vs Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "GavinW": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -8338,16 +8338,16 @@
         },
         "question20": {
             "predicted": "Jordan vs Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Goran": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -8441,16 +8441,16 @@
         },
         "question20": {
             "predicted": "New Zealand vs Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Greg": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -8544,16 +8544,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Grosso": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -8647,16 +8647,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "GustavoH": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -8750,16 +8750,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "GustavoL": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -8853,16 +8853,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Gwen": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -8956,16 +8956,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Heather": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -9059,16 +9059,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "HelderA": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -9162,16 +9162,16 @@
         },
         "question20": {
             "predicted": "Sweden vs Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Hernani": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -9265,16 +9265,16 @@
         },
         "question20": {
             "predicted": "Austria vs Jordan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Hugo": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -9368,16 +9368,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ian": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -9471,16 +9471,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ida": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -9574,16 +9574,16 @@
         },
         "question20": {
             "predicted": "Australia vs Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Igor1": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -9677,16 +9677,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Igor2": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -9780,16 +9780,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jalen": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -9883,16 +9883,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JamesC": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -9986,16 +9986,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JamesP": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -10089,16 +10089,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Janelle": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -10192,16 +10192,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JasonB": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -10295,16 +10295,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JasonF": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -10398,16 +10398,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jaxon": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -10501,16 +10501,16 @@
         },
         "question20": {
             "predicted": "Haiti vs Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JeanMichel": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -10604,16 +10604,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JeffB": {
         "total_points": 1,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Mexico",
@@ -10707,16 +10707,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JeffS1": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -10810,16 +10810,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JeffS2": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -10913,16 +10913,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JeffT": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -11016,16 +11016,16 @@
         },
         "question20": {
             "predicted": "Germany vs Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 2,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jenn": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -11119,16 +11119,16 @@
         },
         "question20": {
             "predicted": "Portugal vs Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jennifer": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -11222,16 +11222,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jeremy": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -11325,16 +11325,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jerry": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -11428,16 +11428,16 @@
         },
         "question20": {
             "predicted": "Portugal vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JessicaD": {
         "total_points": 2,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -11531,16 +11531,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JessicaG": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -11634,16 +11634,16 @@
         },
         "question20": {
             "predicted": "Jordan vs Algeria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JessicaS": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -11737,16 +11737,16 @@
         },
         "question20": {
             "predicted": "Morocco vs Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jhon": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -11840,16 +11840,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jim": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -11943,16 +11943,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Joanna": {
         "total_points": 0,
         "question1": {
             "predicted": "Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -12046,16 +12046,16 @@
         },
         "question20": {
             "predicted": "Argentina vs Algeria",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JoeA": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -12149,16 +12149,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JoeD": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -12252,16 +12252,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JohnO": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -12355,16 +12355,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JohnR": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -12458,16 +12458,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Jonathan": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -12561,16 +12561,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JorgeC": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -12664,16 +12664,16 @@
         },
         "question20": {
             "predicted": "Jordan vs Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JorgeT": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -12767,16 +12767,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Juan": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -12870,16 +12870,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Julian": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -12973,16 +12973,16 @@
         },
         "question20": {
             "predicted": "Congo vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JustinA": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -13076,16 +13076,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JustinL": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -13179,16 +13179,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Kayden": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -13282,16 +13282,16 @@
         },
         "question20": {
             "predicted": "Australia vs Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "KevinC": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -13385,16 +13385,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "KevinJ": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -13488,16 +13488,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "KevinS": {
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -13591,16 +13591,16 @@
         },
         "question20": {
             "predicted": "Morocco vs Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Kristian": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -13694,16 +13694,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Kumar": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -13797,16 +13797,16 @@
         },
         "question20": {
             "predicted": "Belgium vs Iran",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Kyle": {
         "total_points": 0,
         "question1": {
             "predicted": "Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -13900,16 +13900,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Lena": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -14003,16 +14003,16 @@
         },
         "question20": {
             "predicted": "Haiti vs Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "LiamA": {
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -14106,16 +14106,16 @@
         },
         "question20": {
             "predicted": "Sweden vs Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "LiamMoh": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -14209,16 +14209,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Lindsey": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -14312,16 +14312,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Lisa": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -14415,16 +14415,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Luka": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -14518,16 +14518,16 @@
         },
         "question20": {
             "predicted": "New Zealand vs Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Magno": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -14621,16 +14621,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Major": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -14724,16 +14724,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Manley": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -14827,16 +14827,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MannyT": {
         "total_points": 1,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -14930,16 +14930,16 @@
         },
         "question20": {
             "predicted": "Haiti vs Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MarcioD": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -15033,16 +15033,16 @@
         },
         "question20": {
             "predicted": "South Africa vs Korea",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MarcioS": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -15136,16 +15136,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MarcoR": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -15239,16 +15239,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Maria": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -15342,16 +15342,16 @@
         },
         "question20": {
             "predicted": "Belgium vs Egypt",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Marta": {
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -15445,16 +15445,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MatthewG": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -15548,16 +15548,16 @@
         },
         "question20": {
             "predicted": "Sweden vs Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MatthewSa": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -15651,16 +15651,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MatthewSm1": {
-        "total_points": 2,
+        "total_points": 3,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -15754,16 +15754,16 @@
         },
         "question20": {
             "predicted": "Australia vs Turkey",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MatthewSm2": {
         "total_points": 0,
         "question1": {
             "predicted": "Belgium",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -15857,16 +15857,16 @@
         },
         "question20": {
             "predicted": "Sweden vs Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Max": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -15960,16 +15960,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Melissa": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -16063,16 +16063,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MichaelL": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -16166,16 +16166,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MichaelM": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -16269,16 +16269,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MichaelPi": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -16372,16 +16372,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Michele": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -16475,16 +16475,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Mihajlo": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -16578,16 +16578,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "MikeD": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -16681,16 +16681,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Misic1": {
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -16784,16 +16784,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Misic2": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -16887,16 +16887,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nas": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -16990,16 +16990,16 @@
         },
         "question20": {
             "predicted": "Norway vs France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nelson": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -17093,16 +17093,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "NickM": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -17196,16 +17196,16 @@
         },
         "question20": {
             "predicted": "Norway vs France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nicolas": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -17299,16 +17299,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nicole1": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -17402,16 +17402,16 @@
         },
         "question20": {
             "predicted": "England vs Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nicole2": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -17505,16 +17505,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nima": {
         "total_points": 1,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -17608,16 +17608,16 @@
         },
         "question20": {
             "predicted": "Austria vs Jordan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nolan": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -17711,16 +17711,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nuno1": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -17814,16 +17814,16 @@
         },
         "question20": {
             "predicted": "Portugal vs Uzbekistan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Nuno2": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -17917,8 +17917,8 @@
         },
         "question20": {
             "predicted": "Netherlands vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "PabloL": {
@@ -18028,8 +18028,8 @@
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -18123,16 +18123,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Pardeep": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -18226,16 +18226,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Canada",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Pascal": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -18329,16 +18329,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Patullo": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -18432,16 +18432,16 @@
         },
         "question20": {
             "predicted": "France vs Senegal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "PaulA": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -18535,16 +18535,16 @@
         },
         "question20": {
             "predicted": "France vs Bolivia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "PaulC": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -18638,16 +18638,16 @@
         },
         "question20": {
             "predicted": "Portugal vs Congo",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "PetarS": {
         "total_points": 0,
         "question1": {
             "predicted": "Norway",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -18741,16 +18741,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Pierfelice": {
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -18844,16 +18844,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Preto1": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -18947,16 +18947,16 @@
         },
         "question20": {
             "predicted": "Netherlands vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Preto2": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -19050,16 +19050,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Punit": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -19153,16 +19153,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Rachel": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -19256,16 +19256,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RD2026": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -19359,16 +19359,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ricardo1": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -19462,16 +19462,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ricardo2": {
         "total_points": 0,
         "question1": {
             "predicted": "England",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -19565,16 +19565,16 @@
         },
         "question20": {
             "predicted": "Sweden vs Tunisia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RichardMa": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -19668,16 +19668,16 @@
         },
         "question20": {
             "predicted": "Spain vs Cabo Verde",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RichardMo": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -19771,16 +19771,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Rick": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -19874,16 +19874,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Ricky": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -19977,16 +19977,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Rita": {
         "total_points": 0,
         "question1": {
             "predicted": "Portugal",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -20080,16 +20080,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Riyad": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -20183,16 +20183,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RobertP": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -20286,16 +20286,16 @@
         },
         "question20": {
             "predicted": "Saudi Arabia vs Uruguay",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RobertS": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -20389,16 +20389,16 @@
         },
         "question20": {
             "predicted": "Germany vs Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 2,
+            "actual": "Germany vs Curacao"
         }
     },
     "RobSi": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -20492,16 +20492,16 @@
         },
         "question20": {
             "predicted": "Czechia vs Mexico",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RobTu": {
         "total_points": 2,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -20595,16 +20595,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "RobW": {
         "total_points": 0,
         "question1": {
             "predicted": "Netherlands",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -20698,16 +20698,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Rodrigo": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -20801,16 +20801,16 @@
         },
         "question20": {
             "predicted": "Morocco vs Haiti",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Rousse": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -20904,16 +20904,16 @@
         },
         "question20": {
             "predicted": "Tunisia vs Japan",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Roy": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -21007,16 +21007,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Salim": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -21110,16 +21110,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Sarujan": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -21213,16 +21213,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Sean": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -21316,16 +21316,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Shawn1": {
         "total_points": 0,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -21419,16 +21419,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Shawn2": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -21522,16 +21522,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Sheila": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -21625,16 +21625,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Simon": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -21728,16 +21728,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Simone": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -21831,16 +21831,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Simrun": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -21934,16 +21934,16 @@
         },
         "question20": {
             "predicted": "Haiti vs Scotland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Stallone1": {
         "total_points": 1,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -22037,16 +22037,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Stallone2": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -22140,16 +22140,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Stanley": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -22243,16 +22243,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Stephen": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -22346,16 +22346,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "StevenT": {
         "total_points": 0,
         "question1": {
             "predicted": "Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Switzerland",
@@ -22449,16 +22449,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Tanya": {
         "total_points": 1,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -22552,16 +22552,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Theo": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "England",
@@ -22655,16 +22655,16 @@
         },
         "question20": {
             "predicted": "Canada vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Todaro": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -22758,16 +22758,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Tomas": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Argentina",
@@ -22861,16 +22861,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "TomP": {
-        "total_points": 0,
+        "total_points": 2,
         "question1": {
             "predicted": "NO TEAM",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -22964,16 +22964,16 @@
         },
         "question20": {
             "predicted": "Germany vs Curacao",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 2,
+            "actual": "Germany vs Curacao"
         }
     },
     "TonyH": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -23067,16 +23067,16 @@
         },
         "question20": {
             "predicted": "Qatar vs Switzerland",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "TonyMa": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -23170,16 +23170,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "TonyMi": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Croatia",
@@ -23273,16 +23273,16 @@
         },
         "question20": {
             "predicted": "Canada vs Qatar",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "TonyS": {
         "total_points": 1,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Portugal",
@@ -23376,16 +23376,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "TonyV": {
         "total_points": 0,
         "question1": {
             "predicted": "France",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -23479,16 +23479,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Trevor": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -23582,16 +23582,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Tristan": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "France",
@@ -23685,16 +23685,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Victor": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Spain",
@@ -23788,16 +23788,16 @@
         },
         "question20": {
             "predicted": "Mexico vs South Africa",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Vishal": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -23891,16 +23891,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Vito": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "NO PLAYER",
@@ -23994,16 +23994,16 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "VukSto": {
         "total_points": 0,
         "question1": {
             "predicted": "Spain",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Norway",
@@ -24097,16 +24097,16 @@
         },
         "question20": {
             "predicted": "Japan vs Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Wilson": {
-        "total_points": 0,
+        "total_points": 1,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -24200,16 +24200,16 @@
         },
         "question20": {
             "predicted": "Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Yogi": {
-        "total_points": 1,
+        "total_points": 2,
         "question1": {
             "predicted": "Germany",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 1,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -24303,16 +24303,16 @@
         },
         "question20": {
             "predicted": "England vs Croatia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JoeA2": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -24406,16 +24406,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "JoeA3": {
         "total_points": 0,
         "question1": {
             "predicted": "Argentina",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Germany",
@@ -24509,16 +24509,16 @@
         },
         "question20": {
             "predicted": "South Korea vs Czechia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Josh": {
         "total_points": 0,
         "question1": {
             "predicted": "Brazil",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Brazil",
@@ -24612,16 +24612,16 @@
         },
         "question20": {
             "predicted": "Switzerland vs Bosnia",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "Samantha": {
         "total_points": 0,
         "question1": {
             "predicted": "Sweden",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany"
         },
         "question2": {
             "predicted": "Colombia",
@@ -24715,8 +24715,8 @@
         },
         "question20": {
             "predicted": "NONE",
-            "pts_awarded": null,
-            "actual": null
+            "pts_awarded": 0,
+            "actual": "Germany vs Curacao"
         }
     },
     "0": {
