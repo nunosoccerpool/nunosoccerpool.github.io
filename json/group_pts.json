@@ -156,8 +156,8 @@
                     "away_name": "Morocco",
                     "pts_awarded": null,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -1433,10 +1433,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -2712,10 +2712,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -3991,10 +3991,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -5270,10 +5270,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -6549,10 +6549,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -7828,10 +7828,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "AI": {
         "matches": {
@@ -9107,10 +9107,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -10386,10 +10386,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Alex": {
         "matches": {
@@ -11665,10 +11665,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -12944,10 +12944,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Alice": {
         "matches": {
@@ -14223,10 +14223,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "Alnashir": {
         "matches": {
@@ -15502,10 +15502,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -16781,10 +16781,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -18060,10 +18060,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -19339,10 +19339,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -20618,10 +20618,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -21897,10 +21897,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -23176,10 +23176,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -24455,10 +24455,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -25734,10 +25734,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -27013,10 +27013,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -28292,10 +28292,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -29571,10 +29571,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -30850,10 +30850,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -32129,10 +32129,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -33408,10 +33408,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -34687,10 +34687,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -35966,10 +35966,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "BrianS": {
         "matches": {
@@ -37245,10 +37245,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -38524,10 +38524,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -39803,10 +39803,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -41082,10 +41082,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -42361,10 +42361,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "CarlosS2": {
         "matches": {
@@ -43640,10 +43640,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -44919,10 +44919,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Caroline": {
         "matches": {
@@ -46198,10 +46198,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -47477,10 +47477,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "ChrisK": {
         "matches": {
@@ -48756,10 +48756,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -50035,10 +50035,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -51314,10 +51314,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -52593,10 +52593,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -53872,10 +53872,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "CMD88": {
         "matches": {
@@ -55151,10 +55151,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -56430,10 +56430,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -57709,10 +57709,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -58988,10 +58988,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Daisy2": {
         "matches": {
@@ -60267,10 +60267,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Damian": {
         "matches": {
@@ -61546,10 +61546,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -62825,10 +62825,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "DanielR": {
         "matches": {
@@ -64104,10 +64104,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -65383,10 +65383,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -66662,10 +66662,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "DannyRa": {
         "matches": {
@@ -67941,10 +67941,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -69220,10 +69220,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -70499,10 +70499,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -71778,10 +71778,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "DazRob": {
         "matches": {
@@ -73057,10 +73057,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -74336,10 +74336,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Dino": {
         "matches": {
@@ -75615,10 +75615,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -76894,10 +76894,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -78173,10 +78173,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -79452,10 +79452,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Ed": {
         "matches": {
@@ -80731,10 +80731,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -82010,10 +82010,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -83289,10 +83289,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -84568,10 +84568,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -85847,10 +85847,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -87126,10 +87126,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -88405,10 +88405,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -89684,10 +89684,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -90963,10 +90963,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -92242,10 +92242,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -93521,10 +93521,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -94800,10 +94800,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -96079,10 +96079,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -97358,10 +97358,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -98637,10 +98637,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -99916,10 +99916,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -101195,10 +101195,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -102474,10 +102474,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -103753,10 +103753,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -105032,10 +105032,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -106311,10 +106311,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -107590,10 +107590,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "GustavoL": {
         "matches": {
@@ -108869,10 +108869,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "Gwen": {
         "matches": {
@@ -110148,10 +110148,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -111427,10 +111427,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -112706,10 +112706,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -113985,10 +113985,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -115264,10 +115264,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Ian": {
         "matches": {
@@ -116543,10 +116543,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -117822,10 +117822,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -119101,10 +119101,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -120380,10 +120380,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -121659,10 +121659,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -122938,10 +122938,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "JamesP": {
         "matches": {
@@ -124217,10 +124217,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -125496,10 +125496,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -126775,10 +126775,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -128054,10 +128054,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -129333,10 +129333,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -130612,10 +130612,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JeffB": {
         "matches": {
@@ -131891,10 +131891,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "JeffS1": {
         "matches": {
@@ -133170,10 +133170,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -134449,10 +134449,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JeffT": {
         "matches": {
@@ -135728,10 +135728,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -137007,10 +137007,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -138286,10 +138286,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -139565,10 +139565,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -140844,10 +140844,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -142123,10 +142123,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -143402,10 +143402,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "JessicaS": {
         "matches": {
@@ -144681,10 +144681,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -145960,10 +145960,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -147239,10 +147239,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -148518,10 +148518,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -149797,10 +149797,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -151076,10 +151076,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -152355,10 +152355,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "JohnR": {
         "matches": {
@@ -153634,10 +153634,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Jonathan": {
         "matches": {
@@ -154913,10 +154913,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "JorgeC": {
         "matches": {
@@ -156192,10 +156192,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -157471,10 +157471,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -158750,10 +158750,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -160029,10 +160029,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -161308,10 +161308,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -162587,10 +162587,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -163866,10 +163866,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -165145,10 +165145,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -166424,10 +166424,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -167703,10 +167703,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Kristian": {
         "matches": {
@@ -168982,10 +168982,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -170261,10 +170261,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -171540,10 +171540,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -172819,10 +172819,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -174098,10 +174098,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -175377,10 +175377,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Lindsey": {
         "matches": {
@@ -176656,10 +176656,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 0
+        "total_points": 1
     },
     "Lisa": {
         "matches": {
@@ -177935,10 +177935,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -179214,10 +179214,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -180493,10 +180493,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -181772,10 +181772,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -183051,10 +183051,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -184330,10 +184330,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -185609,10 +185609,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -186888,10 +186888,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -188167,10 +188167,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -189446,10 +189446,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -190725,10 +190725,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -192004,10 +192004,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -193283,10 +193283,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -194562,10 +194562,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -195841,10 +195841,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -197120,10 +197120,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -198399,10 +198399,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -199678,10 +199678,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "MichaelM": {
         "matches": {
@@ -200957,10 +200957,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -202236,10 +202236,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -203515,10 +203515,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -204794,10 +204794,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -206073,10 +206073,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Misic1": {
         "matches": {
@@ -207352,10 +207352,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -208631,10 +208631,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -209910,10 +209910,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -211189,10 +211189,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -212468,10 +212468,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -213747,10 +213747,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -215026,10 +215026,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -216305,10 +216305,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -217584,10 +217584,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -218863,10 +218863,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Nuno1": {
         "matches": {
@@ -220142,10 +220142,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -221421,10 +221421,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -223979,10 +223979,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -225258,10 +225258,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -226537,10 +226537,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Patullo": {
         "matches": {
@@ -227816,10 +227816,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "PaulA": {
         "matches": {
@@ -229095,10 +229095,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -230374,10 +230374,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -231653,10 +231653,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -232932,10 +232932,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -234211,10 +234211,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 3
     },
     "Preto2": {
         "matches": {
@@ -235490,10 +235490,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -236769,10 +236769,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -238048,10 +238048,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -239327,10 +239327,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -240606,10 +240606,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -241885,10 +241885,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -243164,10 +243164,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "RichardMo": {
         "matches": {
@@ -244443,10 +244443,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Rick": {
         "matches": {
@@ -245722,10 +245722,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -247001,10 +247001,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -248280,10 +248280,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Riyad": {
         "matches": {
@@ -249559,10 +249559,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -250838,10 +250838,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -252117,10 +252117,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -253396,10 +253396,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -254675,10 +254675,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -255954,10 +255954,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -257233,10 +257233,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -258512,10 +258512,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -259791,10 +259791,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -261070,10 +261070,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -262349,10 +262349,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -263628,10 +263628,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -264907,10 +264907,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -266186,10 +266186,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -267465,10 +267465,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "Simon": {
         "matches": {
@@ -268744,10 +268744,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -270023,10 +270023,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -271302,10 +271302,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -272581,10 +272581,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Stallone2": {
         "matches": {
@@ -273860,10 +273860,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Stanley": {
         "matches": {
@@ -275139,10 +275139,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -276418,10 +276418,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -277697,10 +277697,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -278976,10 +278976,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -280255,10 +280255,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -281534,10 +281534,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -282813,10 +282813,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -284092,10 +284092,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -285371,10 +285371,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -286650,10 +286650,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -287929,10 +287929,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -289208,10 +289208,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "TonyV": {
         "matches": {
@@ -290487,10 +290487,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -291766,10 +291766,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -293045,10 +293045,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -294324,10 +294324,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -295603,10 +295603,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -296882,10 +296882,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -298161,10 +298161,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -299440,10 +299440,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -300719,10 +300719,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -301998,10 +301998,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -303277,10 +303277,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Josh": {
         "matches": {
@@ -304556,10 +304556,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
@@ -305835,10 +305835,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Morocco",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Brazil",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Morocco"
                 },
                 {
