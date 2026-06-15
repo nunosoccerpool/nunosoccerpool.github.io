@@ -360,8 +360,8 @@
                     "away_name": "Tunisia",
                     "pts_awarded": null,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -1637,10 +1637,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -2916,10 +2916,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Aaron3": {
         "matches": {
@@ -4195,10 +4195,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 1
+        "total_points": 2
     },
     "Aban": {
         "matches": {
@@ -5474,10 +5474,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Adam": {
         "matches": {
@@ -6753,10 +6753,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Adrian": {
         "matches": {
@@ -8032,10 +8032,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "AI": {
         "matches": {
@@ -9311,10 +9311,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Albeiro": {
         "matches": {
@@ -10590,10 +10590,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Alex": {
         "matches": {
@@ -11869,10 +11869,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -13148,10 +13148,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -14427,10 +14427,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -15706,10 +15706,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -16985,10 +16985,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Alston2": {
         "matches": {
@@ -18264,10 +18264,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "AnaL": {
         "matches": {
@@ -19543,10 +19543,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "AnaS": {
         "matches": {
@@ -20822,10 +20822,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Andres": {
         "matches": {
@@ -22101,10 +22101,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Angel": {
         "matches": {
@@ -23380,10 +23380,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Anicio": {
         "matches": {
@@ -24659,10 +24659,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -25938,10 +25938,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Ante": {
         "matches": {
@@ -27217,10 +27217,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "AnthonyV": {
         "matches": {
@@ -28496,10 +28496,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Arjun": {
         "matches": {
@@ -29775,10 +29775,10 @@
                     "home_score": 5,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Arturo": {
         "matches": {
@@ -31054,10 +31054,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -32333,10 +32333,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Augie": {
         "matches": {
@@ -33612,10 +33612,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Bindu": {
         "matches": {
@@ -34891,10 +34891,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Brendan": {
         "matches": {
@@ -36170,10 +36170,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "BrianS": {
         "matches": {
@@ -37449,10 +37449,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Cameron": {
         "matches": {
@@ -38728,10 +38728,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -40007,10 +40007,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "CarlosG": {
         "matches": {
@@ -41286,10 +41286,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "CarlosS1": {
         "matches": {
@@ -42565,10 +42565,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "CarlosS2": {
         "matches": {
@@ -43844,10 +43844,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Carmen": {
         "matches": {
@@ -45123,10 +45123,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -46402,10 +46402,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -47681,10 +47681,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "ChrisK": {
         "matches": {
@@ -48960,10 +48960,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "ChrisN": {
         "matches": {
@@ -50239,10 +50239,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "ChrisP": {
         "matches": {
@@ -51518,10 +51518,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Chrissy": {
         "matches": {
@@ -52797,10 +52797,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -54076,10 +54076,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "CMD88": {
         "matches": {
@@ -55355,10 +55355,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Coco": {
         "matches": {
@@ -56634,10 +56634,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -57913,10 +57913,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -59192,10 +59192,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -60471,10 +60471,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -61750,10 +61750,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "DanielM": {
         "matches": {
@@ -63029,10 +63029,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -64308,10 +64308,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DannyCR7": {
         "matches": {
@@ -65587,10 +65587,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "DannyL": {
         "matches": {
@@ -66866,10 +66866,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "DannyRa": {
         "matches": {
@@ -68145,10 +68145,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Darryll": {
         "matches": {
@@ -69424,10 +69424,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "DarylF": {
         "matches": {
@@ -70703,10 +70703,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Dashiel": {
         "matches": {
@@ -71982,10 +71982,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "DazRob": {
         "matches": {
@@ -73261,10 +73261,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -74540,10 +74540,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Dino": {
         "matches": {
@@ -75819,10 +75819,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Dora": {
         "matches": {
@@ -77098,10 +77098,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "DougM": {
         "matches": {
@@ -78377,10 +78377,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Duarte": {
         "matches": {
@@ -79656,10 +79656,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Ed": {
         "matches": {
@@ -80935,10 +80935,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Edsel": {
         "matches": {
@@ -82214,10 +82214,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "EdwardT": {
         "matches": {
@@ -83493,10 +83493,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Elliott": {
         "matches": {
@@ -84772,10 +84772,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -86051,10 +86051,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ethan": {
         "matches": {
@@ -87330,10 +87330,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -88248,7 +88248,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Farshid": {
         "matches": {
@@ -88609,10 +88609,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -89888,10 +89888,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Fernando": {
         "matches": {
@@ -91167,10 +91167,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -92446,10 +92446,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Franco": {
         "matches": {
@@ -93725,10 +93725,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "FrankC": {
         "matches": {
@@ -95004,10 +95004,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "FrankD1": {
         "matches": {
@@ -96283,10 +96283,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "FrankD2": {
         "matches": {
@@ -97562,10 +97562,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "GabyDavide": {
         "matches": {
@@ -98841,10 +98841,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Gary": {
         "matches": {
@@ -100120,10 +100120,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -101399,10 +101399,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "GavinW": {
         "matches": {
@@ -102678,10 +102678,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -103957,10 +103957,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Greg": {
         "matches": {
@@ -105236,10 +105236,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -106515,10 +106515,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "GustavoH": {
         "matches": {
@@ -107794,10 +107794,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -109073,10 +109073,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -110352,10 +110352,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Heather": {
         "matches": {
@@ -111631,10 +111631,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "HelderA": {
         "matches": {
@@ -112910,10 +112910,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Hernani": {
         "matches": {
@@ -114189,10 +114189,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Hugo": {
         "matches": {
@@ -115468,10 +115468,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -116747,10 +116747,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Ida": {
         "matches": {
@@ -118026,10 +118026,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Igor1": {
         "matches": {
@@ -119305,10 +119305,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Igor2": {
         "matches": {
@@ -120584,10 +120584,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -121863,10 +121863,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "JamesC": {
         "matches": {
@@ -123142,10 +123142,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JamesP": {
         "matches": {
@@ -124421,10 +124421,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Janelle": {
         "matches": {
@@ -125700,10 +125700,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -126979,10 +126979,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "JasonF": {
         "matches": {
@@ -128258,10 +128258,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -129537,10 +129537,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "JeanMichel": {
         "matches": {
@@ -130816,10 +130816,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JeffB": {
         "matches": {
@@ -132095,10 +132095,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -133374,10 +133374,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -134653,10 +134653,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JeffT": {
         "matches": {
@@ -135932,10 +135932,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jenn": {
         "matches": {
@@ -137211,10 +137211,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Jennifer": {
         "matches": {
@@ -138490,10 +138490,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jeremy": {
         "matches": {
@@ -139769,10 +139769,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Jerry": {
         "matches": {
@@ -141048,10 +141048,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "JessicaD": {
         "matches": {
@@ -142327,10 +142327,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "JessicaG": {
         "matches": {
@@ -143606,10 +143606,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JessicaS": {
         "matches": {
@@ -144885,10 +144885,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jhon": {
         "matches": {
@@ -146164,10 +146164,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Jim": {
         "matches": {
@@ -147443,10 +147443,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -148722,10 +148722,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -150001,10 +150001,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JoeD": {
         "matches": {
@@ -151280,10 +151280,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "JohnO": {
         "matches": {
@@ -152559,10 +152559,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JohnR": {
         "matches": {
@@ -153838,10 +153838,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Jonathan": {
         "matches": {
@@ -155117,10 +155117,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JorgeC": {
         "matches": {
@@ -156396,10 +156396,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JorgeT": {
         "matches": {
@@ -157675,10 +157675,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Juan": {
         "matches": {
@@ -158954,10 +158954,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Julian": {
         "matches": {
@@ -160233,10 +160233,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JustinA": {
         "matches": {
@@ -161512,10 +161512,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JustinL": {
         "matches": {
@@ -162791,10 +162791,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Kayden": {
         "matches": {
@@ -164070,10 +164070,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "KevinC": {
         "matches": {
@@ -165349,10 +165349,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "KevinJ": {
         "matches": {
@@ -166628,10 +166628,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "KevinS": {
         "matches": {
@@ -167907,10 +167907,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Kristian": {
         "matches": {
@@ -169186,10 +169186,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Kumar": {
         "matches": {
@@ -170465,10 +170465,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Kyle": {
         "matches": {
@@ -171744,10 +171744,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -173023,10 +173023,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "LiamA": {
         "matches": {
@@ -174302,10 +174302,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "LiamMoh": {
         "matches": {
@@ -175581,10 +175581,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Lindsey": {
         "matches": {
@@ -176860,10 +176860,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -178139,10 +178139,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -179418,10 +179418,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Magno": {
         "matches": {
@@ -180697,10 +180697,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Major": {
         "matches": {
@@ -181976,10 +181976,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -183255,10 +183255,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MannyT": {
         "matches": {
@@ -184534,10 +184534,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "MarcioD": {
         "matches": {
@@ -185813,10 +185813,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MarcioS": {
         "matches": {
@@ -187092,10 +187092,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MarcoR": {
         "matches": {
@@ -188371,10 +188371,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Maria": {
         "matches": {
@@ -189650,10 +189650,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -190929,10 +190929,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MatthewG": {
         "matches": {
@@ -192208,10 +192208,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MatthewSa": {
         "matches": {
@@ -193487,10 +193487,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MatthewSm1": {
         "matches": {
@@ -194766,10 +194766,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MatthewSm2": {
         "matches": {
@@ -196045,10 +196045,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -197324,10 +197324,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -198603,10 +198603,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MichaelL": {
         "matches": {
@@ -199882,10 +199882,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MichaelM": {
         "matches": {
@@ -201161,10 +201161,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "MichaelPi": {
         "matches": {
@@ -202440,10 +202440,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Michele": {
         "matches": {
@@ -203719,10 +203719,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Mihajlo": {
         "matches": {
@@ -204998,10 +204998,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -206277,10 +206277,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Misic1": {
         "matches": {
@@ -207556,10 +207556,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Misic2": {
         "matches": {
@@ -208835,10 +208835,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Nas": {
         "matches": {
@@ -210114,10 +210114,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Nelson": {
         "matches": {
@@ -211393,10 +211393,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "NickM": {
         "matches": {
@@ -212672,10 +212672,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Nicolas": {
         "matches": {
@@ -213951,10 +213951,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -215230,10 +215230,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Nicole2": {
         "matches": {
@@ -216509,10 +216509,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Nima": {
         "matches": {
@@ -217788,10 +217788,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -219067,10 +219067,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Nuno1": {
         "matches": {
@@ -220346,10 +220346,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Nuno2": {
         "matches": {
@@ -221625,10 +221625,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -224183,10 +224183,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -225462,10 +225462,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Pascal": {
         "matches": {
@@ -226741,10 +226741,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Patullo": {
         "matches": {
@@ -228020,10 +228020,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "PaulA": {
         "matches": {
@@ -229299,10 +229299,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "PaulC": {
         "matches": {
@@ -230578,10 +230578,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "PetarS": {
         "matches": {
@@ -231857,10 +231857,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -233136,10 +233136,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Preto1": {
         "matches": {
@@ -234415,10 +234415,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Preto2": {
         "matches": {
@@ -235694,10 +235694,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Punit": {
         "matches": {
@@ -236973,10 +236973,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Rachel": {
         "matches": {
@@ -238252,10 +238252,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "RD2026": {
         "matches": {
@@ -239531,10 +239531,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ricardo1": {
         "matches": {
@@ -240810,10 +240810,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Ricardo2": {
         "matches": {
@@ -242089,10 +242089,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "RichardMa": {
         "matches": {
@@ -243368,10 +243368,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "RichardMo": {
         "matches": {
@@ -244647,10 +244647,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Rick": {
         "matches": {
@@ -245926,10 +245926,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ricky": {
         "matches": {
@@ -247205,10 +247205,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Rita": {
         "matches": {
@@ -248484,10 +248484,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Riyad": {
         "matches": {
@@ -249763,10 +249763,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -251042,10 +251042,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -252321,10 +252321,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "RobSi": {
         "matches": {
@@ -253600,10 +253600,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "RobTu": {
         "matches": {
@@ -254879,10 +254879,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -256158,10 +256158,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Rodrigo": {
         "matches": {
@@ -257437,10 +257437,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -258716,10 +258716,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Roy": {
         "matches": {
@@ -259995,10 +259995,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Salim": {
         "matches": {
@@ -261274,10 +261274,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -262553,10 +262553,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Sean": {
         "matches": {
@@ -263832,10 +263832,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Shawn1": {
         "matches": {
@@ -265111,10 +265111,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -266390,10 +266390,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -267669,10 +267669,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -268948,10 +268948,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Simone": {
         "matches": {
@@ -270227,10 +270227,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -271506,10 +271506,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Stallone1": {
         "matches": {
@@ -272785,10 +272785,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -274064,10 +274064,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Stanley": {
         "matches": {
@@ -275343,10 +275343,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Stephen": {
         "matches": {
@@ -276622,10 +276622,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -277901,10 +277901,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Tanya": {
         "matches": {
@@ -279180,10 +279180,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Theo": {
         "matches": {
@@ -280459,10 +280459,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Todaro": {
         "matches": {
@@ -281738,10 +281738,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -283017,10 +283017,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "TomP": {
         "matches": {
@@ -284296,10 +284296,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "TonyH": {
         "matches": {
@@ -285575,10 +285575,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -286854,10 +286854,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "TonyMi": {
         "matches": {
@@ -288133,10 +288133,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "TonyS": {
         "matches": {
@@ -289412,10 +289412,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -290691,10 +290691,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Trevor": {
         "matches": {
@@ -291970,10 +291970,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Tristan": {
         "matches": {
@@ -293249,10 +293249,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Victor": {
         "matches": {
@@ -294528,10 +294528,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Vishal": {
         "matches": {
@@ -295807,10 +295807,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Vito": {
         "matches": {
@@ -297086,10 +297086,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -298365,10 +298365,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -299644,10 +299644,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Yogi": {
         "matches": {
@@ -300923,10 +300923,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JoeA2": {
         "matches": {
@@ -302202,10 +302202,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "JoeA3": {
         "matches": {
@@ -303481,10 +303481,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -304760,10 +304760,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Samantha": {
         "matches": {
@@ -306039,10 +306039,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Tunisia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Sweden",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Tunisia"
                 },
                 {
@@ -306957,7 +306957,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "0": {
         "matches": {
