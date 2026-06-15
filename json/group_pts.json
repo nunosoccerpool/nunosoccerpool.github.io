@@ -281,8 +281,8 @@
                     "away_name": "Ecuador",
                     "pts_awarded": null,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -1558,10 +1558,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -2837,10 +2837,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -4116,10 +4116,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -5395,10 +5395,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -6674,10 +6674,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -7953,10 +7953,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -9232,10 +9232,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -10511,10 +10511,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -11790,10 +11790,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ali": {
         "matches": {
@@ -13069,10 +13069,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -14348,10 +14348,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Alnashir": {
         "matches": {
@@ -15627,10 +15627,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -16906,10 +16906,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -18185,10 +18185,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -19464,10 +19464,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -20743,10 +20743,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -22022,10 +22022,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -23301,10 +23301,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -24580,10 +24580,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -25859,10 +25859,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -27138,10 +27138,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -28417,10 +28417,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -29696,10 +29696,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -30975,10 +30975,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -32254,10 +32254,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -33533,10 +33533,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -34812,10 +34812,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -36091,10 +36091,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -37370,10 +37370,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -38649,10 +38649,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -39928,10 +39928,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -41207,10 +41207,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -42486,10 +42486,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -43765,10 +43765,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -45044,10 +45044,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Caroline": {
         "matches": {
@@ -46323,10 +46323,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -47602,10 +47602,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -48881,10 +48881,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "ChrisN": {
         "matches": {
@@ -50160,10 +50160,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "ChrisP": {
         "matches": {
@@ -51439,10 +51439,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -52718,10 +52718,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -53997,10 +53997,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -55276,10 +55276,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -56555,10 +56555,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -57834,10 +57834,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -59113,10 +59113,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -60392,10 +60392,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -61671,10 +61671,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -62950,10 +62950,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -64229,10 +64229,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -65508,10 +65508,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -66787,10 +66787,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -68066,10 +68066,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -69345,10 +69345,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -70624,10 +70624,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -71903,10 +71903,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -73182,10 +73182,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -74461,10 +74461,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -75740,10 +75740,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Dora": {
         "matches": {
@@ -77019,10 +77019,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DougM": {
         "matches": {
@@ -78298,10 +78298,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -79577,10 +79577,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -80856,10 +80856,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -82135,10 +82135,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "EdwardT": {
         "matches": {
@@ -83414,10 +83414,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -84693,10 +84693,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -85972,10 +85972,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -87251,10 +87251,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -88530,10 +88530,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -89809,10 +89809,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -91088,10 +91088,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Filip": {
         "matches": {
@@ -92367,10 +92367,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -93646,10 +93646,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -94925,10 +94925,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -96204,10 +96204,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -97483,10 +97483,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -98762,10 +98762,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -100041,10 +100041,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -101320,10 +101320,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -102599,10 +102599,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -103878,10 +103878,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Greg": {
         "matches": {
@@ -105157,10 +105157,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -106436,10 +106436,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "GustavoH": {
         "matches": {
@@ -107715,10 +107715,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "GustavoL": {
         "matches": {
@@ -108994,10 +108994,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -110273,10 +110273,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -111552,10 +111552,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -112831,10 +112831,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -114110,10 +114110,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -115389,10 +115389,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -116668,10 +116668,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -117947,10 +117947,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -119226,10 +119226,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Igor2": {
         "matches": {
@@ -120505,10 +120505,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jalen": {
         "matches": {
@@ -121784,10 +121784,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -123063,10 +123063,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -124342,10 +124342,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -125621,10 +125621,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -126900,10 +126900,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "JasonF": {
         "matches": {
@@ -128179,10 +128179,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Jaxon": {
         "matches": {
@@ -129458,10 +129458,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -130737,10 +130737,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -132016,10 +132016,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -133295,10 +133295,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -134574,10 +134574,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -135853,10 +135853,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -137132,10 +137132,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -138411,10 +138411,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -139690,10 +139690,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -140969,10 +140969,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "JessicaD": {
         "matches": {
@@ -142248,10 +142248,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -143527,10 +143527,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -144806,10 +144806,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -146085,10 +146085,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -147364,10 +147364,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Joanna": {
         "matches": {
@@ -148643,10 +148643,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -149922,10 +149922,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -151201,10 +151201,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -152480,10 +152480,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -153759,10 +153759,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -155038,10 +155038,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -156317,10 +156317,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -157596,10 +157596,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -158875,10 +158875,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -160154,10 +160154,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -161433,10 +161433,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -162712,10 +162712,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -163991,10 +163991,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "KevinC": {
         "matches": {
@@ -165270,10 +165270,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -166549,10 +166549,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -167828,10 +167828,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Kristian": {
         "matches": {
@@ -169107,10 +169107,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -170386,10 +170386,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -171665,10 +171665,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -172944,10 +172944,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -174223,10 +174223,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -175502,10 +175502,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -176781,10 +176781,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -178060,10 +178060,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -179339,10 +179339,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Magno": {
         "matches": {
@@ -180618,10 +180618,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -181897,10 +181897,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -183176,10 +183176,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -184455,10 +184455,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -185734,10 +185734,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -187013,10 +187013,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -188292,10 +188292,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Maria": {
         "matches": {
@@ -189571,10 +189571,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -190850,10 +190850,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -192129,10 +192129,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -193408,10 +193408,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -194687,10 +194687,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -195966,10 +195966,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Max": {
         "matches": {
@@ -197245,10 +197245,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -198524,10 +198524,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -199803,10 +199803,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -201082,10 +201082,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -202361,10 +202361,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -203640,10 +203640,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -204919,10 +204919,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -206198,10 +206198,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -207477,10 +207477,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Misic2": {
         "matches": {
@@ -208756,10 +208756,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Nas": {
         "matches": {
@@ -210035,10 +210035,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -211314,10 +211314,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "NickM": {
         "matches": {
@@ -212593,10 +212593,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -213872,10 +213872,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -215151,10 +215151,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -216430,10 +216430,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -217709,10 +217709,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Nolan": {
         "matches": {
@@ -218988,10 +218988,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -220267,10 +220267,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -221546,10 +221546,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -224104,10 +224104,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -225383,10 +225383,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -226662,10 +226662,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Patullo": {
         "matches": {
@@ -227941,10 +227941,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -229220,10 +229220,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -230499,10 +230499,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -231778,10 +231778,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -233057,10 +233057,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Preto1": {
         "matches": {
@@ -234336,10 +234336,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -235615,10 +235615,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -236894,10 +236894,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Rachel": {
         "matches": {
@@ -238173,10 +238173,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -239452,10 +239452,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Ricardo1": {
         "matches": {
@@ -240731,10 +240731,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -242010,10 +242010,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -243289,10 +243289,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -244568,10 +244568,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -245847,10 +245847,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Ricky": {
         "matches": {
@@ -247126,10 +247126,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -248405,10 +248405,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -249684,10 +249684,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "RobertP": {
         "matches": {
@@ -250963,10 +250963,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -252242,10 +252242,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -253521,10 +253521,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -254800,10 +254800,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -256079,10 +256079,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Rodrigo": {
         "matches": {
@@ -257358,10 +257358,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -258637,10 +258637,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -259916,10 +259916,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -261195,10 +261195,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Sarujan": {
         "matches": {
@@ -262474,10 +262474,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -263753,10 +263753,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -265032,10 +265032,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Shawn2": {
         "matches": {
@@ -266311,10 +266311,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -267590,10 +267590,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -268869,10 +268869,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -270148,10 +270148,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -271427,10 +271427,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -272706,10 +272706,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Stallone2": {
         "matches": {
@@ -273985,10 +273985,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Stanley": {
         "matches": {
@@ -275264,10 +275264,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "Stephen": {
         "matches": {
@@ -276543,10 +276543,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -277822,10 +277822,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -279101,10 +279101,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -280380,10 +280380,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -281659,10 +281659,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -282938,10 +282938,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "TomP": {
         "matches": {
@@ -284217,10 +284217,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "TonyH": {
         "matches": {
@@ -285496,10 +285496,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -286775,10 +286775,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -288054,10 +288054,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -289333,10 +289333,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -290612,10 +290612,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -291891,10 +291891,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -293170,10 +293170,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -294449,10 +294449,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -295728,10 +295728,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -297007,10 +297007,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -298286,10 +298286,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -299565,10 +299565,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -300844,10 +300844,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -302123,10 +302123,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -303402,10 +303402,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -304681,10 +304681,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
@@ -305960,10 +305960,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ecuador",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ivory Coast",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ecuador"
                 },
                 {
