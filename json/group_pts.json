@@ -428,8 +428,8 @@
                     "away_name": "Egypt",
                     "pts_awarded": null,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -1705,10 +1705,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -2984,10 +2984,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -4263,10 +4263,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -5542,10 +5542,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -6821,10 +6821,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -8100,10 +8100,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "AI": {
         "matches": {
@@ -9379,10 +9379,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -10658,10 +10658,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -11937,10 +11937,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -13216,10 +13216,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -14495,10 +14495,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -15774,10 +15774,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -17053,10 +17053,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -18332,10 +18332,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -19611,10 +19611,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -20890,10 +20890,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -22169,10 +22169,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -23448,10 +23448,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Anicio": {
         "matches": {
@@ -24727,10 +24727,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -26006,10 +26006,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -27285,10 +27285,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -28564,10 +28564,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -29843,10 +29843,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Arturo": {
         "matches": {
@@ -31122,10 +31122,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -32401,10 +32401,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -33680,10 +33680,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -34959,10 +34959,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -36238,10 +36238,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -37517,10 +37517,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -38796,10 +38796,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -40075,10 +40075,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "CarlosG": {
         "matches": {
@@ -41354,10 +41354,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -42633,10 +42633,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -43912,10 +43912,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -45191,10 +45191,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -46470,10 +46470,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -47749,10 +47749,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "ChrisK": {
         "matches": {
@@ -49028,10 +49028,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -50307,10 +50307,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -51586,10 +51586,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -52865,10 +52865,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -54144,10 +54144,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -55423,10 +55423,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -56702,10 +56702,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -57981,10 +57981,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -59260,10 +59260,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -60539,10 +60539,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -61818,10 +61818,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -63097,10 +63097,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "DanielR": {
         "matches": {
@@ -64376,10 +64376,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "DannyCR7": {
         "matches": {
@@ -65655,10 +65655,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "DannyL": {
         "matches": {
@@ -66934,10 +66934,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -68213,10 +68213,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -69492,10 +69492,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -70771,10 +70771,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -72050,10 +72050,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -73329,10 +73329,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -74608,10 +74608,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -75887,10 +75887,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -77166,10 +77166,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -78445,10 +78445,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -79724,10 +79724,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -81003,10 +81003,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -82282,10 +82282,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -83561,10 +83561,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -84840,10 +84840,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -86119,10 +86119,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -87398,10 +87398,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -88677,10 +88677,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Fawzi": {
         "matches": {
@@ -89956,10 +89956,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -91235,10 +91235,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -92514,10 +92514,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -93793,10 +93793,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -95072,10 +95072,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -96351,10 +96351,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -97630,10 +97630,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -98909,10 +98909,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -100188,10 +100188,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -101467,10 +101467,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "GavinW": {
         "matches": {
@@ -102746,10 +102746,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -104025,10 +104025,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Greg": {
         "matches": {
@@ -105304,10 +105304,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -106583,10 +106583,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -107862,10 +107862,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -109141,10 +109141,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -110420,10 +110420,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Heather": {
         "matches": {
@@ -111699,10 +111699,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -112978,10 +112978,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -114257,10 +114257,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -115536,10 +115536,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -116815,10 +116815,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -118094,10 +118094,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -119373,10 +119373,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Igor2": {
         "matches": {
@@ -120652,10 +120652,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Jalen": {
         "matches": {
@@ -121931,10 +121931,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -123210,10 +123210,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -124489,10 +124489,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -125768,10 +125768,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -127047,10 +127047,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -128326,10 +128326,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -129605,10 +129605,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -130884,10 +130884,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -132163,10 +132163,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -133442,10 +133442,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "JeffS2": {
         "matches": {
@@ -134721,10 +134721,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -136000,10 +136000,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -137279,10 +137279,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -138558,10 +138558,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -139837,10 +139837,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -141116,10 +141116,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -142395,10 +142395,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -143674,10 +143674,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -144953,10 +144953,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -146232,10 +146232,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -147511,10 +147511,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -148790,10 +148790,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "JoeA": {
         "matches": {
@@ -150069,10 +150069,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -151348,10 +151348,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -152627,10 +152627,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -153906,10 +153906,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -155185,10 +155185,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -156464,10 +156464,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -157743,10 +157743,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -159022,10 +159022,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -160301,10 +160301,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -161580,10 +161580,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -162859,10 +162859,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -164138,10 +164138,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -165417,10 +165417,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -166696,10 +166696,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -167975,10 +167975,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -169254,10 +169254,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -170533,10 +170533,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -171812,10 +171812,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -173091,10 +173091,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -174370,10 +174370,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -175649,10 +175649,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -176928,10 +176928,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -178207,10 +178207,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -179486,10 +179486,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -180765,10 +180765,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -182044,10 +182044,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Manley": {
         "matches": {
@@ -183323,10 +183323,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -184602,10 +184602,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -185881,10 +185881,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -187160,10 +187160,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -188439,10 +188439,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Maria": {
         "matches": {
@@ -189718,10 +189718,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -190997,10 +190997,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -192276,10 +192276,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -193555,10 +193555,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -194834,10 +194834,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -196113,10 +196113,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -197392,10 +197392,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -198671,10 +198671,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -199950,10 +199950,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "MichaelM": {
         "matches": {
@@ -201229,10 +201229,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -202508,10 +202508,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -203787,10 +203787,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -205066,10 +205066,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -206345,10 +206345,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -207624,10 +207624,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -208903,10 +208903,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -210182,10 +210182,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -211461,10 +211461,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -212740,10 +212740,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -214019,10 +214019,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Nicole1": {
         "matches": {
@@ -215298,10 +215298,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -216577,10 +216577,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -217856,10 +217856,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Nolan": {
         "matches": {
@@ -219135,10 +219135,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -220414,10 +220414,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -221693,10 +221693,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -224251,10 +224251,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -225530,10 +225530,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -226809,10 +226809,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Patullo": {
         "matches": {
@@ -228088,10 +228088,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -229367,10 +229367,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "PaulC": {
         "matches": {
@@ -230646,10 +230646,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -231925,10 +231925,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -233204,10 +233204,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -234483,10 +234483,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -235762,10 +235762,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -237041,10 +237041,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -238320,10 +238320,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -239599,10 +239599,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -240878,10 +240878,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -242157,10 +242157,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -243436,10 +243436,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -244715,10 +244715,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -245994,10 +245994,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -247273,10 +247273,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -248552,10 +248552,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -249831,10 +249831,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -251110,10 +251110,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -252389,10 +252389,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -253668,10 +253668,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -254947,10 +254947,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -256226,10 +256226,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -257505,10 +257505,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -258784,10 +258784,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -260063,10 +260063,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -261342,10 +261342,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -262621,10 +262621,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -263900,10 +263900,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -265179,10 +265179,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -266458,10 +266458,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -267737,10 +267737,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -269016,10 +269016,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -270295,10 +270295,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -271574,10 +271574,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -272853,10 +272853,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Stallone2": {
         "matches": {
@@ -274132,10 +274132,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Stanley": {
         "matches": {
@@ -275411,10 +275411,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -276690,10 +276690,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -277969,10 +277969,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -279248,10 +279248,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -280527,10 +280527,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -281806,10 +281806,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -283085,10 +283085,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -284364,10 +284364,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -285643,10 +285643,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -286922,10 +286922,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -288201,10 +288201,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -289480,10 +289480,10 @@
                     "home_score": 5,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -290759,10 +290759,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -292038,10 +292038,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -293317,10 +293317,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -294596,10 +294596,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -295875,10 +295875,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -297154,10 +297154,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -298433,10 +298433,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -299712,10 +299712,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -300991,10 +300991,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -302270,10 +302270,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -303549,10 +303549,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Josh": {
         "matches": {
@@ -304828,10 +304828,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -306107,10 +306107,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Belgium",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Egypt"
                 },
                 {
