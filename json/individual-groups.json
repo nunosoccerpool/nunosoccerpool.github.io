@@ -274,15 +274,31 @@
       "title": "Group G",
       "rows": [
         {
+          "col1": "CarlosD",
+          "col2": "3"
+        },
+        {
+          "col1": "Igor1",
+          "col2": "3"
+        },
+        {
+          "col1": "Igor2",
+          "col2": "3"
+        },
+        {
+          "col1": "PaulA",
+          "col2": "3"
+        },
+        {
+          "col1": "Stallone1",
+          "col2": "3"
+        },
+        {
           "col1": "Adrian",
           "col2": "2"
         },
         {
           "col1": "Angel",
-          "col2": "2"
-        },
-        {
-          "col1": "CarlosD",
           "col2": "2"
         },
         {
@@ -295,22 +311,6 @@
         },
         {
           "col1": "DannyCR7",
-          "col2": "2"
-        },
-        {
-          "col1": "GavinRiya",
-          "col2": "2"
-        },
-        {
-          "col1": "Igor1",
-          "col2": "2"
-        },
-        {
-          "col1": "Igor2",
-          "col2": "2"
-        },
-        {
-          "col1": "JeffS1",
           "col2": "2"
         }
       ]

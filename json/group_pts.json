@@ -417,8 +417,8 @@
                     "away_name": "New Zealand",
                     "pts_awarded": null,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -1694,10 +1694,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -2973,10 +2973,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -4252,10 +4252,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -5531,10 +5531,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Adam": {
         "matches": {
@@ -6810,10 +6810,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -8089,10 +8089,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -9368,10 +9368,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Albeiro": {
         "matches": {
@@ -10647,10 +10647,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -11926,10 +11926,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -13205,10 +13205,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -14484,10 +14484,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -15763,10 +15763,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -17042,10 +17042,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -18321,10 +18321,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -19600,10 +19600,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -20879,10 +20879,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -22158,10 +22158,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -23437,10 +23437,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -24716,10 +24716,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -25995,10 +25995,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -27274,10 +27274,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -28553,10 +28553,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -29832,10 +29832,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -31111,10 +31111,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -32390,10 +32390,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -33669,10 +33669,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -34948,10 +34948,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -36227,10 +36227,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "BrianS": {
         "matches": {
@@ -37506,10 +37506,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -38785,10 +38785,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -40064,10 +40064,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "CarlosG": {
         "matches": {
@@ -41343,10 +41343,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -42622,10 +42622,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "CarlosS2": {
         "matches": {
@@ -43901,10 +43901,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -45180,10 +45180,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -46459,10 +46459,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Charles": {
         "matches": {
@@ -47738,10 +47738,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -49017,10 +49017,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -50296,10 +50296,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -51575,10 +51575,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -52854,10 +52854,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -54133,10 +54133,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "CMD88": {
         "matches": {
@@ -55412,10 +55412,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -56691,10 +56691,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -57970,10 +57970,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -59249,10 +59249,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -60528,10 +60528,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -61807,10 +61807,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "DanielM": {
         "matches": {
@@ -63086,10 +63086,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -64365,10 +64365,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -65644,10 +65644,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -66923,10 +66923,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -68202,10 +68202,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -69481,10 +69481,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -70760,10 +70760,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -72039,10 +72039,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -73318,10 +73318,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Deylin": {
         "matches": {
@@ -74597,10 +74597,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Dino": {
         "matches": {
@@ -75876,10 +75876,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -77155,10 +77155,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -78434,10 +78434,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Duarte": {
         "matches": {
@@ -79713,10 +79713,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -80992,10 +80992,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -82271,10 +82271,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -83550,10 +83550,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -84829,10 +84829,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -86108,10 +86108,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Ethan": {
         "matches": {
@@ -87387,10 +87387,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -88666,10 +88666,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Fawzi": {
         "matches": {
@@ -89945,10 +89945,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -91224,10 +91224,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -92503,10 +92503,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -93782,10 +93782,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -95061,10 +95061,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -96340,10 +96340,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "FrankD2": {
         "matches": {
@@ -97619,10 +97619,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "GabyDavide": {
         "matches": {
@@ -98898,10 +98898,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Gary": {
         "matches": {
@@ -100177,10 +100177,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "GavinRiya": {
         "matches": {
@@ -101456,10 +101456,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -102735,10 +102735,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -104014,10 +104014,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -105293,10 +105293,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Grosso": {
         "matches": {
@@ -106572,10 +106572,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -107851,10 +107851,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -109130,10 +109130,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Gwen": {
         "matches": {
@@ -110409,10 +110409,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -111688,10 +111688,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -112967,10 +112967,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Hernani": {
         "matches": {
@@ -114246,10 +114246,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -115525,10 +115525,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Ian": {
         "matches": {
@@ -116804,10 +116804,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -118083,10 +118083,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -119362,10 +119362,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Igor2": {
         "matches": {
@@ -120641,10 +120641,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Jalen": {
         "matches": {
@@ -121920,10 +121920,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JamesC": {
         "matches": {
@@ -123199,10 +123199,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -124478,10 +124478,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -125757,10 +125757,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "JasonB": {
         "matches": {
@@ -127036,10 +127036,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -128315,10 +128315,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jaxon": {
         "matches": {
@@ -129594,10 +129594,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -130873,10 +130873,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -132152,10 +132152,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -133431,10 +133431,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -134710,10 +134710,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -135989,10 +135989,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -137268,10 +137268,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -138547,10 +138547,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -139826,10 +139826,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Jerry": {
         "matches": {
@@ -141105,10 +141105,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -142384,10 +142384,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -143663,10 +143663,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -144942,10 +144942,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -146221,10 +146221,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Jim": {
         "matches": {
@@ -147500,10 +147500,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -148779,10 +148779,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -150058,10 +150058,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -151337,10 +151337,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -152616,10 +152616,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -153895,10 +153895,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -155174,10 +155174,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -156453,10 +156453,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -157732,10 +157732,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -159011,10 +159011,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -160290,10 +160290,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -161569,10 +161569,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JustinL": {
         "matches": {
@@ -162848,10 +162848,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Kayden": {
         "matches": {
@@ -164127,10 +164127,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "KevinC": {
         "matches": {
@@ -165406,10 +165406,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -166685,10 +166685,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -167964,10 +167964,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Kristian": {
         "matches": {
@@ -169243,10 +169243,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -170522,10 +170522,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -171801,10 +171801,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -173080,10 +173080,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -174359,10 +174359,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "LiamMoh": {
         "matches": {
@@ -175638,10 +175638,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Lindsey": {
         "matches": {
@@ -176917,10 +176917,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -178196,10 +178196,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Luka": {
         "matches": {
@@ -179475,10 +179475,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -180754,10 +180754,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -182033,10 +182033,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -183312,10 +183312,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MannyT": {
         "matches": {
@@ -184591,10 +184591,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -185870,10 +185870,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -187149,10 +187149,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MarcoR": {
         "matches": {
@@ -188428,10 +188428,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -189707,10 +189707,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -190986,10 +190986,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -192265,10 +192265,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -193544,10 +193544,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -194823,10 +194823,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -196102,10 +196102,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -197381,10 +197381,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -198660,10 +198660,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MichaelL": {
         "matches": {
@@ -199939,10 +199939,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -201218,10 +201218,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -202497,10 +202497,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Michele": {
         "matches": {
@@ -203776,10 +203776,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Mihajlo": {
         "matches": {
@@ -205055,10 +205055,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -206334,10 +206334,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -207613,10 +207613,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -208892,10 +208892,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Nas": {
         "matches": {
@@ -210171,10 +210171,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -211450,10 +211450,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "NickM": {
         "matches": {
@@ -212729,10 +212729,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -214008,10 +214008,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -215287,10 +215287,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Nicole2": {
         "matches": {
@@ -216566,10 +216566,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Nima": {
         "matches": {
@@ -217845,10 +217845,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -219124,10 +219124,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Nuno1": {
         "matches": {
@@ -220403,10 +220403,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -221682,10 +221682,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 3
     },
     "PabloL": {
         "matches": {
@@ -224240,10 +224240,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -225519,10 +225519,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Pascal": {
         "matches": {
@@ -226798,10 +226798,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -228077,10 +228077,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "PaulA": {
         "matches": {
@@ -229356,10 +229356,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "PaulC": {
         "matches": {
@@ -230635,10 +230635,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -231914,10 +231914,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -233193,10 +233193,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -234472,10 +234472,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -235751,10 +235751,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -237030,10 +237030,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Rachel": {
         "matches": {
@@ -238309,10 +238309,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -239588,10 +239588,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -240867,10 +240867,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Ricardo2": {
         "matches": {
@@ -242146,10 +242146,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "RichardMa": {
         "matches": {
@@ -243425,10 +243425,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -244704,10 +244704,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Rick": {
         "matches": {
@@ -245983,10 +245983,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -247262,10 +247262,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -248541,10 +248541,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -249820,10 +249820,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -251099,10 +251099,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -252378,10 +252378,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "RobSi": {
         "matches": {
@@ -253657,10 +253657,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -254936,10 +254936,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -256215,10 +256215,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -257494,10 +257494,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Rousse": {
         "matches": {
@@ -258773,10 +258773,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -260052,10 +260052,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -261331,10 +261331,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -262610,10 +262610,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -263889,10 +263889,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -265168,10 +265168,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Shawn2": {
         "matches": {
@@ -266447,10 +266447,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Sheila": {
         "matches": {
@@ -267726,10 +267726,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -269005,10 +269005,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Simone": {
         "matches": {
@@ -270284,10 +270284,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -271563,10 +271563,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -272842,10 +272842,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Stallone2": {
         "matches": {
@@ -274121,10 +274121,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Stanley": {
         "matches": {
@@ -275400,10 +275400,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Stephen": {
         "matches": {
@@ -276679,10 +276679,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "StevenT": {
         "matches": {
@@ -277958,10 +277958,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Tanya": {
         "matches": {
@@ -279237,10 +279237,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -280516,10 +280516,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -281795,10 +281795,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Tomas": {
         "matches": {
@@ -283074,10 +283074,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "TomP": {
         "matches": {
@@ -284353,10 +284353,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -285632,10 +285632,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -286911,10 +286911,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -288190,10 +288190,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "TonyS": {
         "matches": {
@@ -289469,10 +289469,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "TonyV": {
         "matches": {
@@ -290748,10 +290748,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -292027,10 +292027,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Tristan": {
         "matches": {
@@ -293306,10 +293306,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Victor": {
         "matches": {
@@ -294585,10 +294585,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -295864,10 +295864,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Vito": {
         "matches": {
@@ -297143,10 +297143,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -298422,10 +298422,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -299701,10 +299701,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -300980,10 +300980,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JoeA2": {
         "matches": {
@@ -302259,10 +302259,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -303538,10 +303538,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -304817,10 +304817,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Samantha": {
         "matches": {
@@ -306096,10 +306096,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "New Zealand",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Iran",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 2.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "New Zealand"
                 },
                 {
@@ -306957,1285 +306957,6 @@
                 ]
             }
         },
-        "total_points": 9
-    },
-    "0": {
-        "matches": {
-            "GroupA": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupB": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupC": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupD": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupE": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupF": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupG": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupH": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupI": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupJ": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupK": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ],
-            "GroupL": [
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                },
-                {
-                    "home_name": null,
-                    "home_score": null,
-                    "away_score": null,
-                    "away_name": null,
-                    "pts_awarded": null,
-                    "act_home_name": null,
-                    "act_home_score": null,
-                    "act_away_score": null,
-                    "act_away_name": null
-                }
-            ]
-        },
-        "rankings": {
-            "GroupA": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupB": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupC": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupD": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupE": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupF": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupG": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupH": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupI": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupJ": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupK": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            },
-            "GroupL": {
-                "player_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ],
-                "actual_ranking": [
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    },
-                    {
-                        "rank_name": null,
-                        "pts_awarded": null
-                    }
-                ]
-            }
-        },
-        "total_points": null
+        "total_points": 10
     }
 }
