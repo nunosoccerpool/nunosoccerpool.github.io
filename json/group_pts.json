@@ -485,8 +485,8 @@
                     "away_name": "Uruguay",
                     "pts_awarded": null,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -1762,10 +1762,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -3041,10 +3041,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -4320,10 +4320,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -5599,10 +5599,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -6878,10 +6878,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -8157,10 +8157,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -9436,10 +9436,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -10715,10 +10715,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -11994,10 +11994,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -13273,10 +13273,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -14552,10 +14552,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -15831,10 +15831,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -17110,10 +17110,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -18389,10 +18389,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "AnaL": {
         "matches": {
@@ -19668,10 +19668,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -20947,10 +20947,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -22226,10 +22226,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -23505,10 +23505,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -24784,10 +24784,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -26063,10 +26063,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -27342,10 +27342,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "AnthonyV": {
         "matches": {
@@ -28621,10 +28621,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -29900,10 +29900,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Arturo": {
         "matches": {
@@ -31179,10 +31179,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -32458,10 +32458,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -33737,10 +33737,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -35016,10 +35016,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -36295,10 +36295,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -37574,10 +37574,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Cameron": {
         "matches": {
@@ -38853,10 +38853,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -40132,10 +40132,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -41411,10 +41411,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -42690,10 +42690,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -43969,10 +43969,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -45248,10 +45248,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -46527,10 +46527,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -47806,10 +47806,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -49085,10 +49085,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -50364,10 +50364,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -51643,10 +51643,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -52922,10 +52922,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -54201,10 +54201,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -55480,10 +55480,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -56759,10 +56759,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -58038,10 +58038,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -59317,10 +59317,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -60596,10 +60596,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -61875,10 +61875,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -63154,10 +63154,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -64433,10 +64433,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -65712,10 +65712,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -66991,10 +66991,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -68270,10 +68270,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -69549,10 +69549,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -70828,10 +70828,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -72107,10 +72107,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -73386,10 +73386,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -74665,10 +74665,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -75944,10 +75944,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -77223,10 +77223,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -78502,10 +78502,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -79781,10 +79781,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -81060,10 +81060,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -82339,10 +82339,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -83618,10 +83618,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -84897,10 +84897,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -86176,10 +86176,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -87455,10 +87455,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -88734,10 +88734,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -90013,10 +90013,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -91292,10 +91292,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -92571,10 +92571,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -93850,10 +93850,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -95129,10 +95129,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -96408,10 +96408,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -97687,10 +97687,10 @@
                     "home_score": 3,
                     "away_score": 4,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -98966,10 +98966,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -100245,10 +100245,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -101524,10 +101524,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -102803,10 +102803,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -104082,10 +104082,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -105361,10 +105361,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -106640,10 +106640,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "GustavoH": {
         "matches": {
@@ -107919,10 +107919,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "GustavoL": {
         "matches": {
@@ -109198,10 +109198,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Gwen": {
         "matches": {
@@ -110477,10 +110477,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -111756,10 +111756,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -113035,10 +113035,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Hernani": {
         "matches": {
@@ -114314,10 +114314,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -115593,10 +115593,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -116872,10 +116872,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -118151,10 +118151,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -119430,10 +119430,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -120709,10 +120709,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -121988,10 +121988,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -123267,10 +123267,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -124546,10 +124546,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Janelle": {
         "matches": {
@@ -125825,10 +125825,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -127104,10 +127104,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -128383,10 +128383,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -129662,10 +129662,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -130941,10 +130941,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -132220,10 +132220,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -133499,10 +133499,10 @@
                     "home_score": 3,
                     "away_score": 4,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -134778,10 +134778,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -136057,10 +136057,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -137336,10 +137336,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -138615,10 +138615,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -139894,10 +139894,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -141173,10 +141173,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -142452,10 +142452,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -143731,10 +143731,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -145010,10 +145010,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -146289,10 +146289,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -147568,10 +147568,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Joanna": {
         "matches": {
@@ -148847,10 +148847,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "JoeA": {
         "matches": {
@@ -150126,10 +150126,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -151405,10 +151405,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -152684,10 +152684,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -153963,10 +153963,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -155242,10 +155242,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -156521,10 +156521,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -157800,10 +157800,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -159079,10 +159079,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -160358,10 +160358,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -161637,10 +161637,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -162916,10 +162916,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -164195,10 +164195,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "KevinC": {
         "matches": {
@@ -165474,10 +165474,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -166753,10 +166753,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -168032,10 +168032,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -169311,10 +169311,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -170590,10 +170590,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -171869,10 +171869,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -173148,10 +173148,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -174427,10 +174427,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -175706,10 +175706,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -176985,10 +176985,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -178264,10 +178264,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -179543,10 +179543,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -180822,10 +180822,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -182101,10 +182101,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -183380,10 +183380,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -184659,10 +184659,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -185938,10 +185938,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -187217,10 +187217,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -188496,10 +188496,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -189775,10 +189775,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Marta": {
         "matches": {
@@ -191054,10 +191054,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -192333,10 +192333,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -193612,10 +193612,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -194891,10 +194891,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -196170,10 +196170,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Max": {
         "matches": {
@@ -197449,10 +197449,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -198728,10 +198728,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -200007,10 +200007,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -201286,10 +201286,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -202565,10 +202565,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -203844,10 +203844,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -205123,10 +205123,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -206402,10 +206402,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Misic1": {
         "matches": {
@@ -207681,10 +207681,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -208960,10 +208960,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -210239,10 +210239,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -211518,10 +211518,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -212797,10 +212797,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -214076,10 +214076,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -215355,10 +215355,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -216634,10 +216634,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Nima": {
         "matches": {
@@ -217913,10 +217913,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -219192,10 +219192,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Nuno1": {
         "matches": {
@@ -220471,10 +220471,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -221750,10 +221750,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -224308,10 +224308,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Pardeep": {
         "matches": {
@@ -225587,10 +225587,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -226866,10 +226866,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -228145,10 +228145,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -229424,10 +229424,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -230703,10 +230703,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -231982,10 +231982,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -233261,10 +233261,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -234540,10 +234540,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -235819,10 +235819,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -237098,10 +237098,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -238377,10 +238377,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -239656,10 +239656,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -240935,10 +240935,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Ricardo2": {
         "matches": {
@@ -242214,10 +242214,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "RichardMa": {
         "matches": {
@@ -243493,10 +243493,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -244772,10 +244772,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -246051,10 +246051,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -247330,10 +247330,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -248609,10 +248609,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -249888,10 +249888,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -251167,10 +251167,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -252446,10 +252446,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -253725,10 +253725,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -255004,10 +255004,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -256283,10 +256283,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -257562,10 +257562,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -258841,10 +258841,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -260120,10 +260120,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -261399,10 +261399,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -262678,10 +262678,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -263957,10 +263957,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -265236,10 +265236,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -266515,10 +266515,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -267794,10 +267794,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -269073,10 +269073,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -270352,10 +270352,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -271631,10 +271631,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -272910,10 +272910,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -274189,10 +274189,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -275468,10 +275468,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Stephen": {
         "matches": {
@@ -276747,10 +276747,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -278026,10 +278026,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -279305,10 +279305,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -280584,10 +280584,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -281863,10 +281863,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -283142,10 +283142,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -284421,10 +284421,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -285700,10 +285700,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -286979,10 +286979,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "TonyMi": {
         "matches": {
@@ -288258,10 +288258,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -289537,10 +289537,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -290816,10 +290816,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -292095,10 +292095,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -293374,10 +293374,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -294653,10 +294653,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -295932,10 +295932,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -297211,10 +297211,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "VukSto": {
         "matches": {
@@ -298490,10 +298490,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -299769,10 +299769,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -301048,10 +301048,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -302327,10 +302327,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -303606,10 +303606,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -304885,10 +304885,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
@@ -306164,10 +306164,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Uruguay",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Saudi Arabia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Uruguay"
                 },
                 {
