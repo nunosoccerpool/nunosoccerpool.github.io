@@ -553,8 +553,8 @@
                     "away_name": "Senegal",
                     "pts_awarded": null,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -1830,10 +1830,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Aaron2": {
         "matches": {
@@ -3109,10 +3109,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Aaron3": {
         "matches": {
@@ -4388,10 +4388,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 2
+        "total_points": 4
     },
     "Aban": {
         "matches": {
@@ -5667,10 +5667,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Adam": {
         "matches": {
@@ -6946,10 +6946,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Adrian": {
         "matches": {
@@ -8225,10 +8225,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "AI": {
         "matches": {
@@ -9504,10 +9504,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Albeiro": {
         "matches": {
@@ -10783,10 +10783,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Alex": {
         "matches": {
@@ -12062,10 +12062,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -13341,10 +13341,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Alice": {
         "matches": {
@@ -14620,10 +14620,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -15899,10 +15899,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Alston1": {
         "matches": {
@@ -17178,10 +17178,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Alston2": {
         "matches": {
@@ -18457,10 +18457,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "AnaL": {
         "matches": {
@@ -19736,10 +19736,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "AnaS": {
         "matches": {
@@ -21015,10 +21015,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Andres": {
         "matches": {
@@ -22294,10 +22294,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Angel": {
         "matches": {
@@ -23573,10 +23573,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -24852,10 +24852,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "AniD": {
         "matches": {
@@ -26131,10 +26131,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ante": {
         "matches": {
@@ -27410,10 +27410,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -28689,10 +28689,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Arjun": {
         "matches": {
@@ -29968,10 +29968,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Arturo": {
         "matches": {
@@ -31247,10 +31247,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Ash": {
         "matches": {
@@ -32526,10 +32526,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Augie": {
         "matches": {
@@ -33805,10 +33805,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Bindu": {
         "matches": {
@@ -35084,10 +35084,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Brendan": {
         "matches": {
@@ -36363,10 +36363,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "BrianS": {
         "matches": {
@@ -37642,10 +37642,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Cameron": {
         "matches": {
@@ -38921,10 +38921,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "CarlosD": {
         "matches": {
@@ -40200,10 +40200,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "CarlosG": {
         "matches": {
@@ -41479,10 +41479,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -42758,10 +42758,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "CarlosS2": {
         "matches": {
@@ -44037,10 +44037,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Carmen": {
         "matches": {
@@ -45316,10 +45316,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Caroline": {
         "matches": {
@@ -46595,10 +46595,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Charles": {
         "matches": {
@@ -47874,10 +47874,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "ChrisK": {
         "matches": {
@@ -49153,10 +49153,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -50432,10 +50432,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "ChrisP": {
         "matches": {
@@ -51711,10 +51711,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Chrissy": {
         "matches": {
@@ -52990,10 +52990,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "ChristianL": {
         "matches": {
@@ -54269,10 +54269,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "CMD88": {
         "matches": {
@@ -55548,10 +55548,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Coco": {
         "matches": {
@@ -56827,10 +56827,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -58106,10 +58106,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -59385,10 +59385,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -60664,10 +60664,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -61943,10 +61943,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DanielM": {
         "matches": {
@@ -63222,10 +63222,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -64501,10 +64501,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "DannyCR7": {
         "matches": {
@@ -65780,10 +65780,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DannyL": {
         "matches": {
@@ -67059,10 +67059,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "DannyRa": {
         "matches": {
@@ -68338,10 +68338,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Darryll": {
         "matches": {
@@ -69617,10 +69617,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "DarylF": {
         "matches": {
@@ -70896,10 +70896,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Dashiel": {
         "matches": {
@@ -72175,10 +72175,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DazRob": {
         "matches": {
@@ -73454,10 +73454,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Deylin": {
         "matches": {
@@ -74733,10 +74733,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Dino": {
         "matches": {
@@ -76012,10 +76012,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Dora": {
         "matches": {
@@ -77291,10 +77291,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "DougM": {
         "matches": {
@@ -78570,10 +78570,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Duarte": {
         "matches": {
@@ -79849,10 +79849,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Ed": {
         "matches": {
@@ -81128,10 +81128,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Edsel": {
         "matches": {
@@ -82407,10 +82407,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "EdwardT": {
         "matches": {
@@ -83686,10 +83686,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Elliott": {
         "matches": {
@@ -84965,10 +84965,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "EricK": {
         "matches": {
@@ -86244,10 +86244,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Ethan": {
         "matches": {
@@ -87523,10 +87523,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -88248,7 +88248,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Farshid": {
         "matches": {
@@ -88802,10 +88802,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -90081,10 +90081,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Fernando": {
         "matches": {
@@ -91360,10 +91360,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Filip": {
         "matches": {
@@ -92639,10 +92639,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Franco": {
         "matches": {
@@ -93918,10 +93918,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "FrankC": {
         "matches": {
@@ -95197,10 +95197,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "FrankD1": {
         "matches": {
@@ -96476,10 +96476,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "FrankD2": {
         "matches": {
@@ -97755,10 +97755,10 @@
                     "home_score": 5,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "GabyDavide": {
         "matches": {
@@ -99034,10 +99034,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Gary": {
         "matches": {
@@ -100313,10 +100313,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "GavinRiya": {
         "matches": {
@@ -101592,10 +101592,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -102871,10 +102871,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Goran": {
         "matches": {
@@ -104150,10 +104150,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -105429,10 +105429,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -106708,10 +106708,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "GustavoH": {
         "matches": {
@@ -107987,10 +107987,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "GustavoL": {
         "matches": {
@@ -109266,10 +109266,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Gwen": {
         "matches": {
@@ -110545,10 +110545,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Heather": {
         "matches": {
@@ -111824,10 +111824,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "HelderA": {
         "matches": {
@@ -113103,10 +113103,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Hernani": {
         "matches": {
@@ -114382,10 +114382,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Hugo": {
         "matches": {
@@ -115661,10 +115661,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Ian": {
         "matches": {
@@ -116940,10 +116940,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Ida": {
         "matches": {
@@ -118219,10 +118219,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Igor1": {
         "matches": {
@@ -119498,10 +119498,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Igor2": {
         "matches": {
@@ -120777,10 +120777,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jalen": {
         "matches": {
@@ -122056,10 +122056,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JamesC": {
         "matches": {
@@ -123335,10 +123335,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JamesP": {
         "matches": {
@@ -124614,10 +124614,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Janelle": {
         "matches": {
@@ -125893,10 +125893,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JasonB": {
         "matches": {
@@ -127172,10 +127172,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "JasonF": {
         "matches": {
@@ -128451,10 +128451,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Jaxon": {
         "matches": {
@@ -129730,10 +129730,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "JeanMichel": {
         "matches": {
@@ -131009,10 +131009,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JeffB": {
         "matches": {
@@ -132288,10 +132288,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -133567,10 +133567,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "JeffS2": {
         "matches": {
@@ -134846,10 +134846,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JeffT": {
         "matches": {
@@ -136125,10 +136125,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Jenn": {
         "matches": {
@@ -137404,10 +137404,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Jennifer": {
         "matches": {
@@ -138683,10 +138683,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Jeremy": {
         "matches": {
@@ -139962,10 +139962,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Jerry": {
         "matches": {
@@ -141241,10 +141241,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "JessicaD": {
         "matches": {
@@ -142520,10 +142520,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "JessicaG": {
         "matches": {
@@ -143799,10 +143799,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JessicaS": {
         "matches": {
@@ -145078,10 +145078,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Jhon": {
         "matches": {
@@ -146357,10 +146357,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Jim": {
         "matches": {
@@ -147636,10 +147636,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Joanna": {
         "matches": {
@@ -148915,10 +148915,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "JoeA": {
         "matches": {
@@ -150194,10 +150194,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JoeD": {
         "matches": {
@@ -151473,10 +151473,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "JohnO": {
         "matches": {
@@ -152752,10 +152752,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JohnR": {
         "matches": {
@@ -154031,10 +154031,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Jonathan": {
         "matches": {
@@ -155310,10 +155310,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -156589,10 +156589,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JorgeT": {
         "matches": {
@@ -157868,10 +157868,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Juan": {
         "matches": {
@@ -159147,10 +159147,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Julian": {
         "matches": {
@@ -160426,10 +160426,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JustinA": {
         "matches": {
@@ -161705,10 +161705,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JustinL": {
         "matches": {
@@ -162984,10 +162984,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Kayden": {
         "matches": {
@@ -164263,10 +164263,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "KevinC": {
         "matches": {
@@ -165542,10 +165542,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "KevinJ": {
         "matches": {
@@ -166821,10 +166821,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -168100,10 +168100,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Kristian": {
         "matches": {
@@ -169379,10 +169379,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Kumar": {
         "matches": {
@@ -170658,10 +170658,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Kyle": {
         "matches": {
@@ -171937,10 +171937,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Lena": {
         "matches": {
@@ -173216,10 +173216,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "LiamA": {
         "matches": {
@@ -174495,10 +174495,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "LiamMoh": {
         "matches": {
@@ -175774,10 +175774,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -177053,10 +177053,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "Lisa": {
         "matches": {
@@ -178332,10 +178332,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Luka": {
         "matches": {
@@ -179611,10 +179611,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Magno": {
         "matches": {
@@ -180890,10 +180890,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "Major": {
         "matches": {
@@ -182169,10 +182169,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Manley": {
         "matches": {
@@ -183448,10 +183448,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MannyT": {
         "matches": {
@@ -184727,10 +184727,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "MarcioD": {
         "matches": {
@@ -186006,10 +186006,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MarcioS": {
         "matches": {
@@ -187285,10 +187285,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "MarcoR": {
         "matches": {
@@ -188564,10 +188564,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Maria": {
         "matches": {
@@ -189843,10 +189843,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Marta": {
         "matches": {
@@ -191122,10 +191122,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MatthewG": {
         "matches": {
@@ -192401,10 +192401,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "MatthewSa": {
         "matches": {
@@ -193680,10 +193680,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MatthewSm1": {
         "matches": {
@@ -194959,10 +194959,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MatthewSm2": {
         "matches": {
@@ -196238,10 +196238,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Max": {
         "matches": {
@@ -197517,10 +197517,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Melissa": {
         "matches": {
@@ -198796,10 +198796,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MichaelL": {
         "matches": {
@@ -200075,10 +200075,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -201354,10 +201354,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "MichaelPi": {
         "matches": {
@@ -202633,10 +202633,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Michele": {
         "matches": {
@@ -203912,10 +203912,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Mihajlo": {
         "matches": {
@@ -205191,10 +205191,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "MikeD": {
         "matches": {
@@ -206470,10 +206470,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Misic1": {
         "matches": {
@@ -207749,10 +207749,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Misic2": {
         "matches": {
@@ -209028,10 +209028,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Nas": {
         "matches": {
@@ -210307,10 +210307,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Nelson": {
         "matches": {
@@ -211586,10 +211586,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "NickM": {
         "matches": {
@@ -212865,10 +212865,10 @@
                     "home_score": 5,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Nicolas": {
         "matches": {
@@ -214144,10 +214144,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Nicole1": {
         "matches": {
@@ -215423,10 +215423,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Nicole2": {
         "matches": {
@@ -216702,10 +216702,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Nima": {
         "matches": {
@@ -217981,10 +217981,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Nolan": {
         "matches": {
@@ -219260,10 +219260,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Nuno1": {
         "matches": {
@@ -220539,10 +220539,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -221818,10 +221818,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -224376,10 +224376,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Pardeep": {
         "matches": {
@@ -225655,10 +225655,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Pascal": {
         "matches": {
@@ -226934,10 +226934,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Patullo": {
         "matches": {
@@ -228213,10 +228213,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "PaulA": {
         "matches": {
@@ -229492,10 +229492,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "PaulC": {
         "matches": {
@@ -230771,10 +230771,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "PetarS": {
         "matches": {
@@ -232050,10 +232050,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Pierfelice": {
         "matches": {
@@ -233329,10 +233329,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Preto1": {
         "matches": {
@@ -234608,10 +234608,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Preto2": {
         "matches": {
@@ -235887,10 +235887,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Punit": {
         "matches": {
@@ -237166,10 +237166,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Rachel": {
         "matches": {
@@ -238445,10 +238445,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "RD2026": {
         "matches": {
@@ -239724,10 +239724,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -241003,10 +241003,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Ricardo2": {
         "matches": {
@@ -242282,10 +242282,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "RichardMa": {
         "matches": {
@@ -243561,10 +243561,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "RichardMo": {
         "matches": {
@@ -244840,10 +244840,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Rick": {
         "matches": {
@@ -246119,10 +246119,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Ricky": {
         "matches": {
@@ -247398,10 +247398,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Rita": {
         "matches": {
@@ -248677,10 +248677,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Riyad": {
         "matches": {
@@ -249956,10 +249956,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "RobertP": {
         "matches": {
@@ -251235,10 +251235,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 6
     },
     "RobertS": {
         "matches": {
@@ -252514,10 +252514,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "RobSi": {
         "matches": {
@@ -253793,10 +253793,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "RobTu": {
         "matches": {
@@ -255072,10 +255072,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "RobW": {
         "matches": {
@@ -256351,10 +256351,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Rodrigo": {
         "matches": {
@@ -257630,10 +257630,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "Rousse": {
         "matches": {
@@ -258909,10 +258909,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Roy": {
         "matches": {
@@ -260188,10 +260188,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Salim": {
         "matches": {
@@ -261467,10 +261467,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Sarujan": {
         "matches": {
@@ -262746,10 +262746,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 10
     },
     "Sean": {
         "matches": {
@@ -264025,10 +264025,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Shawn1": {
         "matches": {
@@ -265304,10 +265304,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "Shawn2": {
         "matches": {
@@ -266583,10 +266583,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Sheila": {
         "matches": {
@@ -267862,10 +267862,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Simon": {
         "matches": {
@@ -269141,10 +269141,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Simone": {
         "matches": {
@@ -270420,10 +270420,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "Simrun": {
         "matches": {
@@ -271699,10 +271699,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Stallone1": {
         "matches": {
@@ -272978,10 +272978,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Stallone2": {
         "matches": {
@@ -274257,10 +274257,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Stanley": {
         "matches": {
@@ -275536,10 +275536,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Stephen": {
         "matches": {
@@ -276815,10 +276815,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 4
+        "total_points": 5
     },
     "StevenT": {
         "matches": {
@@ -278094,10 +278094,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Tanya": {
         "matches": {
@@ -279373,10 +279373,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Theo": {
         "matches": {
@@ -280652,10 +280652,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Todaro": {
         "matches": {
@@ -281931,10 +281931,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Tomas": {
         "matches": {
@@ -283210,10 +283210,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "TomP": {
         "matches": {
@@ -284489,10 +284489,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "TonyH": {
         "matches": {
@@ -285768,10 +285768,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "TonyMa": {
         "matches": {
@@ -287047,10 +287047,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "TonyMi": {
         "matches": {
@@ -288326,10 +288326,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "TonyS": {
         "matches": {
@@ -289605,10 +289605,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 8
     },
     "TonyV": {
         "matches": {
@@ -290884,10 +290884,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 5
     },
     "Trevor": {
         "matches": {
@@ -292163,10 +292163,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Tristan": {
         "matches": {
@@ -293442,10 +293442,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Victor": {
         "matches": {
@@ -294721,10 +294721,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Vishal": {
         "matches": {
@@ -296000,10 +296000,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Vito": {
         "matches": {
@@ -297279,10 +297279,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -298558,10 +298558,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 3
+        "total_points": 4
     },
     "Wilson": {
         "matches": {
@@ -299837,10 +299837,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 7
     },
     "Yogi": {
         "matches": {
@@ -301116,10 +301116,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JoeA2": {
         "matches": {
@@ -302395,10 +302395,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "JoeA3": {
         "matches": {
@@ -303674,10 +303674,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -304953,10 +304953,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Samantha": {
         "matches": {
@@ -306232,10 +306232,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Senegal",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "France",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Senegal"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     }
 }
