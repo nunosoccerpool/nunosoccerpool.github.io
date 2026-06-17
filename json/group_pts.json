@@ -768,8 +768,8 @@
                     "away_name": "Croatia",
                     "pts_awarded": null,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -2045,10 +2045,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Aaron2": {
         "matches": {
@@ -3324,10 +3324,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Aaron3": {
         "matches": {
@@ -4603,10 +4603,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Aban": {
         "matches": {
@@ -5882,10 +5882,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Adam": {
         "matches": {
@@ -7161,10 +7161,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -8440,10 +8440,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -9719,10 +9719,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Albeiro": {
         "matches": {
@@ -10998,10 +10998,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -12277,10 +12277,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Ali": {
         "matches": {
@@ -13556,10 +13556,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Alice": {
         "matches": {
@@ -14835,10 +14835,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -16114,10 +16114,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Alston1": {
         "matches": {
@@ -17393,10 +17393,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Alston2": {
         "matches": {
@@ -18672,10 +18672,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "AnaL": {
         "matches": {
@@ -19951,10 +19951,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -21230,10 +21230,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Andres": {
         "matches": {
@@ -22509,10 +22509,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Angel": {
         "matches": {
@@ -23788,10 +23788,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -25067,10 +25067,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "AniD": {
         "matches": {
@@ -26346,10 +26346,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Ante": {
         "matches": {
@@ -27625,10 +27625,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -28904,10 +28904,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -30183,10 +30183,10 @@
                     "home_score": 4,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Arturo": {
         "matches": {
@@ -31462,10 +31462,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -32741,10 +32741,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Augie": {
         "matches": {
@@ -34020,10 +34020,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Bindu": {
         "matches": {
@@ -35299,10 +35299,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -36578,10 +36578,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "BrianS": {
         "matches": {
@@ -37857,10 +37857,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -39136,10 +39136,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -40415,10 +40415,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -41694,10 +41694,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -42973,10 +42973,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -44252,10 +44252,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Carmen": {
         "matches": {
@@ -45531,10 +45531,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Caroline": {
         "matches": {
@@ -46810,10 +46810,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -48089,10 +48089,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "ChrisK": {
         "matches": {
@@ -49368,10 +49368,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -50647,10 +50647,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "ChrisP": {
         "matches": {
@@ -51926,10 +51926,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Chrissy": {
         "matches": {
@@ -53205,10 +53205,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "ChristianL": {
         "matches": {
@@ -54484,10 +54484,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -55763,10 +55763,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Coco": {
         "matches": {
@@ -57042,10 +57042,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -58321,10 +58321,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Daisy1": {
         "matches": {
@@ -59600,10 +59600,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Daisy2": {
         "matches": {
@@ -60879,10 +60879,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Damian": {
         "matches": {
@@ -62158,10 +62158,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -63437,10 +63437,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -64716,10 +64716,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "DannyCR7": {
         "matches": {
@@ -65995,10 +65995,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -67274,10 +67274,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -68553,10 +68553,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -69832,10 +69832,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "DarylF": {
         "matches": {
@@ -71111,10 +71111,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Dashiel": {
         "matches": {
@@ -72390,10 +72390,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -73669,10 +73669,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -74948,10 +74948,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -76227,10 +76227,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -77506,10 +77506,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "DougM": {
         "matches": {
@@ -78785,10 +78785,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Duarte": {
         "matches": {
@@ -80064,10 +80064,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Ed": {
         "matches": {
@@ -81343,10 +81343,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Edsel": {
         "matches": {
@@ -82622,10 +82622,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "EdwardT": {
         "matches": {
@@ -83901,10 +83901,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -85180,10 +85180,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -86459,10 +86459,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ethan": {
         "matches": {
@@ -87738,10 +87738,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -89017,10 +89017,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -90296,10 +90296,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Fernando": {
         "matches": {
@@ -91575,10 +91575,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Filip": {
         "matches": {
@@ -92854,10 +92854,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Franco": {
         "matches": {
@@ -94133,10 +94133,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "FrankC": {
         "matches": {
@@ -95412,10 +95412,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "FrankD1": {
         "matches": {
@@ -96691,10 +96691,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "FrankD2": {
         "matches": {
@@ -97970,10 +97970,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -99249,10 +99249,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Gary": {
         "matches": {
@@ -100528,10 +100528,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -101807,10 +101807,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "GavinW": {
         "matches": {
@@ -103086,10 +103086,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Goran": {
         "matches": {
@@ -104365,10 +104365,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -105644,10 +105644,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -106923,10 +106923,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -108202,10 +108202,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "GustavoL": {
         "matches": {
@@ -109481,10 +109481,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Gwen": {
         "matches": {
@@ -110760,10 +110760,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Heather": {
         "matches": {
@@ -112039,10 +112039,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "HelderA": {
         "matches": {
@@ -113318,10 +113318,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -114597,10 +114597,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Hugo": {
         "matches": {
@@ -115876,10 +115876,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -117155,10 +117155,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -118434,10 +118434,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Igor1": {
         "matches": {
@@ -119713,10 +119713,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -120992,10 +120992,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Jalen": {
         "matches": {
@@ -122271,10 +122271,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -123550,10 +123550,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JamesP": {
         "matches": {
@@ -124829,10 +124829,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -126108,10 +126108,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -127387,10 +127387,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JasonF": {
         "matches": {
@@ -128666,10 +128666,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Jaxon": {
         "matches": {
@@ -129945,10 +129945,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "JeanMichel": {
         "matches": {
@@ -131224,10 +131224,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JeffB": {
         "matches": {
@@ -132503,10 +132503,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -133782,10 +133782,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -135061,10 +135061,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JeffT": {
         "matches": {
@@ -136340,10 +136340,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -137619,10 +137619,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jennifer": {
         "matches": {
@@ -138898,10 +138898,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Jeremy": {
         "matches": {
@@ -140177,10 +140177,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -141456,10 +141456,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -142735,10 +142735,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JessicaG": {
         "matches": {
@@ -144014,10 +144014,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -145293,10 +145293,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Jhon": {
         "matches": {
@@ -146572,10 +146572,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -147851,10 +147851,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -149130,10 +149130,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JoeA": {
         "matches": {
@@ -150409,10 +150409,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -151688,10 +151688,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JohnO": {
         "matches": {
@@ -152967,10 +152967,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -154246,10 +154246,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jonathan": {
         "matches": {
@@ -155525,10 +155525,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JorgeC": {
         "matches": {
@@ -156804,10 +156804,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JorgeT": {
         "matches": {
@@ -158083,10 +158083,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Juan": {
         "matches": {
@@ -159362,10 +159362,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Julian": {
         "matches": {
@@ -160641,10 +160641,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JustinA": {
         "matches": {
@@ -161920,10 +161920,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -163199,10 +163199,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -164478,10 +164478,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "KevinC": {
         "matches": {
@@ -165757,10 +165757,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "KevinJ": {
         "matches": {
@@ -167036,10 +167036,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -168315,10 +168315,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -169594,10 +169594,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Kumar": {
         "matches": {
@@ -170873,10 +170873,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -172152,10 +172152,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Lena": {
         "matches": {
@@ -173431,10 +173431,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "LiamA": {
         "matches": {
@@ -174710,10 +174710,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "LiamMoh": {
         "matches": {
@@ -175989,10 +175989,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -177268,10 +177268,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -178547,10 +178547,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Luka": {
         "matches": {
@@ -179826,10 +179826,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Magno": {
         "matches": {
@@ -181105,10 +181105,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Major": {
         "matches": {
@@ -182384,10 +182384,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Manley": {
         "matches": {
@@ -183663,10 +183663,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MannyT": {
         "matches": {
@@ -184942,10 +184942,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MarcioD": {
         "matches": {
@@ -186221,10 +186221,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -187500,10 +187500,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MarcoR": {
         "matches": {
@@ -188779,10 +188779,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Maria": {
         "matches": {
@@ -190058,10 +190058,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -191337,10 +191337,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MatthewG": {
         "matches": {
@@ -192616,10 +192616,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MatthewSa": {
         "matches": {
@@ -193895,10 +193895,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -195174,10 +195174,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MatthewSm2": {
         "matches": {
@@ -196453,10 +196453,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Max": {
         "matches": {
@@ -197732,10 +197732,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -199011,10 +199011,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MichaelL": {
         "matches": {
@@ -200290,10 +200290,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -201569,10 +201569,10 @@
                     "home_score": 5,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MichaelPi": {
         "matches": {
@@ -202848,10 +202848,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -204127,10 +204127,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -205406,10 +205406,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MikeD": {
         "matches": {
@@ -206685,10 +206685,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Misic1": {
         "matches": {
@@ -207964,10 +207964,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -209243,10 +209243,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Nas": {
         "matches": {
@@ -210522,10 +210522,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Nelson": {
         "matches": {
@@ -211801,10 +211801,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -213080,10 +213080,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -214359,10 +214359,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -215638,10 +215638,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Nicole2": {
         "matches": {
@@ -216917,10 +216917,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Nima": {
         "matches": {
@@ -218196,10 +218196,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -219475,10 +219475,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Nuno1": {
         "matches": {
@@ -220754,10 +220754,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -222033,10 +222033,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 5
+        "total_points": 6
     },
     "PabloL": {
         "matches": {
@@ -224591,10 +224591,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Pardeep": {
         "matches": {
@@ -225870,10 +225870,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Pascal": {
         "matches": {
@@ -227149,10 +227149,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -228428,10 +228428,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "PaulA": {
         "matches": {
@@ -229707,10 +229707,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "PaulC": {
         "matches": {
@@ -230986,10 +230986,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "PetarS": {
         "matches": {
@@ -232265,10 +232265,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Pierfelice": {
         "matches": {
@@ -233544,10 +233544,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Preto1": {
         "matches": {
@@ -234823,10 +234823,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -236102,10 +236102,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Punit": {
         "matches": {
@@ -237381,10 +237381,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -238660,10 +238660,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "RD2026": {
         "matches": {
@@ -239939,10 +239939,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Ricardo1": {
         "matches": {
@@ -241218,10 +241218,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ricardo2": {
         "matches": {
@@ -242497,10 +242497,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "RichardMa": {
         "matches": {
@@ -243776,10 +243776,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "RichardMo": {
         "matches": {
@@ -245055,10 +245055,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -246334,10 +246334,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -247613,10 +247613,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Rita": {
         "matches": {
@@ -248892,10 +248892,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Riyad": {
         "matches": {
@@ -250171,10 +250171,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "RobertP": {
         "matches": {
@@ -251450,10 +251450,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "RobertS": {
         "matches": {
@@ -252729,10 +252729,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "RobSi": {
         "matches": {
@@ -254008,10 +254008,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "RobTu": {
         "matches": {
@@ -255287,10 +255287,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "RobW": {
         "matches": {
@@ -256566,10 +256566,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Rodrigo": {
         "matches": {
@@ -257845,10 +257845,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -259124,10 +259124,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Roy": {
         "matches": {
@@ -260403,10 +260403,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Salim": {
         "matches": {
@@ -261682,10 +261682,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Sarujan": {
         "matches": {
@@ -262961,10 +262961,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Sean": {
         "matches": {
@@ -264240,10 +264240,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -265519,10 +265519,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Shawn2": {
         "matches": {
@@ -266798,10 +266798,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Sheila": {
         "matches": {
@@ -268077,10 +268077,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Simon": {
         "matches": {
@@ -269356,10 +269356,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -270635,10 +270635,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Simrun": {
         "matches": {
@@ -271914,10 +271914,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -273193,10 +273193,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Stallone2": {
         "matches": {
@@ -274472,10 +274472,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Stanley": {
         "matches": {
@@ -275751,10 +275751,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -277030,10 +277030,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -278309,10 +278309,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Tanya": {
         "matches": {
@@ -279588,10 +279588,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Theo": {
         "matches": {
@@ -280867,10 +280867,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Todaro": {
         "matches": {
@@ -282146,10 +282146,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -283425,10 +283425,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "TomP": {
         "matches": {
@@ -284704,10 +284704,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "TonyH": {
         "matches": {
@@ -285983,10 +285983,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "TonyMa": {
         "matches": {
@@ -287262,10 +287262,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "TonyMi": {
         "matches": {
@@ -288541,10 +288541,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -289820,10 +289820,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -291099,10 +291099,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Trevor": {
         "matches": {
@@ -292378,10 +292378,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Tristan": {
         "matches": {
@@ -293657,10 +293657,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Victor": {
         "matches": {
@@ -294936,10 +294936,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -296215,10 +296215,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Vito": {
         "matches": {
@@ -297494,10 +297494,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -298773,10 +298773,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -300052,10 +300052,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Yogi": {
         "matches": {
@@ -301331,10 +301331,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -302610,10 +302610,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -303889,10 +303889,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -305168,10 +305168,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -306447,10 +306447,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 4.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Croatia"
                 },
                 {

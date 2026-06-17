@@ -1,10 +1,10 @@
 {
     "totals": {
-        "total_goals": "64",
+        "total_goals": "70",
         "yellow_cards": "47",
         "red_two_yellow": "0",
         "red_straight": "3",
-        "penalty_goals": "3",
+        "penalty_goals": "4",
         "own_goals": "2",
         "most_yc_details": "Paraguay",
         "fastest_goal_team": "Germany Portugal"
@@ -264,15 +264,15 @@
         },
         {
             "name": "England vs Croatia",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "4 - 2",
+            "yellow_cards": "0",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "12",
+            "fastest_goal_team": "England"
         },
         {
             "name": "Ghana vs Panama",
