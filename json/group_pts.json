@@ -632,8 +632,8 @@
                     "away_name": "Jordan",
                     "pts_awarded": null,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -1909,10 +1909,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Aaron2": {
         "matches": {
@@ -3188,10 +3188,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Aaron3": {
         "matches": {
@@ -4467,10 +4467,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Aban": {
         "matches": {
@@ -5746,10 +5746,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Adam": {
         "matches": {
@@ -7025,10 +7025,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Adrian": {
         "matches": {
@@ -8304,10 +8304,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "AI": {
         "matches": {
@@ -9583,10 +9583,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Albeiro": {
         "matches": {
@@ -10862,10 +10862,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -12141,10 +12141,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Ali": {
         "matches": {
@@ -13420,10 +13420,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Alice": {
         "matches": {
@@ -14699,10 +14699,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Alnashir": {
         "matches": {
@@ -15978,10 +15978,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Alston1": {
         "matches": {
@@ -17257,10 +17257,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -18536,10 +18536,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "AnaL": {
         "matches": {
@@ -19815,10 +19815,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "AnaS": {
         "matches": {
@@ -21094,10 +21094,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -22373,10 +22373,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Angel": {
         "matches": {
@@ -23652,10 +23652,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -24931,10 +24931,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "AniD": {
         "matches": {
@@ -26210,10 +26210,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -27489,10 +27489,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "AnthonyV": {
         "matches": {
@@ -28768,10 +28768,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Arjun": {
         "matches": {
@@ -30047,10 +30047,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -31326,10 +31326,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Ash": {
         "matches": {
@@ -32605,10 +32605,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Augie": {
         "matches": {
@@ -33884,10 +33884,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Bindu": {
         "matches": {
@@ -35163,10 +35163,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Brendan": {
         "matches": {
@@ -36442,10 +36442,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -37721,10 +37721,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Cameron": {
         "matches": {
@@ -39000,10 +39000,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "CarlosD": {
         "matches": {
@@ -40279,10 +40279,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -41558,10 +41558,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "CarlosS1": {
         "matches": {
@@ -42837,10 +42837,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "CarlosS2": {
         "matches": {
@@ -44116,10 +44116,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Carmen": {
         "matches": {
@@ -45395,10 +45395,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Caroline": {
         "matches": {
@@ -46674,10 +46674,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -47953,10 +47953,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "ChrisK": {
         "matches": {
@@ -49232,10 +49232,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -50511,10 +50511,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "ChrisP": {
         "matches": {
@@ -51790,10 +51790,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Chrissy": {
         "matches": {
@@ -53069,10 +53069,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "ChristianL": {
         "matches": {
@@ -54348,10 +54348,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "CMD88": {
         "matches": {
@@ -55627,10 +55627,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Coco": {
         "matches": {
@@ -56906,10 +56906,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Corey": {
         "matches": {
@@ -58185,10 +58185,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Daisy1": {
         "matches": {
@@ -59464,10 +59464,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Daisy2": {
         "matches": {
@@ -60743,10 +60743,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Damian": {
         "matches": {
@@ -62022,10 +62022,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "DanielM": {
         "matches": {
@@ -63301,10 +63301,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "DanielR": {
         "matches": {
@@ -64580,10 +64580,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "DannyCR7": {
         "matches": {
@@ -65859,10 +65859,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "DannyL": {
         "matches": {
@@ -67138,10 +67138,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "DannyRa": {
         "matches": {
@@ -68417,10 +68417,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Darryll": {
         "matches": {
@@ -69696,10 +69696,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "DarylF": {
         "matches": {
@@ -70975,10 +70975,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Dashiel": {
         "matches": {
@@ -72254,10 +72254,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "DazRob": {
         "matches": {
@@ -73533,10 +73533,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Deylin": {
         "matches": {
@@ -74812,10 +74812,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Dino": {
         "matches": {
@@ -76091,10 +76091,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Dora": {
         "matches": {
@@ -77370,10 +77370,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "DougM": {
         "matches": {
@@ -78649,10 +78649,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Duarte": {
         "matches": {
@@ -79928,10 +79928,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ed": {
         "matches": {
@@ -81207,10 +81207,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Edsel": {
         "matches": {
@@ -82486,10 +82486,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -83765,10 +83765,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Elliott": {
         "matches": {
@@ -85044,10 +85044,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "EricK": {
         "matches": {
@@ -86323,10 +86323,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Ethan": {
         "matches": {
@@ -87602,10 +87602,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -88881,10 +88881,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Fawzi": {
         "matches": {
@@ -90160,10 +90160,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Fernando": {
         "matches": {
@@ -91439,10 +91439,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Filip": {
         "matches": {
@@ -92718,10 +92718,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Franco": {
         "matches": {
@@ -93997,10 +93997,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "FrankC": {
         "matches": {
@@ -95276,10 +95276,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "FrankD1": {
         "matches": {
@@ -96555,10 +96555,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "FrankD2": {
         "matches": {
@@ -97834,10 +97834,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -99113,10 +99113,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Gary": {
         "matches": {
@@ -100392,10 +100392,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "GavinRiya": {
         "matches": {
@@ -101671,10 +101671,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "GavinW": {
         "matches": {
@@ -102950,10 +102950,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Goran": {
         "matches": {
@@ -104229,10 +104229,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Greg": {
         "matches": {
@@ -105508,10 +105508,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Grosso": {
         "matches": {
@@ -106787,10 +106787,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "GustavoH": {
         "matches": {
@@ -108066,10 +108066,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "GustavoL": {
         "matches": {
@@ -109345,10 +109345,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -110624,10 +110624,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Heather": {
         "matches": {
@@ -111903,10 +111903,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "HelderA": {
         "matches": {
@@ -113182,10 +113182,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Hernani": {
         "matches": {
@@ -114461,10 +114461,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Hugo": {
         "matches": {
@@ -115740,10 +115740,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Ian": {
         "matches": {
@@ -117019,10 +117019,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Ida": {
         "matches": {
@@ -118298,10 +118298,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Igor1": {
         "matches": {
@@ -119577,10 +119577,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -120856,10 +120856,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Jalen": {
         "matches": {
@@ -122135,10 +122135,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JamesC": {
         "matches": {
@@ -123414,10 +123414,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JamesP": {
         "matches": {
@@ -124693,10 +124693,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Janelle": {
         "matches": {
@@ -125972,10 +125972,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JasonB": {
         "matches": {
@@ -127251,10 +127251,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JasonF": {
         "matches": {
@@ -128530,10 +128530,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jaxon": {
         "matches": {
@@ -129809,10 +129809,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JeanMichel": {
         "matches": {
@@ -131088,10 +131088,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "JeffB": {
         "matches": {
@@ -132367,10 +132367,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -133646,10 +133646,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "JeffS2": {
         "matches": {
@@ -134925,10 +134925,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JeffT": {
         "matches": {
@@ -136204,10 +136204,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Jenn": {
         "matches": {
@@ -137483,10 +137483,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Jennifer": {
         "matches": {
@@ -138762,10 +138762,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jeremy": {
         "matches": {
@@ -140041,10 +140041,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Jerry": {
         "matches": {
@@ -141320,10 +141320,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "JessicaD": {
         "matches": {
@@ -142599,10 +142599,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JessicaG": {
         "matches": {
@@ -143878,10 +143878,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JessicaS": {
         "matches": {
@@ -145157,10 +145157,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Jhon": {
         "matches": {
@@ -146436,10 +146436,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Jim": {
         "matches": {
@@ -147715,10 +147715,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -148994,10 +148994,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JoeA": {
         "matches": {
@@ -150273,10 +150273,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JoeD": {
         "matches": {
@@ -151552,10 +151552,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JohnO": {
         "matches": {
@@ -152831,10 +152831,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JohnR": {
         "matches": {
@@ -154110,10 +154110,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Jonathan": {
         "matches": {
@@ -155389,10 +155389,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JorgeC": {
         "matches": {
@@ -156668,10 +156668,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JorgeT": {
         "matches": {
@@ -157947,10 +157947,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Juan": {
         "matches": {
@@ -159226,10 +159226,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Julian": {
         "matches": {
@@ -160505,10 +160505,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JustinA": {
         "matches": {
@@ -161784,10 +161784,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JustinL": {
         "matches": {
@@ -163063,10 +163063,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Kayden": {
         "matches": {
@@ -164342,10 +164342,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "KevinC": {
         "matches": {
@@ -165621,10 +165621,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "KevinJ": {
         "matches": {
@@ -166900,10 +166900,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "KevinS": {
         "matches": {
@@ -168179,10 +168179,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Kristian": {
         "matches": {
@@ -169458,10 +169458,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Kumar": {
         "matches": {
@@ -170737,10 +170737,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "Kyle": {
         "matches": {
@@ -172016,10 +172016,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Lena": {
         "matches": {
@@ -173295,10 +173295,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "LiamA": {
         "matches": {
@@ -174574,10 +174574,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "LiamMoh": {
         "matches": {
@@ -175853,10 +175853,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Lindsey": {
         "matches": {
@@ -177132,10 +177132,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Lisa": {
         "matches": {
@@ -178411,10 +178411,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Luka": {
         "matches": {
@@ -179690,10 +179690,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Magno": {
         "matches": {
@@ -180969,10 +180969,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Major": {
         "matches": {
@@ -182248,10 +182248,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Manley": {
         "matches": {
@@ -183527,10 +183527,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MannyT": {
         "matches": {
@@ -184806,10 +184806,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "MarcioD": {
         "matches": {
@@ -186085,10 +186085,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MarcioS": {
         "matches": {
@@ -187364,10 +187364,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -188643,10 +188643,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Maria": {
         "matches": {
@@ -189922,10 +189922,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Marta": {
         "matches": {
@@ -191201,10 +191201,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MatthewG": {
         "matches": {
@@ -192480,10 +192480,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MatthewSa": {
         "matches": {
@@ -193759,10 +193759,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "MatthewSm1": {
         "matches": {
@@ -195038,10 +195038,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "MatthewSm2": {
         "matches": {
@@ -196317,10 +196317,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -197596,10 +197596,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Melissa": {
         "matches": {
@@ -198875,10 +198875,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MichaelL": {
         "matches": {
@@ -200154,10 +200154,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "MichaelM": {
         "matches": {
@@ -201433,10 +201433,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "MichaelPi": {
         "matches": {
@@ -202712,10 +202712,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Michele": {
         "matches": {
@@ -203991,10 +203991,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Mihajlo": {
         "matches": {
@@ -205270,10 +205270,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MikeD": {
         "matches": {
@@ -206549,10 +206549,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -207828,10 +207828,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -209107,10 +209107,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -210386,10 +210386,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Nelson": {
         "matches": {
@@ -211665,10 +211665,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -212944,10 +212944,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Nicolas": {
         "matches": {
@@ -214223,10 +214223,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -215502,10 +215502,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Nicole2": {
         "matches": {
@@ -216781,10 +216781,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Nima": {
         "matches": {
@@ -218060,10 +218060,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Nolan": {
         "matches": {
@@ -219339,10 +219339,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Nuno1": {
         "matches": {
@@ -220618,10 +220618,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Nuno2": {
         "matches": {
@@ -221897,10 +221897,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -224455,10 +224455,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Pardeep": {
         "matches": {
@@ -225734,10 +225734,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Pascal": {
         "matches": {
@@ -227013,10 +227013,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Patullo": {
         "matches": {
@@ -228292,10 +228292,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "PaulA": {
         "matches": {
@@ -229571,10 +229571,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "PaulC": {
         "matches": {
@@ -230850,10 +230850,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "PetarS": {
         "matches": {
@@ -232129,10 +232129,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Pierfelice": {
         "matches": {
@@ -233408,10 +233408,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Preto1": {
         "matches": {
@@ -234687,10 +234687,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Preto2": {
         "matches": {
@@ -235966,10 +235966,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Punit": {
         "matches": {
@@ -237245,10 +237245,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Rachel": {
         "matches": {
@@ -238524,10 +238524,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "RD2026": {
         "matches": {
@@ -239803,10 +239803,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Ricardo1": {
         "matches": {
@@ -241082,10 +241082,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -242361,10 +242361,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -243640,10 +243640,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "RichardMo": {
         "matches": {
@@ -244919,10 +244919,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Rick": {
         "matches": {
@@ -246198,10 +246198,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Ricky": {
         "matches": {
@@ -247477,10 +247477,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Rita": {
         "matches": {
@@ -248756,10 +248756,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Riyad": {
         "matches": {
@@ -250035,10 +250035,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -251314,10 +251314,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "RobertS": {
         "matches": {
@@ -252593,10 +252593,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "RobSi": {
         "matches": {
@@ -253872,10 +253872,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "RobTu": {
         "matches": {
@@ -255151,10 +255151,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "RobW": {
         "matches": {
@@ -256430,10 +256430,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -257709,10 +257709,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Rousse": {
         "matches": {
@@ -258988,10 +258988,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Roy": {
         "matches": {
@@ -260267,10 +260267,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -261546,10 +261546,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Sarujan": {
         "matches": {
@@ -262825,10 +262825,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Sean": {
         "matches": {
@@ -264104,10 +264104,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Shawn1": {
         "matches": {
@@ -265383,10 +265383,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Shawn2": {
         "matches": {
@@ -266662,10 +266662,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Sheila": {
         "matches": {
@@ -267941,10 +267941,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Simon": {
         "matches": {
@@ -269220,10 +269220,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Simone": {
         "matches": {
@@ -270499,10 +270499,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -271778,10 +271778,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Stallone1": {
         "matches": {
@@ -273057,10 +273057,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Stallone2": {
         "matches": {
@@ -274336,10 +274336,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Stanley": {
         "matches": {
@@ -275615,10 +275615,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Stephen": {
         "matches": {
@@ -276894,10 +276894,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "StevenT": {
         "matches": {
@@ -278173,10 +278173,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Tanya": {
         "matches": {
@@ -279452,10 +279452,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Theo": {
         "matches": {
@@ -280731,10 +280731,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Todaro": {
         "matches": {
@@ -282010,10 +282010,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Tomas": {
         "matches": {
@@ -283289,10 +283289,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "TomP": {
         "matches": {
@@ -284568,10 +284568,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "TonyH": {
         "matches": {
@@ -285847,10 +285847,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "TonyMa": {
         "matches": {
@@ -287126,10 +287126,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "TonyMi": {
         "matches": {
@@ -288405,10 +288405,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "TonyS": {
         "matches": {
@@ -289684,10 +289684,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "TonyV": {
         "matches": {
@@ -290963,10 +290963,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "Trevor": {
         "matches": {
@@ -292242,10 +292242,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Tristan": {
         "matches": {
@@ -293521,10 +293521,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Victor": {
         "matches": {
@@ -294800,10 +294800,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Vishal": {
         "matches": {
@@ -296079,10 +296079,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Vito": {
         "matches": {
@@ -297358,10 +297358,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "VukSto": {
         "matches": {
@@ -298637,10 +298637,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 6
+        "total_points": 7
     },
     "Wilson": {
         "matches": {
@@ -299916,10 +299916,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Yogi": {
         "matches": {
@@ -301195,10 +301195,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JoeA2": {
         "matches": {
@@ -302474,10 +302474,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JoeA3": {
         "matches": {
@@ -303753,10 +303753,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Josh": {
         "matches": {
@@ -305032,10 +305032,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Samantha": {
         "matches": {
@@ -306311,10 +306311,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Jordan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Austria",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 3.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Jordan"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     }
 }
