@@ -454,6 +454,14 @@
       "title": "Group K",
       "rows": [
         {
+          "col1": "Elliott",
+          "col2": "1"
+        },
+        {
+          "col1": "Rodrigo",
+          "col2": "1"
+        },
+        {
           "col1": "Aaron1",
           "col2": "0"
         },
@@ -483,14 +491,6 @@
         },
         {
           "col1": "Albeiro",
-          "col2": "0"
-        },
-        {
-          "col1": "Alex",
-          "col2": "0"
-        },
-        {
-          "col1": "Ali",
           "col2": "0"
         }
       ]
