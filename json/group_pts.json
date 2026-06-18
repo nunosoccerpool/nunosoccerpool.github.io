@@ -700,8 +700,8 @@
                     "away_name": "Colombia",
                     "pts_awarded": null,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -1977,10 +1977,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Aaron2": {
         "matches": {
@@ -3256,10 +3256,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Aaron3": {
         "matches": {
@@ -4535,10 +4535,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Aban": {
         "matches": {
@@ -5814,10 +5814,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Adam": {
         "matches": {
@@ -7093,10 +7093,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Adrian": {
         "matches": {
@@ -8372,10 +8372,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "AI": {
         "matches": {
@@ -9651,10 +9651,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Albeiro": {
         "matches": {
@@ -10930,10 +10930,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Alex": {
         "matches": {
@@ -12209,10 +12209,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ali": {
         "matches": {
@@ -13488,10 +13488,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Alice": {
         "matches": {
@@ -14767,10 +14767,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -16046,10 +16046,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Alston1": {
         "matches": {
@@ -17325,10 +17325,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Alston2": {
         "matches": {
@@ -18604,10 +18604,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "AnaL": {
         "matches": {
@@ -19883,10 +19883,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "AnaS": {
         "matches": {
@@ -21162,10 +21162,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Andres": {
         "matches": {
@@ -22441,10 +22441,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Angel": {
         "matches": {
@@ -23720,10 +23720,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Anicio": {
         "matches": {
@@ -24999,10 +24999,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "AniD": {
         "matches": {
@@ -26278,10 +26278,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Ante": {
         "matches": {
@@ -27557,10 +27557,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "AnthonyV": {
         "matches": {
@@ -28836,10 +28836,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Arjun": {
         "matches": {
@@ -30115,10 +30115,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -31394,10 +31394,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Ash": {
         "matches": {
@@ -32673,10 +32673,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Augie": {
         "matches": {
@@ -33952,10 +33952,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Bindu": {
         "matches": {
@@ -35231,10 +35231,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Brendan": {
         "matches": {
@@ -36510,10 +36510,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "BrianS": {
         "matches": {
@@ -37789,10 +37789,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Cameron": {
         "matches": {
@@ -39068,10 +39068,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "CarlosD": {
         "matches": {
@@ -40347,10 +40347,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "CarlosG": {
         "matches": {
@@ -41626,10 +41626,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "CarlosS1": {
         "matches": {
@@ -42905,10 +42905,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "CarlosS2": {
         "matches": {
@@ -44184,10 +44184,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Carmen": {
         "matches": {
@@ -45463,10 +45463,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Caroline": {
         "matches": {
@@ -46742,10 +46742,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Charles": {
         "matches": {
@@ -48021,10 +48021,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 21
     },
     "ChrisK": {
         "matches": {
@@ -49300,10 +49300,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "ChrisN": {
         "matches": {
@@ -50579,10 +50579,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "ChrisP": {
         "matches": {
@@ -51858,10 +51858,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Chrissy": {
         "matches": {
@@ -53137,10 +53137,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "ChristianL": {
         "matches": {
@@ -54416,10 +54416,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "CMD88": {
         "matches": {
@@ -55695,10 +55695,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Coco": {
         "matches": {
@@ -56974,10 +56974,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Corey": {
         "matches": {
@@ -58253,10 +58253,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Daisy1": {
         "matches": {
@@ -59532,10 +59532,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -60811,10 +60811,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Damian": {
         "matches": {
@@ -62090,10 +62090,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "DanielM": {
         "matches": {
@@ -63369,10 +63369,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "DanielR": {
         "matches": {
@@ -64648,10 +64648,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "DannyCR7": {
         "matches": {
@@ -65927,10 +65927,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "DannyL": {
         "matches": {
@@ -67206,10 +67206,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "DannyRa": {
         "matches": {
@@ -68485,10 +68485,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Darryll": {
         "matches": {
@@ -69764,10 +69764,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "DarylF": {
         "matches": {
@@ -71043,10 +71043,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Dashiel": {
         "matches": {
@@ -72322,10 +72322,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "DazRob": {
         "matches": {
@@ -73601,10 +73601,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -74880,10 +74880,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Dino": {
         "matches": {
@@ -76159,10 +76159,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Dora": {
         "matches": {
@@ -77438,10 +77438,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "DougM": {
         "matches": {
@@ -78717,10 +78717,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Duarte": {
         "matches": {
@@ -79996,10 +79996,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Ed": {
         "matches": {
@@ -81275,10 +81275,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Edsel": {
         "matches": {
@@ -82554,10 +82554,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "EdwardT": {
         "matches": {
@@ -83833,10 +83833,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Elliott": {
         "matches": {
@@ -85112,10 +85112,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "EricK": {
         "matches": {
@@ -86391,10 +86391,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Ethan": {
         "matches": {
@@ -87670,10 +87670,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -88248,7 +88248,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Farshid": {
         "matches": {
@@ -88949,10 +88949,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Fawzi": {
         "matches": {
@@ -90228,10 +90228,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Fernando": {
         "matches": {
@@ -91507,10 +91507,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Filip": {
         "matches": {
@@ -92786,10 +92786,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Franco": {
         "matches": {
@@ -94065,10 +94065,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "FrankC": {
         "matches": {
@@ -95344,10 +95344,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "FrankD1": {
         "matches": {
@@ -96623,10 +96623,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "FrankD2": {
         "matches": {
@@ -97902,10 +97902,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "GabyDavide": {
         "matches": {
@@ -99181,10 +99181,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Gary": {
         "matches": {
@@ -100460,10 +100460,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "GavinRiya": {
         "matches": {
@@ -101739,10 +101739,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "GavinW": {
         "matches": {
@@ -103018,10 +103018,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Goran": {
         "matches": {
@@ -104297,10 +104297,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Greg": {
         "matches": {
@@ -105576,10 +105576,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Grosso": {
         "matches": {
@@ -106855,10 +106855,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "GustavoH": {
         "matches": {
@@ -108134,10 +108134,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "GustavoL": {
         "matches": {
@@ -109413,10 +109413,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Gwen": {
         "matches": {
@@ -110692,10 +110692,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Heather": {
         "matches": {
@@ -111971,10 +111971,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "HelderA": {
         "matches": {
@@ -113250,10 +113250,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Hernani": {
         "matches": {
@@ -114529,10 +114529,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Hugo": {
         "matches": {
@@ -115808,10 +115808,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ian": {
         "matches": {
@@ -117087,10 +117087,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Ida": {
         "matches": {
@@ -118366,10 +118366,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Igor1": {
         "matches": {
@@ -119645,10 +119645,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Igor2": {
         "matches": {
@@ -120924,10 +120924,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Jalen": {
         "matches": {
@@ -122203,10 +122203,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JamesC": {
         "matches": {
@@ -123482,10 +123482,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JamesP": {
         "matches": {
@@ -124761,10 +124761,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Janelle": {
         "matches": {
@@ -126040,10 +126040,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JasonB": {
         "matches": {
@@ -127319,10 +127319,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JasonF": {
         "matches": {
@@ -128598,10 +128598,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Jaxon": {
         "matches": {
@@ -129877,10 +129877,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -131156,10 +131156,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JeffB": {
         "matches": {
@@ -132435,10 +132435,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JeffS1": {
         "matches": {
@@ -133714,10 +133714,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JeffS2": {
         "matches": {
@@ -134993,10 +134993,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JeffT": {
         "matches": {
@@ -136272,10 +136272,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -137551,10 +137551,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Jennifer": {
         "matches": {
@@ -138830,10 +138830,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Jeremy": {
         "matches": {
@@ -140109,10 +140109,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Jerry": {
         "matches": {
@@ -141388,10 +141388,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "JessicaD": {
         "matches": {
@@ -142667,10 +142667,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JessicaG": {
         "matches": {
@@ -143946,10 +143946,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JessicaS": {
         "matches": {
@@ -145225,10 +145225,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Jhon": {
         "matches": {
@@ -146504,10 +146504,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Jim": {
         "matches": {
@@ -147783,10 +147783,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -149062,10 +149062,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "JoeA": {
         "matches": {
@@ -150341,10 +150341,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JoeD": {
         "matches": {
@@ -151620,10 +151620,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JohnO": {
         "matches": {
@@ -152899,10 +152899,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "JohnR": {
         "matches": {
@@ -154178,10 +154178,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Jonathan": {
         "matches": {
@@ -155457,10 +155457,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "JorgeC": {
         "matches": {
@@ -156736,10 +156736,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JorgeT": {
         "matches": {
@@ -158015,10 +158015,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Juan": {
         "matches": {
@@ -159294,10 +159294,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Julian": {
         "matches": {
@@ -160573,10 +160573,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JustinA": {
         "matches": {
@@ -161852,10 +161852,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JustinL": {
         "matches": {
@@ -163131,10 +163131,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Kayden": {
         "matches": {
@@ -164410,10 +164410,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "KevinC": {
         "matches": {
@@ -165689,10 +165689,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "KevinJ": {
         "matches": {
@@ -166968,10 +166968,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "KevinS": {
         "matches": {
@@ -168247,10 +168247,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Kristian": {
         "matches": {
@@ -169526,10 +169526,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Kumar": {
         "matches": {
@@ -170805,10 +170805,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Kyle": {
         "matches": {
@@ -172084,10 +172084,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Lena": {
         "matches": {
@@ -173363,10 +173363,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "LiamA": {
         "matches": {
@@ -174642,10 +174642,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "LiamMoh": {
         "matches": {
@@ -175921,10 +175921,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Lindsey": {
         "matches": {
@@ -177200,10 +177200,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Lisa": {
         "matches": {
@@ -178479,10 +178479,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Luka": {
         "matches": {
@@ -179758,10 +179758,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Magno": {
         "matches": {
@@ -181037,10 +181037,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Major": {
         "matches": {
@@ -182316,10 +182316,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Manley": {
         "matches": {
@@ -183595,10 +183595,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "MannyT": {
         "matches": {
@@ -184874,10 +184874,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MarcioD": {
         "matches": {
@@ -186153,10 +186153,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MarcioS": {
         "matches": {
@@ -187432,10 +187432,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "MarcoR": {
         "matches": {
@@ -188711,10 +188711,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Maria": {
         "matches": {
@@ -189990,10 +189990,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Marta": {
         "matches": {
@@ -191269,10 +191269,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "MatthewG": {
         "matches": {
@@ -192548,10 +192548,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MatthewSa": {
         "matches": {
@@ -193827,10 +193827,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MatthewSm1": {
         "matches": {
@@ -195106,10 +195106,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MatthewSm2": {
         "matches": {
@@ -196385,10 +196385,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Max": {
         "matches": {
@@ -197664,10 +197664,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Melissa": {
         "matches": {
@@ -198943,10 +198943,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "MichaelL": {
         "matches": {
@@ -200222,10 +200222,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "MichaelM": {
         "matches": {
@@ -201501,10 +201501,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "MichaelPi": {
         "matches": {
@@ -202780,10 +202780,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Michele": {
         "matches": {
@@ -204059,10 +204059,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Mihajlo": {
         "matches": {
@@ -205338,10 +205338,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "MikeD": {
         "matches": {
@@ -206617,10 +206617,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Misic1": {
         "matches": {
@@ -207896,10 +207896,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Misic2": {
         "matches": {
@@ -209175,10 +209175,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Nas": {
         "matches": {
@@ -210454,10 +210454,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Nelson": {
         "matches": {
@@ -211733,10 +211733,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "NickM": {
         "matches": {
@@ -213012,10 +213012,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Nicolas": {
         "matches": {
@@ -214291,10 +214291,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Nicole1": {
         "matches": {
@@ -215570,10 +215570,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Nicole2": {
         "matches": {
@@ -216849,10 +216849,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Nima": {
         "matches": {
@@ -218128,10 +218128,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -219407,10 +219407,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Nuno1": {
         "matches": {
@@ -220686,10 +220686,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Nuno2": {
         "matches": {
@@ -221965,10 +221965,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -224523,10 +224523,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Pardeep": {
         "matches": {
@@ -225802,10 +225802,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Pascal": {
         "matches": {
@@ -227081,10 +227081,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Patullo": {
         "matches": {
@@ -228360,10 +228360,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "PaulA": {
         "matches": {
@@ -229639,10 +229639,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "PaulC": {
         "matches": {
@@ -230918,10 +230918,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "PetarS": {
         "matches": {
@@ -232197,10 +232197,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Pierfelice": {
         "matches": {
@@ -233476,10 +233476,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Preto1": {
         "matches": {
@@ -234755,10 +234755,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Preto2": {
         "matches": {
@@ -236034,10 +236034,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Punit": {
         "matches": {
@@ -237313,10 +237313,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Rachel": {
         "matches": {
@@ -238592,10 +238592,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "RD2026": {
         "matches": {
@@ -239871,10 +239871,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Ricardo1": {
         "matches": {
@@ -241150,10 +241150,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Ricardo2": {
         "matches": {
@@ -242429,10 +242429,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "RichardMa": {
         "matches": {
@@ -243708,10 +243708,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "RichardMo": {
         "matches": {
@@ -244987,10 +244987,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Rick": {
         "matches": {
@@ -246266,10 +246266,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Ricky": {
         "matches": {
@@ -247545,10 +247545,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Rita": {
         "matches": {
@@ -248824,10 +248824,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Riyad": {
         "matches": {
@@ -250103,10 +250103,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "RobertP": {
         "matches": {
@@ -251382,10 +251382,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "RobertS": {
         "matches": {
@@ -252661,10 +252661,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "RobSi": {
         "matches": {
@@ -253940,10 +253940,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "RobTu": {
         "matches": {
@@ -255219,10 +255219,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "RobW": {
         "matches": {
@@ -256498,10 +256498,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -257777,10 +257777,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Rousse": {
         "matches": {
@@ -259056,10 +259056,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Roy": {
         "matches": {
@@ -260335,10 +260335,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Salim": {
         "matches": {
@@ -261614,10 +261614,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Sarujan": {
         "matches": {
@@ -262893,10 +262893,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Sean": {
         "matches": {
@@ -264172,10 +264172,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Shawn1": {
         "matches": {
@@ -265451,10 +265451,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Shawn2": {
         "matches": {
@@ -266730,10 +266730,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Sheila": {
         "matches": {
@@ -268009,10 +268009,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Simon": {
         "matches": {
@@ -269288,10 +269288,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Simone": {
         "matches": {
@@ -270567,10 +270567,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Simrun": {
         "matches": {
@@ -271846,10 +271846,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Stallone1": {
         "matches": {
@@ -273125,10 +273125,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Stallone2": {
         "matches": {
@@ -274404,10 +274404,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Stanley": {
         "matches": {
@@ -275683,10 +275683,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Stephen": {
         "matches": {
@@ -276962,10 +276962,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "StevenT": {
         "matches": {
@@ -278241,10 +278241,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Tanya": {
         "matches": {
@@ -279520,10 +279520,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Theo": {
         "matches": {
@@ -280799,10 +280799,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Todaro": {
         "matches": {
@@ -282078,10 +282078,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Tomas": {
         "matches": {
@@ -283357,10 +283357,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "TomP": {
         "matches": {
@@ -284636,10 +284636,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "TonyH": {
         "matches": {
@@ -285915,10 +285915,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "TonyMa": {
         "matches": {
@@ -287194,10 +287194,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "TonyMi": {
         "matches": {
@@ -288473,10 +288473,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "TonyS": {
         "matches": {
@@ -289752,10 +289752,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -291031,10 +291031,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Trevor": {
         "matches": {
@@ -292310,10 +292310,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Tristan": {
         "matches": {
@@ -293589,10 +293589,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Victor": {
         "matches": {
@@ -294868,10 +294868,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -296147,10 +296147,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Vito": {
         "matches": {
@@ -297426,10 +297426,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 8
     },
     "VukSto": {
         "matches": {
@@ -298705,10 +298705,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Wilson": {
         "matches": {
@@ -299984,10 +299984,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Yogi": {
         "matches": {
@@ -301263,10 +301263,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "JoeA2": {
         "matches": {
@@ -302542,10 +302542,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JoeA3": {
         "matches": {
@@ -303821,10 +303821,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Josh": {
         "matches": {
@@ -305100,10 +305100,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Samantha": {
         "matches": {
@@ -306379,10 +306379,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Colombia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Uzbekistan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Colombia"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     }
 }
