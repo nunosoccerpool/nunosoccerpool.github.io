@@ -757,8 +757,8 @@
                     "away_name": "Panama",
                     "pts_awarded": null,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -2034,10 +2034,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Aaron2": {
         "matches": {
@@ -3313,10 +3313,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -4592,10 +4592,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -5871,10 +5871,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -7150,10 +7150,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Adrian": {
         "matches": {
@@ -8429,10 +8429,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -9708,10 +9708,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -10987,10 +10987,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Alex": {
         "matches": {
@@ -12266,10 +12266,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -13545,10 +13545,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Alice": {
         "matches": {
@@ -14824,10 +14824,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Alnashir": {
         "matches": {
@@ -16103,10 +16103,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -17382,10 +17382,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -18661,10 +18661,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -19940,10 +19940,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -21219,10 +21219,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -22498,10 +22498,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Angel": {
         "matches": {
@@ -23777,10 +23777,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Anicio": {
         "matches": {
@@ -25056,10 +25056,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "AniD": {
         "matches": {
@@ -26335,10 +26335,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -27614,10 +27614,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "AnthonyV": {
         "matches": {
@@ -28893,10 +28893,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Arjun": {
         "matches": {
@@ -30172,10 +30172,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Arturo": {
         "matches": {
@@ -31451,10 +31451,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Ash": {
         "matches": {
@@ -32730,10 +32730,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -34009,10 +34009,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Bindu": {
         "matches": {
@@ -35288,10 +35288,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Brendan": {
         "matches": {
@@ -36567,10 +36567,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "BrianS": {
         "matches": {
@@ -37846,10 +37846,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -39125,10 +39125,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -40404,10 +40404,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -41683,10 +41683,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -42962,10 +42962,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -44241,10 +44241,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Carmen": {
         "matches": {
@@ -45520,10 +45520,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Caroline": {
         "matches": {
@@ -46799,10 +46799,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -48078,10 +48078,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "ChrisK": {
         "matches": {
@@ -49357,10 +49357,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "ChrisN": {
         "matches": {
@@ -50636,10 +50636,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "ChrisP": {
         "matches": {
@@ -51915,10 +51915,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -53194,10 +53194,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -54473,10 +54473,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -55752,10 +55752,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -57031,10 +57031,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Corey": {
         "matches": {
@@ -58310,10 +58310,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Daisy1": {
         "matches": {
@@ -59589,10 +59589,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Daisy2": {
         "matches": {
@@ -60868,10 +60868,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Damian": {
         "matches": {
@@ -62147,10 +62147,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -63426,10 +63426,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -64705,10 +64705,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -65984,10 +65984,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -67263,10 +67263,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "DannyRa": {
         "matches": {
@@ -68542,10 +68542,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Darryll": {
         "matches": {
@@ -69821,10 +69821,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 11
     },
     "DarylF": {
         "matches": {
@@ -71100,10 +71100,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -72379,10 +72379,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "DazRob": {
         "matches": {
@@ -73658,10 +73658,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Deylin": {
         "matches": {
@@ -74937,10 +74937,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Dino": {
         "matches": {
@@ -76216,10 +76216,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Dora": {
         "matches": {
@@ -77495,10 +77495,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "DougM": {
         "matches": {
@@ -78774,10 +78774,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Duarte": {
         "matches": {
@@ -80053,10 +80053,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -81332,10 +81332,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Edsel": {
         "matches": {
@@ -82611,10 +82611,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "EdwardT": {
         "matches": {
@@ -83890,10 +83890,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Elliott": {
         "matches": {
@@ -85169,10 +85169,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "EricK": {
         "matches": {
@@ -86448,10 +86448,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Ethan": {
         "matches": {
@@ -87727,10 +87727,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -89006,10 +89006,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Fawzi": {
         "matches": {
@@ -90285,10 +90285,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Fernando": {
         "matches": {
@@ -91564,10 +91564,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -92843,10 +92843,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Franco": {
         "matches": {
@@ -94122,10 +94122,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -95401,10 +95401,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -96680,10 +96680,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "FrankD2": {
         "matches": {
@@ -97959,10 +97959,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -99238,10 +99238,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Gary": {
         "matches": {
@@ -100517,10 +100517,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "GavinRiya": {
         "matches": {
@@ -101796,10 +101796,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "GavinW": {
         "matches": {
@@ -103075,10 +103075,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -104354,10 +104354,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Greg": {
         "matches": {
@@ -105633,10 +105633,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -106912,10 +106912,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -108191,10 +108191,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "GustavoL": {
         "matches": {
@@ -109470,10 +109470,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Gwen": {
         "matches": {
@@ -110749,10 +110749,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -112028,10 +112028,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -113307,10 +113307,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -114586,10 +114586,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Hugo": {
         "matches": {
@@ -115865,10 +115865,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -117144,10 +117144,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -118423,10 +118423,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -119702,10 +119702,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -120981,10 +120981,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "Jalen": {
         "matches": {
@@ -122260,10 +122260,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "JamesC": {
         "matches": {
@@ -123539,10 +123539,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "JamesP": {
         "matches": {
@@ -124818,10 +124818,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -126097,10 +126097,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -127376,10 +127376,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "JasonF": {
         "matches": {
@@ -128655,10 +128655,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Jaxon": {
         "matches": {
@@ -129934,10 +129934,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "JeanMichel": {
         "matches": {
@@ -131213,10 +131213,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JeffB": {
         "matches": {
@@ -132492,10 +132492,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -133771,10 +133771,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JeffS2": {
         "matches": {
@@ -135050,10 +135050,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -136329,10 +136329,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Jenn": {
         "matches": {
@@ -137608,10 +137608,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Jennifer": {
         "matches": {
@@ -138887,10 +138887,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -140166,10 +140166,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -141445,10 +141445,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "JessicaD": {
         "matches": {
@@ -142724,10 +142724,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -144003,10 +144003,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "JessicaS": {
         "matches": {
@@ -145282,10 +145282,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Jhon": {
         "matches": {
@@ -146561,10 +146561,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Jim": {
         "matches": {
@@ -147840,10 +147840,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Joanna": {
         "matches": {
@@ -149119,10 +149119,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JoeA": {
         "matches": {
@@ -150398,10 +150398,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "JoeD": {
         "matches": {
@@ -151677,10 +151677,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -152956,10 +152956,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "JohnR": {
         "matches": {
@@ -154235,10 +154235,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Jonathan": {
         "matches": {
@@ -155514,10 +155514,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "JorgeC": {
         "matches": {
@@ -156793,10 +156793,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -158072,10 +158072,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "Juan": {
         "matches": {
@@ -159351,10 +159351,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Julian": {
         "matches": {
@@ -160630,10 +160630,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -161909,10 +161909,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -163188,10 +163188,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Kayden": {
         "matches": {
@@ -164467,10 +164467,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -165746,10 +165746,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -167025,10 +167025,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -168304,10 +168304,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -169583,10 +169583,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -170862,10 +170862,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -172141,10 +172141,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -173420,10 +173420,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -174699,10 +174699,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "LiamMoh": {
         "matches": {
@@ -175978,10 +175978,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -177257,10 +177257,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Lisa": {
         "matches": {
@@ -178536,10 +178536,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Luka": {
         "matches": {
@@ -179815,10 +179815,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Magno": {
         "matches": {
@@ -181094,10 +181094,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Major": {
         "matches": {
@@ -182373,10 +182373,10 @@
                     "home_score": 1,
                     "away_score": 11,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -183652,10 +183652,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -184931,10 +184931,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -186210,10 +186210,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MarcioS": {
         "matches": {
@@ -187489,10 +187489,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "MarcoR": {
         "matches": {
@@ -188768,10 +188768,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "Maria": {
         "matches": {
@@ -190047,10 +190047,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -191326,10 +191326,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MatthewG": {
         "matches": {
@@ -192605,10 +192605,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -193884,10 +193884,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "MatthewSm1": {
         "matches": {
@@ -195163,10 +195163,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "MatthewSm2": {
         "matches": {
@@ -196442,10 +196442,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Max": {
         "matches": {
@@ -197721,10 +197721,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Melissa": {
         "matches": {
@@ -199000,10 +199000,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -200279,10 +200279,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "MichaelM": {
         "matches": {
@@ -201558,10 +201558,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -202837,10 +202837,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Michele": {
         "matches": {
@@ -204116,10 +204116,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -205395,10 +205395,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "MikeD": {
         "matches": {
@@ -206674,10 +206674,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Misic1": {
         "matches": {
@@ -207953,10 +207953,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 8
+        "total_points": 9
     },
     "Misic2": {
         "matches": {
@@ -209232,10 +209232,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -210511,10 +210511,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -211790,10 +211790,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "NickM": {
         "matches": {
@@ -213069,10 +213069,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Nicolas": {
         "matches": {
@@ -214348,10 +214348,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -215627,10 +215627,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -216906,10 +216906,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -218185,10 +218185,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Nolan": {
         "matches": {
@@ -219464,10 +219464,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -220743,10 +220743,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Nuno2": {
         "matches": {
@@ -222022,10 +222022,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -224580,10 +224580,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -225859,10 +225859,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Pascal": {
         "matches": {
@@ -227138,10 +227138,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -228417,10 +228417,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "PaulA": {
         "matches": {
@@ -229696,10 +229696,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "PaulC": {
         "matches": {
@@ -230975,10 +230975,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "PetarS": {
         "matches": {
@@ -232254,10 +232254,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -233533,10 +233533,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Preto1": {
         "matches": {
@@ -234812,10 +234812,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Preto2": {
         "matches": {
@@ -236091,10 +236091,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Punit": {
         "matches": {
@@ -237370,10 +237370,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Rachel": {
         "matches": {
@@ -238649,10 +238649,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -239928,10 +239928,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Ricardo1": {
         "matches": {
@@ -241207,10 +241207,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "Ricardo2": {
         "matches": {
@@ -242486,10 +242486,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "RichardMa": {
         "matches": {
@@ -243765,10 +243765,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "RichardMo": {
         "matches": {
@@ -245044,10 +245044,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -246323,10 +246323,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Ricky": {
         "matches": {
@@ -247602,10 +247602,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Rita": {
         "matches": {
@@ -248881,10 +248881,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -250160,10 +250160,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "RobertP": {
         "matches": {
@@ -251439,10 +251439,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -252718,10 +252718,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -253997,10 +253997,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "RobTu": {
         "matches": {
@@ -255276,10 +255276,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -256555,10 +256555,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -257834,10 +257834,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -259113,10 +259113,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Roy": {
         "matches": {
@@ -260392,10 +260392,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -261671,10 +261671,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -262950,10 +262950,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -264229,10 +264229,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -265508,10 +265508,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Shawn2": {
         "matches": {
@@ -266787,10 +266787,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 9
+        "total_points": 10
     },
     "Sheila": {
         "matches": {
@@ -268066,10 +268066,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Simon": {
         "matches": {
@@ -269345,10 +269345,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -270624,10 +270624,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -271903,10 +271903,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -273182,10 +273182,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "Stallone2": {
         "matches": {
@@ -274461,10 +274461,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Stanley": {
         "matches": {
@@ -275740,10 +275740,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Stephen": {
         "matches": {
@@ -277019,10 +277019,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "StevenT": {
         "matches": {
@@ -278298,10 +278298,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Tanya": {
         "matches": {
@@ -279577,10 +279577,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Theo": {
         "matches": {
@@ -280856,10 +280856,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Todaro": {
         "matches": {
@@ -282135,10 +282135,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Tomas": {
         "matches": {
@@ -283414,10 +283414,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -284693,10 +284693,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -285972,10 +285972,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "TonyMa": {
         "matches": {
@@ -287251,10 +287251,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 13
     },
     "TonyMi": {
         "matches": {
@@ -288530,10 +288530,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -289809,10 +289809,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -291088,10 +291088,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -292367,10 +292367,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -293646,10 +293646,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -294925,10 +294925,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -296204,10 +296204,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -297483,10 +297483,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -298762,10 +298762,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 7
+        "total_points": 9
     },
     "Wilson": {
         "matches": {
@@ -300041,10 +300041,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Yogi": {
         "matches": {
@@ -301320,10 +301320,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "JoeA2": {
         "matches": {
@@ -302599,10 +302599,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "JoeA3": {
         "matches": {
@@ -303878,10 +303878,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Josh": {
         "matches": {
@@ -305157,10 +305157,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Samantha": {
         "matches": {
@@ -306436,10 +306436,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Panama",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ghana",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Panama"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     }
 }
