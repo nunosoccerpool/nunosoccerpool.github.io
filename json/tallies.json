@@ -1,13 +1,13 @@
 {
     "totals": {
-        "total_goals": "75",
-        "yellow_cards": "52",
+        "total_goals": "77",
+        "yellow_cards": "55",
         "red_two_yellow": "0",
         "red_straight": "3",
-        "penalty_goals": "4",
+        "penalty_goals": "5",
         "own_goals": "2",
         "most_yc_details": "Paraguay",
-        "fastest_goal_team": "Germany Portugal"
+        "fastest_goal_team": "Germany Portugal Czechia"
     },
     "matches": [
         {
@@ -300,15 +300,15 @@
         },
         {
             "name": "Czechia vs South Africa",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "1 - 1",
+            "yellow_cards": "3",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "6",
+            "fastest_goal_team": "Czechia"
         },
         {
             "name": "Switzerland vs Bosnia",

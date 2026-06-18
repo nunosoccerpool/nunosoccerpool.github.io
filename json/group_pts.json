@@ -31,8 +31,8 @@
                     "away_name": "South Africa",
                     "pts_awarded": null,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -1308,10 +1308,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -2587,10 +2587,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -3866,10 +3866,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -5145,10 +5145,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -6424,10 +6424,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -7703,10 +7703,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "AI": {
         "matches": {
@@ -8982,10 +8982,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -10261,10 +10261,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -11540,10 +11540,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -12819,10 +12819,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -14098,10 +14098,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -15377,10 +15377,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Alston1": {
         "matches": {
@@ -16656,10 +16656,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -17935,10 +17935,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -19214,10 +19214,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "AnaS": {
         "matches": {
@@ -20493,10 +20493,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -21772,10 +21772,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -23051,10 +23051,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Anicio": {
         "matches": {
@@ -24330,10 +24330,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -25609,10 +25609,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -26888,10 +26888,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -28167,10 +28167,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -29446,10 +29446,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -30725,10 +30725,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -32004,10 +32004,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -33283,10 +33283,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -34562,10 +34562,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -35841,10 +35841,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -37120,10 +37120,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -38399,10 +38399,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -39678,10 +39678,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -40957,10 +40957,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "CarlosS1": {
         "matches": {
@@ -42236,10 +42236,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 18
     },
     "CarlosS2": {
         "matches": {
@@ -43515,10 +43515,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -44794,10 +44794,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -46073,10 +46073,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Charles": {
         "matches": {
@@ -47352,10 +47352,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -48631,10 +48631,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -49910,10 +49910,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -51189,10 +51189,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -52468,10 +52468,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -53747,10 +53747,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -55026,10 +55026,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -56305,10 +56305,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Corey": {
         "matches": {
@@ -57584,10 +57584,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -58863,10 +58863,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -60142,10 +60142,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -61421,10 +61421,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -62700,10 +62700,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -63979,10 +63979,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -65258,10 +65258,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -66537,10 +66537,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -67816,10 +67816,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Darryll": {
         "matches": {
@@ -69095,10 +69095,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "DarylF": {
         "matches": {
@@ -70374,10 +70374,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -71653,10 +71653,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "DazRob": {
         "matches": {
@@ -72932,10 +72932,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -74211,10 +74211,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "Dino": {
         "matches": {
@@ -75490,10 +75490,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -76769,10 +76769,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -78048,10 +78048,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -79327,10 +79327,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -80606,10 +80606,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -81885,10 +81885,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -83164,10 +83164,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -84443,10 +84443,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -85722,10 +85722,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -87001,10 +87001,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -88280,10 +88280,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 11
     },
     "Fawzi": {
         "matches": {
@@ -89559,10 +89559,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -90838,10 +90838,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Filip": {
         "matches": {
@@ -92117,10 +92117,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -93396,10 +93396,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -94675,10 +94675,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -95954,10 +95954,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -97233,10 +97233,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -98512,10 +98512,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Gary": {
         "matches": {
@@ -99791,10 +99791,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "GavinRiya": {
         "matches": {
@@ -101070,10 +101070,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -102349,10 +102349,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -103628,10 +103628,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Greg": {
         "matches": {
@@ -104907,10 +104907,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -106186,10 +106186,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -107465,10 +107465,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -108744,10 +108744,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -110023,10 +110023,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -111302,10 +111302,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -112581,10 +112581,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -113860,10 +113860,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -115139,10 +115139,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -116418,10 +116418,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Ida": {
         "matches": {
@@ -117697,10 +117697,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -118976,10 +118976,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -120255,10 +120255,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -121534,10 +121534,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -122813,10 +122813,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -124092,10 +124092,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -125371,10 +125371,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -126650,10 +126650,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -127929,10 +127929,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -129208,10 +129208,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -130487,10 +130487,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -131766,10 +131766,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "JeffS1": {
         "matches": {
@@ -133045,10 +133045,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -134324,10 +134324,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -135603,10 +135603,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -136882,10 +136882,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -138161,10 +138161,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -139440,10 +139440,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -140719,10 +140719,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -141998,10 +141998,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -143277,10 +143277,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -144556,10 +144556,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Jhon": {
         "matches": {
@@ -145835,10 +145835,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -147114,10 +147114,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -148393,10 +148393,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -149672,10 +149672,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -150951,10 +150951,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "JohnO": {
         "matches": {
@@ -152230,10 +152230,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -153509,10 +153509,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -154788,10 +154788,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -156067,10 +156067,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -157346,10 +157346,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -158625,10 +158625,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -159904,10 +159904,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "JustinA": {
         "matches": {
@@ -161183,10 +161183,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -162462,10 +162462,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -163741,10 +163741,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -165020,10 +165020,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -166299,10 +166299,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -167578,10 +167578,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -168857,10 +168857,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -170136,10 +170136,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Kyle": {
         "matches": {
@@ -171415,10 +171415,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -172694,10 +172694,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -173973,10 +173973,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -175252,10 +175252,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -176531,10 +176531,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -177810,10 +177810,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -179089,10 +179089,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -180368,10 +180368,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "Major": {
         "matches": {
@@ -181647,10 +181647,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -182926,10 +182926,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "MannyT": {
         "matches": {
@@ -184205,10 +184205,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -185484,10 +185484,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -186763,10 +186763,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -188042,10 +188042,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -189321,10 +189321,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Marta": {
         "matches": {
@@ -190600,10 +190600,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -191879,10 +191879,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -193158,10 +193158,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -194437,10 +194437,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 15
     },
     "MatthewSm2": {
         "matches": {
@@ -195716,10 +195716,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -196995,10 +196995,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -198274,10 +198274,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "MichaelL": {
         "matches": {
@@ -199553,10 +199553,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -200832,10 +200832,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -202111,10 +202111,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -203390,10 +203390,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -204669,10 +204669,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "MikeD": {
         "matches": {
@@ -205948,10 +205948,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -207227,10 +207227,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 10
+        "total_points": 12
     },
     "Misic2": {
         "matches": {
@@ -208506,10 +208506,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Nas": {
         "matches": {
@@ -209785,10 +209785,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -211064,10 +211064,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -212343,10 +212343,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -213622,10 +213622,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -214901,10 +214901,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -216180,10 +216180,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Nima": {
         "matches": {
@@ -217459,10 +217459,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -218738,10 +218738,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -220017,10 +220017,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -221296,10 +221296,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -223854,10 +223854,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Pardeep": {
         "matches": {
@@ -225133,10 +225133,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -226412,10 +226412,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -227691,10 +227691,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -228970,10 +228970,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -230249,10 +230249,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -231528,10 +231528,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -232807,10 +232807,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "Preto1": {
         "matches": {
@@ -234086,10 +234086,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -235365,10 +235365,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Punit": {
         "matches": {
@@ -236644,10 +236644,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -237923,10 +237923,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -239202,10 +239202,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -240481,10 +240481,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Ricardo2": {
         "matches": {
@@ -241760,10 +241760,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "RichardMa": {
         "matches": {
@@ -243039,10 +243039,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -244318,10 +244318,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -245597,10 +245597,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -246876,10 +246876,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 17
     },
     "Rita": {
         "matches": {
@@ -248155,10 +248155,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -249434,10 +249434,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -250713,10 +250713,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -251992,10 +251992,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -253271,10 +253271,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -254550,10 +254550,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -255829,10 +255829,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -257108,10 +257108,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -258387,10 +258387,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -259666,10 +259666,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 16
     },
     "Salim": {
         "matches": {
@@ -260945,10 +260945,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "Sarujan": {
         "matches": {
@@ -262224,10 +262224,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -263503,10 +263503,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -264782,10 +264782,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Shawn2": {
         "matches": {
@@ -266061,10 +266061,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 13
     },
     "Sheila": {
         "matches": {
@@ -267340,10 +267340,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -268619,10 +268619,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -269898,10 +269898,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -271177,10 +271177,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Stallone1": {
         "matches": {
@@ -272456,10 +272456,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -273735,10 +273735,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -275014,10 +275014,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -276293,10 +276293,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -277572,10 +277572,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -278851,10 +278851,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -280130,10 +280130,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -281409,10 +281409,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -282688,10 +282688,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -283967,10 +283967,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -285246,10 +285246,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -286525,10 +286525,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -287804,10 +287804,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -289083,10 +289083,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "TonyV": {
         "matches": {
@@ -290362,10 +290362,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -291641,10 +291641,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -292920,10 +292920,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -294199,10 +294199,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -295478,10 +295478,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -296757,10 +296757,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -298036,10 +298036,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -299315,10 +299315,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 12
+        "total_points": 14
     },
     "Yogi": {
         "matches": {
@@ -300594,10 +300594,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 21
     },
     "JoeA2": {
         "matches": {
@@ -301873,10 +301873,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -303152,10 +303152,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -304431,10 +304431,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
@@ -305710,10 +305710,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "South Africa",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Czechia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "South Africa"
                 },
                 {
