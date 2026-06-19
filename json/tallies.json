@@ -1,11 +1,11 @@
 {
     "totals": {
-        "total_goals": "82",
-        "yellow_cards": "58",
+        "total_goals": "88",
+        "yellow_cards": "60",
         "red_two_yellow": "0",
-        "red_straight": "4",
+        "red_straight": "6",
         "penalty_goals": "6",
-        "own_goals": "2",
+        "own_goals": "3",
         "most_yc_details": "Paraguay",
         "fastest_goal_team": "Germany Portugal Czechia"
     },
@@ -324,15 +324,15 @@
         },
         {
             "name": "Canada vs Qatar",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "6 - 0",
+            "yellow_cards": "2",
+            "red_two_yellow": "0",
+            "red_straight": "2",
+            "penalty_goals": "0",
+            "own_goals": "1",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "16",
+            "fastest_goal_team": "Canada"
         },
         {
             "name": "Mexico vs South Korea",
