@@ -193,6 +193,11 @@
     let currentIdx = 0;
     let started    = false;
 
+    // Mobile devices start at 33% volume; desktop keeps the slider's default
+    if (window.innerWidth <= 480) {
+      volSlider.value = 0.33;
+    }
+
     const FALLBACK_SONGS = ['FIFA','FIFA1','FIFA2','FIFA3','FIFA4','FIFA5','FIFA6','FIFA7'];
 
     async function loadPlaylist() {
