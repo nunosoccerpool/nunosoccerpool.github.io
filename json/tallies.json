@@ -1,11 +1,11 @@
 {
     "totals": {
-        "total_goals": "89",
-        "yellow_cards": "62",
+        "total_goals": "91",
+        "yellow_cards": "69",
         "red_two_yellow": "0",
         "red_straight": "6",
         "penalty_goals": "6",
-        "own_goals": "3",
+        "own_goals": "4",
         "most_yc_details": "Paraguay",
         "fastest_goal_team": "Germany Portugal Czechia"
     },
@@ -348,15 +348,15 @@
         },
         {
             "name": "USA vs Australia",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "2 - 0",
+            "yellow_cards": "7",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "1",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "11",
+            "fastest_goal_team": "USA"
         },
         {
             "name": "Scotland vs Morocco",
