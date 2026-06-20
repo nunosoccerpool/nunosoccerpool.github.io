@@ -1,13 +1,13 @@
 {
     "totals": {
-        "total_goals": "91",
-        "yellow_cards": "69",
+        "total_goals": "95",
+        "yellow_cards": "75",
         "red_two_yellow": "0",
         "red_straight": "6",
         "penalty_goals": "6",
         "own_goals": "4",
         "most_yc_details": "Paraguay",
-        "fastest_goal_team": "Germany Portugal Czechia"
+        "fastest_goal_team": "Morocco"
     },
     "matches": [
         {
@@ -360,27 +360,27 @@
         },
         {
             "name": "Scotland vs Morocco",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "0 - 1",
+            "yellow_cards": "2",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "2",
+            "fastest_goal_team": "Morocco"
         },
         {
             "name": "Brazil vs Haiti",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "3 - 0",
+            "yellow_cards": "4",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "23",
+            "fastest_goal_team": "Brazil"
         },
         {
             "name": "Turkey vs Paraguay",
