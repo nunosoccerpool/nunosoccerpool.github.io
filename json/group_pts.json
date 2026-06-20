@@ -371,8 +371,8 @@
                     "away_name": "Sweden",
                     "pts_awarded": null,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -1648,10 +1648,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Aaron2": {
         "matches": {
@@ -2927,10 +2927,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Aaron3": {
         "matches": {
@@ -4206,10 +4206,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Aban": {
         "matches": {
@@ -5485,10 +5485,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -6764,10 +6764,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Adrian": {
         "matches": {
@@ -8043,10 +8043,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "AI": {
         "matches": {
@@ -9322,10 +9322,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Albeiro": {
         "matches": {
@@ -10601,10 +10601,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Alex": {
         "matches": {
@@ -11880,10 +11880,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Ali": {
         "matches": {
@@ -13159,10 +13159,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Alice": {
         "matches": {
@@ -14438,10 +14438,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Alnashir": {
         "matches": {
@@ -15717,10 +15717,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Alston1": {
         "matches": {
@@ -16996,10 +16996,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -18275,10 +18275,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -19554,10 +19554,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -20833,10 +20833,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Andres": {
         "matches": {
@@ -22112,10 +22112,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Angel": {
         "matches": {
@@ -23391,10 +23391,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -24670,10 +24670,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "AniD": {
         "matches": {
@@ -25949,10 +25949,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -27228,10 +27228,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -28507,10 +28507,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Arjun": {
         "matches": {
@@ -29786,10 +29786,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Arturo": {
         "matches": {
@@ -31065,10 +31065,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -32344,10 +32344,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Augie": {
         "matches": {
@@ -33623,10 +33623,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -34902,10 +34902,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -36181,10 +36181,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "BrianS": {
         "matches": {
@@ -37460,10 +37460,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Cameron": {
         "matches": {
@@ -38739,10 +38739,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "CarlosD": {
         "matches": {
@@ -40018,10 +40018,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "CarlosG": {
         "matches": {
@@ -41297,10 +41297,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "CarlosS1": {
         "matches": {
@@ -42576,10 +42576,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "CarlosS2": {
         "matches": {
@@ -43855,10 +43855,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Carmen": {
         "matches": {
@@ -45134,10 +45134,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Caroline": {
         "matches": {
@@ -46413,10 +46413,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -47320,7 +47320,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Charles": {
         "matches": {
@@ -47692,10 +47692,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "ChrisK": {
         "matches": {
@@ -48971,10 +48971,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -50250,10 +50250,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "ChrisP": {
         "matches": {
@@ -51529,10 +51529,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Chrissy": {
         "matches": {
@@ -52808,10 +52808,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "ChristianL": {
         "matches": {
@@ -54087,10 +54087,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -55366,10 +55366,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Coco": {
         "matches": {
@@ -56645,10 +56645,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Corey": {
         "matches": {
@@ -57924,10 +57924,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Daisy1": {
         "matches": {
@@ -59203,10 +59203,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -60482,10 +60482,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -61761,10 +61761,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "DanielM": {
         "matches": {
@@ -63040,10 +63040,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "DanielR": {
         "matches": {
@@ -64319,10 +64319,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "DannyCR7": {
         "matches": {
@@ -65598,10 +65598,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "DannyL": {
         "matches": {
@@ -66877,10 +66877,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "DannyRa": {
         "matches": {
@@ -68156,10 +68156,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Darryll": {
         "matches": {
@@ -69435,10 +69435,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "DarylF": {
         "matches": {
@@ -70714,10 +70714,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Dashiel": {
         "matches": {
@@ -71993,10 +71993,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "DazRob": {
         "matches": {
@@ -73272,10 +73272,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -74551,10 +74551,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Dino": {
         "matches": {
@@ -75830,10 +75830,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Dora": {
         "matches": {
@@ -77109,10 +77109,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "DougM": {
         "matches": {
@@ -78388,10 +78388,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Duarte": {
         "matches": {
@@ -79667,10 +79667,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Ed": {
         "matches": {
@@ -80946,10 +80946,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Edsel": {
         "matches": {
@@ -82225,10 +82225,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "EdwardT": {
         "matches": {
@@ -83504,10 +83504,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Elliott": {
         "matches": {
@@ -84783,10 +84783,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -86062,10 +86062,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Ethan": {
         "matches": {
@@ -87341,10 +87341,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -88620,10 +88620,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Fawzi": {
         "matches": {
@@ -89899,10 +89899,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Fernando": {
         "matches": {
@@ -91178,10 +91178,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -92457,10 +92457,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Franco": {
         "matches": {
@@ -93736,10 +93736,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "FrankC": {
         "matches": {
@@ -95015,10 +95015,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "FrankD1": {
         "matches": {
@@ -96294,10 +96294,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "FrankD2": {
         "matches": {
@@ -97573,10 +97573,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "GabyDavide": {
         "matches": {
@@ -98852,10 +98852,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Gary": {
         "matches": {
@@ -100131,10 +100131,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "GavinRiya": {
         "matches": {
@@ -101410,10 +101410,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "GavinW": {
         "matches": {
@@ -102689,10 +102689,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Goran": {
         "matches": {
@@ -103968,10 +103968,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -105247,10 +105247,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Grosso": {
         "matches": {
@@ -106526,10 +106526,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "GustavoH": {
         "matches": {
@@ -107805,10 +107805,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "GustavoL": {
         "matches": {
@@ -109084,10 +109084,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Gwen": {
         "matches": {
@@ -110363,10 +110363,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Heather": {
         "matches": {
@@ -111642,10 +111642,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "HelderA": {
         "matches": {
@@ -112921,10 +112921,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Hernani": {
         "matches": {
@@ -114200,10 +114200,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -115479,10 +115479,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Ian": {
         "matches": {
@@ -116758,10 +116758,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -118037,10 +118037,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -119316,10 +119316,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -120595,10 +120595,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -121874,10 +121874,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -123153,10 +123153,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -124432,10 +124432,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Janelle": {
         "matches": {
@@ -125711,10 +125711,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "JasonB": {
         "matches": {
@@ -126990,10 +126990,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -128269,10 +128269,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Jaxon": {
         "matches": {
@@ -129548,10 +129548,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "JeanMichel": {
         "matches": {
@@ -130827,10 +130827,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JeffB": {
         "matches": {
@@ -132106,10 +132106,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -133385,10 +133385,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JeffS2": {
         "matches": {
@@ -134664,10 +134664,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JeffT": {
         "matches": {
@@ -135943,10 +135943,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Jenn": {
         "matches": {
@@ -137222,10 +137222,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -138501,10 +138501,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Jeremy": {
         "matches": {
@@ -139780,10 +139780,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -141059,10 +141059,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JessicaD": {
         "matches": {
@@ -142338,10 +142338,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JessicaG": {
         "matches": {
@@ -143617,10 +143617,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JessicaS": {
         "matches": {
@@ -144896,10 +144896,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Jhon": {
         "matches": {
@@ -146175,10 +146175,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -147454,10 +147454,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 13
+        "total_points": 14
     },
     "Joanna": {
         "matches": {
@@ -148733,10 +148733,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -150012,10 +150012,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -151291,10 +151291,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -152570,10 +152570,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JohnR": {
         "matches": {
@@ -153849,10 +153849,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Jonathan": {
         "matches": {
@@ -155128,10 +155128,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JorgeC": {
         "matches": {
@@ -156407,10 +156407,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JorgeT": {
         "matches": {
@@ -157686,10 +157686,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Juan": {
         "matches": {
@@ -158965,10 +158965,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Julian": {
         "matches": {
@@ -160244,10 +160244,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JustinA": {
         "matches": {
@@ -161523,10 +161523,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -162802,10 +162802,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -164081,10 +164081,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "KevinC": {
         "matches": {
@@ -165360,10 +165360,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "KevinJ": {
         "matches": {
@@ -166639,10 +166639,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "KevinS": {
         "matches": {
@@ -167918,10 +167918,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Kristian": {
         "matches": {
@@ -169197,10 +169197,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Kumar": {
         "matches": {
@@ -170476,10 +170476,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Kyle": {
         "matches": {
@@ -171755,10 +171755,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Lena": {
         "matches": {
@@ -173034,10 +173034,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "LiamA": {
         "matches": {
@@ -174313,10 +174313,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -175592,10 +175592,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -176871,10 +176871,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -178150,10 +178150,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Luka": {
         "matches": {
@@ -179429,10 +179429,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Magno": {
         "matches": {
@@ -180708,10 +180708,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -181987,10 +181987,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Manley": {
         "matches": {
@@ -183266,10 +183266,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "MannyT": {
         "matches": {
@@ -184545,10 +184545,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "MarcioD": {
         "matches": {
@@ -185824,10 +185824,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -187103,10 +187103,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "MarcoR": {
         "matches": {
@@ -188382,10 +188382,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -189661,10 +189661,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Marta": {
         "matches": {
@@ -190940,10 +190940,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -192219,10 +192219,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "MatthewSa": {
         "matches": {
@@ -193498,10 +193498,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "MatthewSm1": {
         "matches": {
@@ -194777,10 +194777,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "MatthewSm2": {
         "matches": {
@@ -196056,10 +196056,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Max": {
         "matches": {
@@ -197335,10 +197335,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Melissa": {
         "matches": {
@@ -198614,10 +198614,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -199893,10 +199893,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "MichaelM": {
         "matches": {
@@ -201172,10 +201172,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -202451,10 +202451,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -203730,10 +203730,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Mihajlo": {
         "matches": {
@@ -205009,10 +205009,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "MikeD": {
         "matches": {
@@ -206288,10 +206288,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Misic1": {
         "matches": {
@@ -207567,10 +207567,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -208846,10 +208846,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -210125,10 +210125,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -211404,10 +211404,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -212683,10 +212683,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Nicolas": {
         "matches": {
@@ -213962,10 +213962,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Nicole1": {
         "matches": {
@@ -215241,10 +215241,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -216520,10 +216520,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -217799,10 +217799,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Nolan": {
         "matches": {
@@ -219078,10 +219078,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Nuno1": {
         "matches": {
@@ -220357,10 +220357,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -221636,10 +221636,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 11
+        "total_points": 12
     },
     "PabloL": {
         "matches": {
@@ -224194,10 +224194,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Pardeep": {
         "matches": {
@@ -225473,10 +225473,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Pascal": {
         "matches": {
@@ -226752,10 +226752,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Patullo": {
         "matches": {
@@ -228031,10 +228031,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "PaulA": {
         "matches": {
@@ -229310,10 +229310,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "PaulC": {
         "matches": {
@@ -230589,10 +230589,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "PetarS": {
         "matches": {
@@ -231868,10 +231868,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Pierfelice": {
         "matches": {
@@ -233147,10 +233147,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Preto1": {
         "matches": {
@@ -234426,10 +234426,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -235705,10 +235705,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Punit": {
         "matches": {
@@ -236984,10 +236984,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Rachel": {
         "matches": {
@@ -238263,10 +238263,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "RD2026": {
         "matches": {
@@ -239542,10 +239542,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Ricardo1": {
         "matches": {
@@ -240821,10 +240821,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -242100,10 +242100,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "RichardMa": {
         "matches": {
@@ -243379,10 +243379,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "RichardMo": {
         "matches": {
@@ -244658,10 +244658,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -245937,10 +245937,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Ricky": {
         "matches": {
@@ -247216,10 +247216,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -248495,10 +248495,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Riyad": {
         "matches": {
@@ -249774,10 +249774,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -251053,10 +251053,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "RobertS": {
         "matches": {
@@ -252332,10 +252332,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "RobSi": {
         "matches": {
@@ -253611,10 +253611,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "RobTu": {
         "matches": {
@@ -254890,10 +254890,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "RobW": {
         "matches": {
@@ -256169,10 +256169,10 @@
                     "home_score": 5,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Rodrigo": {
         "matches": {
@@ -257448,10 +257448,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -258727,10 +258727,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Roy": {
         "matches": {
@@ -260006,10 +260006,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Salim": {
         "matches": {
@@ -261285,10 +261285,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Sarujan": {
         "matches": {
@@ -262564,10 +262564,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Sean": {
         "matches": {
@@ -263843,10 +263843,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Shawn1": {
         "matches": {
@@ -265122,10 +265122,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Shawn2": {
         "matches": {
@@ -266401,10 +266401,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Sheila": {
         "matches": {
@@ -267680,10 +267680,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Simon": {
         "matches": {
@@ -268959,10 +268959,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Simone": {
         "matches": {
@@ -270238,10 +270238,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -271517,10 +271517,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -272796,10 +272796,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Stallone2": {
         "matches": {
@@ -274075,10 +274075,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Stanley": {
         "matches": {
@@ -275354,10 +275354,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -276633,10 +276633,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -277912,10 +277912,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Tanya": {
         "matches": {
@@ -279191,10 +279191,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Theo": {
         "matches": {
@@ -280470,10 +280470,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Todaro": {
         "matches": {
@@ -281749,10 +281749,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Tomas": {
         "matches": {
@@ -283028,10 +283028,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -284307,10 +284307,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "TonyH": {
         "matches": {
@@ -285586,10 +285586,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "TonyMa": {
         "matches": {
@@ -286865,10 +286865,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "TonyMi": {
         "matches": {
@@ -288144,10 +288144,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -289423,10 +289423,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "TonyV": {
         "matches": {
@@ -290702,10 +290702,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Trevor": {
         "matches": {
@@ -291981,10 +291981,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Tristan": {
         "matches": {
@@ -293260,10 +293260,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -294539,10 +294539,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -295818,10 +295818,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Vito": {
         "matches": {
@@ -297097,10 +297097,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "VukSto": {
         "matches": {
@@ -298376,10 +298376,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Wilson": {
         "matches": {
@@ -299655,10 +299655,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Yogi": {
         "matches": {
@@ -300934,10 +300934,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JoeA2": {
         "matches": {
@@ -302213,10 +302213,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -303492,10 +303492,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Josh": {
         "matches": {
@@ -304771,10 +304771,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Samantha": {
         "matches": {
@@ -306050,10 +306050,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Sweden",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Netherlands",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 5.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Sweden"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     }
 }
