@@ -314,8 +314,8 @@
                     "away_name": "Curacao",
                     "pts_awarded": null,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -1591,10 +1591,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -2870,10 +2870,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -4149,10 +4149,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -5428,10 +5428,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -6707,10 +6707,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Adrian": {
         "matches": {
@@ -7986,10 +7986,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "AI": {
         "matches": {
@@ -9265,10 +9265,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -10544,10 +10544,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -11823,10 +11823,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -13102,10 +13102,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -14381,10 +14381,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -15660,10 +15660,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -16939,10 +16939,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -18218,10 +18218,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -19497,10 +19497,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -20776,10 +20776,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -22055,10 +22055,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -23334,10 +23334,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -24613,10 +24613,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -25892,10 +25892,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -27171,10 +27171,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -28450,10 +28450,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -29729,10 +29729,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -31008,10 +31008,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -32287,10 +32287,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -33566,10 +33566,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -34845,10 +34845,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -36124,10 +36124,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -37403,10 +37403,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -38682,10 +38682,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -39961,10 +39961,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -41240,10 +41240,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -42519,10 +42519,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -43798,10 +43798,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -45077,10 +45077,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -46356,10 +46356,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -47635,10 +47635,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -48914,10 +48914,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -50193,10 +50193,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -51472,10 +51472,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -52751,10 +52751,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -54030,10 +54030,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -55309,10 +55309,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -56588,10 +56588,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -57867,10 +57867,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -59146,10 +59146,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -60425,10 +60425,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -61704,10 +61704,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -62983,10 +62983,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -64262,10 +64262,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -65541,10 +65541,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -66820,10 +66820,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -68099,10 +68099,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -69378,10 +69378,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -70657,10 +70657,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -71936,10 +71936,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -73215,10 +73215,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -74494,10 +74494,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -75773,10 +75773,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -77052,10 +77052,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -78331,10 +78331,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -79610,10 +79610,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -80889,10 +80889,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -82168,10 +82168,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "EdwardT": {
         "matches": {
@@ -83447,10 +83447,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -84726,10 +84726,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -86005,10 +86005,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -87284,10 +87284,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -88563,10 +88563,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -89842,10 +89842,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -91121,10 +91121,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -92400,10 +92400,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -93679,10 +93679,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -94958,10 +94958,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -96237,10 +96237,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -97516,10 +97516,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -98795,10 +98795,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -100074,10 +100074,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -101353,10 +101353,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -102632,10 +102632,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -103911,10 +103911,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -105190,10 +105190,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -106469,10 +106469,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -107748,10 +107748,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -109027,10 +109027,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -110306,10 +110306,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -111585,10 +111585,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -112864,10 +112864,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -114143,10 +114143,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -115422,10 +115422,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -116701,10 +116701,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -117980,10 +117980,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -119259,10 +119259,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -120538,10 +120538,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -121817,10 +121817,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -123096,10 +123096,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -124375,10 +124375,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -125654,10 +125654,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -126933,10 +126933,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -128212,10 +128212,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Jaxon": {
         "matches": {
@@ -129491,10 +129491,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -130770,10 +130770,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -132049,10 +132049,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -133328,10 +133328,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -134607,10 +134607,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -135886,10 +135886,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -137165,10 +137165,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -138444,10 +138444,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -139723,10 +139723,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -141002,10 +141002,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -142281,10 +142281,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -143560,10 +143560,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -144839,10 +144839,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -146118,10 +146118,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -147397,10 +147397,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -148676,10 +148676,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -149955,10 +149955,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -151234,10 +151234,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -152513,10 +152513,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -153792,10 +153792,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -155071,10 +155071,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -156350,10 +156350,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -157629,10 +157629,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -158908,10 +158908,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -160187,10 +160187,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -161466,10 +161466,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -162745,10 +162745,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -164024,10 +164024,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -165303,10 +165303,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -166582,10 +166582,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -167861,10 +167861,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -169140,10 +169140,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -170419,10 +170419,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -171698,10 +171698,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -172977,10 +172977,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -174256,10 +174256,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "LiamMoh": {
         "matches": {
@@ -175535,10 +175535,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -176814,10 +176814,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -178093,10 +178093,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -179372,10 +179372,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -180651,10 +180651,10 @@
                     "home_score": 5,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -181930,10 +181930,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -183209,10 +183209,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -184488,10 +184488,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -185767,10 +185767,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -187046,10 +187046,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -188325,10 +188325,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -189604,10 +189604,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -190883,10 +190883,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -192162,10 +192162,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -193441,10 +193441,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -194720,10 +194720,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -195999,10 +195999,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Max": {
         "matches": {
@@ -197278,10 +197278,10 @@
                     "home_score": 5,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -198557,10 +198557,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -199836,10 +199836,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -201115,10 +201115,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -202394,10 +202394,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -203673,10 +203673,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -204952,10 +204952,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -206231,10 +206231,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -207510,10 +207510,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -208789,10 +208789,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -210068,10 +210068,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -211347,10 +211347,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -212626,10 +212626,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -213905,10 +213905,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -215184,10 +215184,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -216463,10 +216463,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Nima": {
         "matches": {
@@ -217742,10 +217742,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -219021,10 +219021,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -220300,10 +220300,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -221579,10 +221579,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -224137,10 +224137,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -225416,10 +225416,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -226695,10 +226695,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -227974,10 +227974,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -229253,10 +229253,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -230532,10 +230532,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -231811,10 +231811,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -233090,10 +233090,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -234369,10 +234369,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -235648,10 +235648,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -236927,10 +236927,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Rachel": {
         "matches": {
@@ -238206,10 +238206,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -239485,10 +239485,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -240764,10 +240764,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -242043,10 +242043,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -243322,10 +243322,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -244601,10 +244601,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -245880,10 +245880,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -247159,10 +247159,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -248438,10 +248438,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -249717,10 +249717,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -250996,10 +250996,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -252275,10 +252275,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -253554,10 +253554,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -254833,10 +254833,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -256112,10 +256112,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Rodrigo": {
         "matches": {
@@ -257391,10 +257391,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -258670,10 +258670,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -259949,10 +259949,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -261228,10 +261228,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -262507,10 +262507,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -263786,10 +263786,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -265065,10 +265065,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -266344,10 +266344,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -267623,10 +267623,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -268902,10 +268902,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -270181,10 +270181,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -271460,10 +271460,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -272739,10 +272739,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Stallone2": {
         "matches": {
@@ -274018,10 +274018,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Stanley": {
         "matches": {
@@ -275297,10 +275297,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -276576,10 +276576,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -277855,10 +277855,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -279134,10 +279134,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -280413,10 +280413,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -281692,10 +281692,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -282971,10 +282971,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -284250,10 +284250,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -285529,10 +285529,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -286808,10 +286808,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -288087,10 +288087,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -289366,10 +289366,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -290645,10 +290645,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -291924,10 +291924,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -293203,10 +293203,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -294482,10 +294482,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -295761,10 +295761,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -297040,10 +297040,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -298319,10 +298319,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -299598,10 +299598,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -300877,10 +300877,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -302156,10 +302156,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -303435,10 +303435,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -304714,10 +304714,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {
@@ -305993,10 +305993,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Curacao",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Ecuador",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Curacao"
                 },
                 {

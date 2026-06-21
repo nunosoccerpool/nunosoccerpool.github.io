@@ -184,12 +184,20 @@
       "title": "Group E",
       "rows": [
         {
+          "col1": "Edsel",
+          "col2": "7"
+        },
+        {
           "col1": "Dino",
           "col2": "5"
         },
         {
-          "col1": "Edsel",
+          "col1": "Punit",
           "col2": "5"
+        },
+        {
+          "col1": "Adrian",
+          "col2": "4"
         },
         {
           "col1": "ChrisK",
@@ -208,19 +216,11 @@
           "col2": "4"
         },
         {
-          "col1": "Luka",
+          "col1": "JasonF",
           "col2": "4"
         },
         {
-          "col1": "Pierfelice",
-          "col2": "4"
-        },
-        {
-          "col1": "Punit",
-          "col2": "4"
-        },
-        {
-          "col1": "RD2026",
+          "col1": "LiamA",
           "col2": "4"
         }
       ]
