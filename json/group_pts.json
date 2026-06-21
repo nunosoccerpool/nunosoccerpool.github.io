@@ -382,8 +382,8 @@
                     "away_name": "Japan",
                     "pts_awarded": null,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -1659,10 +1659,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -2938,10 +2938,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -4217,10 +4217,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -5496,10 +5496,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Adam": {
         "matches": {
@@ -6775,10 +6775,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Adrian": {
         "matches": {
@@ -8054,10 +8054,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "AI": {
         "matches": {
@@ -9333,10 +9333,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Albeiro": {
         "matches": {
@@ -10612,10 +10612,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Alex": {
         "matches": {
@@ -11891,10 +11891,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Ali": {
         "matches": {
@@ -13170,10 +13170,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -14449,10 +14449,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Alnashir": {
         "matches": {
@@ -15728,10 +15728,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Alston1": {
         "matches": {
@@ -17007,10 +17007,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Alston2": {
         "matches": {
@@ -18286,10 +18286,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "AnaL": {
         "matches": {
@@ -19565,10 +19565,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "AnaS": {
         "matches": {
@@ -20844,10 +20844,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -22123,10 +22123,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -23402,10 +23402,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -24681,10 +24681,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "AniD": {
         "matches": {
@@ -25960,10 +25960,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -27239,10 +27239,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "AnthonyV": {
         "matches": {
@@ -28518,10 +28518,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Arjun": {
         "matches": {
@@ -29797,10 +29797,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -31076,10 +31076,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Ash": {
         "matches": {
@@ -32355,10 +32355,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Augie": {
         "matches": {
@@ -33634,10 +33634,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -34913,10 +34913,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Brendan": {
         "matches": {
@@ -36192,10 +36192,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "BrianS": {
         "matches": {
@@ -37471,10 +37471,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 24
     },
     "Cameron": {
         "matches": {
@@ -38750,10 +38750,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -40029,10 +40029,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "CarlosG": {
         "matches": {
@@ -41308,10 +41308,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "CarlosS1": {
         "matches": {
@@ -42587,10 +42587,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "CarlosS2": {
         "matches": {
@@ -43866,10 +43866,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Carmen": {
         "matches": {
@@ -45145,10 +45145,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -46424,10 +46424,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -47703,10 +47703,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "ChrisK": {
         "matches": {
@@ -48982,10 +48982,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "ChrisN": {
         "matches": {
@@ -50261,10 +50261,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "ChrisP": {
         "matches": {
@@ -51540,10 +51540,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -52819,10 +52819,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "ChristianL": {
         "matches": {
@@ -54098,10 +54098,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "CMD88": {
         "matches": {
@@ -55377,10 +55377,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Coco": {
         "matches": {
@@ -56656,10 +56656,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Corey": {
         "matches": {
@@ -57935,10 +57935,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Daisy1": {
         "matches": {
@@ -59214,10 +59214,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -60493,10 +60493,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -61772,10 +61772,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DanielM": {
         "matches": {
@@ -63051,10 +63051,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DanielR": {
         "matches": {
@@ -64330,10 +64330,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DannyCR7": {
         "matches": {
@@ -65609,10 +65609,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "DannyL": {
         "matches": {
@@ -66888,10 +66888,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "DannyRa": {
         "matches": {
@@ -68167,10 +68167,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -69446,10 +69446,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DarylF": {
         "matches": {
@@ -70725,10 +70725,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Dashiel": {
         "matches": {
@@ -72004,10 +72004,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DazRob": {
         "matches": {
@@ -73283,10 +73283,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -74562,10 +74562,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Dino": {
         "matches": {
@@ -75841,10 +75841,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Dora": {
         "matches": {
@@ -77120,10 +77120,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "DougM": {
         "matches": {
@@ -78399,10 +78399,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -79678,10 +79678,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Ed": {
         "matches": {
@@ -80957,10 +80957,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Edsel": {
         "matches": {
@@ -82236,10 +82236,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "EdwardT": {
         "matches": {
@@ -83515,10 +83515,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Elliott": {
         "matches": {
@@ -84794,10 +84794,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "EricK": {
         "matches": {
@@ -86073,10 +86073,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Ethan": {
         "matches": {
@@ -87352,10 +87352,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -88631,10 +88631,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -89910,10 +89910,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Fernando": {
         "matches": {
@@ -91189,10 +91189,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Filip": {
         "matches": {
@@ -92468,10 +92468,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Franco": {
         "matches": {
@@ -93747,10 +93747,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "FrankC": {
         "matches": {
@@ -95026,10 +95026,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "FrankD1": {
         "matches": {
@@ -96305,10 +96305,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -97584,10 +97584,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "GabyDavide": {
         "matches": {
@@ -98863,10 +98863,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Gary": {
         "matches": {
@@ -100142,10 +100142,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -101421,10 +101421,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "GavinW": {
         "matches": {
@@ -102700,10 +102700,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Goran": {
         "matches": {
@@ -103979,10 +103979,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Greg": {
         "matches": {
@@ -105258,10 +105258,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Grosso": {
         "matches": {
@@ -106537,10 +106537,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "GustavoH": {
         "matches": {
@@ -107816,10 +107816,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "GustavoL": {
         "matches": {
@@ -109095,10 +109095,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -110374,10 +110374,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Heather": {
         "matches": {
@@ -111653,10 +111653,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "HelderA": {
         "matches": {
@@ -112932,10 +112932,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Hernani": {
         "matches": {
@@ -114211,10 +114211,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Hugo": {
         "matches": {
@@ -115490,10 +115490,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Ian": {
         "matches": {
@@ -116769,10 +116769,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Ida": {
         "matches": {
@@ -118048,10 +118048,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Igor1": {
         "matches": {
@@ -119327,10 +119327,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -120606,10 +120606,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -121885,10 +121885,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JamesC": {
         "matches": {
@@ -123164,10 +123164,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JamesP": {
         "matches": {
@@ -124443,10 +124443,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Janelle": {
         "matches": {
@@ -125722,10 +125722,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JasonB": {
         "matches": {
@@ -127001,10 +127001,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "JasonF": {
         "matches": {
@@ -128280,10 +128280,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -129559,10 +129559,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "JeanMichel": {
         "matches": {
@@ -130838,10 +130838,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JeffB": {
         "matches": {
@@ -132117,10 +132117,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "JeffS1": {
         "matches": {
@@ -133396,10 +133396,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JeffS2": {
         "matches": {
@@ -134675,10 +134675,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JeffT": {
         "matches": {
@@ -135954,10 +135954,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Jenn": {
         "matches": {
@@ -137233,10 +137233,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Jennifer": {
         "matches": {
@@ -138512,10 +138512,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Jeremy": {
         "matches": {
@@ -139791,10 +139791,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Jerry": {
         "matches": {
@@ -141070,10 +141070,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JessicaD": {
         "matches": {
@@ -142349,10 +142349,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JessicaG": {
         "matches": {
@@ -143628,10 +143628,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JessicaS": {
         "matches": {
@@ -144907,10 +144907,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Jhon": {
         "matches": {
@@ -146186,10 +146186,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Jim": {
         "matches": {
@@ -147465,10 +147465,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "Joanna": {
         "matches": {
@@ -148744,10 +148744,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -150023,10 +150023,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JoeD": {
         "matches": {
@@ -151302,10 +151302,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JohnO": {
         "matches": {
@@ -152581,10 +152581,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "JohnR": {
         "matches": {
@@ -153860,10 +153860,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Jonathan": {
         "matches": {
@@ -155139,10 +155139,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "JorgeC": {
         "matches": {
@@ -156418,10 +156418,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JorgeT": {
         "matches": {
@@ -157697,10 +157697,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Juan": {
         "matches": {
@@ -158976,10 +158976,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Julian": {
         "matches": {
@@ -160255,10 +160255,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JustinA": {
         "matches": {
@@ -161534,10 +161534,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "JustinL": {
         "matches": {
@@ -162813,10 +162813,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Kayden": {
         "matches": {
@@ -164092,10 +164092,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "KevinC": {
         "matches": {
@@ -165371,10 +165371,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "KevinJ": {
         "matches": {
@@ -166650,10 +166650,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "KevinS": {
         "matches": {
@@ -167929,10 +167929,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Kristian": {
         "matches": {
@@ -169208,10 +169208,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Kumar": {
         "matches": {
@@ -170487,10 +170487,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Kyle": {
         "matches": {
@@ -171766,10 +171766,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Lena": {
         "matches": {
@@ -173045,10 +173045,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "LiamA": {
         "matches": {
@@ -174324,10 +174324,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -175603,10 +175603,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Lindsey": {
         "matches": {
@@ -176882,10 +176882,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -178161,10 +178161,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Luka": {
         "matches": {
@@ -179440,10 +179440,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Magno": {
         "matches": {
@@ -180719,10 +180719,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Major": {
         "matches": {
@@ -181998,10 +181998,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Manley": {
         "matches": {
@@ -183277,10 +183277,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "MannyT": {
         "matches": {
@@ -184556,10 +184556,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "MarcioD": {
         "matches": {
@@ -185835,10 +185835,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "MarcioS": {
         "matches": {
@@ -187114,10 +187114,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -188010,7 +188010,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "MarcoR": {
         "matches": {
@@ -188393,10 +188393,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Maria": {
         "matches": {
@@ -189672,10 +189672,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Marta": {
         "matches": {
@@ -190951,10 +190951,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "MatthewG": {
         "matches": {
@@ -192230,10 +192230,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "MatthewSa": {
         "matches": {
@@ -193509,10 +193509,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -194405,7 +194405,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "MatthewSm1": {
         "matches": {
@@ -194788,10 +194788,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "MatthewSm2": {
         "matches": {
@@ -196067,10 +196067,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -197346,10 +197346,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -198625,10 +198625,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "MichaelL": {
         "matches": {
@@ -199904,10 +199904,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "MichaelM": {
         "matches": {
@@ -201183,10 +201183,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "MichaelPi": {
         "matches": {
@@ -202462,10 +202462,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Michele": {
         "matches": {
@@ -203741,10 +203741,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Mihajlo": {
         "matches": {
@@ -205020,10 +205020,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -206299,10 +206299,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Misic1": {
         "matches": {
@@ -207578,10 +207578,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -208857,10 +208857,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -210136,10 +210136,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Nelson": {
         "matches": {
@@ -211415,10 +211415,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "NickM": {
         "matches": {
@@ -212694,10 +212694,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Nicolas": {
         "matches": {
@@ -213973,10 +213973,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Nicole1": {
         "matches": {
@@ -215252,10 +215252,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Nicole2": {
         "matches": {
@@ -216531,10 +216531,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Nima": {
         "matches": {
@@ -217810,10 +217810,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -219089,10 +219089,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nuno1": {
         "matches": {
@@ -220368,10 +220368,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Nuno2": {
         "matches": {
@@ -221647,10 +221647,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 14
+        "total_points": 15
     },
     "PabloL": {
         "matches": {
@@ -224205,10 +224205,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Pardeep": {
         "matches": {
@@ -225484,10 +225484,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Pascal": {
         "matches": {
@@ -226763,10 +226763,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Patullo": {
         "matches": {
@@ -228042,10 +228042,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "PaulA": {
         "matches": {
@@ -229321,10 +229321,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "PaulC": {
         "matches": {
@@ -230600,10 +230600,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -231879,10 +231879,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Pierfelice": {
         "matches": {
@@ -233158,10 +233158,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Preto1": {
         "matches": {
@@ -234437,10 +234437,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Preto2": {
         "matches": {
@@ -235716,10 +235716,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Punit": {
         "matches": {
@@ -236995,10 +236995,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Rachel": {
         "matches": {
@@ -238274,10 +238274,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "RD2026": {
         "matches": {
@@ -239553,10 +239553,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Ricardo1": {
         "matches": {
@@ -240832,10 +240832,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Ricardo2": {
         "matches": {
@@ -242111,10 +242111,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "RichardMa": {
         "matches": {
@@ -243390,10 +243390,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "RichardMo": {
         "matches": {
@@ -244669,10 +244669,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Rick": {
         "matches": {
@@ -245948,10 +245948,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Ricky": {
         "matches": {
@@ -247227,10 +247227,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Rita": {
         "matches": {
@@ -248506,10 +248506,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Riyad": {
         "matches": {
@@ -249785,10 +249785,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "RobertP": {
         "matches": {
@@ -251064,10 +251064,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "RobertS": {
         "matches": {
@@ -252343,10 +252343,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "RobSi": {
         "matches": {
@@ -253622,10 +253622,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "RobTu": {
         "matches": {
@@ -254901,10 +254901,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "RobW": {
         "matches": {
@@ -256180,10 +256180,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Rodrigo": {
         "matches": {
@@ -257459,10 +257459,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Rousse": {
         "matches": {
@@ -258738,10 +258738,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Roy": {
         "matches": {
@@ -260017,10 +260017,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Salim": {
         "matches": {
@@ -261296,10 +261296,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Sarujan": {
         "matches": {
@@ -262575,10 +262575,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Sean": {
         "matches": {
@@ -263854,10 +263854,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Shawn1": {
         "matches": {
@@ -265133,10 +265133,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -266412,10 +266412,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Sheila": {
         "matches": {
@@ -267691,10 +267691,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Simon": {
         "matches": {
@@ -268970,10 +268970,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Simone": {
         "matches": {
@@ -270249,10 +270249,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Simrun": {
         "matches": {
@@ -271528,10 +271528,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Stallone1": {
         "matches": {
@@ -272807,10 +272807,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -274086,10 +274086,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -275365,10 +275365,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Stephen": {
         "matches": {
@@ -276644,10 +276644,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "StevenT": {
         "matches": {
@@ -277923,10 +277923,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Tanya": {
         "matches": {
@@ -279202,10 +279202,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Theo": {
         "matches": {
@@ -280481,10 +280481,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Todaro": {
         "matches": {
@@ -281760,10 +281760,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Tomas": {
         "matches": {
@@ -283039,10 +283039,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -284318,10 +284318,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "TonyH": {
         "matches": {
@@ -285597,10 +285597,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "TonyMa": {
         "matches": {
@@ -286876,10 +286876,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "TonyMi": {
         "matches": {
@@ -288155,10 +288155,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "TonyS": {
         "matches": {
@@ -289434,10 +289434,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -290713,10 +290713,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -291992,10 +291992,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Tristan": {
         "matches": {
@@ -293271,10 +293271,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Victor": {
         "matches": {
@@ -294550,10 +294550,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Vishal": {
         "matches": {
@@ -295829,10 +295829,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Vito": {
         "matches": {
@@ -297108,10 +297108,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -298387,10 +298387,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Wilson": {
         "matches": {
@@ -299666,10 +299666,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Yogi": {
         "matches": {
@@ -300945,10 +300945,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -302224,10 +302224,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "JoeA3": {
         "matches": {
@@ -303503,10 +303503,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Josh": {
         "matches": {
@@ -304782,10 +304782,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -306061,10 +306061,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Japan",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Tunisia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 4.0,
                     "act_away_name": "Japan"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     }
 }
