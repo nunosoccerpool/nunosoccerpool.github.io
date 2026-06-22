@@ -274,7 +274,15 @@
       "title": "Group G",
       "rows": [
         {
+          "col1": "JoeA3",
+          "col2": "4"
+        },
+        {
           "col1": "CarlosD",
+          "col2": "3"
+        },
+        {
+          "col1": "DanielM",
           "col2": "3"
         },
         {
@@ -302,15 +310,7 @@
           "col2": "2"
         },
         {
-          "col1": "DanielM",
-          "col2": "2"
-        },
-        {
-          "col1": "DanielR",
-          "col2": "2"
-        },
-        {
-          "col1": "DannyCR7",
+          "col1": "Damian",
           "col2": "2"
         }
       ]
@@ -319,44 +319,44 @@
       "title": "Group H",
       "rows": [
         {
+          "col1": "Maria",
+          "col2": "5"
+        },
+        {
           "col1": "Alston2",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "BrianS",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "GustavoH",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "GustavoL",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "JamesP",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "Jim",
-          "col2": "2"
+          "col2": "3"
         },
         {
           "col1": "Joanna",
-          "col2": "2"
+          "col2": "3"
         },
         {
-          "col1": "Maria",
-          "col2": "2"
+          "col1": "Kayden",
+          "col2": "3"
         },
         {
           "col1": "Nicole2",
-          "col2": "2"
-        },
-        {
-          "col1": "Nolan",
-          "col2": "2"
+          "col2": "3"
         }
       ]
     },
