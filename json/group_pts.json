@@ -450,8 +450,8 @@
                     "away_name": "Egypt",
                     "pts_awarded": null,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -1727,10 +1727,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Aaron2": {
         "matches": {
@@ -3006,10 +3006,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Aaron3": {
         "matches": {
@@ -4285,10 +4285,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Aban": {
         "matches": {
@@ -5564,10 +5564,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Adam": {
         "matches": {
@@ -6843,10 +6843,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Adrian": {
         "matches": {
@@ -8122,10 +8122,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "AI": {
         "matches": {
@@ -9401,10 +9401,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Albeiro": {
         "matches": {
@@ -10680,10 +10680,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -11959,10 +11959,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Ali": {
         "matches": {
@@ -13238,10 +13238,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Alice": {
         "matches": {
@@ -14517,10 +14517,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Alnashir": {
         "matches": {
@@ -15796,10 +15796,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Alston1": {
         "matches": {
@@ -17075,10 +17075,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Alston2": {
         "matches": {
@@ -18354,10 +18354,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "AnaL": {
         "matches": {
@@ -19633,10 +19633,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "AnaS": {
         "matches": {
@@ -20912,10 +20912,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -22191,10 +22191,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -23470,10 +23470,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 16
+        "total_points": 17
     },
     "Anicio": {
         "matches": {
@@ -24749,10 +24749,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "AniD": {
         "matches": {
@@ -26028,10 +26028,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -27307,10 +27307,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "AnthonyV": {
         "matches": {
@@ -28586,10 +28586,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Arjun": {
         "matches": {
@@ -29865,10 +29865,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Arturo": {
         "matches": {
@@ -31144,10 +31144,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Ash": {
         "matches": {
@@ -32423,10 +32423,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Augie": {
         "matches": {
@@ -33702,10 +33702,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -34981,10 +34981,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Brendan": {
         "matches": {
@@ -36260,10 +36260,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "BrianS": {
         "matches": {
@@ -37539,10 +37539,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -38818,10 +38818,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -40097,10 +40097,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "CarlosG": {
         "matches": {
@@ -41376,10 +41376,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -42655,10 +42655,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -43934,10 +43934,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Carmen": {
         "matches": {
@@ -45213,10 +45213,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Caroline": {
         "matches": {
@@ -46492,10 +46492,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -47771,10 +47771,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "ChrisK": {
         "matches": {
@@ -49050,10 +49050,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 21
     },
     "ChrisN": {
         "matches": {
@@ -50329,10 +50329,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -51608,10 +51608,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Chrissy": {
         "matches": {
@@ -52887,10 +52887,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -54166,10 +54166,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "CMD88": {
         "matches": {
@@ -55445,10 +55445,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Coco": {
         "matches": {
@@ -56724,10 +56724,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Corey": {
         "matches": {
@@ -58003,10 +58003,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Daisy1": {
         "matches": {
@@ -59282,10 +59282,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Daisy2": {
         "matches": {
@@ -60561,10 +60561,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Damian": {
         "matches": {
@@ -61840,10 +61840,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -63119,10 +63119,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "DanielR": {
         "matches": {
@@ -64398,10 +64398,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "DannyCR7": {
         "matches": {
@@ -65677,10 +65677,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "DannyL": {
         "matches": {
@@ -66956,10 +66956,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -68235,10 +68235,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -69514,10 +69514,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "DarylF": {
         "matches": {
@@ -70793,10 +70793,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Dashiel": {
         "matches": {
@@ -72072,10 +72072,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "DazRob": {
         "matches": {
@@ -73351,10 +73351,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -74630,10 +74630,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Dino": {
         "matches": {
@@ -75909,10 +75909,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -77188,10 +77188,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "DougM": {
         "matches": {
@@ -78467,10 +78467,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Duarte": {
         "matches": {
@@ -79746,10 +79746,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Ed": {
         "matches": {
@@ -81025,10 +81025,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Edsel": {
         "matches": {
@@ -82304,10 +82304,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -83583,10 +83583,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Elliott": {
         "matches": {
@@ -84862,10 +84862,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -86141,10 +86141,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Ethan": {
         "matches": {
@@ -87420,10 +87420,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -88699,10 +88699,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Fawzi": {
         "matches": {
@@ -89978,10 +89978,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Fernando": {
         "matches": {
@@ -91257,10 +91257,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Filip": {
         "matches": {
@@ -92536,10 +92536,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Franco": {
         "matches": {
@@ -93815,10 +93815,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "FrankC": {
         "matches": {
@@ -95094,10 +95094,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "FrankD1": {
         "matches": {
@@ -96373,10 +96373,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "FrankD2": {
         "matches": {
@@ -97652,10 +97652,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 23
     },
     "GabyDavide": {
         "matches": {
@@ -98931,10 +98931,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Gary": {
         "matches": {
@@ -100210,10 +100210,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -101489,10 +101489,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "GavinW": {
         "matches": {
@@ -102768,10 +102768,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Goran": {
         "matches": {
@@ -104047,10 +104047,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 24
     },
     "Greg": {
         "matches": {
@@ -105326,10 +105326,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Grosso": {
         "matches": {
@@ -106605,10 +106605,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "GustavoH": {
         "matches": {
@@ -107884,10 +107884,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "GustavoL": {
         "matches": {
@@ -109163,10 +109163,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Gwen": {
         "matches": {
@@ -110442,10 +110442,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Heather": {
         "matches": {
@@ -111721,10 +111721,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "HelderA": {
         "matches": {
@@ -113000,10 +113000,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "Hernani": {
         "matches": {
@@ -114279,10 +114279,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -115558,10 +115558,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Ian": {
         "matches": {
@@ -116837,10 +116837,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Ida": {
         "matches": {
@@ -118116,10 +118116,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Igor1": {
         "matches": {
@@ -119395,10 +119395,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Igor2": {
         "matches": {
@@ -120674,10 +120674,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Jalen": {
         "matches": {
@@ -121953,10 +121953,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "JamesC": {
         "matches": {
@@ -123232,10 +123232,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JamesP": {
         "matches": {
@@ -124511,10 +124511,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -125790,10 +125790,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -127069,10 +127069,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JasonF": {
         "matches": {
@@ -128348,10 +128348,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Jaxon": {
         "matches": {
@@ -129627,10 +129627,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -130906,10 +130906,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JeffB": {
         "matches": {
@@ -132185,10 +132185,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -133464,10 +133464,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -134743,10 +134743,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JeffT": {
         "matches": {
@@ -136022,10 +136022,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Jenn": {
         "matches": {
@@ -137301,10 +137301,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -138580,10 +138580,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "Jeremy": {
         "matches": {
@@ -139859,10 +139859,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -141138,10 +141138,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -142417,10 +142417,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JessicaG": {
         "matches": {
@@ -143696,10 +143696,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -144975,10 +144975,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Jhon": {
         "matches": {
@@ -146254,10 +146254,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "Jim": {
         "matches": {
@@ -147533,10 +147533,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -148812,10 +148812,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -150091,10 +150091,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "JoeD": {
         "matches": {
@@ -151370,10 +151370,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JohnO": {
         "matches": {
@@ -152649,10 +152649,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JohnR": {
         "matches": {
@@ -153928,10 +153928,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Jonathan": {
         "matches": {
@@ -155207,10 +155207,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JorgeC": {
         "matches": {
@@ -156486,10 +156486,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JorgeT": {
         "matches": {
@@ -157765,10 +157765,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Juan": {
         "matches": {
@@ -159044,10 +159044,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Julian": {
         "matches": {
@@ -160323,10 +160323,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JustinA": {
         "matches": {
@@ -161602,10 +161602,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -162881,10 +162881,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Kayden": {
         "matches": {
@@ -164160,10 +164160,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "KevinC": {
         "matches": {
@@ -165439,10 +165439,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -166718,10 +166718,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "KevinS": {
         "matches": {
@@ -167997,10 +167997,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Kristian": {
         "matches": {
@@ -169276,10 +169276,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Kumar": {
         "matches": {
@@ -170555,10 +170555,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -171834,10 +171834,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Lena": {
         "matches": {
@@ -173113,10 +173113,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -174392,10 +174392,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "LiamMoh": {
         "matches": {
@@ -175671,10 +175671,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Lindsey": {
         "matches": {
@@ -176950,10 +176950,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 15
+        "total_points": 16
     },
     "Lisa": {
         "matches": {
@@ -178229,10 +178229,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Luka": {
         "matches": {
@@ -179508,10 +179508,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Magno": {
         "matches": {
@@ -180787,10 +180787,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Major": {
         "matches": {
@@ -182066,10 +182066,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Manley": {
         "matches": {
@@ -183345,10 +183345,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -184624,10 +184624,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "MarcioD": {
         "matches": {
@@ -185903,10 +185903,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "MarcioS": {
         "matches": {
@@ -187182,10 +187182,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -188461,10 +188461,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Maria": {
         "matches": {
@@ -189740,10 +189740,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -191019,10 +191019,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -192298,10 +192298,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "MatthewSa": {
         "matches": {
@@ -193577,10 +193577,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -194856,10 +194856,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "MatthewSm2": {
         "matches": {
@@ -196135,10 +196135,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Max": {
         "matches": {
@@ -197414,10 +197414,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Melissa": {
         "matches": {
@@ -198693,10 +198693,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -199972,10 +199972,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "MichaelM": {
         "matches": {
@@ -201251,10 +201251,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "MichaelPi": {
         "matches": {
@@ -202530,10 +202530,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -203809,10 +203809,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Mihajlo": {
         "matches": {
@@ -205088,10 +205088,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "MikeD": {
         "matches": {
@@ -206367,10 +206367,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -207646,10 +207646,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Misic2": {
         "matches": {
@@ -208925,10 +208925,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Nas": {
         "matches": {
@@ -210204,10 +210204,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Nelson": {
         "matches": {
@@ -211483,10 +211483,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -212762,10 +212762,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -214041,10 +214041,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 19
     },
     "Nicole1": {
         "matches": {
@@ -215320,10 +215320,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Nicole2": {
         "matches": {
@@ -216599,10 +216599,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -217878,10 +217878,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Nolan": {
         "matches": {
@@ -219157,10 +219157,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Nuno1": {
         "matches": {
@@ -220436,10 +220436,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Nuno2": {
         "matches": {
@@ -221715,10 +221715,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "PabloL": {
         "matches": {
@@ -224273,10 +224273,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Pardeep": {
         "matches": {
@@ -225552,10 +225552,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Pascal": {
         "matches": {
@@ -226831,10 +226831,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Patullo": {
         "matches": {
@@ -228110,10 +228110,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "PaulA": {
         "matches": {
@@ -229389,10 +229389,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "PaulC": {
         "matches": {
@@ -230668,10 +230668,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "PetarS": {
         "matches": {
@@ -231947,10 +231947,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Pierfelice": {
         "matches": {
@@ -233226,10 +233226,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Preto1": {
         "matches": {
@@ -234505,10 +234505,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Preto2": {
         "matches": {
@@ -235784,10 +235784,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Punit": {
         "matches": {
@@ -237063,10 +237063,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Rachel": {
         "matches": {
@@ -238342,10 +238342,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "RD2026": {
         "matches": {
@@ -239621,10 +239621,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -240900,10 +240900,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -242179,10 +242179,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -243458,10 +243458,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "RichardMo": {
         "matches": {
@@ -244737,10 +244737,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Rick": {
         "matches": {
@@ -246016,10 +246016,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Ricky": {
         "matches": {
@@ -247295,10 +247295,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Rita": {
         "matches": {
@@ -248574,10 +248574,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -249853,10 +249853,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "RobertP": {
         "matches": {
@@ -251132,10 +251132,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "RobertS": {
         "matches": {
@@ -252411,10 +252411,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -253690,10 +253690,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "RobTu": {
         "matches": {
@@ -254969,10 +254969,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -256248,10 +256248,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -257527,10 +257527,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Rousse": {
         "matches": {
@@ -258806,10 +258806,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Roy": {
         "matches": {
@@ -260085,10 +260085,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Salim": {
         "matches": {
@@ -261364,10 +261364,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Sarujan": {
         "matches": {
@@ -262643,10 +262643,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Sean": {
         "matches": {
@@ -263922,10 +263922,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -265201,10 +265201,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Shawn2": {
         "matches": {
@@ -266480,10 +266480,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Sheila": {
         "matches": {
@@ -267759,10 +267759,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Simon": {
         "matches": {
@@ -269038,10 +269038,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -270317,10 +270317,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 17
+        "total_points": 18
     },
     "Simrun": {
         "matches": {
@@ -271596,10 +271596,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -272875,10 +272875,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Stallone2": {
         "matches": {
@@ -274154,10 +274154,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Stanley": {
         "matches": {
@@ -275433,10 +275433,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Stephen": {
         "matches": {
@@ -276712,10 +276712,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "StevenT": {
         "matches": {
@@ -277991,10 +277991,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Tanya": {
         "matches": {
@@ -279270,10 +279270,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Theo": {
         "matches": {
@@ -280549,10 +280549,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Todaro": {
         "matches": {
@@ -281828,10 +281828,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Tomas": {
         "matches": {
@@ -283107,10 +283107,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "TomP": {
         "matches": {
@@ -284386,10 +284386,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "TonyH": {
         "matches": {
@@ -285665,10 +285665,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "TonyMa": {
         "matches": {
@@ -286944,10 +286944,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "TonyMi": {
         "matches": {
@@ -288223,10 +288223,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "TonyS": {
         "matches": {
@@ -289502,10 +289502,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -290781,10 +290781,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -292060,10 +292060,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Tristan": {
         "matches": {
@@ -293339,10 +293339,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Victor": {
         "matches": {
@@ -294618,10 +294618,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -295897,10 +295897,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -297176,10 +297176,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "VukSto": {
         "matches": {
@@ -298455,10 +298455,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 19
+        "total_points": 20
     },
     "Wilson": {
         "matches": {
@@ -299734,10 +299734,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Yogi": {
         "matches": {
@@ -301013,10 +301013,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -302292,10 +302292,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -303571,10 +303571,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Josh": {
         "matches": {
@@ -304850,10 +304850,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Samantha": {
         "matches": {
@@ -306129,10 +306129,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Egypt",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "New Zealand",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 3.0,
                     "act_away_name": "Egypt"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     }
 }
