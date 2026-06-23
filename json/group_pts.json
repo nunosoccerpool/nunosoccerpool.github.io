@@ -654,8 +654,8 @@
                     "away_name": "Algeria",
                     "pts_awarded": null,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -1931,10 +1931,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Aaron2": {
         "matches": {
@@ -3210,10 +3210,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Aaron3": {
         "matches": {
@@ -4489,10 +4489,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -5768,10 +5768,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Adam": {
         "matches": {
@@ -7047,10 +7047,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Adrian": {
         "matches": {
@@ -8326,10 +8326,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -9605,10 +9605,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Albeiro": {
         "matches": {
@@ -10884,10 +10884,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -12163,10 +12163,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Ali": {
         "matches": {
@@ -13442,10 +13442,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -14721,10 +14721,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -16000,10 +16000,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Alston1": {
         "matches": {
@@ -17279,10 +17279,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -18558,10 +18558,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "AnaL": {
         "matches": {
@@ -19837,10 +19837,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "AnaS": {
         "matches": {
@@ -21116,10 +21116,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -22395,10 +22395,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -23674,10 +23674,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -24953,10 +24953,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "AniD": {
         "matches": {
@@ -26232,10 +26232,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -27511,10 +27511,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "AnthonyV": {
         "matches": {
@@ -28790,10 +28790,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "Arjun": {
         "matches": {
@@ -30069,10 +30069,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Arturo": {
         "matches": {
@@ -31348,10 +31348,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -32627,10 +32627,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "Augie": {
         "matches": {
@@ -33906,10 +33906,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "Bindu": {
         "matches": {
@@ -35185,10 +35185,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Brendan": {
         "matches": {
@@ -36464,10 +36464,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 38
     },
     "BrianS": {
         "matches": {
@@ -37743,10 +37743,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -39022,10 +39022,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "CarlosD": {
         "matches": {
@@ -40301,10 +40301,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "CarlosG": {
         "matches": {
@@ -41580,10 +41580,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "CarlosS1": {
         "matches": {
@@ -42859,10 +42859,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -44138,10 +44138,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Carmen": {
         "matches": {
@@ -45417,10 +45417,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Caroline": {
         "matches": {
@@ -46696,10 +46696,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -47975,10 +47975,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "ChrisK": {
         "matches": {
@@ -49254,10 +49254,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "ChrisN": {
         "matches": {
@@ -50533,10 +50533,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "ChrisP": {
         "matches": {
@@ -51812,10 +51812,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Chrissy": {
         "matches": {
@@ -53091,10 +53091,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -54370,10 +54370,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "CMD88": {
         "matches": {
@@ -55649,10 +55649,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -56928,10 +56928,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -58207,10 +58207,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Daisy1": {
         "matches": {
@@ -59486,10 +59486,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -60765,10 +60765,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -62044,10 +62044,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -63323,10 +63323,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "DanielR": {
         "matches": {
@@ -64602,10 +64602,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "DannyCR7": {
         "matches": {
@@ -65881,10 +65881,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "DannyL": {
         "matches": {
@@ -67160,10 +67160,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "DannyRa": {
         "matches": {
@@ -68439,10 +68439,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -69718,10 +69718,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -70997,10 +70997,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -72276,10 +72276,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 34
     },
     "DazRob": {
         "matches": {
@@ -73555,10 +73555,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Deylin": {
         "matches": {
@@ -74834,10 +74834,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 34
     },
     "Dino": {
         "matches": {
@@ -76113,10 +76113,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -77392,10 +77392,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -78671,10 +78671,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Duarte": {
         "matches": {
@@ -79950,10 +79950,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Ed": {
         "matches": {
@@ -81229,10 +81229,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -82508,10 +82508,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -83787,10 +83787,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Elliott": {
         "matches": {
@@ -85066,10 +85066,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "EricK": {
         "matches": {
@@ -86345,10 +86345,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -87624,10 +87624,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -88903,10 +88903,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Fawzi": {
         "matches": {
@@ -90182,10 +90182,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -91461,10 +91461,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -92740,10 +92740,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -94019,10 +94019,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "FrankC": {
         "matches": {
@@ -95298,10 +95298,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 36
     },
     "FrankD1": {
         "matches": {
@@ -96577,10 +96577,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -97856,10 +97856,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -99135,10 +99135,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -100414,10 +100414,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -101693,10 +101693,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "GavinW": {
         "matches": {
@@ -102972,10 +102972,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Goran": {
         "matches": {
@@ -104251,10 +104251,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Greg": {
         "matches": {
@@ -105530,10 +105530,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Grosso": {
         "matches": {
@@ -106809,10 +106809,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "GustavoH": {
         "matches": {
@@ -108088,10 +108088,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -109367,10 +109367,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Gwen": {
         "matches": {
@@ -110646,10 +110646,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Heather": {
         "matches": {
@@ -111925,10 +111925,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "HelderA": {
         "matches": {
@@ -113204,10 +113204,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -114483,10 +114483,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -115762,10 +115762,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Ian": {
         "matches": {
@@ -117041,10 +117041,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Ida": {
         "matches": {
@@ -118320,10 +118320,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "Igor1": {
         "matches": {
@@ -119599,10 +119599,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Igor2": {
         "matches": {
@@ -120878,10 +120878,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Jalen": {
         "matches": {
@@ -122157,10 +122157,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JamesC": {
         "matches": {
@@ -123436,10 +123436,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JamesP": {
         "matches": {
@@ -124715,10 +124715,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -125994,10 +125994,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -127273,10 +127273,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -128552,10 +128552,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Jaxon": {
         "matches": {
@@ -129831,10 +129831,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "JeanMichel": {
         "matches": {
@@ -131110,10 +131110,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "JeffB": {
         "matches": {
@@ -132389,10 +132389,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -133668,10 +133668,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "JeffS2": {
         "matches": {
@@ -134947,10 +134947,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "JeffT": {
         "matches": {
@@ -136226,10 +136226,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Jenn": {
         "matches": {
@@ -137505,10 +137505,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Jennifer": {
         "matches": {
@@ -138784,10 +138784,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Jeremy": {
         "matches": {
@@ -140063,10 +140063,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -141342,10 +141342,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -142621,10 +142621,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "JessicaG": {
         "matches": {
@@ -143900,10 +143900,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -145179,10 +145179,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Jhon": {
         "matches": {
@@ -146458,10 +146458,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -147737,10 +147737,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -149016,10 +149016,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -150295,10 +150295,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -151574,10 +151574,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -152853,10 +152853,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 37
     },
     "JohnR": {
         "matches": {
@@ -154132,10 +154132,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Jonathan": {
         "matches": {
@@ -155411,10 +155411,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -156690,10 +156690,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JorgeT": {
         "matches": {
@@ -157969,10 +157969,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Juan": {
         "matches": {
@@ -159248,10 +159248,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -160527,10 +160527,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JustinA": {
         "matches": {
@@ -161806,10 +161806,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -163085,10 +163085,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -164364,10 +164364,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "KevinC": {
         "matches": {
@@ -165643,10 +165643,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "KevinJ": {
         "matches": {
@@ -166922,10 +166922,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "KevinS": {
         "matches": {
@@ -168201,10 +168201,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -169480,10 +169480,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "Kumar": {
         "matches": {
@@ -170759,10 +170759,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -172038,10 +172038,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Lena": {
         "matches": {
@@ -173317,10 +173317,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "LiamA": {
         "matches": {
@@ -174596,10 +174596,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -175875,10 +175875,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -177154,10 +177154,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -178433,10 +178433,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Luka": {
         "matches": {
@@ -179712,10 +179712,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Magno": {
         "matches": {
@@ -180991,10 +180991,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Major": {
         "matches": {
@@ -182270,10 +182270,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "Manley": {
         "matches": {
@@ -183549,10 +183549,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "MannyT": {
         "matches": {
@@ -184828,10 +184828,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "MarcioD": {
         "matches": {
@@ -186107,10 +186107,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -187386,10 +187386,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -188665,10 +188665,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -189944,10 +189944,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -191223,10 +191223,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "MatthewG": {
         "matches": {
@@ -192502,10 +192502,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "MatthewSa": {
         "matches": {
@@ -193781,10 +193781,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -195060,10 +195060,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -196339,10 +196339,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -197618,10 +197618,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Melissa": {
         "matches": {
@@ -198897,10 +198897,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -200176,10 +200176,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "MichaelM": {
         "matches": {
@@ -201455,10 +201455,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "MichaelPi": {
         "matches": {
@@ -202734,10 +202734,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -204013,10 +204013,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Mihajlo": {
         "matches": {
@@ -205292,10 +205292,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "MikeD": {
         "matches": {
@@ -206571,10 +206571,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Misic1": {
         "matches": {
@@ -207850,10 +207850,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Misic2": {
         "matches": {
@@ -209129,10 +209129,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Nas": {
         "matches": {
@@ -210408,10 +210408,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Nelson": {
         "matches": {
@@ -211687,10 +211687,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "NickM": {
         "matches": {
@@ -212966,10 +212966,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -214245,10 +214245,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 24
     },
     "Nicole1": {
         "matches": {
@@ -215524,10 +215524,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -216803,10 +216803,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -218082,10 +218082,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "Nolan": {
         "matches": {
@@ -219361,10 +219361,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Nuno1": {
         "matches": {
@@ -220640,10 +220640,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Nuno2": {
         "matches": {
@@ -221919,10 +221919,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -224477,10 +224477,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -225756,10 +225756,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 33
     },
     "Pascal": {
         "matches": {
@@ -227035,10 +227035,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -228314,10 +228314,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "PaulA": {
         "matches": {
@@ -229593,10 +229593,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "PaulC": {
         "matches": {
@@ -230872,10 +230872,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -232151,10 +232151,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -233430,10 +233430,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "Preto1": {
         "matches": {
@@ -234709,10 +234709,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "Preto2": {
         "matches": {
@@ -235988,10 +235988,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -237267,10 +237267,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -238546,10 +238546,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -239825,10 +239825,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -241104,10 +241104,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -242383,10 +242383,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -243662,10 +243662,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "RichardMo": {
         "matches": {
@@ -244941,10 +244941,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -246220,10 +246220,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Ricky": {
         "matches": {
@@ -247499,10 +247499,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -248778,10 +248778,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -250057,10 +250057,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 24
     },
     "RobertP": {
         "matches": {
@@ -251336,10 +251336,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "RobertS": {
         "matches": {
@@ -252615,10 +252615,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "RobSi": {
         "matches": {
@@ -253894,10 +253894,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "RobTu": {
         "matches": {
@@ -255173,10 +255173,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -256452,10 +256452,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Rodrigo": {
         "matches": {
@@ -257731,10 +257731,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -259010,10 +259010,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Roy": {
         "matches": {
@@ -260289,10 +260289,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Salim": {
         "matches": {
@@ -261568,10 +261568,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Sarujan": {
         "matches": {
@@ -262847,10 +262847,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Sean": {
         "matches": {
@@ -264126,10 +264126,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -265405,10 +265405,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Shawn2": {
         "matches": {
@@ -266684,10 +266684,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Sheila": {
         "matches": {
@@ -267963,10 +267963,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Simon": {
         "matches": {
@@ -269242,10 +269242,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -270521,10 +270521,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -271800,10 +271800,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -273079,10 +273079,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Stallone2": {
         "matches": {
@@ -274358,10 +274358,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -275637,10 +275637,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -276916,10 +276916,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -278195,10 +278195,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "Tanya": {
         "matches": {
@@ -279474,10 +279474,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Theo": {
         "matches": {
@@ -280753,10 +280753,10 @@
                     "home_score": 3,
                     "away_score": 3,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -282032,10 +282032,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -283311,10 +283311,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -284590,10 +284590,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "TonyH": {
         "matches": {
@@ -285869,10 +285869,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "TonyMa": {
         "matches": {
@@ -287148,10 +287148,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "TonyMi": {
         "matches": {
@@ -288427,10 +288427,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "TonyS": {
         "matches": {
@@ -289706,10 +289706,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -290985,10 +290985,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Trevor": {
         "matches": {
@@ -292264,10 +292264,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -293543,10 +293543,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -294822,10 +294822,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -296101,10 +296101,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -297380,10 +297380,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -298659,10 +298659,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Wilson": {
         "matches": {
@@ -299938,10 +299938,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -301217,10 +301217,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "JoeA2": {
         "matches": {
@@ -302496,10 +302496,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "JoeA3": {
         "matches": {
@@ -303775,10 +303775,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Josh": {
         "matches": {
@@ -305054,10 +305054,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -306333,10 +306333,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Algeria",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Jordan",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 2.0,
                     "act_away_name": "Algeria"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     }
 }
