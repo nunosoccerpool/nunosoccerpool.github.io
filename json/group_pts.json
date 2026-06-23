@@ -779,8 +779,8 @@
                     "away_name": "Ghana",
                     "pts_awarded": null,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -2056,10 +2056,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -3335,10 +3335,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -4614,10 +4614,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -5893,10 +5893,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -7172,10 +7172,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -8451,10 +8451,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -9730,10 +9730,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -11009,10 +11009,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -12288,10 +12288,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Ali": {
         "matches": {
@@ -13567,10 +13567,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -14846,10 +14846,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Alnashir": {
         "matches": {
@@ -16125,10 +16125,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -17404,10 +17404,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -18683,10 +18683,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -19962,10 +19962,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -21241,10 +21241,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -22520,10 +22520,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -23799,10 +23799,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Anicio": {
         "matches": {
@@ -25078,10 +25078,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -26357,10 +26357,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Ante": {
         "matches": {
@@ -27636,10 +27636,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -28915,10 +28915,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -30194,10 +30194,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -31473,10 +31473,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -32752,10 +32752,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -34031,10 +34031,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -35310,10 +35310,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -36589,10 +36589,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -37868,10 +37868,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -39147,10 +39147,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -40426,10 +40426,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -41705,10 +41705,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -42984,10 +42984,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -44263,10 +44263,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -45542,10 +45542,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Caroline": {
         "matches": {
@@ -46821,10 +46821,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -48100,10 +48100,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -49379,10 +49379,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -50658,10 +50658,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -51937,10 +51937,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -53216,10 +53216,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -54495,10 +54495,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -55774,10 +55774,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -57053,10 +57053,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -58332,10 +58332,10 @@
                     "home_score": 5,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -59611,10 +59611,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Daisy2": {
         "matches": {
@@ -60890,10 +60890,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Damian": {
         "matches": {
@@ -62169,10 +62169,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -63448,10 +63448,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -64727,10 +64727,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "DannyCR7": {
         "matches": {
@@ -66006,10 +66006,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -67285,10 +67285,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -68564,10 +68564,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -69843,10 +69843,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -71122,10 +71122,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -72401,10 +72401,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -73680,10 +73680,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -74959,10 +74959,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -76238,10 +76238,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -77517,10 +77517,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -78796,10 +78796,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -80075,10 +80075,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -81354,10 +81354,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -82633,10 +82633,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -83912,10 +83912,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -85191,10 +85191,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "EricK": {
         "matches": {
@@ -86470,10 +86470,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -87749,10 +87749,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -89028,10 +89028,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -90307,10 +90307,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -91586,10 +91586,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -92865,10 +92865,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -94144,10 +94144,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -95423,10 +95423,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -96702,10 +96702,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -97981,10 +97981,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -99260,10 +99260,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -100539,10 +100539,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -101818,10 +101818,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -103097,10 +103097,10 @@
                     "home_score": 5,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -104376,10 +104376,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -105655,10 +105655,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -106934,10 +106934,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -108213,10 +108213,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "GustavoL": {
         "matches": {
@@ -109492,10 +109492,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "Gwen": {
         "matches": {
@@ -110771,10 +110771,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -112050,10 +112050,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -113329,10 +113329,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -114608,10 +114608,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -115887,10 +115887,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -117166,10 +117166,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -118445,10 +118445,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -119724,10 +119724,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -121003,10 +121003,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -122282,10 +122282,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -123561,10 +123561,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -124840,10 +124840,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -126119,10 +126119,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -127398,10 +127398,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -128677,10 +128677,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -129956,10 +129956,10 @@
                     "home_score": 5,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -131235,10 +131235,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -132514,10 +132514,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JeffS1": {
         "matches": {
@@ -133793,10 +133793,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -135072,10 +135072,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -136351,10 +136351,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -137630,10 +137630,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -138909,10 +138909,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -140188,10 +140188,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -141467,10 +141467,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -142746,10 +142746,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -144025,10 +144025,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -145304,10 +145304,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -146583,10 +146583,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -147862,10 +147862,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -149141,10 +149141,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "JoeA": {
         "matches": {
@@ -150420,10 +150420,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "JoeD": {
         "matches": {
@@ -151699,10 +151699,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -152978,10 +152978,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -154257,10 +154257,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -155536,10 +155536,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -156815,10 +156815,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -158094,10 +158094,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -159373,10 +159373,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -160652,10 +160652,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -161931,10 +161931,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -163210,10 +163210,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -164489,10 +164489,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "KevinC": {
         "matches": {
@@ -165768,10 +165768,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -167047,10 +167047,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -168326,10 +168326,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -169605,10 +169605,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -170884,10 +170884,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -172163,10 +172163,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -173442,10 +173442,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -174721,10 +174721,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -176000,10 +176000,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -177279,10 +177279,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -178558,10 +178558,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -179837,10 +179837,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -181116,10 +181116,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -182395,10 +182395,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -183674,10 +183674,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -184953,10 +184953,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -186232,10 +186232,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -187511,10 +187511,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -188790,10 +188790,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -190069,10 +190069,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -191348,10 +191348,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -192627,10 +192627,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -193906,10 +193906,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -195185,10 +195185,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -196464,10 +196464,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -197743,10 +197743,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -199022,10 +199022,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -200301,10 +200301,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -201580,10 +201580,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -202859,10 +202859,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -204138,10 +204138,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -205417,10 +205417,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -206696,10 +206696,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -207975,10 +207975,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -209254,10 +209254,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -210533,10 +210533,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -211812,10 +211812,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -213091,10 +213091,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -214370,10 +214370,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Nicole1": {
         "matches": {
@@ -215649,10 +215649,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -216928,10 +216928,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -218207,10 +218207,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -219486,10 +219486,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -220765,10 +220765,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -222044,10 +222044,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "PabloL": {
         "matches": {
@@ -224602,10 +224602,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -225881,10 +225881,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -227160,10 +227160,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -228439,10 +228439,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -229718,10 +229718,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -230997,10 +230997,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -232276,10 +232276,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -233555,10 +233555,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -234834,10 +234834,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -236113,10 +236113,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -237392,10 +237392,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -238671,10 +238671,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -239950,10 +239950,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -241229,10 +241229,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -242508,10 +242508,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -243787,10 +243787,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -245066,10 +245066,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -246345,10 +246345,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -247624,10 +247624,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Rita": {
         "matches": {
@@ -248903,10 +248903,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -250182,10 +250182,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -251461,10 +251461,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -252740,10 +252740,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -254019,10 +254019,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -255298,10 +255298,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -256577,10 +256577,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -257856,10 +257856,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -259135,10 +259135,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -260414,10 +260414,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -261693,10 +261693,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -262972,10 +262972,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -264251,10 +264251,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -265530,10 +265530,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -266809,10 +266809,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -268088,10 +268088,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -269367,10 +269367,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -270646,10 +270646,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -271925,10 +271925,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Stallone1": {
         "matches": {
@@ -273204,10 +273204,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -274483,10 +274483,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -275762,10 +275762,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -277041,10 +277041,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -278320,10 +278320,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -279599,10 +279599,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -280878,10 +280878,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -282157,10 +282157,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -283436,10 +283436,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -284715,10 +284715,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -285994,10 +285994,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -287273,10 +287273,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -288552,10 +288552,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -289831,10 +289831,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -291110,10 +291110,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -292389,10 +292389,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -293668,10 +293668,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -294947,10 +294947,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -296226,10 +296226,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -297505,10 +297505,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -298784,10 +298784,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -300063,10 +300063,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -301342,10 +301342,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -302621,10 +302621,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "JoeA3": {
         "matches": {
@@ -303900,10 +303900,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Josh": {
         "matches": {
@@ -305179,10 +305179,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
@@ -306458,10 +306458,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Ghana",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "England",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Ghana"
                 },
                 {
