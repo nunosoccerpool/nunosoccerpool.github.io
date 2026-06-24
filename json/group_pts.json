@@ -790,8 +790,8 @@
                     "away_name": "Croatia",
                     "pts_awarded": null,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -2067,10 +2067,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -3346,10 +3346,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Aaron3": {
         "matches": {
@@ -4625,10 +4625,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -5113,7 +5113,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Aban": {
         "matches": {
@@ -5904,10 +5904,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Adam": {
         "matches": {
@@ -7183,10 +7183,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -7671,7 +7671,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Adrian": {
         "matches": {
@@ -8462,10 +8462,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "AI": {
         "matches": {
@@ -9741,10 +9741,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Albeiro": {
         "matches": {
@@ -11020,10 +11020,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Alex": {
         "matches": {
@@ -12299,10 +12299,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -12787,7 +12787,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Ali": {
         "matches": {
@@ -13578,10 +13578,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Alice": {
         "matches": {
@@ -14857,10 +14857,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Alnashir": {
         "matches": {
@@ -16136,10 +16136,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Alston1": {
         "matches": {
@@ -17415,10 +17415,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Alston2": {
         "matches": {
@@ -18694,10 +18694,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "AnaL": {
         "matches": {
@@ -19973,10 +19973,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -20461,7 +20461,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "AnaS": {
         "matches": {
@@ -21252,10 +21252,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -21740,7 +21740,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Andres": {
         "matches": {
@@ -22531,10 +22531,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Angel": {
         "matches": {
@@ -23810,10 +23810,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -24298,7 +24298,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "Anicio": {
         "matches": {
@@ -25089,10 +25089,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -25577,7 +25577,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "AniD": {
         "matches": {
@@ -26368,10 +26368,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -27647,10 +27647,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "AnthonyV": {
         "matches": {
@@ -28926,10 +28926,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Arjun": {
         "matches": {
@@ -30205,10 +30205,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Arturo": {
         "matches": {
@@ -31484,10 +31484,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Ash": {
         "matches": {
@@ -32763,10 +32763,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Augie": {
         "matches": {
@@ -34042,10 +34042,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -34530,7 +34530,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Bindu": {
         "matches": {
@@ -35321,10 +35321,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Brendan": {
         "matches": {
@@ -36600,10 +36600,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 39
+        "total_points": 40
     },
     "BrianS": {
         "matches": {
@@ -37879,10 +37879,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Cameron": {
         "matches": {
@@ -39158,10 +39158,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -40437,10 +40437,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "CarlosG": {
         "matches": {
@@ -41716,10 +41716,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "CarlosS1": {
         "matches": {
@@ -42995,10 +42995,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "CarlosS2": {
         "matches": {
@@ -44274,10 +44274,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Carmen": {
         "matches": {
@@ -45553,10 +45553,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Caroline": {
         "matches": {
@@ -46832,10 +46832,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -48111,10 +48111,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "ChrisK": {
         "matches": {
@@ -49390,10 +49390,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "ChrisN": {
         "matches": {
@@ -50669,10 +50669,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -51157,7 +51157,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "ChrisP": {
         "matches": {
@@ -51948,10 +51948,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Chrissy": {
         "matches": {
@@ -53227,10 +53227,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "ChristianL": {
         "matches": {
@@ -54506,10 +54506,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "CMD88": {
         "matches": {
@@ -55785,10 +55785,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Coco": {
         "matches": {
@@ -57064,10 +57064,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Corey": {
         "matches": {
@@ -58343,10 +58343,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Daisy1": {
         "matches": {
@@ -59622,10 +59622,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Daisy2": {
         "matches": {
@@ -60901,10 +60901,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Damian": {
         "matches": {
@@ -62180,10 +62180,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "DanielM": {
         "matches": {
@@ -63459,10 +63459,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "DanielR": {
         "matches": {
@@ -64738,10 +64738,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "DannyCR7": {
         "matches": {
@@ -66017,10 +66017,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "DannyL": {
         "matches": {
@@ -67296,10 +67296,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "DannyRa": {
         "matches": {
@@ -68575,10 +68575,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Darryll": {
         "matches": {
@@ -69854,10 +69854,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "DarylF": {
         "matches": {
@@ -71133,10 +71133,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -72412,10 +72412,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "DazRob": {
         "matches": {
@@ -73691,10 +73691,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Deylin": {
         "matches": {
@@ -74970,10 +74970,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Dino": {
         "matches": {
@@ -76249,10 +76249,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Dora": {
         "matches": {
@@ -77528,10 +77528,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "DougM": {
         "matches": {
@@ -78807,10 +78807,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Duarte": {
         "matches": {
@@ -80086,10 +80086,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Ed": {
         "matches": {
@@ -81365,10 +81365,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Edsel": {
         "matches": {
@@ -82644,10 +82644,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "EdwardT": {
         "matches": {
@@ -83923,10 +83923,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Elliott": {
         "matches": {
@@ -85202,10 +85202,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "EricK": {
         "matches": {
@@ -86481,10 +86481,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -86969,7 +86969,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 33
     },
     "Ethan": {
         "matches": {
@@ -87760,10 +87760,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -88248,7 +88248,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Farshid": {
         "matches": {
@@ -89039,10 +89039,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Fawzi": {
         "matches": {
@@ -90318,10 +90318,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Fernando": {
         "matches": {
@@ -91597,10 +91597,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -92085,7 +92085,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Filip": {
         "matches": {
@@ -92876,10 +92876,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Franco": {
         "matches": {
@@ -94155,10 +94155,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "FrankC": {
         "matches": {
@@ -95434,10 +95434,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "FrankD1": {
         "matches": {
@@ -96713,10 +96713,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "FrankD2": {
         "matches": {
@@ -97992,10 +97992,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "GabyDavide": {
         "matches": {
@@ -99271,10 +99271,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Gary": {
         "matches": {
@@ -100550,10 +100550,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -101038,7 +101038,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "GavinRiya": {
         "matches": {
@@ -101829,10 +101829,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -102317,7 +102317,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 36
     },
     "GavinW": {
         "matches": {
@@ -103108,10 +103108,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Goran": {
         "matches": {
@@ -104387,10 +104387,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Greg": {
         "matches": {
@@ -105666,10 +105666,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Grosso": {
         "matches": {
@@ -106945,10 +106945,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "GustavoH": {
         "matches": {
@@ -108224,10 +108224,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "GustavoL": {
         "matches": {
@@ -109503,10 +109503,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "Gwen": {
         "matches": {
@@ -110782,10 +110782,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -112061,10 +112061,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "HelderA": {
         "matches": {
@@ -113340,10 +113340,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Hernani": {
         "matches": {
@@ -114619,10 +114619,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Hugo": {
         "matches": {
@@ -115898,10 +115898,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Ian": {
         "matches": {
@@ -117177,10 +117177,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Ida": {
         "matches": {
@@ -118456,10 +118456,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Igor1": {
         "matches": {
@@ -119735,10 +119735,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Igor2": {
         "matches": {
@@ -121014,10 +121014,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Jalen": {
         "matches": {
@@ -122293,10 +122293,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "JamesC": {
         "matches": {
@@ -123572,10 +123572,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "JamesP": {
         "matches": {
@@ -124851,10 +124851,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 33
     },
     "Janelle": {
         "matches": {
@@ -126130,10 +126130,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JasonB": {
         "matches": {
@@ -127409,10 +127409,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JasonF": {
         "matches": {
@@ -128688,10 +128688,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Jaxon": {
         "matches": {
@@ -129967,10 +129967,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JeanMichel": {
         "matches": {
@@ -131246,10 +131246,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 34
     },
     "JeffB": {
         "matches": {
@@ -132525,10 +132525,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "JeffS1": {
         "matches": {
@@ -133804,10 +133804,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "JeffS2": {
         "matches": {
@@ -135083,10 +135083,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "JeffT": {
         "matches": {
@@ -136362,10 +136362,10 @@
                     "home_score": 0,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Jenn": {
         "matches": {
@@ -137641,10 +137641,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Jennifer": {
         "matches": {
@@ -138920,10 +138920,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Jeremy": {
         "matches": {
@@ -140199,10 +140199,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Jerry": {
         "matches": {
@@ -141478,10 +141478,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "JessicaD": {
         "matches": {
@@ -142757,10 +142757,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "JessicaG": {
         "matches": {
@@ -144036,10 +144036,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JessicaS": {
         "matches": {
@@ -145315,10 +145315,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Jhon": {
         "matches": {
@@ -146594,10 +146594,10 @@
                     "home_score": 2,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Jim": {
         "matches": {
@@ -147873,10 +147873,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -148361,7 +148361,7 @@
                 ]
             }
         },
-        "total_points": 18
+        "total_points": 19
     },
     "Joanna": {
         "matches": {
@@ -149152,10 +149152,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JoeA": {
         "matches": {
@@ -150431,10 +150431,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "JoeD": {
         "matches": {
@@ -151710,10 +151710,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JohnO": {
         "matches": {
@@ -152989,10 +152989,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 38
+        "total_points": 39
     },
     "JohnR": {
         "matches": {
@@ -154268,10 +154268,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -155547,10 +155547,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "JorgeC": {
         "matches": {
@@ -156826,10 +156826,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JorgeT": {
         "matches": {
@@ -158105,10 +158105,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Juan": {
         "matches": {
@@ -159384,10 +159384,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Julian": {
         "matches": {
@@ -160663,10 +160663,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "JustinA": {
         "matches": {
@@ -161942,10 +161942,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "JustinL": {
         "matches": {
@@ -163221,10 +163221,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Kayden": {
         "matches": {
@@ -164500,10 +164500,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "KevinC": {
         "matches": {
@@ -165779,10 +165779,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "KevinJ": {
         "matches": {
@@ -167058,10 +167058,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "KevinS": {
         "matches": {
@@ -168337,10 +168337,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Kristian": {
         "matches": {
@@ -169616,10 +169616,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "Kumar": {
         "matches": {
@@ -170895,10 +170895,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Kyle": {
         "matches": {
@@ -172174,10 +172174,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Lena": {
         "matches": {
@@ -173453,10 +173453,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "LiamA": {
         "matches": {
@@ -174732,10 +174732,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -175220,7 +175220,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "LiamMoh": {
         "matches": {
@@ -176011,10 +176011,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Lindsey": {
         "matches": {
@@ -177290,10 +177290,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Lisa": {
         "matches": {
@@ -178569,10 +178569,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Luka": {
         "matches": {
@@ -179848,10 +179848,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Magno": {
         "matches": {
@@ -181127,10 +181127,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Major": {
         "matches": {
@@ -182406,10 +182406,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Manley": {
         "matches": {
@@ -183685,10 +183685,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "MannyT": {
         "matches": {
@@ -184964,10 +184964,10 @@
                     "home_score": 2,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "MarcioD": {
         "matches": {
@@ -186243,10 +186243,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -186731,7 +186731,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "MarcioS": {
         "matches": {
@@ -187522,10 +187522,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -188801,10 +188801,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Maria": {
         "matches": {
@@ -190080,10 +190080,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -190568,7 +190568,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Marta": {
         "matches": {
@@ -191359,10 +191359,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -192638,10 +192638,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "MatthewSa": {
         "matches": {
@@ -193917,10 +193917,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -195196,10 +195196,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "MatthewSm2": {
         "matches": {
@@ -196475,10 +196475,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -197754,10 +197754,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Melissa": {
         "matches": {
@@ -199033,10 +199033,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -200312,10 +200312,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -201591,10 +201591,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "MichaelPi": {
         "matches": {
@@ -202870,10 +202870,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Michele": {
         "matches": {
@@ -204149,10 +204149,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Mihajlo": {
         "matches": {
@@ -205428,10 +205428,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "MikeD": {
         "matches": {
@@ -206707,10 +206707,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Misic1": {
         "matches": {
@@ -207986,10 +207986,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Misic2": {
         "matches": {
@@ -209265,10 +209265,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nas": {
         "matches": {
@@ -210544,10 +210544,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Nelson": {
         "matches": {
@@ -211823,10 +211823,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "NickM": {
         "matches": {
@@ -213102,10 +213102,10 @@
                     "home_score": 1,
                     "away_score": 4,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nicolas": {
         "matches": {
@@ -214381,10 +214381,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Nicole1": {
         "matches": {
@@ -215660,10 +215660,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Nicole2": {
         "matches": {
@@ -216939,10 +216939,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Nima": {
         "matches": {
@@ -218218,10 +218218,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -218706,7 +218706,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nolan": {
         "matches": {
@@ -219497,10 +219497,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "Nuno1": {
         "matches": {
@@ -220776,10 +220776,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Nuno2": {
         "matches": {
@@ -222055,10 +222055,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "PabloL": {
         "matches": {
@@ -224613,10 +224613,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Pardeep": {
         "matches": {
@@ -225892,10 +225892,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Pascal": {
         "matches": {
@@ -227171,10 +227171,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Patullo": {
         "matches": {
@@ -228450,10 +228450,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "PaulA": {
         "matches": {
@@ -229729,10 +229729,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "PaulC": {
         "matches": {
@@ -231008,10 +231008,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "PetarS": {
         "matches": {
@@ -232287,10 +232287,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Pierfelice": {
         "matches": {
@@ -233566,10 +233566,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "Preto1": {
         "matches": {
@@ -234845,10 +234845,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Preto2": {
         "matches": {
@@ -236124,10 +236124,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Punit": {
         "matches": {
@@ -237403,10 +237403,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Rachel": {
         "matches": {
@@ -238682,10 +238682,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "RD2026": {
         "matches": {
@@ -239961,10 +239961,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -241240,10 +241240,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -241728,7 +241728,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Ricardo2": {
         "matches": {
@@ -242519,10 +242519,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -243007,7 +243007,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RichardMa": {
         "matches": {
@@ -243798,10 +243798,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "RichardMo": {
         "matches": {
@@ -245077,10 +245077,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Rick": {
         "matches": {
@@ -246356,10 +246356,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Ricky": {
         "matches": {
@@ -247635,10 +247635,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Rita": {
         "matches": {
@@ -248914,10 +248914,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Riyad": {
         "matches": {
@@ -250193,10 +250193,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "RobertP": {
         "matches": {
@@ -251472,10 +251472,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "RobertS": {
         "matches": {
@@ -252751,10 +252751,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -254030,10 +254030,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "RobTu": {
         "matches": {
@@ -255309,10 +255309,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "RobW": {
         "matches": {
@@ -256588,10 +256588,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -257076,7 +257076,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Rodrigo": {
         "matches": {
@@ -257867,10 +257867,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Rousse": {
         "matches": {
@@ -259146,10 +259146,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Roy": {
         "matches": {
@@ -260425,10 +260425,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Salim": {
         "matches": {
@@ -261704,10 +261704,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Sarujan": {
         "matches": {
@@ -262983,10 +262983,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Sean": {
         "matches": {
@@ -264262,10 +264262,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Shawn1": {
         "matches": {
@@ -265541,10 +265541,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Shawn2": {
         "matches": {
@@ -266820,10 +266820,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Sheila": {
         "matches": {
@@ -268099,10 +268099,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Simon": {
         "matches": {
@@ -269378,10 +269378,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Simone": {
         "matches": {
@@ -270657,10 +270657,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -271936,10 +271936,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -273215,10 +273215,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Stallone2": {
         "matches": {
@@ -274494,10 +274494,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Stanley": {
         "matches": {
@@ -275773,10 +275773,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Stephen": {
         "matches": {
@@ -277052,10 +277052,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -278331,10 +278331,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 38
     },
     "Tanya": {
         "matches": {
@@ -279610,10 +279610,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Theo": {
         "matches": {
@@ -280889,10 +280889,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Todaro": {
         "matches": {
@@ -282168,10 +282168,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Tomas": {
         "matches": {
@@ -283447,10 +283447,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "TomP": {
         "matches": {
@@ -284726,10 +284726,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 35
     },
     "TonyH": {
         "matches": {
@@ -286005,10 +286005,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "TonyMa": {
         "matches": {
@@ -287284,10 +287284,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "TonyMi": {
         "matches": {
@@ -288563,10 +288563,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "TonyS": {
         "matches": {
@@ -289842,10 +289842,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "TonyV": {
         "matches": {
@@ -291121,10 +291121,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -291609,7 +291609,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Trevor": {
         "matches": {
@@ -292400,10 +292400,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Tristan": {
         "matches": {
@@ -293679,10 +293679,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Victor": {
         "matches": {
@@ -294958,10 +294958,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -296237,10 +296237,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Vito": {
         "matches": {
@@ -297516,10 +297516,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 26
     },
     "VukSto": {
         "matches": {
@@ -298795,10 +298795,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Wilson": {
         "matches": {
@@ -300074,10 +300074,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Yogi": {
         "matches": {
@@ -301353,10 +301353,10 @@
                     "home_score": 0,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "JoeA2": {
         "matches": {
@@ -302632,10 +302632,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "JoeA3": {
         "matches": {
@@ -303911,10 +303911,10 @@
                     "home_score": 0,
                     "away_score": 1,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Josh": {
         "matches": {
@@ -305190,10 +305190,10 @@
                     "home_score": 0,
                     "away_score": 3,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Samantha": {
         "matches": {
@@ -306469,10 +306469,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Croatia",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Panama",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 0.0,
+                    "act_away_score": 1.0,
                     "act_away_name": "Croatia"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     }
 }
