@@ -722,8 +722,8 @@
                     "away_name": "Congo",
                     "pts_awarded": null,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -1999,10 +1999,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -2555,7 +2555,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Aaron2": {
         "matches": {
@@ -3278,10 +3278,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -3834,7 +3834,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Aaron3": {
         "matches": {
@@ -4557,10 +4557,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -5836,10 +5836,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -6392,7 +6392,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Adam": {
         "matches": {
@@ -7115,10 +7115,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -8394,10 +8394,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -8950,7 +8950,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "AI": {
         "matches": {
@@ -9673,10 +9673,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -10229,7 +10229,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Albeiro": {
         "matches": {
@@ -10952,10 +10952,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -11508,7 +11508,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Alex": {
         "matches": {
@@ -12231,10 +12231,10 @@
                     "home_score": 1,
                     "away_score": 3,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -13510,10 +13510,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -14066,7 +14066,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Alice": {
         "matches": {
@@ -14789,10 +14789,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -15345,7 +15345,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Alnashir": {
         "matches": {
@@ -16068,10 +16068,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -16624,7 +16624,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Alston1": {
         "matches": {
@@ -17347,10 +17347,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -17903,7 +17903,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "Alston2": {
         "matches": {
@@ -18626,10 +18626,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -19182,7 +19182,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "AnaL": {
         "matches": {
@@ -19905,10 +19905,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -21184,10 +21184,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -22463,10 +22463,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -23019,7 +23019,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Angel": {
         "matches": {
@@ -23742,10 +23742,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -25021,10 +25021,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -26300,10 +26300,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -26856,7 +26856,7 @@
                 ]
             }
         },
-        "total_points": 22
+        "total_points": 23
     },
     "Ante": {
         "matches": {
@@ -27579,10 +27579,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -28135,7 +28135,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "AnthonyV": {
         "matches": {
@@ -28858,10 +28858,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -29414,7 +29414,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Arjun": {
         "matches": {
@@ -30137,10 +30137,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -30693,7 +30693,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Arturo": {
         "matches": {
@@ -31416,10 +31416,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -31972,7 +31972,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Ash": {
         "matches": {
@@ -32695,10 +32695,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -33251,7 +33251,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Augie": {
         "matches": {
@@ -33974,10 +33974,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -35253,10 +35253,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -35809,7 +35809,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Brendan": {
         "matches": {
@@ -36532,10 +36532,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -37088,7 +37088,7 @@
                 ]
             }
         },
-        "total_points": 40
+        "total_points": 41
     },
     "BrianS": {
         "matches": {
@@ -37811,10 +37811,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -38367,7 +38367,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Cameron": {
         "matches": {
@@ -39090,10 +39090,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -39646,7 +39646,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "CarlosD": {
         "matches": {
@@ -40369,10 +40369,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -40925,7 +40925,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "CarlosG": {
         "matches": {
@@ -41648,10 +41648,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -42204,7 +42204,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "CarlosS1": {
         "matches": {
@@ -42927,10 +42927,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -43483,7 +43483,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "CarlosS2": {
         "matches": {
@@ -44206,10 +44206,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -44762,7 +44762,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Carmen": {
         "matches": {
@@ -45485,10 +45485,10 @@
                     "home_score": 4,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -46041,7 +46041,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Caroline": {
         "matches": {
@@ -46764,10 +46764,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -48043,10 +48043,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -48599,7 +48599,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "ChrisK": {
         "matches": {
@@ -49322,10 +49322,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -49878,7 +49878,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "ChrisN": {
         "matches": {
@@ -50601,10 +50601,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -51880,10 +51880,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -52436,7 +52436,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Chrissy": {
         "matches": {
@@ -53159,10 +53159,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -53715,7 +53715,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "ChristianL": {
         "matches": {
@@ -54438,10 +54438,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -54994,7 +54994,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "CMD88": {
         "matches": {
@@ -55717,10 +55717,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -56273,7 +56273,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Coco": {
         "matches": {
@@ -56996,10 +56996,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -57552,7 +57552,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Corey": {
         "matches": {
@@ -58275,10 +58275,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -58831,7 +58831,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Daisy1": {
         "matches": {
@@ -59554,10 +59554,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -60110,7 +60110,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Daisy2": {
         "matches": {
@@ -60833,10 +60833,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -61389,7 +61389,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Damian": {
         "matches": {
@@ -62112,10 +62112,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -62668,7 +62668,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "DanielM": {
         "matches": {
@@ -63391,10 +63391,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -63947,7 +63947,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "DanielR": {
         "matches": {
@@ -64670,10 +64670,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -65226,7 +65226,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "DannyCR7": {
         "matches": {
@@ -65949,10 +65949,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -66505,7 +66505,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "DannyL": {
         "matches": {
@@ -67228,10 +67228,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -67784,7 +67784,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "DannyRa": {
         "matches": {
@@ -68507,10 +68507,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -69063,7 +69063,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Darryll": {
         "matches": {
@@ -69786,10 +69786,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -70342,7 +70342,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "DarylF": {
         "matches": {
@@ -71065,10 +71065,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -71621,7 +71621,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Dashiel": {
         "matches": {
@@ -72344,10 +72344,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -72900,7 +72900,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "DazRob": {
         "matches": {
@@ -73623,10 +73623,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -74179,7 +74179,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Deylin": {
         "matches": {
@@ -74902,10 +74902,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -75458,7 +75458,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 37
     },
     "Dino": {
         "matches": {
@@ -76181,10 +76181,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -76737,7 +76737,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Dora": {
         "matches": {
@@ -77460,10 +77460,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -78016,7 +78016,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "DougM": {
         "matches": {
@@ -78739,10 +78739,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -79295,7 +79295,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Duarte": {
         "matches": {
@@ -80018,10 +80018,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -80574,7 +80574,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Ed": {
         "matches": {
@@ -81297,10 +81297,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -81853,7 +81853,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Edsel": {
         "matches": {
@@ -82576,10 +82576,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -83132,7 +83132,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 34
     },
     "EdwardT": {
         "matches": {
@@ -83855,10 +83855,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -84411,7 +84411,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Elliott": {
         "matches": {
@@ -85134,10 +85134,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -85690,7 +85690,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "EricK": {
         "matches": {
@@ -86413,10 +86413,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -87692,10 +87692,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -88971,10 +88971,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -89527,7 +89527,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Fawzi": {
         "matches": {
@@ -90250,10 +90250,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -90806,7 +90806,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Fernando": {
         "matches": {
@@ -91529,10 +91529,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -92808,10 +92808,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -93364,7 +93364,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Franco": {
         "matches": {
@@ -94087,10 +94087,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -94643,7 +94643,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "FrankC": {
         "matches": {
@@ -95366,10 +95366,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -95922,7 +95922,7 @@
                 ]
             }
         },
-        "total_points": 38
+        "total_points": 39
     },
     "FrankD1": {
         "matches": {
@@ -96645,10 +96645,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -97201,7 +97201,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "FrankD2": {
         "matches": {
@@ -97924,10 +97924,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -98480,7 +98480,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "GabyDavide": {
         "matches": {
@@ -99203,10 +99203,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -99759,7 +99759,7 @@
                 ]
             }
         },
-        "total_points": 36
+        "total_points": 38
     },
     "Gary": {
         "matches": {
@@ -100482,10 +100482,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -101761,10 +101761,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -103040,10 +103040,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -103596,7 +103596,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Goran": {
         "matches": {
@@ -104319,10 +104319,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -104875,7 +104875,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Greg": {
         "matches": {
@@ -105598,10 +105598,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -106154,7 +106154,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Grosso": {
         "matches": {
@@ -106877,10 +106877,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -107433,7 +107433,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "GustavoH": {
         "matches": {
@@ -108156,10 +108156,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -108712,7 +108712,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "GustavoL": {
         "matches": {
@@ -109435,10 +109435,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -109991,7 +109991,7 @@
                 ]
             }
         },
-        "total_points": 38
+        "total_points": 40
     },
     "Gwen": {
         "matches": {
@@ -110714,10 +110714,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -111270,7 +111270,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Heather": {
         "matches": {
@@ -111993,10 +111993,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -112549,7 +112549,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "HelderA": {
         "matches": {
@@ -113272,10 +113272,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -113828,7 +113828,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Hernani": {
         "matches": {
@@ -114551,10 +114551,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -115107,7 +115107,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Hugo": {
         "matches": {
@@ -115830,10 +115830,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -116386,7 +116386,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Ian": {
         "matches": {
@@ -117109,10 +117109,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -117665,7 +117665,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Ida": {
         "matches": {
@@ -118388,10 +118388,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -118944,7 +118944,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Igor1": {
         "matches": {
@@ -119667,10 +119667,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -120223,7 +120223,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Igor2": {
         "matches": {
@@ -120946,10 +120946,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -121502,7 +121502,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Jalen": {
         "matches": {
@@ -122225,10 +122225,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -122781,7 +122781,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JamesC": {
         "matches": {
@@ -123504,10 +123504,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -124060,7 +124060,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "JamesP": {
         "matches": {
@@ -124783,10 +124783,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -125339,7 +125339,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Janelle": {
         "matches": {
@@ -126062,10 +126062,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -126618,7 +126618,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JasonB": {
         "matches": {
@@ -127341,10 +127341,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -127897,7 +127897,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JasonF": {
         "matches": {
@@ -128620,10 +128620,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -129176,7 +129176,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Jaxon": {
         "matches": {
@@ -129899,10 +129899,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -130455,7 +130455,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JeanMichel": {
         "matches": {
@@ -131178,10 +131178,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -131734,7 +131734,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "JeffB": {
         "matches": {
@@ -132457,10 +132457,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -133013,7 +133013,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "JeffS1": {
         "matches": {
@@ -133736,10 +133736,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -134292,7 +134292,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JeffS2": {
         "matches": {
@@ -135015,10 +135015,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -135571,7 +135571,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 36
     },
     "JeffT": {
         "matches": {
@@ -136294,10 +136294,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -136850,7 +136850,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Jenn": {
         "matches": {
@@ -137573,10 +137573,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -138129,7 +138129,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 30
     },
     "Jennifer": {
         "matches": {
@@ -138852,10 +138852,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -139408,7 +139408,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Jeremy": {
         "matches": {
@@ -140131,10 +140131,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -140687,7 +140687,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Jerry": {
         "matches": {
@@ -141410,10 +141410,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -141966,7 +141966,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "JessicaD": {
         "matches": {
@@ -142689,10 +142689,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -143245,7 +143245,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "JessicaG": {
         "matches": {
@@ -143968,10 +143968,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -144524,7 +144524,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JessicaS": {
         "matches": {
@@ -145247,10 +145247,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -145803,7 +145803,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Jhon": {
         "matches": {
@@ -146526,10 +146526,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -147082,7 +147082,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Jim": {
         "matches": {
@@ -147805,10 +147805,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -149084,10 +149084,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -149640,7 +149640,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JoeA": {
         "matches": {
@@ -150363,10 +150363,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -150919,7 +150919,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "JoeD": {
         "matches": {
@@ -151642,10 +151642,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -152198,7 +152198,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JohnO": {
         "matches": {
@@ -152921,10 +152921,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -153477,7 +153477,7 @@
                 ]
             }
         },
-        "total_points": 39
+        "total_points": 40
     },
     "JohnR": {
         "matches": {
@@ -154200,10 +154200,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -154756,7 +154756,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Jonathan": {
         "matches": {
@@ -155479,10 +155479,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -156035,7 +156035,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "JorgeC": {
         "matches": {
@@ -156758,10 +156758,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -157314,7 +157314,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "JorgeT": {
         "matches": {
@@ -158037,10 +158037,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -158593,7 +158593,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Juan": {
         "matches": {
@@ -159316,10 +159316,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -159872,7 +159872,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Julian": {
         "matches": {
@@ -160595,10 +160595,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -161151,7 +161151,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "JustinA": {
         "matches": {
@@ -161874,10 +161874,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -162430,7 +162430,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 33
     },
     "JustinL": {
         "matches": {
@@ -163153,10 +163153,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -163709,7 +163709,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Kayden": {
         "matches": {
@@ -164432,10 +164432,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -164988,7 +164988,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "KevinC": {
         "matches": {
@@ -165711,10 +165711,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -166267,7 +166267,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "KevinJ": {
         "matches": {
@@ -166990,10 +166990,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -167546,7 +167546,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "KevinS": {
         "matches": {
@@ -168269,10 +168269,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -168825,7 +168825,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Kristian": {
         "matches": {
@@ -169548,10 +169548,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -170104,7 +170104,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Kumar": {
         "matches": {
@@ -170827,10 +170827,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -171383,7 +171383,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 29
     },
     "Kyle": {
         "matches": {
@@ -172106,10 +172106,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -172662,7 +172662,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Lena": {
         "matches": {
@@ -173385,10 +173385,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -173941,7 +173941,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "LiamA": {
         "matches": {
@@ -174664,10 +174664,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -175943,10 +175943,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -176499,7 +176499,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Lindsey": {
         "matches": {
@@ -177222,10 +177222,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -177778,7 +177778,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 25
     },
     "Lisa": {
         "matches": {
@@ -178501,10 +178501,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -179057,7 +179057,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Luka": {
         "matches": {
@@ -179780,10 +179780,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -180336,7 +180336,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Magno": {
         "matches": {
@@ -181059,10 +181059,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -181615,7 +181615,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Major": {
         "matches": {
@@ -182338,10 +182338,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -182894,7 +182894,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Manley": {
         "matches": {
@@ -183617,10 +183617,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -184173,7 +184173,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 36
     },
     "MannyT": {
         "matches": {
@@ -184896,10 +184896,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -185452,7 +185452,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "MarcioD": {
         "matches": {
@@ -186175,10 +186175,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -187454,10 +187454,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -188733,10 +188733,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -189289,7 +189289,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Maria": {
         "matches": {
@@ -190012,10 +190012,10 @@
                     "home_score": 0,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -191291,10 +191291,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -191847,7 +191847,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "MatthewG": {
         "matches": {
@@ -192570,10 +192570,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -193126,7 +193126,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "MatthewSa": {
         "matches": {
@@ -193849,10 +193849,10 @@
                     "home_score": 2,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -195128,10 +195128,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -195684,7 +195684,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "MatthewSm2": {
         "matches": {
@@ -196407,10 +196407,10 @@
                     "home_score": 4,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -196963,7 +196963,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Max": {
         "matches": {
@@ -197686,10 +197686,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -198242,7 +198242,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Melissa": {
         "matches": {
@@ -198965,10 +198965,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -199521,7 +199521,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "MichaelL": {
         "matches": {
@@ -200244,10 +200244,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -200800,7 +200800,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "MichaelM": {
         "matches": {
@@ -201523,10 +201523,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -202079,7 +202079,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "MichaelPi": {
         "matches": {
@@ -202802,10 +202802,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -203358,7 +203358,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Michele": {
         "matches": {
@@ -204081,10 +204081,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -204637,7 +204637,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Mihajlo": {
         "matches": {
@@ -205360,10 +205360,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -205916,7 +205916,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "MikeD": {
         "matches": {
@@ -206639,10 +206639,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -207195,7 +207195,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Misic1": {
         "matches": {
@@ -207918,10 +207918,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -208474,7 +208474,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Misic2": {
         "matches": {
@@ -209197,10 +209197,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -209753,7 +209753,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Nas": {
         "matches": {
@@ -210476,10 +210476,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -211032,7 +211032,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nelson": {
         "matches": {
@@ -211755,10 +211755,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -212311,7 +212311,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "NickM": {
         "matches": {
@@ -213034,10 +213034,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -213590,7 +213590,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Nicolas": {
         "matches": {
@@ -214313,10 +214313,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -214869,7 +214869,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "Nicole1": {
         "matches": {
@@ -215592,10 +215592,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -216148,7 +216148,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Nicole2": {
         "matches": {
@@ -216871,10 +216871,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -217427,7 +217427,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Nima": {
         "matches": {
@@ -218150,10 +218150,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -219429,10 +219429,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -219985,7 +219985,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "Nuno1": {
         "matches": {
@@ -220708,10 +220708,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -221264,7 +221264,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Nuno2": {
         "matches": {
@@ -221987,10 +221987,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -222543,7 +222543,7 @@
                 ]
             }
         },
-        "total_points": 23
+        "total_points": 24
     },
     "PabloL": {
         "matches": {
@@ -224545,10 +224545,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -225101,7 +225101,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 36
     },
     "Pardeep": {
         "matches": {
@@ -225824,10 +225824,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -226380,7 +226380,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Pascal": {
         "matches": {
@@ -227103,10 +227103,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -227659,7 +227659,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Patullo": {
         "matches": {
@@ -228382,10 +228382,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -228938,7 +228938,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "PaulA": {
         "matches": {
@@ -229661,10 +229661,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -230217,7 +230217,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "PaulC": {
         "matches": {
@@ -230940,10 +230940,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -231496,7 +231496,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "PetarS": {
         "matches": {
@@ -232219,10 +232219,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -232775,7 +232775,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Pierfelice": {
         "matches": {
@@ -233498,10 +233498,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -234054,7 +234054,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "Preto1": {
         "matches": {
@@ -234777,10 +234777,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -235333,7 +235333,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Preto2": {
         "matches": {
@@ -236056,10 +236056,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -236612,7 +236612,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Punit": {
         "matches": {
@@ -237335,10 +237335,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -237891,7 +237891,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Rachel": {
         "matches": {
@@ -238614,10 +238614,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -239170,7 +239170,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RD2026": {
         "matches": {
@@ -239893,10 +239893,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -240449,7 +240449,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Ricardo1": {
         "matches": {
@@ -241172,10 +241172,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -242451,10 +242451,10 @@
                     "home_score": 1,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -243730,10 +243730,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -244286,7 +244286,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RichardMo": {
         "matches": {
@@ -245009,10 +245009,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -245565,7 +245565,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 31
     },
     "Rick": {
         "matches": {
@@ -246288,10 +246288,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -246844,7 +246844,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Ricky": {
         "matches": {
@@ -247567,10 +247567,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -248123,7 +248123,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 34
     },
     "Rita": {
         "matches": {
@@ -248846,10 +248846,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -249402,7 +249402,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Riyad": {
         "matches": {
@@ -250125,10 +250125,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -250681,7 +250681,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "RobertP": {
         "matches": {
@@ -251404,10 +251404,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -251960,7 +251960,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RobertS": {
         "matches": {
@@ -252683,10 +252683,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -253239,7 +253239,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RobSi": {
         "matches": {
@@ -253962,10 +253962,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -254518,7 +254518,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "RobTu": {
         "matches": {
@@ -255241,10 +255241,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -255797,7 +255797,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "RobW": {
         "matches": {
@@ -256520,10 +256520,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -257799,10 +257799,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -258355,7 +258355,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 28
     },
     "Rousse": {
         "matches": {
@@ -259078,10 +259078,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -259634,7 +259634,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Roy": {
         "matches": {
@@ -260357,10 +260357,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -260913,7 +260913,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Salim": {
         "matches": {
@@ -261636,10 +261636,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -262192,7 +262192,7 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     },
     "Sarujan": {
         "matches": {
@@ -262915,10 +262915,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -263471,7 +263471,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Sean": {
         "matches": {
@@ -264194,10 +264194,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -264750,7 +264750,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Shawn1": {
         "matches": {
@@ -265473,10 +265473,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -266029,7 +266029,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Shawn2": {
         "matches": {
@@ -266752,10 +266752,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -267308,7 +267308,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Sheila": {
         "matches": {
@@ -268031,10 +268031,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -268587,7 +268587,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Simon": {
         "matches": {
@@ -269310,10 +269310,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -269866,7 +269866,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Simone": {
         "matches": {
@@ -270589,10 +270589,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -271145,7 +271145,7 @@
                 ]
             }
         },
-        "total_points": 20
+        "total_points": 21
     },
     "Simrun": {
         "matches": {
@@ -271868,10 +271868,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -272424,7 +272424,7 @@
                 ]
             }
         },
-        "total_points": 29
+        "total_points": 30
     },
     "Stallone1": {
         "matches": {
@@ -273147,10 +273147,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -273703,7 +273703,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "Stallone2": {
         "matches": {
@@ -274426,10 +274426,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -274982,7 +274982,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Stanley": {
         "matches": {
@@ -275705,10 +275705,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -276261,7 +276261,7 @@
                 ]
             }
         },
-        "total_points": 28
+        "total_points": 29
     },
     "Stephen": {
         "matches": {
@@ -276984,10 +276984,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -277540,7 +277540,7 @@
                 ]
             }
         },
-        "total_points": 21
+        "total_points": 22
     },
     "StevenT": {
         "matches": {
@@ -278263,10 +278263,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -278819,7 +278819,7 @@
                 ]
             }
         },
-        "total_points": 38
+        "total_points": 39
     },
     "Tanya": {
         "matches": {
@@ -279542,10 +279542,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -280098,7 +280098,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "Theo": {
         "matches": {
@@ -280821,10 +280821,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -281377,7 +281377,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 32
     },
     "Todaro": {
         "matches": {
@@ -282100,10 +282100,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -282656,7 +282656,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Tomas": {
         "matches": {
@@ -283379,10 +283379,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -283935,7 +283935,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "TomP": {
         "matches": {
@@ -284658,10 +284658,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -285214,7 +285214,7 @@
                 ]
             }
         },
-        "total_points": 35
+        "total_points": 36
     },
     "TonyH": {
         "matches": {
@@ -285937,10 +285937,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -286493,7 +286493,7 @@
                 ]
             }
         },
-        "total_points": 37
+        "total_points": 38
     },
     "TonyMa": {
         "matches": {
@@ -287216,10 +287216,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -287772,7 +287772,7 @@
                 ]
             }
         },
-        "total_points": 33
+        "total_points": 34
     },
     "TonyMi": {
         "matches": {
@@ -288495,10 +288495,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -289051,7 +289051,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "TonyS": {
         "matches": {
@@ -289774,10 +289774,10 @@
                     "home_score": 1,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 2.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -290330,7 +290330,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 27
     },
     "TonyV": {
         "matches": {
@@ -291053,10 +291053,10 @@
                     "home_score": 1,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 0.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -292332,10 +292332,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -292888,7 +292888,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Tristan": {
         "matches": {
@@ -293611,10 +293611,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -294167,7 +294167,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "Victor": {
         "matches": {
@@ -294890,10 +294890,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -295446,7 +295446,7 @@
                 ]
             }
         },
-        "total_points": 24
+        "total_points": 25
     },
     "Vishal": {
         "matches": {
@@ -296169,10 +296169,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -296725,7 +296725,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Vito": {
         "matches": {
@@ -297448,10 +297448,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -298004,7 +298004,7 @@
                 ]
             }
         },
-        "total_points": 26
+        "total_points": 27
     },
     "VukSto": {
         "matches": {
@@ -298727,10 +298727,10 @@
                     "home_score": 2,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -299283,7 +299283,7 @@
                 ]
             }
         },
-        "total_points": 25
+        "total_points": 26
     },
     "Wilson": {
         "matches": {
@@ -300006,10 +300006,10 @@
                     "home_score": 3,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -300562,7 +300562,7 @@
                 ]
             }
         },
-        "total_points": 31
+        "total_points": 32
     },
     "Yogi": {
         "matches": {
@@ -301285,10 +301285,10 @@
                     "home_score": 3,
                     "away_score": 0,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -301841,7 +301841,7 @@
                 ]
             }
         },
-        "total_points": 38
+        "total_points": 39
     },
     "JoeA2": {
         "matches": {
@@ -302564,10 +302564,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -303120,7 +303120,7 @@
                 ]
             }
         },
-        "total_points": 27
+        "total_points": 28
     },
     "JoeA3": {
         "matches": {
@@ -303843,10 +303843,10 @@
                     "home_score": 3,
                     "away_score": 2,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -304399,7 +304399,7 @@
                 ]
             }
         },
-        "total_points": 32
+        "total_points": 33
     },
     "Josh": {
         "matches": {
@@ -305122,10 +305122,10 @@
                     "home_score": 4,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -305678,7 +305678,7 @@
                 ]
             }
         },
-        "total_points": 30
+        "total_points": 31
     },
     "Samantha": {
         "matches": {
@@ -306401,10 +306401,10 @@
                     "home_score": 2,
                     "away_score": 1,
                     "away_name": "Congo",
-                    "pts_awarded": null,
+                    "pts_awarded": 1.0,
                     "act_home_name": "Colombia",
-                    "act_home_score": null,
-                    "act_away_score": null,
+                    "act_home_score": 1.0,
+                    "act_away_score": 0.0,
                     "act_away_name": "Congo"
                 },
                 {
@@ -306957,6 +306957,6 @@
                 ]
             }
         },
-        "total_points": 34
+        "total_points": 35
     }
 }
