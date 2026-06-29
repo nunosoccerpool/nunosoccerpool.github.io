@@ -101,6 +101,67 @@
     },
     "table4": {
         "title": "Teams most predicted to be Champion",
-        "rows": []
+        "rows": [
+            {
+                "col1": "FRANCE",
+                "col2": "80",
+                "col3": ""
+            },
+            {
+                "col1": "PORTUGAL",
+                "col2": "30",
+                "col3": ""
+            },
+            {
+                "col1": "ARGENTINA",
+                "col2": "29",
+                "col3": ""
+            },
+            {
+                "col1": "ENGLAND",
+                "col2": "21",
+                "col3": ""
+            },
+            {
+                "col1": "SPAIN",
+                "col2": "12",
+                "col3": ""
+            },
+            {
+                "col1": "BRAZIL",
+                "col2": "11",
+                "col3": ""
+            },
+            {
+                "col1": "NETHERLANDS",
+                "col2": "8",
+                "col3": ""
+            },
+            {
+                "col1": "COLOMBIA",
+                "col2": "2",
+                "col3": ""
+            },
+            {
+                "col1": "GERMANY",
+                "col2": "2",
+                "col3": ""
+            },
+            {
+                "col1": "BELGIUM",
+                "col2": "1",
+                "col3": ""
+            },
+            {
+                "col1": "MOROCCO",
+                "col2": "1",
+                "col3": ""
+            },
+            {
+                "col1": "NORWAY",
+                "col2": "1",
+                "col3": ""
+            }
+        ]
     }
 }
