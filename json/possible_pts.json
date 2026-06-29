@@ -1,6 +1,6 @@
 {
     "Nuno": {
-        "total_points": 35,
+        "total_points": 22,
         "matches": {
             "GroupA": [
                 {
@@ -799,7 +799,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "",
@@ -885,7 +885,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": 0
+                "pts_awarded": -10
             },
             {
                 "pred_home_name": "",
@@ -972,7 +972,7 @@
         ]
     },
     "Aaron1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -1771,7 +1771,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -1857,7 +1857,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -1944,7 +1944,7 @@
         ]
     },
     "Aaron2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -2743,7 +2743,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -2829,7 +2829,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -2916,7 +2916,7 @@
         ]
     },
     "Aaron3": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -3715,7 +3715,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -3801,7 +3801,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -3888,7 +3888,7 @@
         ]
     },
     "Aban": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -4687,7 +4687,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -4773,7 +4773,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -4860,7 +4860,7 @@
         ]
     },
     "Adam": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -5659,7 +5659,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -5745,7 +5745,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -5832,7 +5832,7 @@
         ]
     },
     "Adrian": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -6631,7 +6631,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -6717,7 +6717,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -6804,7 +6804,7 @@
         ]
     },
     "AI": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -7603,7 +7603,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -7689,7 +7689,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -7776,7 +7776,7 @@
         ]
     },
     "Albeiro": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -8575,7 +8575,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -8661,7 +8661,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -8748,7 +8748,7 @@
         ]
     },
     "Alex": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -9547,7 +9547,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -9633,7 +9633,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -9720,7 +9720,7 @@
         ]
     },
     "Ali": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -10519,7 +10519,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -10605,7 +10605,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -10692,7 +10692,7 @@
         ]
     },
     "Alice": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -11491,7 +11491,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -11577,7 +11577,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -11664,7 +11664,7 @@
         ]
     },
     "Alnashir": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -12463,7 +12463,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -12549,7 +12549,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -12636,7 +12636,7 @@
         ]
     },
     "Alston1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -13435,7 +13435,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -13521,7 +13521,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -13608,7 +13608,7 @@
         ]
     },
     "Alston2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -14407,7 +14407,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -14493,7 +14493,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -14580,7 +14580,7 @@
         ]
     },
     "AnaL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -15379,7 +15379,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -15465,7 +15465,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -15552,7 +15552,7 @@
         ]
     },
     "AnaS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -16351,7 +16351,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -16437,7 +16437,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -16524,7 +16524,7 @@
         ]
     },
     "Andres": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -17323,7 +17323,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -17409,7 +17409,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -17496,7 +17496,7 @@
         ]
     },
     "Angel": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -18295,7 +18295,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -18381,7 +18381,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -18468,7 +18468,7 @@
         ]
     },
     "Anicio": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -19267,7 +19267,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -19353,7 +19353,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -19440,7 +19440,7 @@
         ]
     },
     "AniD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -20239,7 +20239,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -20325,7 +20325,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -20412,7 +20412,7 @@
         ]
     },
     "Ante": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -21211,7 +21211,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -21297,7 +21297,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -21384,7 +21384,7 @@
         ]
     },
     "AnthonyV": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -22183,7 +22183,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -22269,7 +22269,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -22356,7 +22356,7 @@
         ]
     },
     "Arjun": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -23155,7 +23155,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -23241,7 +23241,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -23328,7 +23328,7 @@
         ]
     },
     "Arturo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -24127,7 +24127,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -24213,7 +24213,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -24300,7 +24300,7 @@
         ]
     },
     "Ash": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -25099,7 +25099,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -25185,7 +25185,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -25272,7 +25272,7 @@
         ]
     },
     "Augie": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -26071,7 +26071,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -26157,7 +26157,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -26244,7 +26244,7 @@
         ]
     },
     "Bindu": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -27043,7 +27043,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -27129,7 +27129,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -27216,7 +27216,7 @@
         ]
     },
     "Brendan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -28015,7 +28015,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -28101,7 +28101,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -28188,7 +28188,7 @@
         ]
     },
     "BrianS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -28987,7 +28987,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -29073,7 +29073,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -29160,7 +29160,7 @@
         ]
     },
     "Cameron": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -29959,7 +29959,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -30045,7 +30045,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -30132,7 +30132,7 @@
         ]
     },
     "CarlosD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -30931,7 +30931,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -31017,7 +31017,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -31104,7 +31104,7 @@
         ]
     },
     "CarlosG": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -31903,7 +31903,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -31989,7 +31989,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -32076,7 +32076,7 @@
         ]
     },
     "CarlosS1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -32875,7 +32875,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -32961,7 +32961,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -33048,7 +33048,7 @@
         ]
     },
     "CarlosS2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -33847,7 +33847,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -33933,7 +33933,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -34020,7 +34020,7 @@
         ]
     },
     "Carmen": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -34819,7 +34819,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -34905,7 +34905,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -34992,7 +34992,7 @@
         ]
     },
     "Caroline": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -35791,7 +35791,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -35877,7 +35877,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -35964,7 +35964,7 @@
         ]
     },
     "Charles": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -36763,7 +36763,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -36849,7 +36849,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -36936,7 +36936,7 @@
         ]
     },
     "ChrisK": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -37735,7 +37735,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -37821,7 +37821,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -37908,7 +37908,7 @@
         ]
     },
     "ChrisN": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -38707,7 +38707,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -38793,7 +38793,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -38880,7 +38880,7 @@
         ]
     },
     "ChrisP": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -39679,7 +39679,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -39765,7 +39765,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -39852,7 +39852,7 @@
         ]
     },
     "Chrissy": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -40651,7 +40651,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -40737,7 +40737,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -40824,7 +40824,7 @@
         ]
     },
     "ChristianL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -41623,7 +41623,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -41709,7 +41709,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -41796,7 +41796,7 @@
         ]
     },
     "CMD88": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -42595,7 +42595,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -42681,7 +42681,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -42768,7 +42768,7 @@
         ]
     },
     "Coco": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -43567,7 +43567,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -43653,7 +43653,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -43740,7 +43740,7 @@
         ]
     },
     "Corey": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -44539,7 +44539,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -44625,7 +44625,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Ecuador",
@@ -44669,7 +44669,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -44712,7 +44712,7 @@
         ]
     },
     "Daisy1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -45511,7 +45511,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -45597,7 +45597,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -45684,7 +45684,7 @@
         ]
     },
     "Daisy2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -46483,7 +46483,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -46569,7 +46569,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -46656,7 +46656,7 @@
         ]
     },
     "Damian": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -47455,7 +47455,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -47541,7 +47541,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -47628,7 +47628,7 @@
         ]
     },
     "DanielM": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -48427,7 +48427,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -48513,7 +48513,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -48600,7 +48600,7 @@
         ]
     },
     "DanielR": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -49399,7 +49399,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -49485,7 +49485,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -49572,7 +49572,7 @@
         ]
     },
     "DannyCR7": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -50371,7 +50371,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -50457,7 +50457,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -50544,7 +50544,7 @@
         ]
     },
     "DannyL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -51343,7 +51343,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -51429,7 +51429,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -51516,7 +51516,7 @@
         ]
     },
     "DannyRa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -52315,7 +52315,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -52401,7 +52401,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -52488,7 +52488,7 @@
         ]
     },
     "Darryll": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -53287,7 +53287,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -53373,7 +53373,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -53460,7 +53460,7 @@
         ]
     },
     "DarylF": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -54259,7 +54259,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -54345,7 +54345,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -54389,7 +54389,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "England",
                 "pred_away_score": 1,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -54432,7 +54432,7 @@
         ]
     },
     "Dashiel": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -55231,7 +55231,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -55317,7 +55317,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -55404,7 +55404,7 @@
         ]
     },
     "DazRob": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -56203,7 +56203,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -56289,7 +56289,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -56376,7 +56376,7 @@
         ]
     },
     "Deylin": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -57175,7 +57175,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -57261,7 +57261,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -57348,7 +57348,7 @@
         ]
     },
     "Dino": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -58147,7 +58147,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -58233,7 +58233,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 4,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -58320,7 +58320,7 @@
         ]
     },
     "Dora": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -59119,7 +59119,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -59205,7 +59205,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -59292,7 +59292,7 @@
         ]
     },
     "DougM": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -60091,7 +60091,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -60177,7 +60177,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -60264,7 +60264,7 @@
         ]
     },
     "Duarte": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -61063,7 +61063,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -61149,7 +61149,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -61236,7 +61236,7 @@
         ]
     },
     "Ed": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -62035,7 +62035,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -62121,7 +62121,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -62208,7 +62208,7 @@
         ]
     },
     "Edsel": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -63007,7 +63007,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -63093,7 +63093,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -63180,7 +63180,7 @@
         ]
     },
     "EdwardT": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -63979,7 +63979,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -64065,7 +64065,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -64152,7 +64152,7 @@
         ]
     },
     "Elliott": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -64951,7 +64951,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -65037,7 +65037,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -65124,7 +65124,7 @@
         ]
     },
     "EricK": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -65923,7 +65923,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -66009,7 +66009,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -66096,7 +66096,7 @@
         ]
     },
     "Ethan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -66895,7 +66895,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -66981,7 +66981,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -67068,7 +67068,7 @@
         ]
     },
     "Farshid": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -67867,7 +67867,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -67953,7 +67953,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -68040,7 +68040,7 @@
         ]
     },
     "Fawzi": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -68839,7 +68839,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -68925,7 +68925,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -69012,7 +69012,7 @@
         ]
     },
     "Fernando": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -69811,7 +69811,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -69897,7 +69897,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -69984,7 +69984,7 @@
         ]
     },
     "Filip": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -70783,7 +70783,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -70869,7 +70869,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -70956,7 +70956,7 @@
         ]
     },
     "Franco": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -71755,7 +71755,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -71841,7 +71841,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -71928,7 +71928,7 @@
         ]
     },
     "FrankC": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -72727,7 +72727,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -72813,7 +72813,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -72900,7 +72900,7 @@
         ]
     },
     "FrankD1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -73699,7 +73699,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -73785,7 +73785,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -73872,7 +73872,7 @@
         ]
     },
     "FrankD2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -74671,7 +74671,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -74757,7 +74757,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -74844,7 +74844,7 @@
         ]
     },
     "GabyDavide": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -75643,7 +75643,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -75729,7 +75729,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -75816,7 +75816,7 @@
         ]
     },
     "Gary": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -76615,7 +76615,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -76701,7 +76701,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -76788,7 +76788,7 @@
         ]
     },
     "GavinRiya": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -77587,7 +77587,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -77673,7 +77673,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -77760,7 +77760,7 @@
         ]
     },
     "GavinW": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -78559,7 +78559,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -78645,7 +78645,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -78732,7 +78732,7 @@
         ]
     },
     "Goran": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -79531,7 +79531,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -79617,7 +79617,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -79704,7 +79704,7 @@
         ]
     },
     "Greg": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -80503,7 +80503,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -80589,7 +80589,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -80676,7 +80676,7 @@
         ]
     },
     "Grosso": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -81475,7 +81475,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -81561,7 +81561,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -81648,7 +81648,7 @@
         ]
     },
     "GustavoH": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -82447,7 +82447,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -82533,7 +82533,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -82620,7 +82620,7 @@
         ]
     },
     "GustavoL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -83419,7 +83419,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -83505,7 +83505,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -83592,7 +83592,7 @@
         ]
     },
     "Gwen": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -84391,7 +84391,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -84477,7 +84477,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -84564,7 +84564,7 @@
         ]
     },
     "Heather": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -85363,7 +85363,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -85449,7 +85449,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -85536,7 +85536,7 @@
         ]
     },
     "HelderA": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -86335,7 +86335,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -86421,7 +86421,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -86508,7 +86508,7 @@
         ]
     },
     "Hernani": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -87307,7 +87307,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -87393,7 +87393,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -87480,7 +87480,7 @@
         ]
     },
     "Hugo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -88279,7 +88279,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -88365,7 +88365,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -88452,7 +88452,7 @@
         ]
     },
     "Ian": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -89251,7 +89251,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -89337,7 +89337,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -89424,7 +89424,7 @@
         ]
     },
     "Ida": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -90223,7 +90223,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -90309,7 +90309,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -90353,7 +90353,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -90396,7 +90396,7 @@
         ]
     },
     "Igor1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -91195,7 +91195,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -91281,7 +91281,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -91368,7 +91368,7 @@
         ]
     },
     "Igor2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -92167,7 +92167,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -92253,7 +92253,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -92340,7 +92340,7 @@
         ]
     },
     "Jalen": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -93139,7 +93139,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -93225,7 +93225,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -93312,7 +93312,7 @@
         ]
     },
     "JamesC": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -94111,7 +94111,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -94197,7 +94197,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -94284,7 +94284,7 @@
         ]
     },
     "JamesP": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -95083,7 +95083,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -95169,7 +95169,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -95256,7 +95256,7 @@
         ]
     },
     "Janelle": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -96055,7 +96055,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -96141,7 +96141,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -96228,7 +96228,7 @@
         ]
     },
     "JasonB": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -97027,7 +97027,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -97113,7 +97113,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -97200,7 +97200,7 @@
         ]
     },
     "JasonF": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -97999,7 +97999,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -98085,7 +98085,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -98172,7 +98172,7 @@
         ]
     },
     "Jaxon": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -98971,7 +98971,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -99057,7 +99057,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -99144,7 +99144,7 @@
         ]
     },
     "JeanMichel": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -99943,7 +99943,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -100029,7 +100029,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -100116,7 +100116,7 @@
         ]
     },
     "JeffB": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -100915,7 +100915,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -101001,7 +101001,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -101088,7 +101088,7 @@
         ]
     },
     "JeffS1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -101887,7 +101887,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -101973,7 +101973,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -102060,7 +102060,7 @@
         ]
     },
     "JeffS2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -102859,7 +102859,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -102945,7 +102945,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -103032,7 +103032,7 @@
         ]
     },
     "JeffT": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -103831,7 +103831,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -103917,7 +103917,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -103961,7 +103961,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Mexico",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -104004,7 +104004,7 @@
         ]
     },
     "Jenn": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -104803,7 +104803,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -104889,7 +104889,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -104976,7 +104976,7 @@
         ]
     },
     "Jennifer": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -105775,7 +105775,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -105861,7 +105861,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -105948,7 +105948,7 @@
         ]
     },
     "Jeremy": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -106747,7 +106747,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -106833,7 +106833,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -106877,7 +106877,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "England",
                 "pred_away_score": 1,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -106920,7 +106920,7 @@
         ]
     },
     "Jerry": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -107719,7 +107719,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -107805,7 +107805,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -107892,7 +107892,7 @@
         ]
     },
     "JessicaD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -108691,7 +108691,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -108777,7 +108777,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -108864,7 +108864,7 @@
         ]
     },
     "JessicaG": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -109663,7 +109663,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -109749,7 +109749,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -109836,7 +109836,7 @@
         ]
     },
     "JessicaS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -110635,7 +110635,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -110721,7 +110721,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -110808,7 +110808,7 @@
         ]
     },
     "Jhon": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -111607,7 +111607,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -111693,7 +111693,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -111780,7 +111780,7 @@
         ]
     },
     "Jim": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -112579,7 +112579,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -112665,7 +112665,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -112752,7 +112752,7 @@
         ]
     },
     "Joanna": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -113551,7 +113551,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -113637,7 +113637,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -113724,7 +113724,7 @@
         ]
     },
     "JoeA": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -114523,7 +114523,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -114609,7 +114609,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -114696,7 +114696,7 @@
         ]
     },
     "JoeD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -115495,7 +115495,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -115581,7 +115581,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -115668,7 +115668,7 @@
         ]
     },
     "JohnO": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -116467,7 +116467,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -116553,7 +116553,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -116640,7 +116640,7 @@
         ]
     },
     "JohnR": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -117439,7 +117439,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -117525,7 +117525,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -117612,7 +117612,7 @@
         ]
     },
     "Jonathan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -118411,7 +118411,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -118497,7 +118497,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -118584,7 +118584,7 @@
         ]
     },
     "JorgeC": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -119383,7 +119383,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -119469,7 +119469,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -119556,7 +119556,7 @@
         ]
     },
     "JorgeT": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -120355,7 +120355,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -120441,7 +120441,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -120528,7 +120528,7 @@
         ]
     },
     "Josh": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -121327,7 +121327,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -121413,7 +121413,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -121500,7 +121500,7 @@
         ]
     },
     "Juan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -122299,7 +122299,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -122385,7 +122385,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -122472,7 +122472,7 @@
         ]
     },
     "Julian": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -123271,7 +123271,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -123357,7 +123357,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -123444,7 +123444,7 @@
         ]
     },
     "JustinA": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -124243,7 +124243,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -124329,7 +124329,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -124416,7 +124416,7 @@
         ]
     },
     "JustinL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -125215,7 +125215,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -125301,7 +125301,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -125388,7 +125388,7 @@
         ]
     },
     "Kayden": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -126187,7 +126187,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -126273,7 +126273,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -126360,7 +126360,7 @@
         ]
     },
     "KevinC": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -127159,7 +127159,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -127245,7 +127245,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -127289,7 +127289,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -127332,7 +127332,7 @@
         ]
     },
     "KevinJ": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -128131,7 +128131,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -128217,7 +128217,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -128304,7 +128304,7 @@
         ]
     },
     "KevinS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -129103,7 +129103,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -129189,7 +129189,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -129276,7 +129276,7 @@
         ]
     },
     "Kristian": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -130075,7 +130075,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -130161,7 +130161,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -130248,7 +130248,7 @@
         ]
     },
     "Kumar": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -131047,7 +131047,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -131133,7 +131133,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -131220,7 +131220,7 @@
         ]
     },
     "Kyle": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -132019,7 +132019,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -132105,7 +132105,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -132192,7 +132192,7 @@
         ]
     },
     "Lena": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -132991,7 +132991,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -133077,7 +133077,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -133164,7 +133164,7 @@
         ]
     },
     "LiamA": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -133963,7 +133963,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -134049,7 +134049,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -134136,7 +134136,7 @@
         ]
     },
     "LiamMoh": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -134935,7 +134935,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -135021,7 +135021,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -135108,7 +135108,7 @@
         ]
     },
     "Lindsey": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -135907,7 +135907,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -135993,7 +135993,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -136037,7 +136037,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -136080,7 +136080,7 @@
         ]
     },
     "Lisa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -136879,7 +136879,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -136965,7 +136965,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -137052,7 +137052,7 @@
         ]
     },
     "Luka": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -137851,7 +137851,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -137937,7 +137937,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -138024,7 +138024,7 @@
         ]
     },
     "Magno": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -138823,7 +138823,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -138909,7 +138909,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -138996,7 +138996,7 @@
         ]
     },
     "Major": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -139795,7 +139795,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -139881,7 +139881,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -139968,7 +139968,7 @@
         ]
     },
     "Manley": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -140767,7 +140767,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -140853,7 +140853,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -140940,7 +140940,7 @@
         ]
     },
     "MannyT": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -141739,7 +141739,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -141825,7 +141825,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -141912,7 +141912,7 @@
         ]
     },
     "MarcioD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -142711,7 +142711,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -142797,7 +142797,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -142884,7 +142884,7 @@
         ]
     },
     "MarcioS": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -143683,7 +143683,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -143769,7 +143769,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -143856,7 +143856,7 @@
         ]
     },
     "MarcoR": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -144655,7 +144655,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -144741,7 +144741,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -144828,7 +144828,7 @@
         ]
     },
     "Maria": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -145627,7 +145627,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -145713,7 +145713,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -145800,7 +145800,7 @@
         ]
     },
     "Marta": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -146599,7 +146599,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -146685,7 +146685,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -146772,7 +146772,7 @@
         ]
     },
     "MatthewG": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -147571,7 +147571,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -147657,7 +147657,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -147744,7 +147744,7 @@
         ]
     },
     "MatthewSa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -148543,7 +148543,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -148629,7 +148629,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -148716,7 +148716,7 @@
         ]
     },
     "MatthewSm1": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -149515,7 +149515,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -149601,7 +149601,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -149688,7 +149688,7 @@
         ]
     },
     "MatthewSm2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -150487,7 +150487,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -150573,7 +150573,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -150660,7 +150660,7 @@
         ]
     },
     "Max": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -151459,7 +151459,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -151545,7 +151545,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -151632,7 +151632,7 @@
         ]
     },
     "Melissa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -152431,7 +152431,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -152517,7 +152517,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -152604,7 +152604,7 @@
         ]
     },
     "MichaelL": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -153403,7 +153403,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -153489,7 +153489,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -153576,7 +153576,7 @@
         ]
     },
     "MichaelM": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -154375,7 +154375,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -154461,7 +154461,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -154548,7 +154548,7 @@
         ]
     },
     "MichaelPi": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -155347,7 +155347,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -155433,7 +155433,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -155520,7 +155520,7 @@
         ]
     },
     "Michele": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -156319,7 +156319,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -156405,7 +156405,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -156492,7 +156492,7 @@
         ]
     },
     "Mihajlo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -157291,7 +157291,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -157377,7 +157377,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -157464,7 +157464,7 @@
         ]
     },
     "MikeD": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -158263,7 +158263,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -158349,7 +158349,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -158436,7 +158436,7 @@
         ]
     },
     "Misic1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -159235,7 +159235,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -159321,7 +159321,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -159408,7 +159408,7 @@
         ]
     },
     "Misic2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -160207,7 +160207,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -160293,7 +160293,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -160380,7 +160380,7 @@
         ]
     },
     "Nas": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -161179,7 +161179,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -161265,7 +161265,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -161352,7 +161352,7 @@
         ]
     },
     "Nelson": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -162151,7 +162151,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -162237,7 +162237,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -162324,7 +162324,7 @@
         ]
     },
     "NickM": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -163123,7 +163123,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -163209,7 +163209,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -163296,7 +163296,7 @@
         ]
     },
     "Nicolas": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -164095,7 +164095,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -164181,7 +164181,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -164268,7 +164268,7 @@
         ]
     },
     "Nicole1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -165067,7 +165067,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -165153,7 +165153,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -165240,7 +165240,7 @@
         ]
     },
     "Nicole2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -166039,7 +166039,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -166125,7 +166125,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -166212,7 +166212,7 @@
         ]
     },
     "Nima": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -167011,7 +167011,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -167097,7 +167097,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -167184,7 +167184,7 @@
         ]
     },
     "Nolan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -167983,7 +167983,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -168069,7 +168069,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -168156,7 +168156,7 @@
         ]
     },
     "Nuno1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -168955,7 +168955,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -169041,7 +169041,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -169128,7 +169128,7 @@
         ]
     },
     "Nuno2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -169927,7 +169927,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -170013,7 +170013,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -170556,7 +170556,7 @@
         ]
     },
     "Paolo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -171355,7 +171355,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -171441,7 +171441,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -171528,7 +171528,7 @@
         ]
     },
     "Pardeep": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -172327,7 +172327,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -172413,7 +172413,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -172500,7 +172500,7 @@
         ]
     },
     "Pascal": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -173299,7 +173299,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -173385,7 +173385,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -173429,7 +173429,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 3,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -173472,7 +173472,7 @@
         ]
     },
     "Patullo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -174271,7 +174271,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -174357,7 +174357,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -174444,7 +174444,7 @@
         ]
     },
     "PaulA": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -175243,7 +175243,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -175329,7 +175329,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -175416,7 +175416,7 @@
         ]
     },
     "PaulC": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -176215,7 +176215,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -176301,7 +176301,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -176388,7 +176388,7 @@
         ]
     },
     "PetarS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -177187,7 +177187,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -177273,7 +177273,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -177360,7 +177360,7 @@
         ]
     },
     "Pierfelice": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -178159,7 +178159,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -178245,7 +178245,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -178332,7 +178332,7 @@
         ]
     },
     "Preto1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -179131,7 +179131,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -179217,7 +179217,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -179304,7 +179304,7 @@
         ]
     },
     "Preto2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -180103,7 +180103,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -180189,7 +180189,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -180276,7 +180276,7 @@
         ]
     },
     "Punit": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -181075,7 +181075,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -181161,7 +181161,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -181248,7 +181248,7 @@
         ]
     },
     "Rachel": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -182047,7 +182047,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -182133,7 +182133,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -182220,7 +182220,7 @@
         ]
     },
     "RD2026": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -183019,7 +183019,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -183105,7 +183105,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -183192,7 +183192,7 @@
         ]
     },
     "Ricardo1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -183991,7 +183991,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -184077,7 +184077,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -184164,7 +184164,7 @@
         ]
     },
     "Ricardo2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -184963,7 +184963,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -185049,7 +185049,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -185136,7 +185136,7 @@
         ]
     },
     "RichardMa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -185935,7 +185935,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -186021,7 +186021,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -186108,7 +186108,7 @@
         ]
     },
     "RichardMo": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -186907,7 +186907,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -186993,7 +186993,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -187080,7 +187080,7 @@
         ]
     },
     "Rick": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -187879,7 +187879,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -187965,7 +187965,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -188052,7 +188052,7 @@
         ]
     },
     "Ricky": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -188851,7 +188851,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -188937,7 +188937,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -189024,7 +189024,7 @@
         ]
     },
     "Rita": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -189823,7 +189823,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -189909,7 +189909,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -189996,7 +189996,7 @@
         ]
     },
     "Riyad": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -190795,7 +190795,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -190881,7 +190881,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -190968,7 +190968,7 @@
         ]
     },
     "RobertP": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -191767,7 +191767,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -191853,7 +191853,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -191940,7 +191940,7 @@
         ]
     },
     "RobertS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -192739,7 +192739,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -192825,7 +192825,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -192912,7 +192912,7 @@
         ]
     },
     "RobSi": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -193711,7 +193711,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -193797,7 +193797,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -193884,7 +193884,7 @@
         ]
     },
     "RobTu": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -194683,7 +194683,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -194769,7 +194769,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -194856,7 +194856,7 @@
         ]
     },
     "RobW": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -195655,7 +195655,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -195741,7 +195741,7 @@
                 "pred_home_score": 5,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -195828,7 +195828,7 @@
         ]
     },
     "Rodrigo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -196627,7 +196627,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -196713,7 +196713,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -196800,7 +196800,7 @@
         ]
     },
     "Rousse": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -197599,7 +197599,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -197685,7 +197685,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -197772,7 +197772,7 @@
         ]
     },
     "Roy": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -198571,7 +198571,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -198657,7 +198657,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -198744,7 +198744,7 @@
         ]
     },
     "Salim": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -199543,7 +199543,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -199629,7 +199629,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -199673,7 +199673,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -199716,7 +199716,7 @@
         ]
     },
     "Sarujan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -200515,7 +200515,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -200601,7 +200601,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -200688,7 +200688,7 @@
         ]
     },
     "Sean": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -201487,7 +201487,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -201573,7 +201573,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -201660,7 +201660,7 @@
         ]
     },
     "Shawn1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -202459,7 +202459,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -202545,7 +202545,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -202632,7 +202632,7 @@
         ]
     },
     "Shawn2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -203431,7 +203431,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -203517,7 +203517,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -203604,7 +203604,7 @@
         ]
     },
     "Sheila": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -204403,7 +204403,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -204489,7 +204489,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -204576,7 +204576,7 @@
         ]
     },
     "Simon": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -205375,7 +205375,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -205461,7 +205461,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -205548,7 +205548,7 @@
         ]
     },
     "Simone": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -206347,7 +206347,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -206433,7 +206433,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -206520,7 +206520,7 @@
         ]
     },
     "Simrun": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -207319,7 +207319,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -207405,7 +207405,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -207492,7 +207492,7 @@
         ]
     },
     "Stallone1": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -208291,7 +208291,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -208377,7 +208377,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -208464,7 +208464,7 @@
         ]
     },
     "Stallone2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -209263,7 +209263,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -209349,7 +209349,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -209436,7 +209436,7 @@
         ]
     },
     "Stanley": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -210235,7 +210235,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -210321,7 +210321,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -210408,7 +210408,7 @@
         ]
     },
     "Stephen": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -211207,7 +211207,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -211293,7 +211293,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -211380,7 +211380,7 @@
         ]
     },
     "StevenT": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -212179,7 +212179,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -212265,7 +212265,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -212352,7 +212352,7 @@
         ]
     },
     "Tanya": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -213151,7 +213151,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -213237,7 +213237,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -213324,7 +213324,7 @@
         ]
     },
     "Theo": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -214123,7 +214123,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -214209,7 +214209,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -214296,7 +214296,7 @@
         ]
     },
     "Todaro": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -215095,7 +215095,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -215181,7 +215181,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -215268,7 +215268,7 @@
         ]
     },
     "Tomas": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -216067,7 +216067,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -216153,7 +216153,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -216240,7 +216240,7 @@
         ]
     },
     "TomP": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -217039,7 +217039,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -217125,7 +217125,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -217212,7 +217212,7 @@
         ]
     },
     "TonyH": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -218011,7 +218011,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -218097,7 +218097,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -218184,7 +218184,7 @@
         ]
     },
     "TonyMa": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -218983,7 +218983,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -219069,7 +219069,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -219156,7 +219156,7 @@
         ]
     },
     "TonyMi": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -219955,7 +219955,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -220041,7 +220041,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -220128,7 +220128,7 @@
         ]
     },
     "TonyS": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -220927,7 +220927,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -221013,7 +221013,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -221100,7 +221100,7 @@
         ]
     },
     "TonyV": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -221899,7 +221899,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -221985,7 +221985,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -222072,7 +222072,7 @@
         ]
     },
     "Trevor": {
-        "total_points": 923,
+        "total_points": 878,
         "matches": {
             "GroupA": [
                 {
@@ -222871,7 +222871,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -222957,7 +222957,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -223001,7 +223001,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "England",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Argentina",
@@ -223044,7 +223044,7 @@
         ]
     },
     "Tristan": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -223843,7 +223843,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -223929,7 +223929,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -224016,7 +224016,7 @@
         ]
     },
     "Victor": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -224815,7 +224815,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -224901,7 +224901,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -224988,7 +224988,7 @@
         ]
     },
     "Vishal": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -225787,7 +225787,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -225873,7 +225873,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -225960,7 +225960,7 @@
         ]
     },
     "Vito": {
-        "total_points": 923,
+        "total_points": 906,
         "matches": {
             "GroupA": [
                 {
@@ -226759,7 +226759,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -226845,7 +226845,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             },
             {
                 "pred_home_name": "Mexico",
@@ -226932,7 +226932,7 @@
         ]
     },
     "VukSto": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -227731,7 +227731,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -227817,7 +227817,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -227904,7 +227904,7 @@
         ]
     },
     "Wilson": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -228703,7 +228703,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -228789,7 +228789,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -228876,7 +228876,7 @@
         ]
     },
     "Yogi": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -229675,7 +229675,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -229761,7 +229761,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ivory Coast",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Ecuador",
@@ -229848,7 +229848,7 @@
         ]
     },
     "JoeA2": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -230647,7 +230647,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Japan",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -230733,7 +230733,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Norway",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -230820,7 +230820,7 @@
         ]
     },
     "JoeA3": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -231619,7 +231619,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -231705,7 +231705,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Norway",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
@@ -231792,7 +231792,7 @@
         ]
     },
     "Samantha": {
-        "total_points": 923,
+        "total_points": 910,
         "matches": {
             "GroupA": [
                 {
@@ -232591,7 +232591,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Japan",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Ivory Coast",
@@ -232677,7 +232677,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Norway",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             },
             {
                 "pred_home_name": "Mexico",
