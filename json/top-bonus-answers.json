@@ -4,15 +4,15 @@
         "rows": [
             {
                 "col1": "Germany",
-                "col2": "67"
+                "col2": "65"
             },
             {
                 "col1": "Spain",
-                "col2": "51"
+                "col2": "50"
             },
             {
                 "col1": "Brazil",
-                "col2": "48"
+                "col2": "47"
             },
             {
                 "col1": "France",
@@ -33,7 +33,7 @@
         "rows": [
             {
                 "col1": "France",
-                "col2": "65"
+                "col2": "63"
             },
             {
                 "col1": "Norway",
@@ -53,7 +53,7 @@
             },
             {
                 "col1": "Portugal",
-                "col2": "18"
+                "col2": "17"
             }
         ]
     },
@@ -62,7 +62,7 @@
         "rows": [
             {
                 "col1": "Mexico",
-                "col2": "82"
+                "col2": "78"
             },
             {
                 "col1": "Canada",
@@ -81,11 +81,11 @@
                 "col2": "37"
             },
             {
-                "col1": "South Korea",
+                "col1": "France",
                 "col2": "37"
             },
             {
-                "col1": "France",
+                "col1": "South Korea",
                 "col2": "37"
             },
             {
@@ -93,11 +93,11 @@
                 "col2": "37"
             },
             {
-                "col1": "Czechia",
+                "col1": "BOSNIA",
                 "col2": "37"
             },
             {
-                "col1": "South Africa",
+                "col1": "Czechia",
                 "col2": "37"
             }
         ]
@@ -107,7 +107,7 @@
         "rows": [
             {
                 "col1": "Curacao",
-                "col2": "28"
+                "col2": "27"
             },
             {
                 "col1": "South Africa",
@@ -127,11 +127,11 @@
             },
             {
                 "col1": "NO OWN-GOALS",
-                "col2": "12"
+                "col2": "10"
             },
             {
                 "col1": "Algeria",
-                "col2": "10"
+                "col2": "9"
             },
             {
                 "col1": "Bosnia",
@@ -152,11 +152,11 @@
         "rows": [
             {
                 "col1": "15 goals",
-                "col2": "23"
+                "col2": "22"
             },
             {
                 "col1": "19 goals",
-                "col2": "14"
+                "col2": "13"
             },
             {
                 "col1": "6 goals",
@@ -171,8 +171,8 @@
                 "col2": "11"
             },
             {
-                "col1": "26 goals",
-                "col2": "11"
+                "col1": "5 goals",
+                "col2": "10"
             }
         ]
     },
@@ -181,7 +181,7 @@
         "rows": [
             {
                 "col1": "Paraguay",
-                "col2": "27"
+                "col2": "26"
             },
             {
                 "col1": "Haiti",
@@ -200,14 +200,6 @@
                 "col2": "11"
             },
             {
-                "col1": "Ghana",
-                "col2": "10"
-            },
-            {
-                "col1": "Cabo Verde",
-                "col2": "9"
-            },
-            {
                 "col1": "Iraq",
                 "col2": "9"
             },
@@ -218,6 +210,14 @@
             {
                 "col1": "Bosnia",
                 "col2": "8"
+            },
+            {
+                "col1": "Cabo Verde",
+                "col2": "8"
+            },
+            {
+                "col1": "Ghana",
+                "col2": "8"
             }
         ]
     },
@@ -226,7 +226,7 @@
         "rows": [
             {
                 "col1": "Paraguay",
-                "col2": "22"
+                "col2": "20"
             },
             {
                 "col1": "South Africa",
@@ -253,12 +253,12 @@
                 "col2": "9"
             },
             {
-                "col1": "Uruguay",
+                "col1": "Uzbekistan",
                 "col2": "9"
             },
             {
-                "col1": "Uzbekistan",
-                "col2": "9"
+                "col1": "Uruguay",
+                "col2": "8"
             },
             {
                 "col1": "Argentina",
@@ -271,11 +271,11 @@
         "rows": [
             {
                 "col1": "6 cards",
-                "col2": "30"
+                "col2": "28"
             },
             {
                 "col1": "7 cards",
-                "col2": "27"
+                "col2": "26"
             },
             {
                 "col1": "5 cards",
@@ -291,7 +291,7 @@
             },
             {
                 "col1": "9 cards",
-                "col2": "20"
+                "col2": "19"
             }
         ]
     },
@@ -329,7 +329,7 @@
         "rows": [
             {
                 "col1": "Argentina",
-                "col2": "39"
+                "col2": "38"
             },
             {
                 "col1": "Uruguay",
@@ -352,10 +352,6 @@
                 "col2": "10"
             },
             {
-                "col1": "Brazil",
-                "col2": "8"
-            },
-            {
                 "col1": "Congo",
                 "col2": "8"
             },
@@ -366,6 +362,10 @@
             {
                 "col1": "Panama",
                 "col2": "8"
+            },
+            {
+                "col1": "Brazil",
+                "col2": "7"
             }
         ]
     },
@@ -374,14 +374,6 @@
         "rows": [
             {
                 "col1": "269 goals",
-                "col2": "7"
-            },
-            {
-                "col1": "254 goals",
-                "col2": "6"
-            },
-            {
-                "col1": "278 goals",
                 "col2": "6"
             },
             {
@@ -389,11 +381,19 @@
                 "col2": "6"
             },
             {
+                "col1": "254 goals",
+                "col2": "5"
+            },
+            {
                 "col1": "258 goals",
                 "col2": "5"
             },
             {
-                "col1": "261 goals",
+                "col1": "272 goals",
+                "col2": "5"
+            },
+            {
+                "col1": "276 goals",
                 "col2": "5"
             }
         ]
@@ -403,15 +403,15 @@
         "rows": [
             {
                 "col1": "4 games",
-                "col2": "46"
+                "col2": "45"
             },
             {
                 "col1": "6 games",
-                "col2": "41"
+                "col2": "38"
             },
             {
                 "col1": "5 games",
-                "col2": "38"
+                "col2": "37"
             },
             {
                 "col1": "7 games",
@@ -419,7 +419,7 @@
             },
             {
                 "col1": "8 games",
-                "col2": "28"
+                "col2": "26"
             },
             {
                 "col1": "3 games",
@@ -432,35 +432,35 @@
         "rows": [
             {
                 "col1": "minute 25 - 36",
-                "col2": "90"
+                "col2": "87"
             },
             {
                 "col1": "minute 13 - 24",
-                "col2": "70"
+                "col2": "69"
             },
             {
                 "col1": "minute 37 - 48",
                 "col2": "37"
             },
             {
-                "col1": "minute 49 - 60",
-                "col2": "14"
-            },
-            {
                 "col1": "minute 1 - 12",
                 "col2": "13"
             },
             {
-                "col1": "minute 61 - 72",
-                "col2": "11"
+                "col1": "minute 49 - 60",
+                "col2": "13"
             },
             {
-                "col1": "minute 73 - 84",
-                "col2": "4"
+                "col1": "minute 61 - 72",
+                "col2": "10"
             },
             {
                 "col1": "minute 85 - 96",
                 "col2": "4"
+            },
+            {
+                "col1": "minute 73 - 84",
+                "col2": "3"
             },
             {
                 "col1": "minute 97 - 108",
@@ -477,23 +477,23 @@
         "rows": [
             {
                 "col1": "5 cards",
-                "col2": "55"
+                "col2": "53"
             },
             {
                 "col1": "4 cards",
-                "col2": "52"
+                "col2": "50"
             },
             {
                 "col1": "3 cards",
-                "col2": "43"
+                "col2": "42"
             },
             {
                 "col1": "6 cards",
-                "col2": "35"
+                "col2": "34"
             },
             {
                 "col1": "2 cards",
-                "col2": "25"
+                "col2": "24"
             },
             {
                 "col1": "7 cards",
@@ -523,11 +523,11 @@
         "rows": [
             {
                 "col1": "No",
-                "col2": "207"
+                "col2": "201"
             },
             {
                 "col1": "Yes",
-                "col2": "38"
+                "col2": "37"
             }
         ]
     },
@@ -540,15 +540,15 @@
             },
             {
                 "col1": "France",
-                "col2": "39"
+                "col2": "37"
             },
             {
                 "col1": "Germany",
-                "col2": "38"
+                "col2": "36"
             },
             {
                 "col1": "Brazil",
-                "col2": "28"
+                "col2": "27"
             },
             {
                 "col1": "Portugal",
@@ -556,7 +556,7 @@
             },
             {
                 "col1": "Argentina",
-                "col2": "17"
+                "col2": "16"
             }
         ]
     },
@@ -565,11 +565,11 @@
         "rows": [
             {
                 "col1": "Spain vs Cabo Verde",
-                "col2": "40"
+                "col2": "39"
             },
             {
                 "col1": "Germany vs Curacao",
-                "col2": "38"
+                "col2": "37"
             },
             {
                 "col1": "Brazil vs Haiti",
@@ -581,7 +581,7 @@
             },
             {
                 "col1": "Norway vs France",
-                "col2": "11"
+                "col2": "10"
             },
             {
                 "col1": "France vs Senegal",
@@ -594,27 +594,27 @@
         "rows": [
             {
                 "col1": "NONE",
-                "col2": "37"
+                "col2": "35"
             },
             {
                 "col1": "Brazil vs Morocco",
                 "col2": "22"
             },
             {
-                "col1": "Argentina vs Algeria",
-                "col2": "16"
-            },
-            {
                 "col1": "Mexico vs South Africa",
                 "col2": "16"
             },
             {
-                "col1": "Canada vs Bosnia",
+                "col1": "Argentina vs Algeria",
                 "col2": "15"
             },
             {
+                "col1": "Canada vs Bosnia",
+                "col2": "14"
+            },
+            {
                 "col1": "USA vs Paraguay",
-                "col2": "15"
+                "col2": "14"
             }
         ]
     },
@@ -623,7 +623,7 @@
         "rows": [
             {
                 "col1": "NONE",
-                "col2": "54"
+                "col2": "51"
             },
             {
                 "col1": "Canada vs Bosnia",
