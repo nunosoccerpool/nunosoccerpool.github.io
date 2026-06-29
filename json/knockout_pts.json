@@ -7969,12 +7969,12 @@
                 "pred_home_name": "South Africa",
                 "pred_home_score": 0,
                 "pred_away_name": "Canada",
-                "pred_away_score": 2,
+                "pred_away_score": 1,
                 "act_home_name": "South Africa",
                 "act_home_score": 0,
                 "act_away_name": "Canada",
                 "act_away_score": 1,
-                "pts_awarded": 0
+                "pts_awarded": 3
             },
             {
                 "pred_home_name": "Netherlands",
@@ -8300,7 +8300,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 10
+        "total_points": 13
     },
     "Arjun": {
         "round_of_32": [
@@ -41179,14 +41179,14 @@
             },
             {
                 "pred_home_name": "South Africa",
-                "pred_home_score": 1,
+                "pred_home_score": 0,
                 "pred_away_name": "Canada",
                 "pred_away_score": 1,
                 "act_home_name": "South Africa",
                 "act_home_score": 0,
                 "act_away_name": "Canada",
                 "act_away_score": 1,
-                "pts_awarded": 0
+                "pts_awarded": 3
             },
             {
                 "pred_home_name": "Netherlands",
@@ -41512,7 +41512,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 10
+        "total_points": 13
     },
     "Jim": {
         "round_of_32": [
