@@ -1,6 +1,6 @@
 {
     "Nuno": {
-        "total_points": 11,
+        "total_points": 18,
         "matches": {
             "GroupA": [
                 {
@@ -785,7 +785,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "",
@@ -878,7 +878,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": -10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "",
@@ -972,7 +972,7 @@
         ]
     },
     "Aaron1": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -1757,7 +1757,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -1850,7 +1850,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -1944,7 +1944,7 @@
         ]
     },
     "Aaron2": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -2729,7 +2729,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -2822,7 +2822,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -2916,7 +2916,7 @@
         ]
     },
     "Aaron3": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -3701,7 +3701,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -3794,7 +3794,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -3888,7 +3888,7 @@
         ]
     },
     "Aban": {
-        "total_points": 579,
+        "total_points": 566,
         "matches": {
             "GroupA": [
                 {
@@ -4673,7 +4673,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -4766,7 +4766,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 3,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -4860,7 +4860,7 @@
         ]
     },
     "Adam": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -5645,7 +5645,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -5738,7 +5738,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -5832,7 +5832,7 @@
         ]
     },
     "Adrian": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -6617,7 +6617,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -6710,7 +6710,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -6804,7 +6804,7 @@
         ]
     },
     "AI": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -7589,7 +7589,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -7682,7 +7682,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -7776,7 +7776,7 @@
         ]
     },
     "Albeiro": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -8561,7 +8561,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -8654,7 +8654,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -8748,7 +8748,7 @@
         ]
     },
     "Alex": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -9533,7 +9533,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -9626,7 +9626,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -9720,7 +9720,7 @@
         ]
     },
     "Ali": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -10505,7 +10505,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -10598,7 +10598,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -10692,7 +10692,7 @@
         ]
     },
     "Alice": {
-        "total_points": 563,
+        "total_points": 550,
         "matches": {
             "GroupA": [
                 {
@@ -11477,7 +11477,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -11570,7 +11570,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -11664,7 +11664,7 @@
         ]
     },
     "Alnashir": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -12449,7 +12449,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -12542,7 +12542,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -12636,7 +12636,7 @@
         ]
     },
     "Alston1": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -13421,7 +13421,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -13514,7 +13514,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -13608,7 +13608,7 @@
         ]
     },
     "Alston2": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -14393,7 +14393,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -14486,7 +14486,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -14580,7 +14580,7 @@
         ]
     },
     "AnaL": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -15365,7 +15365,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -15458,7 +15458,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -15552,7 +15552,7 @@
         ]
     },
     "AnaS": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -16337,7 +16337,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -16430,7 +16430,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -16524,7 +16524,7 @@
         ]
     },
     "Andres": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -17309,7 +17309,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -17402,7 +17402,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -17496,7 +17496,7 @@
         ]
     },
     "Angel": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -18281,7 +18281,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -18374,7 +18374,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -18468,7 +18468,7 @@
         ]
     },
     "Anicio": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -19253,7 +19253,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -19346,7 +19346,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -19440,7 +19440,7 @@
         ]
     },
     "AniD": {
-        "total_points": 707,
+        "total_points": 694,
         "matches": {
             "GroupA": [
                 {
@@ -20225,7 +20225,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -20318,7 +20318,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -20412,7 +20412,7 @@
         ]
     },
     "Ante": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -21197,7 +21197,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -21290,7 +21290,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 3,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -21384,7 +21384,7 @@
         ]
     },
     "AnthonyV": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -22169,7 +22169,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -22262,7 +22262,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -22356,7 +22356,7 @@
         ]
     },
     "Arjun": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -23141,7 +23141,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -23234,7 +23234,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -23328,7 +23328,7 @@
         ]
     },
     "Arturo": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -24113,7 +24113,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -24206,7 +24206,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -24300,7 +24300,7 @@
         ]
     },
     "Ash": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -25085,7 +25085,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -25178,7 +25178,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -25272,7 +25272,7 @@
         ]
     },
     "Augie": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -26057,7 +26057,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -26150,7 +26150,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -26244,7 +26244,7 @@
         ]
     },
     "Bindu": {
-        "total_points": 675,
+        "total_points": 662,
         "matches": {
             "GroupA": [
                 {
@@ -27029,7 +27029,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -27122,7 +27122,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -27216,7 +27216,7 @@
         ]
     },
     "Brendan": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -28001,7 +28001,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -28094,7 +28094,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -28188,7 +28188,7 @@
         ]
     },
     "BrianS": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -28973,7 +28973,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -29066,7 +29066,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -29160,7 +29160,7 @@
         ]
     },
     "Cameron": {
-        "total_points": 807,
+        "total_points": 794,
         "matches": {
             "GroupA": [
                 {
@@ -29945,7 +29945,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -30038,7 +30038,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -30132,7 +30132,7 @@
         ]
     },
     "CarlosD": {
-        "total_points": 811,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -30917,7 +30917,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -31010,7 +31010,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -31054,7 +31054,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Norway",
@@ -31104,7 +31104,7 @@
         ]
     },
     "CarlosG": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -31889,7 +31889,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -31982,7 +31982,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -32076,7 +32076,7 @@
         ]
     },
     "CarlosS1": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -32861,7 +32861,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -32954,7 +32954,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -33048,7 +33048,7 @@
         ]
     },
     "CarlosS2": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -33833,7 +33833,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -33926,7 +33926,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -34020,7 +34020,7 @@
         ]
     },
     "Carmen": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -34805,7 +34805,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -34898,7 +34898,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -34992,7 +34992,7 @@
         ]
     },
     "Caroline": {
-        "total_points": 803,
+        "total_points": 790,
         "matches": {
             "GroupA": [
                 {
@@ -35777,7 +35777,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -35870,7 +35870,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -35964,7 +35964,7 @@
         ]
     },
     "Charles": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -36749,7 +36749,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -36842,7 +36842,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -36936,7 +36936,7 @@
         ]
     },
     "ChrisK": {
-        "total_points": 611,
+        "total_points": 598,
         "matches": {
             "GroupA": [
                 {
@@ -37721,7 +37721,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -37814,7 +37814,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -37908,7 +37908,7 @@
         ]
     },
     "ChrisN": {
-        "total_points": 659,
+        "total_points": 646,
         "matches": {
             "GroupA": [
                 {
@@ -38693,7 +38693,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -38786,7 +38786,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -38880,7 +38880,7 @@
         ]
     },
     "ChrisP": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -39665,7 +39665,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -39758,7 +39758,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -39852,7 +39852,7 @@
         ]
     },
     "Chrissy": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -40637,7 +40637,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -40730,7 +40730,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -40824,7 +40824,7 @@
         ]
     },
     "ChristianL": {
-        "total_points": 811,
+        "total_points": 794,
         "matches": {
             "GroupA": [
                 {
@@ -41609,7 +41609,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -41702,7 +41702,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -41796,7 +41796,7 @@
         ]
     },
     "CMD88": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -42581,7 +42581,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -42674,7 +42674,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -42768,7 +42768,7 @@
         ]
     },
     "Coco": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -43553,7 +43553,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -43646,7 +43646,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -43740,7 +43740,7 @@
         ]
     },
     "Corey": {
-        "total_points": 579,
+        "total_points": 566,
         "matches": {
             "GroupA": [
                 {
@@ -44525,7 +44525,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -44618,7 +44618,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -44712,7 +44712,7 @@
         ]
     },
     "Daisy1": {
-        "total_points": 491,
+        "total_points": 478,
         "matches": {
             "GroupA": [
                 {
@@ -45497,7 +45497,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -45590,7 +45590,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -45684,7 +45684,7 @@
         ]
     },
     "Daisy2": {
-        "total_points": 591,
+        "total_points": 578,
         "matches": {
             "GroupA": [
                 {
@@ -46469,7 +46469,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -46562,7 +46562,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -46656,7 +46656,7 @@
         ]
     },
     "Damian": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -47441,7 +47441,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -47534,7 +47534,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -47628,7 +47628,7 @@
         ]
     },
     "DanielM": {
-        "total_points": 491,
+        "total_points": 478,
         "matches": {
             "GroupA": [
                 {
@@ -48413,7 +48413,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -48506,7 +48506,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -48600,7 +48600,7 @@
         ]
     },
     "DanielR": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -49385,7 +49385,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -49478,7 +49478,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 3,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -49572,7 +49572,7 @@
         ]
     },
     "DannyCR7": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -50357,7 +50357,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -50450,7 +50450,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -50544,7 +50544,7 @@
         ]
     },
     "DannyL": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -51329,7 +51329,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -51422,7 +51422,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -51516,7 +51516,7 @@
         ]
     },
     "DannyRa": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -52301,7 +52301,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -52394,7 +52394,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -52488,7 +52488,7 @@
         ]
     },
     "Darryll": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -53273,7 +53273,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -53366,7 +53366,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -53460,7 +53460,7 @@
         ]
     },
     "DarylF": {
-        "total_points": 463,
+        "total_points": 450,
         "matches": {
             "GroupA": [
                 {
@@ -54245,7 +54245,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -54338,7 +54338,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -54432,7 +54432,7 @@
         ]
     },
     "Dashiel": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -55217,7 +55217,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -55310,7 +55310,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -55404,7 +55404,7 @@
         ]
     },
     "DazRob": {
-        "total_points": 779,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -56189,7 +56189,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -56282,7 +56282,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -56326,7 +56326,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Norway",
@@ -56376,7 +56376,7 @@
         ]
     },
     "Deylin": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -57161,7 +57161,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -57254,7 +57254,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -57348,7 +57348,7 @@
         ]
     },
     "Dino": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -58133,7 +58133,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -58226,7 +58226,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -58320,7 +58320,7 @@
         ]
     },
     "Dora": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -59105,7 +59105,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -59198,7 +59198,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -59292,7 +59292,7 @@
         ]
     },
     "DougM": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -60077,7 +60077,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -60170,7 +60170,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -60264,7 +60264,7 @@
         ]
     },
     "Duarte": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -61049,7 +61049,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -61142,7 +61142,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -61236,7 +61236,7 @@
         ]
     },
     "Ed": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -62021,7 +62021,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -62114,7 +62114,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -62208,7 +62208,7 @@
         ]
     },
     "Edsel": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -62993,7 +62993,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -63086,7 +63086,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -63180,7 +63180,7 @@
         ]
     },
     "EdwardT": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -63965,7 +63965,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -64058,7 +64058,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -64152,7 +64152,7 @@
         ]
     },
     "Elliott": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -64937,7 +64937,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -65030,7 +65030,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -65124,7 +65124,7 @@
         ]
     },
     "EricK": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -65909,7 +65909,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -66002,7 +66002,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -66096,7 +66096,7 @@
         ]
     },
     "Ethan": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -66881,7 +66881,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -66974,7 +66974,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -67068,7 +67068,7 @@
         ]
     },
     "Farshid": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -67853,7 +67853,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -67946,7 +67946,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -68040,7 +68040,7 @@
         ]
     },
     "Fawzi": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -68825,7 +68825,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -68918,7 +68918,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -69012,7 +69012,7 @@
         ]
     },
     "Fernando": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -69797,7 +69797,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -69890,7 +69890,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -69984,7 +69984,7 @@
         ]
     },
     "Filip": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -70769,7 +70769,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -70862,7 +70862,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -70956,7 +70956,7 @@
         ]
     },
     "Franco": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -71741,7 +71741,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -71834,7 +71834,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -71928,7 +71928,7 @@
         ]
     },
     "FrankC": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -72713,7 +72713,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -72806,7 +72806,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -72900,7 +72900,7 @@
         ]
     },
     "FrankD1": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -73685,7 +73685,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -73778,7 +73778,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -73872,7 +73872,7 @@
         ]
     },
     "FrankD2": {
-        "total_points": 475,
+        "total_points": 462,
         "matches": {
             "GroupA": [
                 {
@@ -74657,7 +74657,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -74750,7 +74750,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -74844,7 +74844,7 @@
         ]
     },
     "GabyDavide": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -75629,7 +75629,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -75722,7 +75722,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -75816,7 +75816,7 @@
         ]
     },
     "Gary": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -76601,7 +76601,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -76694,7 +76694,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -76788,7 +76788,7 @@
         ]
     },
     "GavinRiya": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -77573,7 +77573,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -77666,7 +77666,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -77760,7 +77760,7 @@
         ]
     },
     "GavinW": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -78545,7 +78545,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -78638,7 +78638,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -78732,7 +78732,7 @@
         ]
     },
     "Goran": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -79517,7 +79517,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -79610,7 +79610,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -79704,7 +79704,7 @@
         ]
     },
     "Greg": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -80489,7 +80489,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -80582,7 +80582,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -80676,7 +80676,7 @@
         ]
     },
     "Grosso": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -81461,7 +81461,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -81554,7 +81554,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -81648,7 +81648,7 @@
         ]
     },
     "GustavoH": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -82433,7 +82433,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -82526,7 +82526,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -82620,7 +82620,7 @@
         ]
     },
     "GustavoL": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -83405,7 +83405,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -83498,7 +83498,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -83592,7 +83592,7 @@
         ]
     },
     "Gwen": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -84377,7 +84377,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -84470,7 +84470,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -84564,7 +84564,7 @@
         ]
     },
     "Heather": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -85349,7 +85349,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -85442,7 +85442,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -85536,7 +85536,7 @@
         ]
     },
     "HelderA": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -86321,7 +86321,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -86414,7 +86414,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -86508,7 +86508,7 @@
         ]
     },
     "Hernani": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -87293,7 +87293,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -87386,7 +87386,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -87480,7 +87480,7 @@
         ]
     },
     "Hugo": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -88265,7 +88265,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -88358,7 +88358,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -88452,7 +88452,7 @@
         ]
     },
     "Ian": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -89237,7 +89237,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -89330,7 +89330,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -89424,7 +89424,7 @@
         ]
     },
     "Ida": {
-        "total_points": 719,
+        "total_points": 706,
         "matches": {
             "GroupA": [
                 {
@@ -90209,7 +90209,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -90302,7 +90302,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -90396,7 +90396,7 @@
         ]
     },
     "Igor1": {
-        "total_points": 723,
+        "total_points": 710,
         "matches": {
             "GroupA": [
                 {
@@ -91181,7 +91181,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -91274,7 +91274,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -91368,7 +91368,7 @@
         ]
     },
     "Igor2": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -92153,7 +92153,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -92246,7 +92246,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -92340,7 +92340,7 @@
         ]
     },
     "Jalen": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -93125,7 +93125,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -93218,7 +93218,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -93312,7 +93312,7 @@
         ]
     },
     "JamesC": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -94097,7 +94097,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -94190,7 +94190,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -94284,7 +94284,7 @@
         ]
     },
     "JamesP": {
-        "total_points": 463,
+        "total_points": 450,
         "matches": {
             "GroupA": [
                 {
@@ -95069,7 +95069,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -95162,7 +95162,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -95256,7 +95256,7 @@
         ]
     },
     "Janelle": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -96041,7 +96041,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -96134,7 +96134,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -96228,7 +96228,7 @@
         ]
     },
     "JasonB": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -97013,7 +97013,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -97106,7 +97106,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -97200,7 +97200,7 @@
         ]
     },
     "JasonF": {
-        "total_points": 707,
+        "total_points": 694,
         "matches": {
             "GroupA": [
                 {
@@ -97985,7 +97985,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -98078,7 +98078,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -98172,7 +98172,7 @@
         ]
     },
     "Jaxon": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -98957,7 +98957,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -99050,7 +99050,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -99144,7 +99144,7 @@
         ]
     },
     "JeanMichel": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -99929,7 +99929,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -100022,7 +100022,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -100116,7 +100116,7 @@
         ]
     },
     "JeffB": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -100901,7 +100901,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -100994,7 +100994,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -101088,7 +101088,7 @@
         ]
     },
     "JeffS1": {
-        "total_points": 723,
+        "total_points": 710,
         "matches": {
             "GroupA": [
                 {
@@ -101873,7 +101873,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -101966,7 +101966,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -102060,7 +102060,7 @@
         ]
     },
     "JeffS2": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -102845,7 +102845,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -102938,7 +102938,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -103032,7 +103032,7 @@
         ]
     },
     "JeffT": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -103817,7 +103817,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -103910,7 +103910,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -104004,7 +104004,7 @@
         ]
     },
     "Jenn": {
-        "total_points": 775,
+        "total_points": 730,
         "matches": {
             "GroupA": [
                 {
@@ -104789,7 +104789,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -104882,7 +104882,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -104926,7 +104926,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Brazil",
@@ -104976,7 +104976,7 @@
         ]
     },
     "Jennifer": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -105761,7 +105761,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -105854,7 +105854,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -105948,7 +105948,7 @@
         ]
     },
     "Jeremy": {
-        "total_points": 719,
+        "total_points": 706,
         "matches": {
             "GroupA": [
                 {
@@ -106733,7 +106733,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -106826,7 +106826,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -106920,7 +106920,7 @@
         ]
     },
     "Jerry": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -107705,7 +107705,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -107798,7 +107798,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -107892,7 +107892,7 @@
         ]
     },
     "JessicaD": {
-        "total_points": 475,
+        "total_points": 462,
         "matches": {
             "GroupA": [
                 {
@@ -108677,7 +108677,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -108770,7 +108770,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -108864,7 +108864,7 @@
         ]
     },
     "JessicaG": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -109649,7 +109649,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -109742,7 +109742,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -109836,7 +109836,7 @@
         ]
     },
     "JessicaS": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -110621,7 +110621,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -110714,7 +110714,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -110808,7 +110808,7 @@
         ]
     },
     "Jhon": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -111593,7 +111593,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -111686,7 +111686,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -111780,7 +111780,7 @@
         ]
     },
     "Jim": {
-        "total_points": 487,
+        "total_points": 474,
         "matches": {
             "GroupA": [
                 {
@@ -112565,7 +112565,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -112658,7 +112658,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -112752,7 +112752,7 @@
         ]
     },
     "Joanna": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -113537,7 +113537,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -113630,7 +113630,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -113724,7 +113724,7 @@
         ]
     },
     "JoeA": {
-        "total_points": 675,
+        "total_points": 662,
         "matches": {
             "GroupA": [
                 {
@@ -114509,7 +114509,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -114602,7 +114602,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -114696,7 +114696,7 @@
         ]
     },
     "JoeD": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -115481,7 +115481,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -115574,7 +115574,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -115668,7 +115668,7 @@
         ]
     },
     "JohnO": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -116453,7 +116453,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -116546,7 +116546,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -116640,7 +116640,7 @@
         ]
     },
     "JohnR": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -117425,7 +117425,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -117518,7 +117518,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -117612,7 +117612,7 @@
         ]
     },
     "Jonathan": {
-        "total_points": 699,
+        "total_points": 686,
         "matches": {
             "GroupA": [
                 {
@@ -118397,7 +118397,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -118490,7 +118490,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -118584,7 +118584,7 @@
         ]
     },
     "JorgeC": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -119369,7 +119369,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -119462,7 +119462,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -119556,7 +119556,7 @@
         ]
     },
     "JorgeT": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -120341,7 +120341,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -120434,7 +120434,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -120528,7 +120528,7 @@
         ]
     },
     "Josh": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -121313,7 +121313,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -121406,7 +121406,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -121500,7 +121500,7 @@
         ]
     },
     "Juan": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -122285,7 +122285,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -122378,7 +122378,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -122472,7 +122472,7 @@
         ]
     },
     "Julian": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -123257,7 +123257,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -123350,7 +123350,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -123444,7 +123444,7 @@
         ]
     },
     "JustinA": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -124229,7 +124229,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -124322,7 +124322,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -124416,7 +124416,7 @@
         ]
     },
     "JustinL": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -125201,7 +125201,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -125294,7 +125294,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -125388,7 +125388,7 @@
         ]
     },
     "Kayden": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -126173,7 +126173,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -126266,7 +126266,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -126360,7 +126360,7 @@
         ]
     },
     "KevinC": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -127145,7 +127145,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -127238,7 +127238,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -127332,7 +127332,7 @@
         ]
     },
     "KevinJ": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -128117,7 +128117,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -128210,7 +128210,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -128304,7 +128304,7 @@
         ]
     },
     "KevinS": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -129089,7 +129089,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -129182,7 +129182,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -129276,7 +129276,7 @@
         ]
     },
     "Kristian": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -130061,7 +130061,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -130154,7 +130154,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -130248,7 +130248,7 @@
         ]
     },
     "Kumar": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -131033,7 +131033,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -131126,7 +131126,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -131220,7 +131220,7 @@
         ]
     },
     "Kyle": {
-        "total_points": 811,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -132005,7 +132005,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -132098,7 +132098,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -132142,7 +132142,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 48
+                "pts_awarded": 20
             },
             {
                 "pred_home_name": "Brazil",
@@ -132192,7 +132192,7 @@
         ]
     },
     "Lena": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -132977,7 +132977,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -133070,7 +133070,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -133164,7 +133164,7 @@
         ]
     },
     "LiamA": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -133949,7 +133949,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -134042,7 +134042,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -134136,7 +134136,7 @@
         ]
     },
     "LiamMoh": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -134921,7 +134921,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -135014,7 +135014,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -135108,7 +135108,7 @@
         ]
     },
     "Lindsey": {
-        "total_points": 579,
+        "total_points": 566,
         "matches": {
             "GroupA": [
                 {
@@ -135893,7 +135893,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -135986,7 +135986,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -136080,7 +136080,7 @@
         ]
     },
     "Lisa": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -136865,7 +136865,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -136958,7 +136958,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -137052,7 +137052,7 @@
         ]
     },
     "Luka": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -137837,7 +137837,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -137930,7 +137930,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -138024,7 +138024,7 @@
         ]
     },
     "Magno": {
-        "total_points": 751,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -138809,7 +138809,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -138902,7 +138902,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -138996,7 +138996,7 @@
         ]
     },
     "Major": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -139781,7 +139781,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -139874,7 +139874,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -139968,7 +139968,7 @@
         ]
     },
     "Manley": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -140753,7 +140753,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -140846,7 +140846,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -140940,7 +140940,7 @@
         ]
     },
     "MannyT": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -141725,7 +141725,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -141818,7 +141818,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -141912,7 +141912,7 @@
         ]
     },
     "MarcioD": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -142697,7 +142697,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -142790,7 +142790,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -142884,7 +142884,7 @@
         ]
     },
     "MarcioS": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -143669,7 +143669,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -143762,7 +143762,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -143856,7 +143856,7 @@
         ]
     },
     "MarcoR": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -144641,7 +144641,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -144734,7 +144734,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -144828,7 +144828,7 @@
         ]
     },
     "Maria": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -145613,7 +145613,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -145706,7 +145706,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -145800,7 +145800,7 @@
         ]
     },
     "Marta": {
-        "total_points": 595,
+        "total_points": 582,
         "matches": {
             "GroupA": [
                 {
@@ -146585,7 +146585,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -146678,7 +146678,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -146772,7 +146772,7 @@
         ]
     },
     "MatthewG": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -147557,7 +147557,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -147650,7 +147650,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -147744,7 +147744,7 @@
         ]
     },
     "MatthewSa": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -148529,7 +148529,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -148622,7 +148622,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -148716,7 +148716,7 @@
         ]
     },
     "MatthewSm1": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -149501,7 +149501,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -149594,7 +149594,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -149688,7 +149688,7 @@
         ]
     },
     "MatthewSm2": {
-        "total_points": 491,
+        "total_points": 478,
         "matches": {
             "GroupA": [
                 {
@@ -150473,7 +150473,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -150566,7 +150566,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -150660,7 +150660,7 @@
         ]
     },
     "Max": {
-        "total_points": 559,
+        "total_points": 546,
         "matches": {
             "GroupA": [
                 {
@@ -151445,7 +151445,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -151538,7 +151538,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -151632,7 +151632,7 @@
         ]
     },
     "Melissa": {
-        "total_points": 595,
+        "total_points": 582,
         "matches": {
             "GroupA": [
                 {
@@ -152417,7 +152417,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -152510,7 +152510,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -152604,7 +152604,7 @@
         ]
     },
     "MichaelL": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -153389,7 +153389,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -153482,7 +153482,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -153576,7 +153576,7 @@
         ]
     },
     "MichaelM": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -154361,7 +154361,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -154454,7 +154454,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -154548,7 +154548,7 @@
         ]
     },
     "MichaelPi": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -155333,7 +155333,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -155426,7 +155426,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -155520,7 +155520,7 @@
         ]
     },
     "Michele": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -156305,7 +156305,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -156398,7 +156398,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -156492,7 +156492,7 @@
         ]
     },
     "Mihajlo": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -157277,7 +157277,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -157370,7 +157370,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -157464,7 +157464,7 @@
         ]
     },
     "MikeD": {
-        "total_points": 607,
+        "total_points": 594,
         "matches": {
             "GroupA": [
                 {
@@ -158249,7 +158249,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -158342,7 +158342,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -158436,7 +158436,7 @@
         ]
     },
     "Misic1": {
-        "total_points": 591,
+        "total_points": 574,
         "matches": {
             "GroupA": [
                 {
@@ -159221,7 +159221,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -159314,7 +159314,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -159408,7 +159408,7 @@
         ]
     },
     "Misic2": {
-        "total_points": 707,
+        "total_points": 690,
         "matches": {
             "GroupA": [
                 {
@@ -160193,7 +160193,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -160286,7 +160286,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -160380,7 +160380,7 @@
         ]
     },
     "Nas": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -161165,7 +161165,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -161258,7 +161258,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -161352,7 +161352,7 @@
         ]
     },
     "Nelson": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -162137,7 +162137,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -162230,7 +162230,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -162324,7 +162324,7 @@
         ]
     },
     "NickM": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -163109,7 +163109,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -163202,7 +163202,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -163296,7 +163296,7 @@
         ]
     },
     "Nicolas": {
-        "total_points": 807,
+        "total_points": 794,
         "matches": {
             "GroupA": [
                 {
@@ -164081,7 +164081,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -164174,7 +164174,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -164268,7 +164268,7 @@
         ]
     },
     "Nicole1": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -165053,7 +165053,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -165146,7 +165146,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -165240,7 +165240,7 @@
         ]
     },
     "Nicole2": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -166025,7 +166025,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -166118,7 +166118,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -166212,7 +166212,7 @@
         ]
     },
     "Nima": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -166997,7 +166997,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -167090,7 +167090,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -167184,7 +167184,7 @@
         ]
     },
     "Nolan": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -167969,7 +167969,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -168062,7 +168062,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -168156,7 +168156,7 @@
         ]
     },
     "Nuno1": {
-        "total_points": 783,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -168941,7 +168941,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -169034,7 +169034,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -169128,7 +169128,7 @@
         ]
     },
     "Nuno2": {
-        "total_points": 707,
+        "total_points": 694,
         "matches": {
             "GroupA": [
                 {
@@ -169913,7 +169913,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -170006,7 +170006,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -170556,7 +170556,7 @@
         ]
     },
     "Paolo": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -171341,7 +171341,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -171434,7 +171434,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -171528,7 +171528,7 @@
         ]
     },
     "Pardeep": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -172313,7 +172313,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -172406,7 +172406,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -172500,7 +172500,7 @@
         ]
     },
     "Pascal": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -173285,7 +173285,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -173378,7 +173378,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -173472,7 +173472,7 @@
         ]
     },
     "Patullo": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -174257,7 +174257,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -174350,7 +174350,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -174444,7 +174444,7 @@
         ]
     },
     "PaulA": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -175229,7 +175229,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -175322,7 +175322,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -175416,7 +175416,7 @@
         ]
     },
     "PaulC": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -176201,7 +176201,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -176294,7 +176294,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -176388,7 +176388,7 @@
         ]
     },
     "PetarS": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -177173,7 +177173,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -177266,7 +177266,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -177360,7 +177360,7 @@
         ]
     },
     "Pierfelice": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -178145,7 +178145,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -178238,7 +178238,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -178332,7 +178332,7 @@
         ]
     },
     "Preto1": {
-        "total_points": 695,
+        "total_points": 682,
         "matches": {
             "GroupA": [
                 {
@@ -179117,7 +179117,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -179210,7 +179210,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -179304,7 +179304,7 @@
         ]
     },
     "Preto2": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -180089,7 +180089,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -180182,7 +180182,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -180276,7 +180276,7 @@
         ]
     },
     "Punit": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -181061,7 +181061,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -181154,7 +181154,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -181248,7 +181248,7 @@
         ]
     },
     "Rachel": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -182033,7 +182033,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -182126,7 +182126,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -182220,7 +182220,7 @@
         ]
     },
     "RD2026": {
-        "total_points": 471,
+        "total_points": 458,
         "matches": {
             "GroupA": [
                 {
@@ -183005,7 +183005,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -183098,7 +183098,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -183192,7 +183192,7 @@
         ]
     },
     "Ricardo1": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -183977,7 +183977,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -184070,7 +184070,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -184164,7 +184164,7 @@
         ]
     },
     "Ricardo2": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -184949,7 +184949,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -185042,7 +185042,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -185136,7 +185136,7 @@
         ]
     },
     "RichardMa": {
-        "total_points": 807,
+        "total_points": 794,
         "matches": {
             "GroupA": [
                 {
@@ -185921,7 +185921,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -186014,7 +186014,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -186108,7 +186108,7 @@
         ]
     },
     "RichardMo": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -186893,7 +186893,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -186986,7 +186986,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -187080,7 +187080,7 @@
         ]
     },
     "Rick": {
-        "total_points": 471,
+        "total_points": 458,
         "matches": {
             "GroupA": [
                 {
@@ -187865,7 +187865,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -187958,7 +187958,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -188052,7 +188052,7 @@
         ]
     },
     "Ricky": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -188837,7 +188837,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -188930,7 +188930,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -189024,7 +189024,7 @@
         ]
     },
     "Rita": {
-        "total_points": 723,
+        "total_points": 710,
         "matches": {
             "GroupA": [
                 {
@@ -189809,7 +189809,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -189902,7 +189902,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -189996,7 +189996,7 @@
         ]
     },
     "Riyad": {
-        "total_points": 695,
+        "total_points": 682,
         "matches": {
             "GroupA": [
                 {
@@ -190781,7 +190781,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -190874,7 +190874,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 3,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -190968,7 +190968,7 @@
         ]
     },
     "RobertP": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -191753,7 +191753,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -191846,7 +191846,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -191940,7 +191940,7 @@
         ]
     },
     "RobertS": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -192725,7 +192725,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -192818,7 +192818,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -192912,7 +192912,7 @@
         ]
     },
     "RobSi": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -193697,7 +193697,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -193790,7 +193790,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -193884,7 +193884,7 @@
         ]
     },
     "RobTu": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -194669,7 +194669,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -194762,7 +194762,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -194856,7 +194856,7 @@
         ]
     },
     "RobW": {
-        "total_points": 491,
+        "total_points": 474,
         "matches": {
             "GroupA": [
                 {
@@ -195641,7 +195641,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -195734,7 +195734,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -195828,7 +195828,7 @@
         ]
     },
     "Rodrigo": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -196613,7 +196613,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -196706,7 +196706,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -196800,7 +196800,7 @@
         ]
     },
     "Rousse": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -197585,7 +197585,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -197678,7 +197678,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -197772,7 +197772,7 @@
         ]
     },
     "Roy": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -198557,7 +198557,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -198650,7 +198650,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -198744,7 +198744,7 @@
         ]
     },
     "Salim": {
-        "total_points": 719,
+        "total_points": 706,
         "matches": {
             "GroupA": [
                 {
@@ -199529,7 +199529,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -199622,7 +199622,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -199716,7 +199716,7 @@
         ]
     },
     "Sarujan": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -200501,7 +200501,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -200594,7 +200594,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -200688,7 +200688,7 @@
         ]
     },
     "Sean": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -201473,7 +201473,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -201566,7 +201566,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -201660,7 +201660,7 @@
         ]
     },
     "Shawn1": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -202445,7 +202445,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -202538,7 +202538,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -202632,7 +202632,7 @@
         ]
     },
     "Shawn2": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -203417,7 +203417,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -203510,7 +203510,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -203604,7 +203604,7 @@
         ]
     },
     "Sheila": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -204389,7 +204389,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -204482,7 +204482,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -204576,7 +204576,7 @@
         ]
     },
     "Simon": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -205361,7 +205361,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -205454,7 +205454,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -205548,7 +205548,7 @@
         ]
     },
     "Simone": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -206333,7 +206333,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -206426,7 +206426,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -206520,7 +206520,7 @@
         ]
     },
     "Simrun": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -207305,7 +207305,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -207398,7 +207398,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -207492,7 +207492,7 @@
         ]
     },
     "Stallone1": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -208277,7 +208277,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -208370,7 +208370,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -208464,7 +208464,7 @@
         ]
     },
     "Stallone2": {
-        "total_points": 695,
+        "total_points": 682,
         "matches": {
             "GroupA": [
                 {
@@ -209249,7 +209249,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -209342,7 +209342,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -209436,7 +209436,7 @@
         ]
     },
     "Stanley": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -210221,7 +210221,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -210314,7 +210314,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -210408,7 +210408,7 @@
         ]
     },
     "Stephen": {
-        "total_points": 811,
+        "total_points": 794,
         "matches": {
             "GroupA": [
                 {
@@ -211193,7 +211193,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -211286,7 +211286,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -211380,7 +211380,7 @@
         ]
     },
     "StevenT": {
-        "total_points": 771,
+        "total_points": 758,
         "matches": {
             "GroupA": [
                 {
@@ -212165,7 +212165,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -212258,7 +212258,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -212352,7 +212352,7 @@
         ]
     },
     "Tanya": {
-        "total_points": 815,
+        "total_points": 802,
         "matches": {
             "GroupA": [
                 {
@@ -213137,7 +213137,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -213230,7 +213230,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -213324,7 +213324,7 @@
         ]
     },
     "Theo": {
-        "total_points": 607,
+        "total_points": 594,
         "matches": {
             "GroupA": [
                 {
@@ -214109,7 +214109,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -214202,7 +214202,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -214296,7 +214296,7 @@
         ]
     },
     "Todaro": {
-        "total_points": 775,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -215081,7 +215081,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -215174,7 +215174,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 0,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -215268,7 +215268,7 @@
         ]
     },
     "Tomas": {
-        "total_points": 703,
+        "total_points": 690,
         "matches": {
             "GroupA": [
                 {
@@ -216053,7 +216053,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -216146,7 +216146,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -216240,7 +216240,7 @@
         ]
     },
     "TomP": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -217025,7 +217025,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -217118,7 +217118,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -217212,7 +217212,7 @@
         ]
     },
     "TonyH": {
-        "total_points": 747,
+        "total_points": 734,
         "matches": {
             "GroupA": [
                 {
@@ -217997,7 +217997,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -218090,7 +218090,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -218184,7 +218184,7 @@
         ]
     },
     "TonyMa": {
-        "total_points": 811,
+        "total_points": 798,
         "matches": {
             "GroupA": [
                 {
@@ -218969,7 +218969,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -219062,7 +219062,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -219156,7 +219156,7 @@
         ]
     },
     "TonyMi": {
-        "total_points": 779,
+        "total_points": 766,
         "matches": {
             "GroupA": [
                 {
@@ -219941,7 +219941,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -220034,7 +220034,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -220128,7 +220128,7 @@
         ]
     },
     "TonyS": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -220913,7 +220913,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -221006,7 +221006,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -221100,7 +221100,7 @@
         ]
     },
     "TonyV": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -221885,7 +221885,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -221978,7 +221978,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -222072,7 +222072,7 @@
         ]
     },
     "Trevor": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -222857,7 +222857,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -222950,7 +222950,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Japan",
@@ -223044,7 +223044,7 @@
         ]
     },
     "Tristan": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -223829,7 +223829,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -223922,7 +223922,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -224016,7 +224016,7 @@
         ]
     },
     "Victor": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -224801,7 +224801,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -224894,7 +224894,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 1,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -224988,7 +224988,7 @@
         ]
     },
     "Vishal": {
-        "total_points": 751,
+        "total_points": 738,
         "matches": {
             "GroupA": [
                 {
@@ -225773,7 +225773,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -225866,7 +225866,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -225960,7 +225960,7 @@
         ]
     },
     "Vito": {
-        "total_points": 779,
+        "total_points": 762,
         "matches": {
             "GroupA": [
                 {
@@ -226745,7 +226745,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -226838,7 +226838,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 3,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Japan",
@@ -226932,7 +226932,7 @@
         ]
     },
     "VukSto": {
-        "total_points": 707,
+        "total_points": 690,
         "matches": {
             "GroupA": [
                 {
@@ -227717,7 +227717,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -227810,7 +227810,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -227904,7 +227904,7 @@
         ]
     },
     "Wilson": {
-        "total_points": 695,
+        "total_points": 682,
         "matches": {
             "GroupA": [
                 {
@@ -228689,7 +228689,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -228782,7 +228782,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 2,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -228876,7 +228876,7 @@
         ]
     },
     "Yogi": {
-        "total_points": 771,
+        "total_points": 758,
         "matches": {
             "GroupA": [
                 {
@@ -229661,7 +229661,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -229754,7 +229754,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -229848,7 +229848,7 @@
         ]
     },
     "JoeA2": {
-        "total_points": 675,
+        "total_points": 662,
         "matches": {
             "GroupA": [
                 {
@@ -230633,7 +230633,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -230726,7 +230726,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 2,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
@@ -230820,7 +230820,7 @@
         ]
     },
     "JoeA3": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -231605,7 +231605,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -231698,7 +231698,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Belgium",
                 "pred_away_score": 0,
-                "pts_awarded": 14
+                "pts_awarded": 4
             },
             {
                 "pred_home_name": "Brazil",
@@ -231792,7 +231792,7 @@
         ]
     },
     "Samantha": {
-        "total_points": 783,
+        "total_points": 770,
         "matches": {
             "GroupA": [
                 {
@@ -232577,7 +232577,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Bosnia",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Belgium",
@@ -232670,7 +232670,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Senegal",
                 "pred_away_score": 1,
-                "pts_awarded": 10
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Brazil",
