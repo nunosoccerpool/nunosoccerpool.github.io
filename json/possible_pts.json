@@ -1,6 +1,6 @@
 {
     "Nuno": {
-        "total_points": 12,
+        "total_points": -1,
         "matches": {
             "GroupA": [
                 {
@@ -841,7 +841,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "",
@@ -906,7 +906,7 @@
                 "pred_home_score": "",
                 "pred_away_name": "",
                 "pred_away_score": "",
-                "pts_awarded": 0
+                "pts_awarded": -10
             }
         ],
         "quarterfinals": [
@@ -972,7 +972,7 @@
         ]
     },
     "Aaron1": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -1813,7 +1813,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -1878,7 +1878,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -1944,7 +1944,7 @@
         ]
     },
     "Aaron2": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -2785,7 +2785,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -2850,7 +2850,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -2916,7 +2916,7 @@
         ]
     },
     "Aaron3": {
-        "total_points": 736,
+        "total_points": 719,
         "matches": {
             "GroupA": [
                 {
@@ -3757,7 +3757,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -3822,7 +3822,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -3888,7 +3888,7 @@
         ]
     },
     "Aban": {
-        "total_points": 540,
+        "total_points": 527,
         "matches": {
             "GroupA": [
                 {
@@ -4729,7 +4729,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -4794,7 +4794,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -4860,7 +4860,7 @@
         ]
     },
     "Adam": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -5701,7 +5701,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -5766,7 +5766,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -5832,7 +5832,7 @@
         ]
     },
     "Adrian": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -6673,7 +6673,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -6738,7 +6738,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -6804,7 +6804,7 @@
         ]
     },
     "AI": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -7645,7 +7645,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -7710,7 +7710,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -7776,7 +7776,7 @@
         ]
     },
     "Albeiro": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -8617,7 +8617,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -8682,7 +8682,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -8748,7 +8748,7 @@
         ]
     },
     "Alex": {
-        "total_points": 708,
+        "total_points": 691,
         "matches": {
             "GroupA": [
                 {
@@ -9589,7 +9589,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -9654,7 +9654,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -9720,7 +9720,7 @@
         ]
     },
     "Ali": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -10561,7 +10561,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -10626,7 +10626,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -10692,7 +10692,7 @@
         ]
     },
     "Alice": {
-        "total_points": 524,
+        "total_points": 511,
         "matches": {
             "GroupA": [
                 {
@@ -11533,7 +11533,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -11598,7 +11598,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -11664,7 +11664,7 @@
         ]
     },
     "Alnashir": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -12505,7 +12505,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -12570,7 +12570,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -12636,7 +12636,7 @@
         ]
     },
     "Alston1": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -13477,7 +13477,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -13542,7 +13542,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -13608,7 +13608,7 @@
         ]
     },
     "Alston2": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -14449,7 +14449,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -14514,7 +14514,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -14580,7 +14580,7 @@
         ]
     },
     "AnaL": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -15421,7 +15421,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -15486,7 +15486,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -15552,7 +15552,7 @@
         ]
     },
     "AnaS": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -16393,7 +16393,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -16458,7 +16458,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -16524,7 +16524,7 @@
         ]
     },
     "Andres": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -17365,7 +17365,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -17430,7 +17430,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -17496,7 +17496,7 @@
         ]
     },
     "Angel": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -18337,7 +18337,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -18402,7 +18402,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -18468,7 +18468,7 @@
         ]
     },
     "Anicio": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -19309,7 +19309,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -19374,7 +19374,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -19440,7 +19440,7 @@
         ]
     },
     "AniD": {
-        "total_points": 668,
+        "total_points": 655,
         "matches": {
             "GroupA": [
                 {
@@ -20281,7 +20281,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -20346,7 +20346,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -20412,7 +20412,7 @@
         ]
     },
     "Ante": {
-        "total_points": 660,
+        "total_points": 647,
         "matches": {
             "GroupA": [
                 {
@@ -21253,7 +21253,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -21318,7 +21318,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -21384,7 +21384,7 @@
         ]
     },
     "AnthonyV": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -22225,7 +22225,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -22290,7 +22290,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -22356,7 +22356,7 @@
         ]
     },
     "Arjun": {
-        "total_points": 744,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -23197,7 +23197,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -23262,7 +23262,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -23328,7 +23328,7 @@
         ]
     },
     "Arturo": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -24169,7 +24169,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -24234,7 +24234,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -24300,7 +24300,7 @@
         ]
     },
     "Ash": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -25141,7 +25141,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -25206,7 +25206,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -25272,7 +25272,7 @@
         ]
     },
     "Augie": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -26113,7 +26113,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -26178,7 +26178,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -26244,7 +26244,7 @@
         ]
     },
     "Bindu": {
-        "total_points": 636,
+        "total_points": 623,
         "matches": {
             "GroupA": [
                 {
@@ -27085,7 +27085,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -27150,7 +27150,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -27216,7 +27216,7 @@
         ]
     },
     "Brendan": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -28057,7 +28057,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -28122,7 +28122,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -28188,7 +28188,7 @@
         ]
     },
     "BrianS": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -29029,7 +29029,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -29094,7 +29094,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -29160,7 +29160,7 @@
         ]
     },
     "Cameron": {
-        "total_points": 768,
+        "total_points": 755,
         "matches": {
             "GroupA": [
                 {
@@ -30001,7 +30001,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -30066,7 +30066,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -30132,7 +30132,7 @@
         ]
     },
     "CarlosD": {
-        "total_points": 740,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -30973,7 +30973,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -31038,7 +31038,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -31104,7 +31104,7 @@
         ]
     },
     "CarlosG": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -31945,7 +31945,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -32010,7 +32010,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -32076,7 +32076,7 @@
         ]
     },
     "CarlosS1": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -32917,7 +32917,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -32982,7 +32982,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -33048,7 +33048,7 @@
         ]
     },
     "CarlosS2": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -33889,7 +33889,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -33954,7 +33954,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -34020,7 +34020,7 @@
         ]
     },
     "Carmen": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -34861,7 +34861,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -34926,7 +34926,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -34992,7 +34992,7 @@
         ]
     },
     "Caroline": {
-        "total_points": 764,
+        "total_points": 751,
         "matches": {
             "GroupA": [
                 {
@@ -35833,7 +35833,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -35898,7 +35898,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -35964,7 +35964,7 @@
         ]
     },
     "Charles": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -36805,7 +36805,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -36870,7 +36870,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -36936,7 +36936,7 @@
         ]
     },
     "ChrisK": {
-        "total_points": 572,
+        "total_points": 559,
         "matches": {
             "GroupA": [
                 {
@@ -37777,7 +37777,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -37842,7 +37842,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -37908,7 +37908,7 @@
         ]
     },
     "ChrisN": {
-        "total_points": 620,
+        "total_points": 607,
         "matches": {
             "GroupA": [
                 {
@@ -38749,7 +38749,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -38814,7 +38814,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -38880,7 +38880,7 @@
         ]
     },
     "ChrisP": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -39721,7 +39721,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -39786,7 +39786,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -39852,7 +39852,7 @@
         ]
     },
     "Chrissy": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -40693,7 +40693,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -40758,7 +40758,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -40824,7 +40824,7 @@
         ]
     },
     "ChristianL": {
-        "total_points": 764,
+        "total_points": 751,
         "matches": {
             "GroupA": [
                 {
@@ -41665,7 +41665,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -41730,7 +41730,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -41796,7 +41796,7 @@
         ]
     },
     "CMD88": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -42637,7 +42637,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -42702,7 +42702,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -42768,7 +42768,7 @@
         ]
     },
     "Coco": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -43609,7 +43609,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -43674,7 +43674,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -43740,7 +43740,7 @@
         ]
     },
     "Corey": {
-        "total_points": 540,
+        "total_points": 527,
         "matches": {
             "GroupA": [
                 {
@@ -44581,7 +44581,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -44646,7 +44646,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -44712,7 +44712,7 @@
         ]
     },
     "Daisy1": {
-        "total_points": 448,
+        "total_points": 431,
         "matches": {
             "GroupA": [
                 {
@@ -45553,7 +45553,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -45618,7 +45618,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -45684,7 +45684,7 @@
         ]
     },
     "Daisy2": {
-        "total_points": 548,
+        "total_points": 531,
         "matches": {
             "GroupA": [
                 {
@@ -46525,7 +46525,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -46590,7 +46590,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -46656,7 +46656,7 @@
         ]
     },
     "Damian": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -47497,7 +47497,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -47562,7 +47562,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -47628,7 +47628,7 @@
         ]
     },
     "DanielM": {
-        "total_points": 452,
+        "total_points": 435,
         "matches": {
             "GroupA": [
                 {
@@ -48469,7 +48469,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -48534,7 +48534,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -48600,7 +48600,7 @@
         ]
     },
     "DanielR": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -49441,7 +49441,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -49506,7 +49506,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -49572,7 +49572,7 @@
         ]
     },
     "DannyCR7": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -50413,7 +50413,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -50478,7 +50478,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -50544,7 +50544,7 @@
         ]
     },
     "DannyL": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -51385,7 +51385,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -51450,7 +51450,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -51516,7 +51516,7 @@
         ]
     },
     "DannyRa": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -52357,7 +52357,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -52422,7 +52422,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -52488,7 +52488,7 @@
         ]
     },
     "Darryll": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -53329,7 +53329,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -53394,7 +53394,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -53460,7 +53460,7 @@
         ]
     },
     "DarylF": {
-        "total_points": 424,
+        "total_points": 411,
         "matches": {
             "GroupA": [
                 {
@@ -54301,7 +54301,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -54366,7 +54366,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -54432,7 +54432,7 @@
         ]
     },
     "Dashiel": {
-        "total_points": 776,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -55273,7 +55273,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -55338,7 +55338,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -55404,7 +55404,7 @@
         ]
     },
     "DazRob": {
-        "total_points": 632,
+        "total_points": 619,
         "matches": {
             "GroupA": [
                 {
@@ -56245,7 +56245,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -56310,7 +56310,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -56376,7 +56376,7 @@
         ]
     },
     "Deylin": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -57217,7 +57217,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -57282,7 +57282,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -57348,7 +57348,7 @@
         ]
     },
     "Dino": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -58189,7 +58189,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -58254,7 +58254,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -58320,7 +58320,7 @@
         ]
     },
     "Dora": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -59161,7 +59161,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -59226,7 +59226,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -59292,7 +59292,7 @@
         ]
     },
     "DougM": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -60133,7 +60133,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -60198,7 +60198,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -60264,7 +60264,7 @@
         ]
     },
     "Duarte": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -61105,7 +61105,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -61170,7 +61170,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -61236,7 +61236,7 @@
         ]
     },
     "Ed": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -62077,7 +62077,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -62142,7 +62142,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -62208,7 +62208,7 @@
         ]
     },
     "Edsel": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -63049,7 +63049,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -63114,7 +63114,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -63180,7 +63180,7 @@
         ]
     },
     "EdwardT": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -64021,7 +64021,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -64086,7 +64086,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -64152,7 +64152,7 @@
         ]
     },
     "Elliott": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -64993,7 +64993,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -65058,7 +65058,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -65124,7 +65124,7 @@
         ]
     },
     "EricK": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -65965,7 +65965,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -66030,7 +66030,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -66096,7 +66096,7 @@
         ]
     },
     "Ethan": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -66937,7 +66937,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -67002,7 +67002,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -67068,7 +67068,7 @@
         ]
     },
     "Farshid": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -67909,7 +67909,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -67974,7 +67974,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -68040,7 +68040,7 @@
         ]
     },
     "Fawzi": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -68881,7 +68881,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -68946,7 +68946,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -69012,7 +69012,7 @@
         ]
     },
     "Fernando": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -69853,7 +69853,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -69918,7 +69918,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -69984,7 +69984,7 @@
         ]
     },
     "Filip": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -70825,7 +70825,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -70890,7 +70890,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -70956,7 +70956,7 @@
         ]
     },
     "Franco": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -71797,7 +71797,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -71862,7 +71862,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -71928,7 +71928,7 @@
         ]
     },
     "FrankC": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -72769,7 +72769,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -72834,7 +72834,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -72900,7 +72900,7 @@
         ]
     },
     "FrankD1": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -73741,7 +73741,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -73806,7 +73806,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -73872,7 +73872,7 @@
         ]
     },
     "FrankD2": {
-        "total_points": 432,
+        "total_points": 415,
         "matches": {
             "GroupA": [
                 {
@@ -74713,7 +74713,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -74778,7 +74778,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -74844,7 +74844,7 @@
         ]
     },
     "GabyDavide": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -75685,7 +75685,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -75750,7 +75750,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -75816,7 +75816,7 @@
         ]
     },
     "Gary": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -76657,7 +76657,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -76722,7 +76722,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -76788,7 +76788,7 @@
         ]
     },
     "GavinRiya": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -77629,7 +77629,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -77694,7 +77694,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -77760,7 +77760,7 @@
         ]
     },
     "GavinW": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -78601,7 +78601,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -78666,7 +78666,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -78732,7 +78732,7 @@
         ]
     },
     "Goran": {
-        "total_points": 768,
+        "total_points": 751,
         "matches": {
             "GroupA": [
                 {
@@ -79573,7 +79573,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -79638,7 +79638,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -79704,7 +79704,7 @@
         ]
     },
     "Greg": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -80545,7 +80545,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -80610,7 +80610,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -80676,7 +80676,7 @@
         ]
     },
     "Grosso": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -81517,7 +81517,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -81582,7 +81582,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -81648,7 +81648,7 @@
         ]
     },
     "GustavoH": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -82489,7 +82489,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -82554,7 +82554,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -82620,7 +82620,7 @@
         ]
     },
     "GustavoL": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -83461,7 +83461,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -83526,7 +83526,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -83592,7 +83592,7 @@
         ]
     },
     "Gwen": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -84433,7 +84433,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -84498,7 +84498,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -84564,7 +84564,7 @@
         ]
     },
     "Heather": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -85405,7 +85405,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -85470,7 +85470,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -85536,7 +85536,7 @@
         ]
     },
     "HelderA": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -86377,7 +86377,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -86442,7 +86442,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -86508,7 +86508,7 @@
         ]
     },
     "Hernani": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -87349,7 +87349,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -87414,7 +87414,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -87480,7 +87480,7 @@
         ]
     },
     "Hugo": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -88321,7 +88321,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -88386,7 +88386,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -88452,7 +88452,7 @@
         ]
     },
     "Ian": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -89293,7 +89293,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -89358,7 +89358,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -89424,7 +89424,7 @@
         ]
     },
     "Ida": {
-        "total_points": 676,
+        "total_points": 663,
         "matches": {
             "GroupA": [
                 {
@@ -90265,7 +90265,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -90330,7 +90330,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -90396,7 +90396,7 @@
         ]
     },
     "Igor1": {
-        "total_points": 684,
+        "total_points": 671,
         "matches": {
             "GroupA": [
                 {
@@ -91237,7 +91237,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -91302,7 +91302,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -91368,7 +91368,7 @@
         ]
     },
     "Igor2": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -92209,7 +92209,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -92274,7 +92274,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -92340,7 +92340,7 @@
         ]
     },
     "Jalen": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -93181,7 +93181,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -93246,7 +93246,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -93312,7 +93312,7 @@
         ]
     },
     "JamesC": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -94153,7 +94153,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -94218,7 +94218,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -94284,7 +94284,7 @@
         ]
     },
     "JamesP": {
-        "total_points": 420,
+        "total_points": 407,
         "matches": {
             "GroupA": [
                 {
@@ -95125,7 +95125,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -95190,7 +95190,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -95256,7 +95256,7 @@
         ]
     },
     "Janelle": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -96097,7 +96097,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -96162,7 +96162,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -96228,7 +96228,7 @@
         ]
     },
     "JasonB": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -97069,7 +97069,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -97134,7 +97134,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -97200,7 +97200,7 @@
         ]
     },
     "JasonF": {
-        "total_points": 668,
+        "total_points": 655,
         "matches": {
             "GroupA": [
                 {
@@ -98041,7 +98041,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -98106,7 +98106,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -98172,7 +98172,7 @@
         ]
     },
     "Jaxon": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -99013,7 +99013,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -99078,7 +99078,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -99144,7 +99144,7 @@
         ]
     },
     "JeanMichel": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -99985,7 +99985,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -100050,7 +100050,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -100116,7 +100116,7 @@
         ]
     },
     "JeffB": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -100957,7 +100957,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -101022,7 +101022,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -101088,7 +101088,7 @@
         ]
     },
     "JeffS1": {
-        "total_points": 684,
+        "total_points": 671,
         "matches": {
             "GroupA": [
                 {
@@ -101929,7 +101929,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -101994,7 +101994,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -102060,7 +102060,7 @@
         ]
     },
     "JeffS2": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -102901,7 +102901,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -102966,7 +102966,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -103032,7 +103032,7 @@
         ]
     },
     "JeffT": {
-        "total_points": 620,
+        "total_points": 607,
         "matches": {
             "GroupA": [
                 {
@@ -103873,7 +103873,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -103938,7 +103938,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -104004,7 +104004,7 @@
         ]
     },
     "Jenn": {
-        "total_points": 704,
+        "total_points": 691,
         "matches": {
             "GroupA": [
                 {
@@ -104845,7 +104845,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -104910,7 +104910,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -104976,7 +104976,7 @@
         ]
     },
     "Jennifer": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -105817,7 +105817,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -105882,7 +105882,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -105948,7 +105948,7 @@
         ]
     },
     "Jeremy": {
-        "total_points": 676,
+        "total_points": 663,
         "matches": {
             "GroupA": [
                 {
@@ -106789,7 +106789,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -106854,7 +106854,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -106920,7 +106920,7 @@
         ]
     },
     "Jerry": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -107761,7 +107761,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -107826,7 +107826,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -107892,7 +107892,7 @@
         ]
     },
     "JessicaD": {
-        "total_points": 436,
+        "total_points": 423,
         "matches": {
             "GroupA": [
                 {
@@ -108733,7 +108733,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -108798,7 +108798,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -108864,7 +108864,7 @@
         ]
     },
     "JessicaG": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -109705,7 +109705,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -109770,7 +109770,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -109836,7 +109836,7 @@
         ]
     },
     "JessicaS": {
-        "total_points": 776,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -110677,7 +110677,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -110742,7 +110742,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -110808,7 +110808,7 @@
         ]
     },
     "Jhon": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -111649,7 +111649,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -111714,7 +111714,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -111780,7 +111780,7 @@
         ]
     },
     "Jim": {
-        "total_points": 448,
+        "total_points": 435,
         "matches": {
             "GroupA": [
                 {
@@ -112621,7 +112621,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -112686,7 +112686,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -112752,7 +112752,7 @@
         ]
     },
     "Joanna": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -113593,7 +113593,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -113658,7 +113658,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -113724,7 +113724,7 @@
         ]
     },
     "JoeA": {
-        "total_points": 636,
+        "total_points": 623,
         "matches": {
             "GroupA": [
                 {
@@ -114565,7 +114565,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -114630,7 +114630,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -114696,7 +114696,7 @@
         ]
     },
     "JoeD": {
-        "total_points": 776,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -115537,7 +115537,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -115602,7 +115602,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -115668,7 +115668,7 @@
         ]
     },
     "JohnO": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -116509,7 +116509,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -116574,7 +116574,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -116640,7 +116640,7 @@
         ]
     },
     "JohnR": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -117481,7 +117481,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -117546,7 +117546,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -117612,7 +117612,7 @@
         ]
     },
     "Jonathan": {
-        "total_points": 660,
+        "total_points": 647,
         "matches": {
             "GroupA": [
                 {
@@ -118453,7 +118453,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -118518,7 +118518,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -118584,7 +118584,7 @@
         ]
     },
     "JorgeC": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -119425,7 +119425,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -119490,7 +119490,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -119556,7 +119556,7 @@
         ]
     },
     "JorgeT": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -120397,7 +120397,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -120462,7 +120462,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -120528,7 +120528,7 @@
         ]
     },
     "Josh": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -121369,7 +121369,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -121434,7 +121434,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -121500,7 +121500,7 @@
         ]
     },
     "Juan": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -122341,7 +122341,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -122406,7 +122406,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -122472,7 +122472,7 @@
         ]
     },
     "Julian": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -123313,7 +123313,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -123378,7 +123378,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -123444,7 +123444,7 @@
         ]
     },
     "JustinA": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -124285,7 +124285,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -124350,7 +124350,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -124416,7 +124416,7 @@
         ]
     },
     "JustinL": {
-        "total_points": 744,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -125257,7 +125257,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -125322,7 +125322,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -125388,7 +125388,7 @@
         ]
     },
     "Kayden": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -126229,7 +126229,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -126294,7 +126294,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -126360,7 +126360,7 @@
         ]
     },
     "KevinC": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -127201,7 +127201,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -127266,7 +127266,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -127332,7 +127332,7 @@
         ]
     },
     "KevinJ": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -128173,7 +128173,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -128238,7 +128238,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -128304,7 +128304,7 @@
         ]
     },
     "KevinS": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -129145,7 +129145,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -129210,7 +129210,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -129276,7 +129276,7 @@
         ]
     },
     "Kristian": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -130117,7 +130117,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -130182,7 +130182,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -130248,7 +130248,7 @@
         ]
     },
     "Kumar": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -131089,7 +131089,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -131154,7 +131154,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -131220,7 +131220,7 @@
         ]
     },
     "Kyle": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -132061,7 +132061,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -132126,7 +132126,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -132192,7 +132192,7 @@
         ]
     },
     "Lena": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -133033,7 +133033,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -133098,7 +133098,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -133164,7 +133164,7 @@
         ]
     },
     "LiamA": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -134005,7 +134005,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -134070,7 +134070,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -134136,7 +134136,7 @@
         ]
     },
     "LiamMoh": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -134977,7 +134977,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -135042,7 +135042,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -135108,7 +135108,7 @@
         ]
     },
     "Lindsey": {
-        "total_points": 540,
+        "total_points": 523,
         "matches": {
             "GroupA": [
                 {
@@ -135949,7 +135949,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -136014,7 +136014,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -136080,7 +136080,7 @@
         ]
     },
     "Lisa": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -136921,7 +136921,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -136986,7 +136986,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -137052,7 +137052,7 @@
         ]
     },
     "Luka": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -137893,7 +137893,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -137958,7 +137958,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -138024,7 +138024,7 @@
         ]
     },
     "Magno": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -138865,7 +138865,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -138930,7 +138930,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -138996,7 +138996,7 @@
         ]
     },
     "Major": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -139837,7 +139837,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -139902,7 +139902,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -139968,7 +139968,7 @@
         ]
     },
     "Manley": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -140809,7 +140809,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -140874,7 +140874,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -140940,7 +140940,7 @@
         ]
     },
     "MannyT": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -141781,7 +141781,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -141846,7 +141846,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -141912,7 +141912,7 @@
         ]
     },
     "MarcioD": {
-        "total_points": 744,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -142753,7 +142753,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -142818,7 +142818,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -142848,7 +142848,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 48
+                "pts_awarded": 20
             }
         ],
         "semifinals": [
@@ -142884,7 +142884,7 @@
         ]
     },
     "MarcioS": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -143725,7 +143725,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -143790,7 +143790,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -143856,7 +143856,7 @@
         ]
     },
     "MarcoR": {
-        "total_points": 740,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -144697,7 +144697,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -144762,7 +144762,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -144828,7 +144828,7 @@
         ]
     },
     "Maria": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -145669,7 +145669,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -145734,7 +145734,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -145800,7 +145800,7 @@
         ]
     },
     "Marta": {
-        "total_points": 556,
+        "total_points": 543,
         "matches": {
             "GroupA": [
                 {
@@ -146641,7 +146641,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -146706,7 +146706,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -146772,7 +146772,7 @@
         ]
     },
     "MatthewG": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -147613,7 +147613,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -147678,7 +147678,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -147744,7 +147744,7 @@
         ]
     },
     "MatthewSa": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -148585,7 +148585,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -148650,7 +148650,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -148716,7 +148716,7 @@
         ]
     },
     "MatthewSm1": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -149557,7 +149557,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -149622,7 +149622,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -149688,7 +149688,7 @@
         ]
     },
     "MatthewSm2": {
-        "total_points": 452,
+        "total_points": 439,
         "matches": {
             "GroupA": [
                 {
@@ -150529,7 +150529,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -150594,7 +150594,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -150660,7 +150660,7 @@
         ]
     },
     "Max": {
-        "total_points": 520,
+        "total_points": 507,
         "matches": {
             "GroupA": [
                 {
@@ -151501,7 +151501,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -151566,7 +151566,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -151632,7 +151632,7 @@
         ]
     },
     "Melissa": {
-        "total_points": 556,
+        "total_points": 543,
         "matches": {
             "GroupA": [
                 {
@@ -152473,7 +152473,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -152538,7 +152538,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -152604,7 +152604,7 @@
         ]
     },
     "MichaelL": {
-        "total_points": 708,
+        "total_points": 691,
         "matches": {
             "GroupA": [
                 {
@@ -153445,7 +153445,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -153510,7 +153510,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -153576,7 +153576,7 @@
         ]
     },
     "MichaelM": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -154417,7 +154417,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -154482,7 +154482,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -154548,7 +154548,7 @@
         ]
     },
     "MichaelPi": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -155389,7 +155389,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -155454,7 +155454,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -155520,7 +155520,7 @@
         ]
     },
     "Michele": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -156361,7 +156361,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -156426,7 +156426,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -156492,7 +156492,7 @@
         ]
     },
     "Mihajlo": {
-        "total_points": 776,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -157333,7 +157333,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -157398,7 +157398,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -157464,7 +157464,7 @@
         ]
     },
     "MikeD": {
-        "total_points": 568,
+        "total_points": 551,
         "matches": {
             "GroupA": [
                 {
@@ -158305,7 +158305,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -158370,7 +158370,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -158436,7 +158436,7 @@
         ]
     },
     "Misic1": {
-        "total_points": 516,
+        "total_points": 503,
         "matches": {
             "GroupA": [
                 {
@@ -159277,7 +159277,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -159342,7 +159342,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -159408,7 +159408,7 @@
         ]
     },
     "Misic2": {
-        "total_points": 664,
+        "total_points": 651,
         "matches": {
             "GroupA": [
                 {
@@ -160249,7 +160249,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -160314,7 +160314,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -160380,7 +160380,7 @@
         ]
     },
     "Nas": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -161221,7 +161221,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -161286,7 +161286,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -161352,7 +161352,7 @@
         ]
     },
     "Nelson": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -162193,7 +162193,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -162258,7 +162258,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -162324,7 +162324,7 @@
         ]
     },
     "NickM": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -163165,7 +163165,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -163230,7 +163230,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -163296,7 +163296,7 @@
         ]
     },
     "Nicolas": {
-        "total_points": 768,
+        "total_points": 751,
         "matches": {
             "GroupA": [
                 {
@@ -164137,7 +164137,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 3,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -164202,7 +164202,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 4,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -164268,7 +164268,7 @@
         ]
     },
     "Nicole1": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -165109,7 +165109,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -165174,7 +165174,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -165240,7 +165240,7 @@
         ]
     },
     "Nicole2": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -166081,7 +166081,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -166146,7 +166146,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -166212,7 +166212,7 @@
         ]
     },
     "Nima": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -167053,7 +167053,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -167118,7 +167118,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -167184,7 +167184,7 @@
         ]
     },
     "Nolan": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -168025,7 +168025,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -168090,7 +168090,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -168156,7 +168156,7 @@
         ]
     },
     "Nuno1": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -168997,7 +168997,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -169062,7 +169062,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -169128,7 +169128,7 @@
         ]
     },
     "Nuno2": {
-        "total_points": 668,
+        "total_points": 655,
         "matches": {
             "GroupA": [
                 {
@@ -169969,7 +169969,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -170034,7 +170034,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -170556,7 +170556,7 @@
         ]
     },
     "Paolo": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -171397,7 +171397,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -171462,7 +171462,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -171528,7 +171528,7 @@
         ]
     },
     "Pardeep": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -172369,7 +172369,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -172434,7 +172434,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -172500,7 +172500,7 @@
         ]
     },
     "Pascal": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -173341,7 +173341,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -173406,7 +173406,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -173472,7 +173472,7 @@
         ]
     },
     "Patullo": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -174313,7 +174313,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -174378,7 +174378,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -174444,7 +174444,7 @@
         ]
     },
     "PaulA": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -175285,7 +175285,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -175350,7 +175350,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -175416,7 +175416,7 @@
         ]
     },
     "PaulC": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -176257,7 +176257,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -176322,7 +176322,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -176388,7 +176388,7 @@
         ]
     },
     "PetarS": {
-        "total_points": 772,
+        "total_points": 755,
         "matches": {
             "GroupA": [
                 {
@@ -177229,7 +177229,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -177294,7 +177294,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -177360,7 +177360,7 @@
         ]
     },
     "Pierfelice": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -178201,7 +178201,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -178266,7 +178266,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -178332,7 +178332,7 @@
         ]
     },
     "Preto1": {
-        "total_points": 652,
+        "total_points": 639,
         "matches": {
             "GroupA": [
                 {
@@ -179173,7 +179173,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -179238,7 +179238,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -179304,7 +179304,7 @@
         ]
     },
     "Preto2": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -180145,7 +180145,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -180210,7 +180210,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -180276,7 +180276,7 @@
         ]
     },
     "Punit": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -181117,7 +181117,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -181182,7 +181182,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -181248,7 +181248,7 @@
         ]
     },
     "Rachel": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -182089,7 +182089,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -182154,7 +182154,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -182220,7 +182220,7 @@
         ]
     },
     "RD2026": {
-        "total_points": 428,
+        "total_points": 415,
         "matches": {
             "GroupA": [
                 {
@@ -183061,7 +183061,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -183126,7 +183126,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -183192,7 +183192,7 @@
         ]
     },
     "Ricardo1": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -184033,7 +184033,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -184098,7 +184098,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -184164,7 +184164,7 @@
         ]
     },
     "Ricardo2": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -185005,7 +185005,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -185070,7 +185070,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -185136,7 +185136,7 @@
         ]
     },
     "RichardMa": {
-        "total_points": 768,
+        "total_points": 755,
         "matches": {
             "GroupA": [
                 {
@@ -185977,7 +185977,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -186042,7 +186042,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -186108,7 +186108,7 @@
         ]
     },
     "RichardMo": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -186949,7 +186949,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -187014,7 +187014,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -187080,7 +187080,7 @@
         ]
     },
     "Rick": {
-        "total_points": 432,
+        "total_points": 419,
         "matches": {
             "GroupA": [
                 {
@@ -187921,7 +187921,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -187986,7 +187986,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -188052,7 +188052,7 @@
         ]
     },
     "Ricky": {
-        "total_points": 744,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -188893,7 +188893,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -188958,7 +188958,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -189024,7 +189024,7 @@
         ]
     },
     "Rita": {
-        "total_points": 684,
+        "total_points": 671,
         "matches": {
             "GroupA": [
                 {
@@ -189865,7 +189865,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -189930,7 +189930,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -189996,7 +189996,7 @@
         ]
     },
     "Riyad": {
-        "total_points": 632,
+        "total_points": 615,
         "matches": {
             "GroupA": [
                 {
@@ -190837,7 +190837,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -190902,7 +190902,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -190968,7 +190968,7 @@
         ]
     },
     "RobertP": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -191809,7 +191809,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -191874,7 +191874,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -191940,7 +191940,7 @@
         ]
     },
     "RobertS": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -192781,7 +192781,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -192846,7 +192846,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -192912,7 +192912,7 @@
         ]
     },
     "RobSi": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -193753,7 +193753,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -193818,7 +193818,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -193884,7 +193884,7 @@
         ]
     },
     "RobTu": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -194725,7 +194725,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -194790,7 +194790,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -194856,7 +194856,7 @@
         ]
     },
     "RobW": {
-        "total_points": 448,
+        "total_points": 435,
         "matches": {
             "GroupA": [
                 {
@@ -195697,7 +195697,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -195762,7 +195762,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -195828,7 +195828,7 @@
         ]
     },
     "Rodrigo": {
-        "total_points": 740,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -196669,7 +196669,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -196734,7 +196734,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -196800,7 +196800,7 @@
         ]
     },
     "Rousse": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -197641,7 +197641,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -197706,7 +197706,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -197772,7 +197772,7 @@
         ]
     },
     "Roy": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -198613,7 +198613,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -198678,7 +198678,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -198744,7 +198744,7 @@
         ]
     },
     "Salim": {
-        "total_points": 680,
+        "total_points": 663,
         "matches": {
             "GroupA": [
                 {
@@ -199585,7 +199585,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -199650,7 +199650,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -199716,7 +199716,7 @@
         ]
     },
     "Sarujan": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -200557,7 +200557,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -200622,7 +200622,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -200688,7 +200688,7 @@
         ]
     },
     "Sean": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -201529,7 +201529,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -201594,7 +201594,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -201660,7 +201660,7 @@
         ]
     },
     "Shawn1": {
-        "total_points": 704,
+        "total_points": 687,
         "matches": {
             "GroupA": [
                 {
@@ -202501,7 +202501,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -202566,7 +202566,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -202632,7 +202632,7 @@
         ]
     },
     "Shawn2": {
-        "total_points": 732,
+        "total_points": 719,
         "matches": {
             "GroupA": [
                 {
@@ -203473,7 +203473,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -203538,7 +203538,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -203604,7 +203604,7 @@
         ]
     },
     "Sheila": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -204445,7 +204445,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -204510,7 +204510,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -204576,7 +204576,7 @@
         ]
     },
     "Simon": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -205417,7 +205417,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -205482,7 +205482,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -205548,7 +205548,7 @@
         ]
     },
     "Simone": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -206389,7 +206389,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -206454,7 +206454,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -206520,7 +206520,7 @@
         ]
     },
     "Simrun": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -207361,7 +207361,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -207426,7 +207426,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -207492,7 +207492,7 @@
         ]
     },
     "Stallone1": {
-        "total_points": 712,
+        "total_points": 699,
         "matches": {
             "GroupA": [
                 {
@@ -208333,7 +208333,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -208398,7 +208398,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -208464,7 +208464,7 @@
         ]
     },
     "Stallone2": {
-        "total_points": 656,
+        "total_points": 643,
         "matches": {
             "GroupA": [
                 {
@@ -209305,7 +209305,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -209370,7 +209370,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -209436,7 +209436,7 @@
         ]
     },
     "Stanley": {
-        "total_points": 740,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -210277,7 +210277,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -210342,7 +210342,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -210408,7 +210408,7 @@
         ]
     },
     "Stephen": {
-        "total_points": 768,
+        "total_points": 755,
         "matches": {
             "GroupA": [
                 {
@@ -211249,7 +211249,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -211314,7 +211314,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -211380,7 +211380,7 @@
         ]
     },
     "StevenT": {
-        "total_points": 732,
+        "total_points": 715,
         "matches": {
             "GroupA": [
                 {
@@ -212221,7 +212221,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -212286,7 +212286,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -212352,7 +212352,7 @@
         ]
     },
     "Tanya": {
-        "total_points": 776,
+        "total_points": 763,
         "matches": {
             "GroupA": [
                 {
@@ -213193,7 +213193,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -213258,7 +213258,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -213324,7 +213324,7 @@
         ]
     },
     "Theo": {
-        "total_points": 568,
+        "total_points": 555,
         "matches": {
             "GroupA": [
                 {
@@ -214165,7 +214165,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -214230,7 +214230,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -214296,7 +214296,7 @@
         ]
     },
     "Todaro": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -215137,7 +215137,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -215202,7 +215202,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -215268,7 +215268,7 @@
         ]
     },
     "Tomas": {
-        "total_points": 664,
+        "total_points": 651,
         "matches": {
             "GroupA": [
                 {
@@ -216109,7 +216109,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -216174,7 +216174,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -216240,7 +216240,7 @@
         ]
     },
     "TomP": {
-        "total_points": 740,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -217081,7 +217081,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -217146,7 +217146,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -217212,7 +217212,7 @@
         ]
     },
     "TonyH": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -218053,7 +218053,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -218118,7 +218118,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -218184,7 +218184,7 @@
         ]
     },
     "TonyMa": {
-        "total_points": 772,
+        "total_points": 759,
         "matches": {
             "GroupA": [
                 {
@@ -219025,7 +219025,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -219090,7 +219090,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -219156,7 +219156,7 @@
         ]
     },
     "TonyMi": {
-        "total_points": 420,
+        "total_points": 407,
         "matches": {
             "GroupA": [
                 {
@@ -219997,7 +219997,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -220062,7 +220062,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -220128,7 +220128,7 @@
         ]
     },
     "TonyS": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -220969,7 +220969,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -221034,7 +221034,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -221100,7 +221100,7 @@
         ]
     },
     "TonyV": {
-        "total_points": 744,
+        "total_points": 727,
         "matches": {
             "GroupA": [
                 {
@@ -221941,7 +221941,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -222006,7 +222006,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -222072,7 +222072,7 @@
         ]
     },
     "Trevor": {
-        "total_points": 708,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -222913,7 +222913,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -222978,7 +222978,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -223044,7 +223044,7 @@
         ]
     },
     "Tristan": {
-        "total_points": 712,
+        "total_points": 695,
         "matches": {
             "GroupA": [
                 {
@@ -223885,7 +223885,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -223950,7 +223950,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -224016,7 +224016,7 @@
         ]
     },
     "Victor": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -224857,7 +224857,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -224922,7 +224922,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -224988,7 +224988,7 @@
         ]
     },
     "Vishal": {
-        "total_points": 712,
+        "total_points": 667,
         "matches": {
             "GroupA": [
                 {
@@ -225829,7 +225829,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 2,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -225894,7 +225894,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 10
             }
         ],
         "quarterfinals": [
@@ -225924,7 +225924,7 @@
                 "pred_home_score": 4,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 48
+                "pts_awarded": 20
             }
         ],
         "semifinals": [
@@ -225960,7 +225960,7 @@
         ]
     },
     "Vito": {
-        "total_points": 736,
+        "total_points": 723,
         "matches": {
             "GroupA": [
                 {
@@ -226801,7 +226801,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -226866,7 +226866,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -226932,7 +226932,7 @@
         ]
     },
     "VukSto": {
-        "total_points": 660,
+        "total_points": 647,
         "matches": {
             "GroupA": [
                 {
@@ -227773,7 +227773,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -227838,7 +227838,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -227904,7 +227904,7 @@
         ]
     },
     "Wilson": {
-        "total_points": 652,
+        "total_points": 639,
         "matches": {
             "GroupA": [
                 {
@@ -228745,7 +228745,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -228810,7 +228810,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -228876,7 +228876,7 @@
         ]
     },
     "Yogi": {
-        "total_points": 732,
+        "total_points": 719,
         "matches": {
             "GroupA": [
                 {
@@ -229717,7 +229717,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -229782,7 +229782,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -229848,7 +229848,7 @@
         ]
     },
     "JoeA2": {
-        "total_points": 636,
+        "total_points": 623,
         "matches": {
             "GroupA": [
                 {
@@ -230689,7 +230689,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -230754,7 +230754,7 @@
                 "pred_home_score": 0,
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -230820,7 +230820,7 @@
         ]
     },
     "JoeA3": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -231661,7 +231661,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 0,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -231726,7 +231726,7 @@
                 "pred_home_score": 1,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
@@ -231792,7 +231792,7 @@
         ]
     },
     "Samantha": {
-        "total_points": 744,
+        "total_points": 731,
         "matches": {
             "GroupA": [
                 {
@@ -232633,7 +232633,7 @@
                 "pred_home_score": 3,
                 "pred_away_name": "Algeria",
                 "pred_away_score": 1,
-                "pts_awarded": 3
+                "pts_awarded": 0
             },
             {
                 "pred_home_name": "Colombia",
@@ -232698,7 +232698,7 @@
                 "pred_home_score": 2,
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
-                "pts_awarded": 24
+                "pts_awarded": 14
             }
         ],
         "quarterfinals": [
