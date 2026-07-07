@@ -262,9 +262,9 @@
                 "pred_away_name": "",
                 "pred_away_score": null,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
@@ -309,9 +309,9 @@
                 "pred_away_score": null,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 0
             }
         ],
         "semifinals": [
@@ -358,7 +358,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 20
+        "total_points": 0
     },
     "Aaron1": {
         "round_of_32": [
@@ -623,9 +623,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -670,7 +670,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -984,9 +984,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -1031,7 +1031,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -1345,9 +1345,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -1392,7 +1392,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -1706,10 +1706,10 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
-                "pts_awarded": 20
+                "act_away_score": 0,
+                "pts_awarded": 24
             }
         ],
         "quarterfinals": [
@@ -1753,7 +1753,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -1802,7 +1802,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 208
+        "total_points": 212
     },
     "Adam": {
         "round_of_32": [
@@ -2067,9 +2067,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -2114,7 +2114,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -2428,9 +2428,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -2475,9 +2475,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -2524,7 +2524,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 239
+        "total_points": 259
     },
     "AI": {
         "round_of_32": [
@@ -2789,9 +2789,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -2836,7 +2836,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -3150,9 +3150,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -3197,7 +3197,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -3511,9 +3511,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -3558,7 +3558,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -3872,9 +3872,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -3919,7 +3919,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -4233,9 +4233,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -4280,7 +4280,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -4594,9 +4594,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -4641,7 +4641,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -4955,9 +4955,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -5002,9 +5002,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -5051,7 +5051,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 282
+        "total_points": 302
     },
     "Alston2": {
         "round_of_32": [
@@ -5316,9 +5316,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -5363,9 +5363,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -5412,7 +5412,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 192
+        "total_points": 212
     },
     "AnaL": {
         "round_of_32": [
@@ -5677,9 +5677,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -5724,7 +5724,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -6038,9 +6038,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -6085,7 +6085,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -6399,9 +6399,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -6446,7 +6446,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -6760,9 +6760,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -6807,9 +6807,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -6856,7 +6856,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 233
+        "total_points": 253
     },
     "Anicio": {
         "round_of_32": [
@@ -7121,9 +7121,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -7168,7 +7168,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -7482,9 +7482,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -7529,7 +7529,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -7843,9 +7843,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -7890,9 +7890,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -7939,7 +7939,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 209
+        "total_points": 229
     },
     "AnthonyV": {
         "round_of_32": [
@@ -8204,9 +8204,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -8251,7 +8251,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -8565,9 +8565,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -8612,7 +8612,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -8926,9 +8926,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -8973,7 +8973,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -9287,9 +9287,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -9334,7 +9334,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -9648,9 +9648,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -9695,7 +9695,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -10009,9 +10009,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -10056,9 +10056,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -10105,7 +10105,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 225
+        "total_points": 245
     },
     "Brendan": {
         "round_of_32": [
@@ -10370,9 +10370,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -10417,7 +10417,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -10731,9 +10731,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -10778,7 +10778,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -11092,9 +11092,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -11139,7 +11139,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -11453,9 +11453,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -11500,7 +11500,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -11814,9 +11814,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -11861,7 +11861,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -12175,9 +12175,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -12222,7 +12222,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -12536,9 +12536,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -12583,7 +12583,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -12897,9 +12897,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -12944,7 +12944,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -13258,9 +13258,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -13305,9 +13305,9 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -13354,7 +13354,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 176
+        "total_points": 196
     },
     "Charles": {
         "round_of_32": [
@@ -13619,9 +13619,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -13666,7 +13666,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -13980,9 +13980,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -14027,7 +14027,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -14341,9 +14341,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -14388,7 +14388,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -14702,9 +14702,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -14749,7 +14749,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -15063,9 +15063,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -15110,7 +15110,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -15424,9 +15424,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -15471,9 +15471,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -15520,7 +15520,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 249
+        "total_points": 269
     },
     "CMD88": {
         "round_of_32": [
@@ -15785,9 +15785,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -15832,7 +15832,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -16146,9 +16146,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -16193,7 +16193,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -16507,9 +16507,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -16554,7 +16554,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -16868,9 +16868,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -16915,7 +16915,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -17229,9 +17229,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -17276,7 +17276,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -17590,9 +17590,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -17637,7 +17637,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -17951,9 +17951,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -17998,7 +17998,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -18312,9 +18312,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -18359,7 +18359,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -18673,9 +18673,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -18720,9 +18720,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -18769,7 +18769,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 230
+        "total_points": 250
     },
     "DannyL": {
         "round_of_32": [
@@ -19034,9 +19034,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -19081,7 +19081,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -19395,9 +19395,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -19442,9 +19442,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -19491,7 +19491,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 208
+        "total_points": 228
     },
     "Darryll": {
         "round_of_32": [
@@ -19756,9 +19756,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -19803,7 +19803,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -20117,9 +20117,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -20164,7 +20164,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -20478,9 +20478,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -20525,7 +20525,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -20839,9 +20839,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -20886,7 +20886,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -21200,9 +21200,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -21247,7 +21247,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -21561,9 +21561,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -21608,9 +21608,9 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -21657,7 +21657,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 205
+        "total_points": 225
     },
     "Dora": {
         "round_of_32": [
@@ -21922,9 +21922,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -21969,7 +21969,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -22283,9 +22283,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -22330,9 +22330,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -22379,7 +22379,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 245
+        "total_points": 265
     },
     "Duarte": {
         "round_of_32": [
@@ -22644,9 +22644,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -22691,7 +22691,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -23005,9 +23005,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -23052,7 +23052,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -23366,9 +23366,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -23413,7 +23413,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -23727,9 +23727,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -23774,7 +23774,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -24088,9 +24088,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -24135,7 +24135,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -24449,9 +24449,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -24496,7 +24496,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -24810,9 +24810,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -24857,7 +24857,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -25171,9 +25171,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -25218,7 +25218,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -25532,9 +25532,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -25579,7 +25579,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -25893,9 +25893,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -25940,7 +25940,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -26254,9 +26254,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -26301,7 +26301,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -26615,9 +26615,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -26662,9 +26662,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -26711,7 +26711,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 219
+        "total_points": 239
     },
     "FrankC": {
         "round_of_32": [
@@ -26976,9 +26976,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -27023,7 +27023,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -27337,9 +27337,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -27384,7 +27384,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -27698,9 +27698,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -27745,7 +27745,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -28059,9 +28059,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -28106,7 +28106,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -28420,9 +28420,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -28467,7 +28467,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -28781,9 +28781,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -28828,7 +28828,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -29142,9 +29142,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -29189,7 +29189,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -29503,9 +29503,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -29550,7 +29550,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -29864,9 +29864,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -29911,9 +29911,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -29960,7 +29960,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 240
+        "total_points": 260
     },
     "Grosso": {
         "round_of_32": [
@@ -30225,9 +30225,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -30272,7 +30272,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -30586,9 +30586,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -30633,7 +30633,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -30947,9 +30947,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -30994,7 +30994,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -31308,9 +31308,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -31355,7 +31355,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -31669,9 +31669,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -31716,7 +31716,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -32030,9 +32030,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -32077,7 +32077,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -32391,9 +32391,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -32438,7 +32438,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -32752,9 +32752,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -32799,9 +32799,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -32848,7 +32848,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 206
+        "total_points": 226
     },
     "Ian": {
         "round_of_32": [
@@ -33113,9 +33113,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -33160,9 +33160,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -33209,7 +33209,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 240
+        "total_points": 260
     },
     "Ida": {
         "round_of_32": [
@@ -33474,9 +33474,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -33521,7 +33521,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -33835,9 +33835,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -33882,7 +33882,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -34196,9 +34196,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -34243,7 +34243,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -34557,9 +34557,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -34604,7 +34604,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -34918,9 +34918,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -34965,9 +34965,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -35014,7 +35014,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 245
+        "total_points": 265
     },
     "JamesP": {
         "round_of_32": [
@@ -35279,9 +35279,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -35326,9 +35326,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -35375,7 +35375,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 196
+        "total_points": 216
     },
     "Janelle": {
         "round_of_32": [
@@ -35640,9 +35640,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -35687,7 +35687,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -36001,9 +36001,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -36048,9 +36048,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -36097,7 +36097,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 222
+        "total_points": 242
     },
     "JasonF": {
         "round_of_32": [
@@ -36362,9 +36362,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -36409,7 +36409,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -36723,9 +36723,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -36770,9 +36770,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -36819,7 +36819,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 230
+        "total_points": 250
     },
     "JeanMichel": {
         "round_of_32": [
@@ -37084,9 +37084,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -37131,7 +37131,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -37445,9 +37445,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -37492,7 +37492,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -37806,9 +37806,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -37853,9 +37853,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -37902,7 +37902,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 186
+        "total_points": 206
     },
     "JeffS2": {
         "round_of_32": [
@@ -38167,9 +38167,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -38214,7 +38214,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -38528,9 +38528,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -38575,9 +38575,9 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -38624,7 +38624,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 153
+        "total_points": 173
     },
     "Jenn": {
         "round_of_32": [
@@ -38889,9 +38889,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -38936,7 +38936,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -39250,9 +39250,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -39297,7 +39297,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -39611,9 +39611,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -39658,7 +39658,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -39972,9 +39972,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -40019,7 +40019,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -40333,9 +40333,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -40380,9 +40380,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -40429,7 +40429,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 210
+        "total_points": 230
     },
     "JessicaG": {
         "round_of_32": [
@@ -40694,9 +40694,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -40741,7 +40741,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -41055,9 +41055,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -41102,7 +41102,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -41416,9 +41416,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -41463,7 +41463,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -41777,9 +41777,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -41824,7 +41824,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 0
             }
@@ -42138,9 +42138,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -42185,7 +42185,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -42499,9 +42499,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -42546,7 +42546,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -42860,9 +42860,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -42907,7 +42907,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -43221,9 +43221,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -43268,9 +43268,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -43317,7 +43317,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 262
+        "total_points": 282
     },
     "JohnR": {
         "round_of_32": [
@@ -43582,9 +43582,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -43629,7 +43629,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -43943,9 +43943,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -43990,7 +43990,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -44304,9 +44304,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -44351,7 +44351,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -44665,9 +44665,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -44712,9 +44712,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -44761,7 +44761,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 186
+        "total_points": 206
     },
     "Juan": {
         "round_of_32": [
@@ -45026,9 +45026,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -45073,7 +45073,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -45387,9 +45387,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -45434,7 +45434,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -45748,9 +45748,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -45795,7 +45795,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -46109,9 +46109,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -46156,7 +46156,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -46470,9 +46470,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -46517,7 +46517,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -46831,9 +46831,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -46878,7 +46878,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -47192,9 +47192,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -47239,9 +47239,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -47288,7 +47288,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 249
+        "total_points": 269
     },
     "KevinS": {
         "round_of_32": [
@@ -47553,9 +47553,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -47600,7 +47600,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -47914,9 +47914,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -47961,7 +47961,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -48275,9 +48275,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -48322,7 +48322,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -48636,9 +48636,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -48683,7 +48683,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -48997,9 +48997,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -49044,9 +49044,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -49093,7 +49093,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 206
+        "total_points": 226
     },
     "LiamA": {
         "round_of_32": [
@@ -49358,9 +49358,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -49405,9 +49405,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -49454,7 +49454,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 182
+        "total_points": 202
     },
     "LiamMoh": {
         "round_of_32": [
@@ -49719,9 +49719,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -49766,7 +49766,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -50080,9 +50080,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -50127,7 +50127,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -50441,9 +50441,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -50488,7 +50488,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -50802,9 +50802,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -50849,7 +50849,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -51163,9 +51163,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -51210,7 +51210,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -51524,9 +51524,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -51571,9 +51571,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -51620,7 +51620,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 285
+        "total_points": 305
     },
     "Manley": {
         "round_of_32": [
@@ -51885,9 +51885,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -51932,7 +51932,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -52246,9 +52246,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -52293,7 +52293,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -52607,9 +52607,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -52654,7 +52654,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -52968,9 +52968,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -53015,9 +53015,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -53064,7 +53064,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 242
+        "total_points": 262
     },
     "MarcoR": {
         "round_of_32": [
@@ -53329,9 +53329,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -53376,7 +53376,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -53690,9 +53690,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -53737,7 +53737,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -54051,9 +54051,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -54098,9 +54098,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -54147,7 +54147,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 196
+        "total_points": 216
     },
     "MatthewG": {
         "round_of_32": [
@@ -54412,9 +54412,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -54459,7 +54459,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -54773,9 +54773,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -54820,7 +54820,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -55134,9 +55134,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -55181,7 +55181,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -55495,9 +55495,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -55542,7 +55542,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -55856,9 +55856,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -55903,7 +55903,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -56217,9 +56217,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -56264,7 +56264,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -56578,9 +56578,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -56625,7 +56625,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -56939,9 +56939,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -56986,7 +56986,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -57300,9 +57300,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -57347,7 +57347,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -57661,9 +57661,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -57708,9 +57708,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -57757,7 +57757,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 196
+        "total_points": 216
     },
     "Mihajlo": {
         "round_of_32": [
@@ -58022,9 +58022,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -58069,7 +58069,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -58383,9 +58383,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -58430,7 +58430,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -58744,9 +58744,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -58791,7 +58791,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -59105,9 +59105,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -59152,7 +59152,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -59466,9 +59466,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -59513,7 +59513,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -59827,9 +59827,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -59874,7 +59874,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -60188,9 +60188,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -60235,7 +60235,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -60549,9 +60549,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 4,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -60596,7 +60596,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -60910,9 +60910,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -60957,7 +60957,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -61271,9 +61271,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -61318,7 +61318,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -61632,9 +61632,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -61679,9 +61679,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -61728,7 +61728,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 225
+        "total_points": 245
     },
     "Nolan": {
         "round_of_32": [
@@ -61993,9 +61993,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -62040,7 +62040,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -62354,9 +62354,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -62401,7 +62401,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -62715,9 +62715,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -62762,7 +62762,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -63437,9 +63437,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -63484,9 +63484,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -63533,7 +63533,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 222
+        "total_points": 242
     },
     "Pardeep": {
         "round_of_32": [
@@ -63798,9 +63798,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -63845,7 +63845,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -64159,9 +64159,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -64206,7 +64206,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -64520,9 +64520,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -64567,7 +64567,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -64881,9 +64881,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -64928,7 +64928,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -65242,9 +65242,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -65289,7 +65289,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -65603,9 +65603,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -65650,7 +65650,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -65964,9 +65964,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -66011,7 +66011,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -66325,9 +66325,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -66372,7 +66372,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -66686,9 +66686,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -66733,7 +66733,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -67047,9 +67047,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -67094,7 +67094,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -67408,9 +67408,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -67455,9 +67455,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -67504,7 +67504,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 192
+        "total_points": 212
     },
     "RD2026": {
         "round_of_32": [
@@ -67769,9 +67769,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -67816,7 +67816,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -68130,9 +68130,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -68177,7 +68177,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -68491,9 +68491,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -68538,7 +68538,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -68852,9 +68852,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -68899,7 +68899,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -69213,9 +69213,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -69260,7 +69260,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -69574,9 +69574,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -69621,9 +69621,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -69670,7 +69670,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 225
+        "total_points": 245
     },
     "Ricky": {
         "round_of_32": [
@@ -69935,9 +69935,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -69982,7 +69982,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -70296,9 +70296,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -70343,7 +70343,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 0
             }
@@ -70657,9 +70657,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -70704,7 +70704,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -71018,9 +71018,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -71065,7 +71065,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -71379,9 +71379,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -71426,7 +71426,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -71740,9 +71740,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -71787,7 +71787,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -72101,9 +72101,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -72148,7 +72148,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -72462,9 +72462,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -72509,9 +72509,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 0
+                "pts_awarded": 20
             }
         ],
         "semifinals": [
@@ -72558,7 +72558,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 173
+        "total_points": 193
     },
     "Rodrigo": {
         "round_of_32": [
@@ -72823,9 +72823,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -72870,7 +72870,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -73184,9 +73184,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -73231,9 +73231,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -73280,7 +73280,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 226
+        "total_points": 246
     },
     "Roy": {
         "round_of_32": [
@@ -73545,9 +73545,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -73592,7 +73592,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -73906,9 +73906,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -73953,7 +73953,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -74267,9 +74267,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -74314,7 +74314,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -74628,9 +74628,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -74675,7 +74675,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -74989,9 +74989,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -75036,7 +75036,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -75350,9 +75350,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -75397,7 +75397,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -75711,9 +75711,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -75758,9 +75758,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -75807,7 +75807,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 225
+        "total_points": 245
     },
     "Simon": {
         "round_of_32": [
@@ -76072,9 +76072,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -76119,7 +76119,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -76433,9 +76433,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -76480,7 +76480,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -76794,9 +76794,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -76841,7 +76841,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -77155,9 +77155,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -77202,7 +77202,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -77516,9 +77516,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -77563,7 +77563,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -77877,9 +77877,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -77924,9 +77924,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -77973,7 +77973,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 209
+        "total_points": 229
     },
     "Stephen": {
         "round_of_32": [
@@ -78238,9 +78238,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -78285,7 +78285,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -78599,9 +78599,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -78646,7 +78646,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -78960,9 +78960,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -79007,9 +79007,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -79056,7 +79056,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 252
+        "total_points": 272
     },
     "Theo": {
         "round_of_32": [
@@ -79321,9 +79321,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -79368,7 +79368,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -79682,9 +79682,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -79729,7 +79729,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -80043,9 +80043,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -80090,7 +80090,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -80404,9 +80404,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -80451,7 +80451,7 @@
                 "pred_away_score": 2,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -80765,9 +80765,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -80812,7 +80812,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -81126,9 +81126,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -81173,7 +81173,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -81487,9 +81487,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -81534,7 +81534,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -81848,9 +81848,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -81895,7 +81895,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -82209,9 +82209,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 3,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -82256,7 +82256,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -82570,9 +82570,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -82617,7 +82617,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -82931,9 +82931,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -82978,7 +82978,7 @@
                 "pred_away_score": 3,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -83292,9 +83292,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -83339,7 +83339,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -83653,9 +83653,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -83700,7 +83700,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -84014,9 +84014,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -84061,9 +84061,9 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -84110,7 +84110,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 249
+        "total_points": 269
     },
     "VukSto": {
         "round_of_32": [
@@ -84375,9 +84375,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -84422,9 +84422,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -84471,7 +84471,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 186
+        "total_points": 206
     },
     "Wilson": {
         "round_of_32": [
@@ -84736,9 +84736,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -84783,7 +84783,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -85097,9 +85097,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -85144,7 +85144,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -85458,9 +85458,9 @@
                 "pred_away_name": "Ghana",
                 "pred_away_score": 1,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 10
             }
         ],
@@ -85505,7 +85505,7 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -85819,9 +85819,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 0,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -85866,9 +85866,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -85915,7 +85915,7 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 206
+        "total_points": 226
     },
     "Josh": {
         "round_of_32": [
@@ -86180,9 +86180,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -86227,7 +86227,7 @@
                 "pred_away_score": 1,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
                 "pts_awarded": 20
             }
@@ -86541,9 +86541,9 @@
                 "pred_away_name": "Colombia",
                 "pred_away_score": 2,
                 "act_home_name": "Switzerland",
-                "act_home_score": null,
+                "act_home_score": 0,
                 "act_away_name": "Colombia",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 20
             }
         ],
@@ -86588,9 +86588,9 @@
                 "pred_away_score": 0,
                 "act_home_name": "Argentina",
                 "act_home_score": null,
-                "act_away_name": "",
+                "act_away_name": "Switzerland",
                 "act_away_score": null,
-                "pts_awarded": 20
+                "pts_awarded": 40
             }
         ],
         "semifinals": [
@@ -86637,6 +86637,6 @@
                 "pts_awarded": null
             }
         ],
-        "total_points": 256
+        "total_points": 276
     }
 }
