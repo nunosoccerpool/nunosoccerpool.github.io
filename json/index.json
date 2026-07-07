@@ -1,43 +1,7 @@
 {
     "metadata": {
-        "last_updated": "2026-07-07T14:20:24",
+        "last_updated": "2026-07-07T14:37:19",
         "header_stacks": [
-            {
-                "top": "P",
-                "mid": "O",
-                "btm": "R",
-                "flag": "Portugal"
-            },
-            {
-                "top": "E",
-                "mid": "S",
-                "btm": "P",
-                "flag": "Spain"
-            },
-            {
-                "top": "U",
-                "mid": "S",
-                "btm": "A",
-                "flag": "USA"
-            },
-            {
-                "top": "B",
-                "mid": "E",
-                "btm": "L",
-                "flag": "Belgium"
-            },
-            {
-                "top": "A",
-                "mid": "R",
-                "btm": "G",
-                "flag": "Argentina"
-            },
-            {
-                "top": "E",
-                "mid": "G",
-                "btm": "Y",
-                "flag": "Egypt"
-            },
             {
                 "top": "S",
                 "mid": "U",
@@ -49,6 +13,42 @@
                 "mid": "O",
                 "btm": "L",
                 "flag": "Colombia"
+            },
+            {
+                "top": "F",
+                "mid": "R",
+                "btm": "A",
+                "flag": "France"
+            },
+            {
+                "top": "M",
+                "mid": "A",
+                "btm": "R",
+                "flag": "Morocco"
+            },
+            {
+                "top": "E",
+                "mid": "S",
+                "btm": "P",
+                "flag": "Spain"
+            },
+            {
+                "top": "B",
+                "mid": "E",
+                "btm": "L",
+                "flag": "Belgium"
+            },
+            {
+                "top": "N",
+                "mid": "O",
+                "btm": "R",
+                "flag": "Norway"
+            },
+            {
+                "top": "E",
+                "mid": "N",
+                "btm": "G",
+                "flag": "England"
             }
         ]
     },
@@ -76,14 +76,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Major",
             "bonus_game_color": null,
             "preds": [
-                "1",
                 "3",
                 "1",
-                "1",
-                "3",
+                "",
+                "",
+                "2",
                 "0",
-                "3",
-                "1"
+                "1",
+                "3"
             ]
         },
         {
@@ -110,13 +110,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "0",
-                "2",
                 "3",
-                "0",
+                "2",
                 "1",
-                "3"
+                "2",
+                "1",
+                "",
+                ""
             ]
         },
         {
@@ -144,12 +144,12 @@
             "preds": [
                 "0",
                 "1",
-                "0",
                 "1",
+                "2",
                 "3",
                 "1",
-                "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -176,13 +176,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
+                "1",
+                "",
+                "",
                 "2",
                 "0",
                 "1",
-                "2",
-                "0",
-                "0",
-                "1"
+                "2"
             ]
         },
         {
@@ -210,12 +210,12 @@
             "preds": [
                 "0",
                 "1",
-                "0",
-                "2",
-                "2",
+                "",
+                "",
                 "1",
                 "0",
-                "1"
+                "2",
+                "0"
             ]
         },
         {
@@ -241,14 +241,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Pierfelice",
             "bonus_game_color": null,
             "preds": [
+                "0",
+                "2",
+                "",
+                "",
                 "1",
-                "2",
                 "0",
-                "2",
-                "2",
-                "0",
-                "0",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -278,9 +278,9 @@
                 "2",
                 "2",
                 "1",
-                "3",
-                "1",
-                "0",
+                "",
+                "",
+                "2",
                 "2"
             ]
         },
@@ -307,14 +307,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Pascal",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
-                "1",
-                "2",
-                "3",
-                "1",
                 "0",
-                "2"
+                "2",
+                "3",
+                "0",
+                "3",
+                "1",
+                "",
+                ""
             ]
         },
         {
@@ -340,14 +340,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Mihajlo",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "2",
-                "0",
+                "",
+                "",
                 "2",
                 "0",
                 "",
-                ""
+                "",
+                "0",
+                "1"
             ]
         },
         {
@@ -374,13 +374,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "0",
-                "0",
-                "2",
-                "0",
                 "1",
-                "1"
+                "2",
+                "2",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -408,10 +408,10 @@
             "preds": [
                 "1",
                 "2",
-                "2",
-                "1",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "1",
                 "2"
             ]
@@ -441,12 +441,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
+                "",
+                "",
                 "2",
-                "2",
-                "0",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -472,12 +472,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Dashiel",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
+                "",
+                "",
                 "2",
-                "1",
-                "3",
-                "1",
+                "0",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -505,14 +505,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Manley",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
                 "1",
                 "2",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "2",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -538,14 +538,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Alston1",
             "bonus_game_color": null,
             "preds": [
-                "0",
                 "2",
                 "0",
                 "2",
-                "2",
                 "0",
                 "2",
-                "0"
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -572,13 +572,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "0",
                 "3",
                 "1",
-                "0",
                 "",
                 "",
-                "1",
-                "0"
+                "",
+                ""
             ]
         },
         {
@@ -604,14 +604,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Carmen",
             "bonus_game_color": null,
             "preds": [
+                "1",
+                "2",
                 "2",
                 "1",
-                "1",
-                "1",
                 "",
                 "",
                 "1",
-                "2"
+                "1"
             ]
         },
         {
@@ -637,13 +637,13 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Samantha",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "",
-                "",
-                "",
-                "",
                 "2",
+                "2",
+                "2",
+                "1",
+                "",
+                "",
+                "1",
                 "2"
             ]
         },
@@ -671,13 +671,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "2",
-                "2",
-                "3",
                 "1",
+                "",
+                "",
+                "2",
                 "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -706,11 +706,11 @@
                 "0",
                 "1",
                 "0",
-                "1",
-                "",
-                "",
                 "0",
-                "1"
+                "1",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -736,14 +736,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JorgeC",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
-                "1",
-                "2",
-                "2",
                 "0",
+                "2",
+                "2",
+                "1",
+                "1",
                 "0",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -769,10 +769,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JoeD",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
+                "",
+                "",
+                "3",
                 "1",
-                "2",
                 "2",
                 "0",
                 "",
@@ -803,13 +803,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "1",
+                "",
+                "",
                 "2",
                 "1",
-                "2",
-                "3",
-                "0",
-                "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -835,14 +835,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Arturo",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
+                "0",
                 "1",
-                "2",
-                "2",
+                "",
+                "",
                 "1",
                 "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -869,13 +869,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "1",
+                "",
+                "",
                 "2",
                 "0",
-                "1",
-                "2",
-                "0",
-                "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -901,14 +901,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Grosso",
             "bonus_game_color": null,
             "preds": [
-                "0",
                 "1",
-                "0",
                 "1",
-                "2",
-                "0",
+                "",
+                "",
+                "3",
                 "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -935,11 +935,11 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "1",
-                "",
-                "",
+                "2",
                 "2",
                 "1",
+                "",
+                "",
                 "1",
                 "2"
             ]
@@ -967,14 +967,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Janelle",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "0",
-                "0",
-                "2",
-                "2",
-                "0",
                 "1",
-                "3"
+                "3",
+                "1",
+                "0",
+                "2",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -1000,14 +1000,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=CMD88",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
+                "1",
+                "2",
+                "2",
                 "0",
                 "2",
+                "2",
                 "",
-                "",
-                "1",
-                "2"
+                ""
             ]
         },
         {
@@ -1033,14 +1033,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Fawzi",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "1",
                 "1",
                 "2",
-                "3",
+                "",
+                "",
+                "2",
                 "1",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -1066,14 +1066,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=ChristianL",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
                 "2",
-                "0",
                 "2",
-                "2"
+                "",
+                "",
+                "1",
+                "1",
+                "2",
+                "3"
             ]
         },
         {
@@ -1099,14 +1099,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=KevinJ",
             "bonus_game_color": null,
             "preds": [
+                "2",
+                "2",
+                "",
+                "",
                 "1",
-                "2",
-                "2",
-                "2",
-                "3",
                 "0",
-                "2",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -1132,14 +1132,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JamesC",
             "bonus_game_color": null,
             "preds": [
+                "2",
                 "1",
+                "",
+                "",
                 "2",
-                "0",
                 "1",
-                "2",
-                "0",
-                "2",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -1169,10 +1169,10 @@
                 "2",
                 "2",
                 "0",
-                "2",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1198,13 +1198,13 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Patullo",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
-                "2",
-                "1",
-                "3",
-                "1",
                 "0",
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "2",
                 "2"
             ]
         },
@@ -1231,14 +1231,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=GustavoH",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
                 "0",
                 "1",
                 "2",
-                "1",
                 "0",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1264,14 +1264,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Kristian",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "1",
                 "0",
-                "2",
-                "0",
-                "0",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "1",
+                "2"
             ]
         },
         {
@@ -1297,14 +1297,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JessicaG",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "2",
-                "1",
                 "1",
                 "2",
-                "0",
+                "",
+                "",
+                "2",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -1330,14 +1330,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=EricK",
             "bonus_game_color": null,
             "preds": [
-                "1",
+                "0",
                 "2",
-                "2",
-                "2",
+                "",
+                "",
                 "2",
                 "0",
-                "0",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -1363,14 +1363,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Ash",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "2",
                 "1",
                 "2",
-                "0",
+                "2",
                 "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1396,14 +1396,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Juan",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "1",
-                "2",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "2",
+                "0",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1429,13 +1429,13 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MichaelM",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "0",
-                "",
-                "",
-                "2",
-                "2",
                 "1",
+                "2",
+                "3",
+                "1",
+                "",
+                "",
+                "2",
                 "2"
             ]
         },
@@ -1462,14 +1462,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=GavinRiya",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
+                "0",
+                "2",
                 "2",
                 "1",
-                "2",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1496,13 +1496,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
+                "1",
                 "2",
+                "1",
                 "",
                 "",
-                "4",
-                "2",
-                "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -1530,12 +1530,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
-                "3",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "2",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -1561,14 +1561,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=DougM",
             "bonus_game_color": null,
             "preds": [
-                "2",
                 "1",
-                "2",
-                "1",
-                "3",
                 "0",
+                "",
+                "",
+                "",
+                "",
                 "1",
-                "0"
+                "2"
             ]
         },
         {
@@ -1598,10 +1598,10 @@
                 "2",
                 "",
                 "",
-                "3",
-                "1",
-                "1",
-                "2"
+                "2",
+                "2",
+                "",
+                ""
             ]
         },
         {
@@ -1628,13 +1628,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
+                "2",
+                "2",
                 "0",
-                "0",
-                "0",
-                "3",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1660,14 +1660,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MatthewG",
             "bonus_game_color": null,
             "preds": [
-                "1",
+                "0",
                 "1",
                 "",
                 "",
-                "2",
-                "0",
-                "0",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1693,12 +1693,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=PetarS",
             "bonus_game_color": null,
             "preds": [
+                "",
+                "",
+                "1",
                 "0",
                 "2",
-                "0",
                 "2",
-                "2",
-                "0",
                 "",
                 ""
             ]
@@ -1727,13 +1727,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
-                "2",
-                "0",
                 "1",
+                "",
+                "",
                 "3",
                 "0",
-                "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -1759,10 +1759,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Ricky",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "2",
-                "0",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "1",
                 "0",
                 "",
@@ -1794,12 +1794,12 @@
             "preds": [
                 "1",
                 "2",
-                "2",
-                "1",
-                "2",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1825,13 +1825,13 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=RobertP",
             "bonus_game_color": null,
             "preds": [
-                "0",
                 "1",
+                "2",
+                "2",
+                "0",
                 "",
                 "",
-                "4",
-                "0",
-                "1",
+                "2",
                 "2"
             ]
         },
@@ -1858,14 +1858,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nuno1",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
                 "",
                 "",
-                "3",
-                "0",
+                "",
+                "",
                 "1",
-                "2"
+                "1"
             ]
         },
         {
@@ -1893,12 +1893,12 @@
             "preds": [
                 "1",
                 "1",
-                "2",
-                "1",
-                "2",
-                "0",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1924,14 +1924,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Greg",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "2",
                 "2",
                 "0",
+                "3",
+                "1",
                 "",
                 "",
-                "2",
-                "0"
+                "",
+                ""
             ]
         },
         {
@@ -1957,14 +1957,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=RobTu",
             "bonus_game_color": null,
             "preds": [
+                "0",
                 "1",
                 "2",
-                "",
-                "",
-                "",
-                "",
                 "0",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -1990,14 +1990,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Edsel",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
                 "0",
-                "3",
-                "3",
                 "1",
-                "0",
-                "1"
+                "",
+                "",
+                "2",
+                "1",
+                "",
+                ""
             ]
         },
         {
@@ -2023,14 +2023,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=LiamMoh",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "2",
-                "2",
-                "3",
-                "0",
                 "1",
-                "2"
+                "2",
+                "4",
+                "2",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2057,13 +2057,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "3",
-                "1",
                 "2",
+                "",
+                "",
                 "3",
                 "1",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -2090,13 +2090,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "",
-                "",
                 "3",
+                "2",
                 "1",
-                "1",
-                "3"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2122,14 +2122,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rick",
             "bonus_game_color": null,
             "preds": [
+                "2",
                 "1",
-                "3",
+                "",
+                "",
+                "2",
                 "1",
-                "2",
-                "2",
-                "0",
-                "2",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -2159,10 +2159,10 @@
                 "1",
                 "",
                 "",
-                "2",
-                "0",
-                "0",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2189,13 +2189,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
+                "0",
                 "",
                 "",
-                "2",
-                "1",
-                "1",
-                "0"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2221,14 +2221,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JeffB",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
                 "0",
                 "1",
+                "",
+                "",
                 "2",
                 "0",
-                "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -2254,14 +2254,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Trevor",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
                 "1",
                 "2",
-                "3",
+                "",
+                "",
+                "2",
                 "1",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -2289,12 +2289,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
+                "3",
                 "1",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -2320,14 +2320,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rousse",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
                 "2",
                 "1",
-                "2",
-                "0",
-                "2",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2353,14 +2353,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jhon",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
-                "",
-                "",
-                "2",
-                "0",
                 "1",
-                "2"
+                "2",
+                "4",
+                "2",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2386,14 +2386,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Adrian",
             "bonus_game_color": null,
             "preds": [
+                "2",
+                "2",
                 "",
                 "",
-                "3",
-                "2",
-                "3",
-                "1",
-                "2",
-                "2"
+                "",
+                "",
+                "4",
+                "3"
             ]
         },
         {
@@ -2421,12 +2421,12 @@
             "preds": [
                 "2",
                 "2",
-                "",
-                "",
-                "3",
                 "1",
+                "0",
+                "",
+                "",
                 "2",
-                "2"
+                "3"
             ]
         },
         {
@@ -2452,14 +2452,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Ian",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
                 "2",
                 "1",
                 "",
                 "",
-                "2",
-                "1"
+                "",
+                "",
+                "1",
+                "2"
             ]
         },
         {
@@ -2485,14 +2485,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Sean",
             "bonus_game_color": null,
             "preds": [
+                "0",
                 "1",
                 "2",
-                "1",
                 "0",
-                "2",
-                "1",
-                "0",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2520,12 +2520,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
+                "",
+                "",
                 "2",
-                "2",
-                "0",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -2552,13 +2552,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
-                "2",
-                "",
-                "",
-                "3",
                 "1",
-                "0",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2584,12 +2584,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JessicaS",
             "bonus_game_color": null,
             "preds": [
-                "1",
+                "",
+                "",
                 "2",
-                "2",
-                "1",
-                "3",
-                "1",
+                "0",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -2619,12 +2619,12 @@
             "preds": [
                 "1",
                 "2",
+                "",
+                "",
+                "3",
                 "0",
-                "2",
                 "",
-                "",
-                "1",
-                "2"
+                ""
             ]
         },
         {
@@ -2652,12 +2652,12 @@
             "preds": [
                 "1",
                 "3",
-                "2",
-                "1",
                 "",
                 "",
-                "1",
-                "3"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2685,12 +2685,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
+                "",
+                "",
                 "2",
-                "",
-                "",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -2716,14 +2716,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Ricardo1",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "0",
-                "0",
-                "2",
-                "0",
                 "1",
-                "2"
+                "2",
+                "",
+                "",
+                "1",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -2749,14 +2749,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=NickM",
             "bonus_game_color": null,
             "preds": [
+                "1",
+                "2",
                 "",
                 "",
-                "1",
-                "1",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2782,14 +2782,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TonyH",
             "bonus_game_color": null,
             "preds": [
-                "2",
                 "1",
+                "2",
+                "",
+                "",
                 "",
                 "",
                 "2",
-                "1",
-                "1",
-                "2"
+                "1"
             ]
         },
         {
@@ -2815,14 +2815,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Kumar",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
-                "1",
-                "2",
-                "3",
                 "0",
+                "1",
+                "",
+                "",
+                "2",
                 "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -2848,14 +2848,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Vito",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
+                "2",
+                "0",
                 "",
                 "",
                 "2",
                 "0",
                 "2",
-                "0"
+                "1"
             ]
         },
         {
@@ -2881,14 +2881,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Simon",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
-                "2",
-                "1",
-                "",
-                "",
                 "0",
-                "1"
+                "1",
+                "2",
+                "0",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -2914,14 +2914,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Vishal",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 "",
                 "3",
-                "1",
-                "",
-                ""
+                "2"
             ]
         },
         {
@@ -2947,14 +2947,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Tomas",
             "bonus_game_color": null,
             "preds": [
+                "",
+                "",
+                "",
+                "",
+                "3",
                 "1",
                 "2",
-                "0",
-                "2",
-                "",
-                "",
-                "",
-                ""
+                "0"
             ]
         },
         {
@@ -2982,12 +2982,12 @@
             "preds": [
                 "",
                 "",
-                "",
-                "",
                 "2",
                 "0",
                 "",
-                ""
+                "",
+                "1",
+                "0"
             ]
         },
         {
@@ -3015,12 +3015,12 @@
             "preds": [
                 "0",
                 "1",
-                "1",
+                "",
+                "",
                 "2",
-                "2",
-                "1",
                 "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -3046,14 +3046,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Albeiro",
             "bonus_game_color": null,
             "preds": [
-                "2",
+                "0",
                 "1",
-                "0",
-                "2",
-                "3",
-                "0",
-                "0",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3079,14 +3079,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Sheila",
             "bonus_game_color": null,
             "preds": [
-                "0",
                 "2",
-                "1",
                 "0",
                 "",
                 "",
-                "2",
-                "0"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3114,12 +3114,12 @@
             "preds": [
                 "0",
                 "2",
-                "2",
-                "1",
-                "3",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3147,12 +3147,12 @@
             "preds": [
                 "1",
                 "2",
-                "",
-                "",
                 "3",
                 "1",
-                "1",
-                "2"
+                "2",
+                "0",
+                "",
+                ""
             ]
         },
         {
@@ -3179,13 +3179,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "1",
-                "1",
                 "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3211,13 +3211,13 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TonyS",
             "bonus_game_color": null,
             "preds": [
-                "3",
+                "0",
+                "1",
+                "",
+                "",
+                "",
+                "",
                 "2",
-                "0",
-                "1",
-                "3",
-                "1",
-                "0",
                 "1"
             ]
         },
@@ -3248,10 +3248,10 @@
                 "2",
                 "",
                 "",
-                "3",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "2",
+                "4"
             ]
         },
         {
@@ -3279,12 +3279,12 @@
             "preds": [
                 "1",
                 "1",
-                "1",
-                "1",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3310,14 +3310,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Filip",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "",
-                "",
-                "3",
-                "1",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3343,14 +3343,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=RobSi",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
+                "0",
                 "2",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3378,12 +3378,12 @@
             "preds": [
                 "1",
                 "2",
-                "1",
+                "",
+                "",
                 "2",
+                "0",
                 "",
-                "",
-                "1",
-                "2"
+                ""
             ]
         },
         {
@@ -3409,14 +3409,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Chrissy",
             "bonus_game_color": null,
             "preds": [
+                "2",
+                "3",
+                "",
+                "",
+                "2",
                 "1",
-                "2",
-                "2",
-                "2",
-                "2",
-                "1",
-                "2",
-                "3"
+                "",
+                ""
             ]
         },
         {
@@ -3442,14 +3442,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Adam",
             "bonus_game_color": null,
             "preds": [
+                "1",
+                "2",
                 "2",
                 "1",
-                "1",
-                "0",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -3475,12 +3475,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron1",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "1",
                 "0",
                 "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "0",
                 "2"
             ]
@@ -3508,14 +3508,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=CarlosS1",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
+                "1",
                 "1",
                 "2",
+                "0",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -3541,14 +3541,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TonyMa",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "2",
-                "2",
                 "1",
+                "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3574,14 +3574,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Augie",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
                 "1",
                 "2",
-                "",
-                "",
+                "3",
                 "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3608,13 +3608,13 @@
             "bonus_game_color": null,
             "preds": [
                 "2",
+                "2",
+                "",
+                "",
+                "",
+                "",
                 "1",
-                "2",
-                "2",
-                "3",
-                "1",
-                "2",
-                "2"
+                "0"
             ]
         },
         {
@@ -3641,13 +3641,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "0",
-                "1",
                 "2",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3673,14 +3673,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=DannyL",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "2",
-                "1",
-                "2",
                 "0",
-                "0",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3706,12 +3706,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JustinL",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
-                "2",
-                "2",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -3740,13 +3740,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "1",
-                "3",
                 "2",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3772,14 +3772,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Cameron",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "1",
                 "2",
+                "3",
                 "2",
-                "0",
-                "2",
-                "3"
+                "1",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3806,13 +3806,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "1",
+                "",
+                "",
+                "",
+                "",
                 "2",
-                "",
-                "",
-                "3",
-                "1",
-                "1",
-                "1"
+                "3"
             ]
         },
         {
@@ -3839,13 +3839,13 @@
             "bonus_game_color": null,
             "preds": [
                 "0",
-                "2",
-                "0",
                 "1",
-                "2",
+                "",
+                "",
                 "0",
                 "0",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -3875,10 +3875,10 @@
                 "2",
                 "",
                 "",
-                "3",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -3904,14 +3904,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=PaulC",
             "bonus_game_color": null,
             "preds": [
+                "1",
+                "2",
                 "3",
-                "2",
-                "2",
                 "1",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -3938,13 +3938,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "2",
+                "2",
                 "1",
                 "",
                 "",
                 "",
-                "",
-                "1",
-                "2"
+                ""
             ]
         },
         {
@@ -3970,14 +3970,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Franco",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "2",
-                "1",
-                "2",
-                "0",
                 "3",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4005,12 +4005,12 @@
             "preds": [
                 "2",
                 "1",
+                "",
+                "",
+                "",
+                "",
                 "1",
-                "3",
-                "3",
-                "0",
-                "2",
-                "1"
+                "3"
             ]
         },
         {
@@ -4038,8 +4038,8 @@
             "preds": [
                 "1",
                 "2",
-                "2",
-                "1",
+                "",
+                "",
                 "",
                 "",
                 "1",
@@ -4069,14 +4069,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jalen",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
+                "2",
+                "0",
                 "",
                 "",
                 "",
-                "",
-                "1",
-                "2"
+                ""
             ]
         },
         {
@@ -4102,10 +4102,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MarcioD",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "1",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -4135,14 +4135,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Duarte",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
                 "",
                 "",
-                "3",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4168,14 +4168,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Julian",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
                 "2",
-                "1",
-                "2",
-                "1",
-                "2",
-                "3"
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4201,14 +4201,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MatthewSm2",
             "bonus_game_color": null,
             "preds": [
+                "0",
                 "2",
+                "",
+                "",
                 "4",
                 "1",
-                "2",
                 "",
-                "",
-                "0",
-                "2"
+                ""
             ]
         },
         {
@@ -4234,14 +4234,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nima",
             "bonus_game_color": null,
             "preds": [
-                "2",
                 "1",
-                "",
-                "",
-                "2",
                 "0",
+                "3",
                 "1",
-                "0"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4267,10 +4267,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rachel",
             "bonus_game_color": null,
             "preds": [
+                "",
+                "",
                 "2",
                 "1",
-                "",
-                "",
                 "",
                 "",
                 "",
@@ -4300,10 +4300,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TonyV",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
-                "0",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "3",
                 "1",
                 "",
@@ -4333,14 +4333,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Wilson",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
                 "1",
                 "2",
+                "",
+                "",
                 "3",
                 "1",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -4366,14 +4366,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=GabyDavide",
             "bonus_game_color": null,
             "preds": [
-                "2",
+                "1",
                 "2",
                 "",
                 "",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4403,10 +4403,10 @@
                 "2",
                 "",
                 "",
-                "2",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4432,14 +4432,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JessicaD",
             "bonus_game_color": null,
             "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "1",
-                "2",
-                "2",
-                "1",
-                "",
-                "",
-                "",
-                ""
+                "2"
             ]
         },
         {
@@ -4465,14 +4465,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MatthewSa",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "2",
                 "1",
                 "3",
-                "2",
-                "1",
-                "1",
-                "3"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4498,12 +4498,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rodrigo",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "1",
                 "",
                 "",
-                "3",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -4531,14 +4531,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jaxon",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "1",
-                "0",
-                "3",
-                "3",
-                "1",
                 "2",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4568,10 +4568,10 @@
                 "",
                 "",
                 "",
-                "3",
-                "1",
                 "",
-                ""
+                "",
+                "1",
+                "2"
             ]
         },
         {
@@ -4597,14 +4597,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nicole2",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "4",
                 "1",
-                "1",
-                "3"
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4630,14 +4630,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aaron3",
             "bonus_game_color": null,
             "preds": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "0",
-                "2",
-                "",
-                "",
-                "2",
-                "0",
-                "",
-                ""
+                "1"
             ]
         },
         {
@@ -4664,13 +4664,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "0",
-                "0",
                 "1",
-                "2",
-                "0",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4696,12 +4696,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MichaelL",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -4729,14 +4729,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Melissa",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "0",
                 "1",
                 "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4762,12 +4762,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=StevenT",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "3",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -4795,14 +4795,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Stallone2",
             "bonus_game_color": null,
             "preds": [
-                "2",
+                "1",
                 "1",
                 "",
                 "",
+                "",
+                "",
                 "2",
-                "1",
-                "1",
-                "1"
+                "2"
             ]
         },
         {
@@ -4828,14 +4828,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=AnthonyV",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
-                "",
-                "",
-                "3",
-                "1",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4861,14 +4861,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=AniD",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
                 "1",
                 "2",
+                "",
+                "",
                 "3",
-                "1",
-                "1",
-                "2"
+                "2",
+                "",
+                ""
             ]
         },
         {
@@ -4894,14 +4894,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=AnaL",
             "bonus_game_color": null,
             "preds": [
-                "0",
+                "1",
                 "1",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -4928,13 +4928,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "1",
-                "2",
-                "1",
-                "2",
-                "0",
-                "1",
-                "3"
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4960,14 +4960,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nas",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "2",
-                "0",
                 "1",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -4993,12 +4993,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Stanley",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
                 "",
                 "",
                 "2",
                 "0",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5026,14 +5026,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nicole1",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "2",
                 "1",
+                "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5060,13 +5060,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "1",
                 "0",
-                "2",
-                "0",
-                "1",
-                "0"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5092,14 +5092,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=GavinW",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
+                "0",
                 "2",
-                "1",
-                "5",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5125,14 +5125,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Andres",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "2",
-                "1",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5160,12 +5160,12 @@
             "preds": [
                 "1",
                 "2",
-                "0",
+                "",
+                "",
                 "2",
-                "2",
-                "0",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -5193,10 +5193,10 @@
             "preds": [
                 "",
                 "",
+                "2",
+                "0",
                 "",
                 "",
-                "3",
-                "1",
                 "",
                 ""
             ]
@@ -5224,12 +5224,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Punit",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
-                "1",
-                "3",
-                "3",
-                "0",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5257,12 +5257,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TomP",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5290,10 +5290,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Lena",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "1",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -5323,12 +5323,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Salim",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5357,13 +5357,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "3",
+                "2",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -5390,13 +5390,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "0",
+                "3",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "3"
+                "",
+                ""
             ]
         },
         {
@@ -5426,8 +5426,8 @@
                 "",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5456,13 +5456,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
+                "2",
+                "",
+                "",
                 "3",
-                "",
-                "",
-                "",
-                "",
                 "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -5488,14 +5488,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=FrankD1",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "0",
-                "2",
-                "",
-                "",
                 "1",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5521,14 +5521,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=AnaS",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
                 "0",
                 "2",
                 "",
                 "",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5556,12 +5556,12 @@
             "preds": [
                 "1",
                 "2",
-                "2",
-                "1",
-                "3",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5587,14 +5587,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=PaulA",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
                 "1",
                 "1",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5620,14 +5620,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jennifer",
             "bonus_game_color": null,
             "preds": [
+                "0",
+                "2",
                 "",
                 "",
-                "1",
-                "2",
-                "2",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5653,14 +5653,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=HelderA",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
                 "1",
                 "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5686,12 +5686,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Arjun",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "0",
-                "2",
-                "3",
-                "2",
-                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5719,12 +5719,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Tristan",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "3",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5752,14 +5752,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JorgeT",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
                 "2",
                 "1",
-                "3",
-                "1",
-                "2",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5785,14 +5785,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Hugo",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "3",
-                "0",
                 "2",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5818,14 +5818,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JamesP",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "2",
+                "1",
                 "1",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -5851,12 +5851,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Stallone1",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
                 "",
                 "",
-                "3",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5888,10 +5888,10 @@
                 "",
                 "",
                 "",
-                "4",
-                "0",
                 "",
-                ""
+                "",
+                "2",
+                "0"
             ]
         },
         {
@@ -5921,10 +5921,10 @@
                 "",
                 "",
                 "",
-                "4",
-                "0",
                 "",
-                ""
+                "",
+                "2",
+                "0"
             ]
         },
         {
@@ -5950,12 +5950,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=CarlosD",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "0",
                 "",
                 "",
                 "3",
                 "1",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -5984,13 +5984,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "2",
-                "1",
                 "0",
                 "",
                 "",
-                "1",
-                "0"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6016,14 +6016,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=BrianS",
             "bonus_game_color": null,
             "preds": [
+                "0",
+                "1",
                 "1",
                 "0",
                 "",
                 "",
                 "",
-                "",
-                "0",
-                "1"
+                ""
             ]
         },
         {
@@ -6049,12 +6049,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Todaro",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
                 "",
                 "",
-                "2",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6082,14 +6082,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Simone",
             "bonus_game_color": null,
             "preds": [
-                "1",
                 "2",
-                "2",
-                "2",
+                "3",
                 "",
                 "",
+                "3",
                 "2",
-                "3"
+                "",
+                ""
             ]
         },
         {
@@ -6115,12 +6115,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=DannyRa",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "1",
-                "0",
-                "2",
-                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6148,12 +6148,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Dino",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "2",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6181,14 +6181,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=KevinC",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
                 "2",
-                "1",
+                "2",
                 "",
                 "",
-                "2",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6218,8 +6218,8 @@
                 "",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6247,14 +6247,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Aban",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
-                "",
-                "",
-                "2",
                 "0",
                 "0",
-                "0"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6280,14 +6280,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=TonyMi",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
                 "1",
                 "2",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6313,14 +6313,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Kyle",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "3",
-                "",
-                "",
+                "1",
+                "2",
                 "2",
                 "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6346,14 +6346,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JasonF",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
-                "2",
-                "2",
-                "",
-                "",
                 "0",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6379,14 +6379,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Michele",
             "bonus_game_color": null,
             "preds": [
-                "0",
                 "2",
                 "1",
-                "0",
-                "3",
-                "1",
-                "2",
-                "1"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6412,14 +6412,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Ante",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
                 "2",
                 "1",
-                "2",
-                "1"
+                "3",
+                "1",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6449,10 +6449,10 @@
                 "2",
                 "",
                 "",
-                "2",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6478,12 +6478,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=EdwardT",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "1",
-                "2",
-                "3",
-                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6511,14 +6511,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=GustavoL",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "1",
-                "1",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6544,14 +6544,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=LiamA",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "",
-                "",
-                "2",
-                "0",
                 "3",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6577,14 +6577,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Darryll",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "2",
-                "2",
                 "1",
-                "3",
-                "0",
-                "1",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6612,12 +6612,12 @@
             "preds": [
                 "2",
                 "0",
-                "2",
-                "0",
-                "2",
-                "0",
-                "2",
-                "0"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6644,13 +6644,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "3",
-                "2",
                 "1",
                 "",
                 "",
-                "1",
-                "1"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6676,14 +6676,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Kayden",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
                 "",
                 "",
-                "3",
-                "0",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6709,8 +6709,8 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MikeD",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "3",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -6748,8 +6748,8 @@
                 "",
                 "",
                 "",
-                "0",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -6775,12 +6775,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=MarcoR",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6808,14 +6808,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Angel",
             "bonus_game_color": null,
             "preds": [
-                "0",
-                "0",
-                "1",
-                "0",
                 "2",
-                "0",
                 "2",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "2",
+                "1"
             ]
         },
         {
@@ -6841,14 +6841,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Maria",
             "bonus_game_color": null,
             "preds": [
-                "1",
                 "0",
                 "2",
-                "1",
                 "",
                 "",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -6874,8 +6874,8 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=DazRob",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
+                "1",
+                "3",
                 "",
                 "",
                 "",
@@ -6911,8 +6911,8 @@
                 "",
                 "",
                 "",
-                "",
-                "",
+                "2",
+                "1",
                 "",
                 ""
             ]
@@ -6944,8 +6944,8 @@
                 "",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -6973,14 +6973,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jeremy",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "2",
                 "0",
-                "0",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7012,8 +7012,8 @@
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7040,13 +7040,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "0",
+                "2",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7074,10 +7074,10 @@
             "preds": [
                 "",
                 "",
+                "",
+                "",
+                "2",
                 "0",
-                "1",
-                "",
-                "",
                 "",
                 ""
             ]
@@ -7105,14 +7105,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Joanna",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "",
-                "",
                 "0",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7138,8 +7138,8 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Farshid",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "2",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -7171,12 +7171,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Caroline",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "2",
                 "",
                 "",
-                "4",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -7204,14 +7204,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Corey",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "1",
+                "0",
                 "2",
-                "1",
-                "3",
-                "0",
-                "0",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7241,8 +7241,8 @@
                 "",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -7270,14 +7270,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=CarlosG",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7307,8 +7307,8 @@
                 "",
                 "",
                 "",
-                "3",
-                "1",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -7336,14 +7336,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Igor1",
             "bonus_game_color": null,
             "preds": [
-                "2",
+                "1",
                 "2",
                 "",
                 "",
-                "2",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7370,13 +7370,13 @@
             "bonus_game_color": null,
             "preds": [
                 "2",
-                "3",
+                "1",
                 "",
                 "",
-                "",
-                "",
+                "1",
                 "2",
-                "1"
+                "",
+                ""
             ]
         },
         {
@@ -7402,14 +7402,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Theo",
             "bonus_game_color": null,
             "preds": [
+                "2",
                 "3",
-                "0",
                 "",
                 "",
-                "3",
-                "2",
-                "2",
-                "3"
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7435,14 +7435,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=RD2026",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "3",
                 "0",
-                "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7468,14 +7468,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=ChrisK",
             "bonus_game_color": null,
             "preds": [
+                "1",
                 "2",
-                "1",
                 "",
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7501,14 +7501,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JustinA",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "2",
-                "1",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7534,14 +7534,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Jenn",
             "bonus_game_color": null,
             "preds": [
+                "0",
                 "2",
-                "0",
                 "",
                 "",
                 "",
                 "",
-                "0",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7567,12 +7567,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Lindsey",
             "bonus_game_color": null,
             "preds": [
-                "3",
-                "2",
                 "",
                 "",
-                "2",
-                "0",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -7601,13 +7601,13 @@
             "bonus_game_color": null,
             "preds": [
                 "1",
-                "0",
-                "",
-                "",
                 "2",
-                "1",
-                "1",
-                "2"
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7633,14 +7633,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Misic1",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "2",
                 "1",
-                "1",
-                "3"
+                "3",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7666,12 +7666,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JoeA",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
                 "",
                 "",
-                "4",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
@@ -7705,8 +7705,8 @@
                 "",
                 "",
                 "",
-                "1",
-                "2"
+                "",
+                ""
             ]
         },
         {
@@ -7732,14 +7732,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Max",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "",
-                "",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7765,14 +7765,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JeffT",
             "bonus_game_color": null,
             "preds": [
-                "",
-                "",
-                "",
-                "",
-                "2",
-                "0",
                 "4",
-                "1"
+                "1",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7798,10 +7798,10 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Nicolas",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "3",
-                "2",
+                "",
+                "",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -7831,14 +7831,14 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=Rita",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
-                "2",
-                "1",
-                "",
-                "",
                 "0",
-                "2"
+                "2",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
             ]
         },
         {
@@ -7864,8 +7864,8 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=DanielM",
             "bonus_game_color": null,
             "preds": [
-                "2",
-                "1",
+                "",
+                "",
                 "",
                 "",
                 "",
@@ -7897,12 +7897,12 @@
             "bonus_url": "/bonus_pts/bonus_pts.htm?name=JoeA2",
             "bonus_game_color": null,
             "preds": [
-                "1",
-                "0",
                 "",
                 "",
-                "4",
-                "1",
+                "",
+                "",
+                "",
+                "",
                 "",
                 ""
             ]
