@@ -3,7 +3,7 @@
         "title": "# of correctly predicted Round-of-16 matchups",
         "rows": [
             {
-                "col1": "238 people did not predict any of the 8 Round-of-16 matchups",
+                "col1": "0 people did not predict any of the 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
@@ -13,32 +13,32 @@
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 2 of 8 Round-of-16 matchups",
+                "col1": "8 people correctly predicted 2 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 3 of 8 Round-of-16 matchups",
+                "col1": "32 people correctly predicted 3 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 4 of 8 Round-of-16 matchups",
+                "col1": "46 people correctly predicted 4 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 5 of 8 Round-of-16 matchups",
+                "col1": "79 people correctly predicted 5 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 6 of 8 Round-of-16 matchups",
+                "col1": "62 people correctly predicted 6 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 7 of 8 Round-of-16 matchups",
+                "col1": "11 people correctly predicted 7 of 8 Round-of-16 matchups",
                 "col2": "",
                 "col3": ""
             },
@@ -53,22 +53,22 @@
         "title": "# of correctly predicted Quarter-final matchups",
         "rows": [
             {
-                "col1": "238 people did not predict any of the 4 Quarter-final matchups",
+                "col1": "93 people did not predict any of the 4 Quarter-final matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 1 of 4 Quarter-final matchups",
+                "col1": "100 people correctly predicted 1 of 4 Quarter-final matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 2 of 4 Quarter-final matchups",
+                "col1": "40 people correctly predicted 2 of 4 Quarter-final matchups",
                 "col2": "",
                 "col3": ""
             },
             {
-                "col1": "0 people correctly predicted 3 of 4 Quarter-final matchups",
+                "col1": "5 people correctly predicted 3 of 4 Quarter-final matchups",
                 "col2": "",
                 "col3": ""
             },
@@ -101,6 +101,67 @@
     },
     "table4": {
         "title": "Teams most predicted to be Champion",
-        "rows": []
+        "rows": [
+            {
+                "col1": "FRANCE",
+                "col2": "80",
+                "col3": ""
+            },
+            {
+                "col1": "PORTUGAL",
+                "col2": "30",
+                "col3": ""
+            },
+            {
+                "col1": "ARGENTINA",
+                "col2": "29",
+                "col3": ""
+            },
+            {
+                "col1": "ENGLAND",
+                "col2": "21",
+                "col3": ""
+            },
+            {
+                "col1": "SPAIN",
+                "col2": "12",
+                "col3": ""
+            },
+            {
+                "col1": "BRAZIL",
+                "col2": "11",
+                "col3": ""
+            },
+            {
+                "col1": "NETHERLANDS",
+                "col2": "8",
+                "col3": ""
+            },
+            {
+                "col1": "COLOMBIA",
+                "col2": "2",
+                "col3": ""
+            },
+            {
+                "col1": "GERMANY",
+                "col2": "2",
+                "col3": ""
+            },
+            {
+                "col1": "BELGIUM",
+                "col2": "1",
+                "col3": ""
+            },
+            {
+                "col1": "MOROCCO",
+                "col2": "1",
+                "col3": ""
+            },
+            {
+                "col1": "NORWAY",
+                "col2": "1",
+                "col3": ""
+            }
+        ]
     }
 }
