@@ -1212,6 +1212,18 @@
         },
         {
             "name": "France vs Spain",
+            "goals": "0 - 2",
+            "yellow_cards": "3",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
+            "most_yc_details": "",
+            "fastest_goal_min": "22",
+            "fastest_goal_team": "Spain"
+        },
+        {
+            "name": "England vs Argentina",
             "goals": "-",
             "yellow_cards": "",
             "red_two_yellow": "",
@@ -1223,7 +1235,19 @@
             "fastest_goal_team": ""
         },
         {
-            "name": "England vs Argentina",
+            "name": "France vs England / Argentina",
+            "goals": "-",
+            "yellow_cards": "",
+            "red_two_yellow": "",
+            "red_straight": "",
+            "penalty_goals": "",
+            "own_goals": "",
+            "most_yc_details": "",
+            "fastest_goal_min": "",
+            "fastest_goal_team": ""
+        },
+        {
+            "name": "Spain vs England / Argentina",
             "goals": "-",
             "yellow_cards": "",
             "red_two_yellow": "",
