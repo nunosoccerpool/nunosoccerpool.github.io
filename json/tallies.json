@@ -1,12 +1,12 @@
 {
     "totals": {
         "total_goals": "215",
-        "yellow_cards": "203",
+        "yellow_cards": "198",
         "red_two_yellow": "0",
         "red_straight": "10",
         "penalty_goals": "6",
         "own_goals": "12",
-        "most_yc_details": "Paraguay Curacao Egypt",
+        "most_yc_details": "Argentina",
         "fastest_goal_team": "Morocco Paraguay"
     },
     "matches": [
@@ -54,7 +54,7 @@
             "red_straight": "0",
             "penalty_goals": "0",
             "own_goals": "1",
-            "most_yc_details": "Paraguay (5)",
+            "most_yc_details": "",
             "fastest_goal_min": "7",
             "fastest_goal_team": "USA"
         },
@@ -426,7 +426,7 @@
             "red_straight": "0",
             "penalty_goals": "0",
             "own_goals": "0",
-            "most_yc_details": "Curacao (5)",
+            "most_yc_details": "",
             "fastest_goal_min": "",
             "fastest_goal_team": ""
         },
@@ -505,7 +505,7 @@
         {
             "name": "France vs Iraq",
             "goals": "3 - 0",
-            "yellow_cards": "3",
+            "yellow_cards": "1",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "0",
@@ -901,7 +901,7 @@
         {
             "name": "Germany vs Paraguay",
             "goals": "1 - 1",
-            "yellow_cards": "8",
+            "yellow_cards": "4",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "0",
@@ -949,7 +949,7 @@
         {
             "name": "Mexico vs Ecuador",
             "goals": "2 - 0",
-            "yellow_cards": "2",
+            "yellow_cards": "3",
             "red_two_yellow": "0",
             "red_straight": "1",
             "penalty_goals": "0",
@@ -973,7 +973,7 @@
         {
             "name": "Belgium vs Senegal",
             "goals": "3 - 2",
-            "yellow_cards": "3",
+            "yellow_cards": "2",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "1",
@@ -985,7 +985,7 @@
         {
             "name": "USA vs Bosnia",
             "goals": "2 - 0",
-            "yellow_cards": "2",
+            "yellow_cards": "1",
             "red_two_yellow": "0",
             "red_straight": "1",
             "penalty_goals": "0",
@@ -1033,11 +1033,11 @@
         {
             "name": "Australia vs Egypt",
             "goals": "1 - 1",
-            "yellow_cards": "3",
+            "yellow_cards": "2",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "0",
-            "own_goals": "0",
+            "own_goals": "1",
             "most_yc_details": "",
             "fastest_goal_min": "13",
             "fastest_goal_team": "Egypt"
@@ -1117,7 +1117,7 @@
         {
             "name": "Portugal vs Spain",
             "goals": "0 - 1",
-            "yellow_cards": "2",
+            "yellow_cards": "3",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "0",
@@ -1141,19 +1141,19 @@
         {
             "name": "Argentina vs Egypt",
             "goals": "3 - 2",
-            "yellow_cards": "5",
+            "yellow_cards": "4",
             "red_two_yellow": "0",
             "red_straight": "1",
             "penalty_goals": "0",
             "own_goals": "0",
-            "most_yc_details": "Egypt (5)",
+            "most_yc_details": "",
             "fastest_goal_min": "15",
             "fastest_goal_team": "Egypt"
         },
         {
             "name": "Switzerland vs Colombia",
             "goals": "0 - 0",
-            "yellow_cards": "6",
+            "yellow_cards": "5",
             "red_two_yellow": "0",
             "red_straight": "0",
             "penalty_goals": "0",
@@ -1236,27 +1236,27 @@
         },
         {
             "name": "France vs England",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
+            "goals": "4 - 6",
+            "yellow_cards": "0",
+            "red_two_yellow": "0",
+            "red_straight": "0",
+            "penalty_goals": "1",
+            "own_goals": "0",
             "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "fastest_goal_min": "3",
+            "fastest_goal_team": "England"
         },
         {
             "name": "Spain vs Argentina",
-            "goals": "-",
-            "yellow_cards": "",
-            "red_two_yellow": "",
-            "red_straight": "",
-            "penalty_goals": "",
-            "own_goals": "",
-            "most_yc_details": "",
-            "fastest_goal_min": "",
-            "fastest_goal_team": ""
+            "goals": "1 - 0",
+            "yellow_cards": "6",
+            "red_two_yellow": "1",
+            "red_straight": "0",
+            "penalty_goals": "0",
+            "own_goals": "0",
+            "most_yc_details": "Argentina (6)",
+            "fastest_goal_min": "106",
+            "fastest_goal_team": "Spain"
         }
     ]
 }

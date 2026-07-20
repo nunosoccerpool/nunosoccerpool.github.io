@@ -345,17 +345,17 @@
                 "pred_away_name": "",
                 "pred_away_score": null,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": " ",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 0
@@ -706,17 +706,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 343
@@ -1067,17 +1067,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 390
@@ -1428,20 +1428,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
-                "pts_awarded": 160
+                "act_away_score": 0,
+                "pts_awarded": 192
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 536
+        "total_points": 688
     },
     "Aban": {
         "round_of_32": [
@@ -1789,17 +1789,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 372
@@ -2150,17 +2150,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 392
@@ -2511,17 +2511,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 4,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 467
@@ -2872,17 +2872,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 447
@@ -3233,17 +3233,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 281
@@ -3594,17 +3594,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 374
@@ -3955,17 +3955,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 365
@@ -4316,17 +4316,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 315
@@ -4677,20 +4677,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 479
+        "total_points": 599
     },
     "Alston1": {
         "round_of_32": [
@@ -5038,17 +5038,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 430
@@ -5399,17 +5399,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 292
@@ -5760,17 +5760,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 293
@@ -6121,17 +6121,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 422
@@ -6482,17 +6482,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 282
@@ -6843,17 +6843,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 413
@@ -7204,17 +7204,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 490
@@ -7565,17 +7565,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 372
@@ -7926,17 +7926,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 389
@@ -8287,17 +8287,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 276
@@ -8648,17 +8648,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 382
@@ -9009,17 +9009,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 452
@@ -9370,17 +9370,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 444
@@ -9731,17 +9731,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 409
@@ -10092,20 +10092,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 549
+        "total_points": 669
     },
     "Brendan": {
         "round_of_32": [
@@ -10453,17 +10453,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 446
@@ -10814,17 +10814,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 233
@@ -11175,17 +11175,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 402
@@ -11536,17 +11536,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 250
@@ -11897,17 +11897,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 329
@@ -12258,17 +12258,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 390
@@ -12619,17 +12619,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -12980,17 +12980,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 339
@@ -13341,17 +13341,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 276
@@ -13702,17 +13702,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 452
@@ -14063,17 +14063,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 206
@@ -14424,17 +14424,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 379
@@ -14785,17 +14785,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 426
@@ -15146,17 +15146,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 404
@@ -15507,17 +15507,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -15868,17 +15868,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 390
@@ -16229,17 +16229,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 466
@@ -16590,17 +16590,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "COLOMBIA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 219
@@ -16951,17 +16951,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 387
@@ -17312,17 +17312,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 367
@@ -17673,17 +17673,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 441
@@ -18034,17 +18034,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "Netherlands",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 199
@@ -18395,17 +18395,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 359
@@ -18756,17 +18756,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 330
@@ -19117,17 +19117,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 258
@@ -19478,17 +19478,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 452
@@ -19839,17 +19839,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 333
@@ -20200,17 +20200,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 347
@@ -20561,17 +20561,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 517
@@ -20922,17 +20922,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 316
@@ -21283,17 +21283,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 239
@@ -21644,17 +21644,17 @@
                 "pred_away_name": "NORWAY",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NORWAY",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 225
@@ -22005,17 +22005,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -22366,17 +22366,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 393
@@ -22727,17 +22727,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 375
@@ -23088,20 +23088,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 571
+        "total_points": 691
     },
     "Edsel": {
         "round_of_32": [
@@ -23449,17 +23449,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 497
@@ -23810,17 +23810,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BELGIUM",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 269
@@ -24171,17 +24171,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 276
@@ -24532,17 +24532,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 486
@@ -24893,17 +24893,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 345
@@ -25254,17 +25254,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 451
@@ -25615,17 +25615,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 458
@@ -25976,17 +25976,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 486
@@ -26337,17 +26337,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 373
@@ -26698,17 +26698,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 487
@@ -27059,17 +27059,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 492
@@ -27420,17 +27420,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 273
@@ -27781,17 +27781,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 253
@@ -28142,17 +28142,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 416
@@ -28503,17 +28503,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 302
@@ -28864,17 +28864,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 322
@@ -29225,17 +29225,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 293
@@ -29586,17 +29586,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 460
@@ -29947,17 +29947,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 420
@@ -30308,17 +30308,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 410
@@ -30669,17 +30669,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 313
@@ -31030,17 +31030,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 346
@@ -31391,17 +31391,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 366
@@ -31752,17 +31752,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -32113,17 +32113,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 356
@@ -32474,20 +32474,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 442
+        "total_points": 562
     },
     "Hugo": {
         "round_of_32": [
@@ -32835,17 +32835,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 354
@@ -33196,17 +33196,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 436
@@ -33557,17 +33557,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 435
@@ -33918,17 +33918,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 189
@@ -34279,17 +34279,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 396
@@ -34640,17 +34640,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 310
@@ -35001,17 +35001,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 433
@@ -35362,17 +35362,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 336
@@ -35723,17 +35723,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 390
@@ -36084,20 +36084,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 498
+        "total_points": 618
     },
     "JasonF": {
         "round_of_32": [
@@ -36445,17 +36445,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 355
@@ -36806,17 +36806,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 338
@@ -37167,17 +37167,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 349
@@ -37528,17 +37528,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 402
@@ -37889,20 +37889,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 406
+        "total_points": 526
     },
     "JeffS2": {
         "round_of_32": [
@@ -38250,17 +38250,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 520
@@ -38611,17 +38611,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 333
@@ -38972,17 +38972,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "England",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 246
@@ -39333,17 +39333,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 362
@@ -39694,17 +39694,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 439
@@ -40055,17 +40055,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 382
@@ -40416,17 +40416,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "GERMANY",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 438
@@ -40777,17 +40777,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 497
@@ -41138,17 +41138,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 446
@@ -41499,17 +41499,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 366
@@ -41860,17 +41860,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 173
@@ -42221,17 +42221,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 445
@@ -42582,17 +42582,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 269
@@ -42943,17 +42943,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 472
@@ -43304,20 +43304,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 538
+        "total_points": 658
     },
     "JohnR": {
         "round_of_32": [
@@ -43665,17 +43665,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 388
@@ -44026,17 +44026,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 245
@@ -44387,17 +44387,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 462
@@ -44748,17 +44748,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 366
@@ -45109,17 +45109,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 324
@@ -45470,17 +45470,17 @@
                 "pred_away_name": "NORWAY",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 253
@@ -45831,17 +45831,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 329
@@ -46192,17 +46192,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 336
@@ -46553,17 +46553,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 256
@@ -46914,17 +46914,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 389
@@ -47275,17 +47275,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -47636,17 +47636,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 292
@@ -47997,17 +47997,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 516
@@ -48358,17 +48358,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 449
@@ -48719,17 +48719,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 236
@@ -49080,17 +49080,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 426
@@ -49441,17 +49441,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 282
@@ -49802,17 +49802,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 449
@@ -50163,17 +50163,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 216
@@ -50524,17 +50524,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 526
@@ -50885,17 +50885,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 330
@@ -51246,20 +51246,20 @@
                 "pred_away_name": "NORWAY",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 396
+        "total_points": 516
     },
     "Major": {
         "round_of_32": [
@@ -51607,17 +51607,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 465
@@ -51968,17 +51968,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 489
@@ -52329,17 +52329,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "MOROCCO",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 372
@@ -52690,17 +52690,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 298
@@ -53051,17 +53051,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 462
@@ -53412,17 +53412,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 249
@@ -53773,17 +53773,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 279
@@ -54134,17 +54134,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 376
@@ -54495,17 +54495,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 348
@@ -54856,17 +54856,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 349
@@ -55217,17 +55217,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 396
@@ -55578,17 +55578,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 445
@@ -55939,17 +55939,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 199
@@ -56300,17 +56300,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 322
@@ -56661,17 +56661,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 448
@@ -57022,17 +57022,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 469
@@ -57383,20 +57383,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 588
+        "total_points": 708
     },
     "Michele": {
         "round_of_32": [
@@ -57744,17 +57744,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 416
@@ -58105,17 +58105,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 521
@@ -58466,17 +58466,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 346
@@ -58827,17 +58827,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 259
@@ -59188,20 +59188,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 458
+        "total_points": 578
     },
     "Nas": {
         "round_of_32": [
@@ -59549,17 +59549,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 329
@@ -59910,17 +59910,17 @@
                 "pred_away_name": "MEXICO",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 323
@@ -60271,17 +60271,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 306
@@ -60632,17 +60632,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "COLOMBIA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 202
@@ -60993,17 +60993,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 408
@@ -61354,17 +61354,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 375
@@ -61715,17 +61715,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 445
@@ -62076,20 +62076,20 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 462
+        "total_points": 582
     },
     "Nuno1": {
         "round_of_32": [
@@ -62437,17 +62437,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 320
@@ -62798,17 +62798,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 480
@@ -63520,17 +63520,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 498
@@ -63881,17 +63881,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 478
@@ -64242,17 +64242,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 525
@@ -64603,17 +64603,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 319
@@ -64964,17 +64964,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 272
@@ -65325,17 +65325,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 309
@@ -65686,17 +65686,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 500
@@ -66047,17 +66047,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 504
@@ -66408,17 +66408,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 199
@@ -66769,17 +66769,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -67130,17 +67130,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "France",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 379
@@ -67491,17 +67491,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 292
@@ -67852,17 +67852,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 329
@@ -68213,17 +68213,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 359
@@ -68574,17 +68574,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 419
@@ -68935,17 +68935,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 442
@@ -69296,17 +69296,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 4,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 416
@@ -69657,17 +69657,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "GERMANY",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 373
@@ -70018,17 +70018,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 399
@@ -70379,17 +70379,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 159
@@ -70740,17 +70740,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 283
@@ -71101,17 +71101,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 415
@@ -71462,17 +71462,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 487
@@ -71823,20 +71823,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 548
+        "total_points": 668
     },
     "RobTu": {
         "round_of_32": [
@@ -72184,17 +72184,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 370
@@ -72545,17 +72545,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "NETHERLANDS",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 193
@@ -72906,17 +72906,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 320
@@ -73267,17 +73267,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 406
@@ -73628,20 +73628,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 570
+        "total_points": 690
     },
     "Salim": {
         "round_of_32": [
@@ -73989,17 +73989,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 359
@@ -74350,17 +74350,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 460
@@ -74711,17 +74711,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "BRAZIL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 367
@@ -75072,17 +75072,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 429
@@ -75433,17 +75433,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 349
@@ -75794,17 +75794,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 405
@@ -76155,17 +76155,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 510
@@ -76516,17 +76516,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 425
@@ -76877,17 +76877,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 390
@@ -77238,17 +77238,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 350
@@ -77599,17 +77599,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 340
@@ -77960,17 +77960,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 437
@@ -78321,17 +78321,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 362
@@ -78682,17 +78682,17 @@
                 "pred_away_name": "BRAZIL",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 269
@@ -79043,17 +79043,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 472
@@ -79404,17 +79404,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 256
@@ -79765,17 +79765,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 442
@@ -80126,20 +80126,20 @@
                 "pred_away_name": "NORWAY",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 380
+        "total_points": 500
     },
     "TomP": {
         "round_of_32": [
@@ -80487,17 +80487,17 @@
                 "pred_away_name": "COLOMBIA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 293
@@ -80848,17 +80848,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 376
@@ -81209,17 +81209,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 419
@@ -81570,17 +81570,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "CROATIA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 359
@@ -81931,17 +81931,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 406
@@ -82292,17 +82292,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 419
@@ -82653,17 +82653,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ENGLAND",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 403
@@ -83014,17 +83014,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 319
@@ -83375,17 +83375,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 369
@@ -83736,17 +83736,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 433
@@ -84097,20 +84097,20 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "SPAIN",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 120
             }
         ],
-        "total_points": 557
+        "total_points": 677
     },
     "VukSto": {
         "round_of_32": [
@@ -84458,17 +84458,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 454
@@ -84819,17 +84819,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 3,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 409
@@ -85180,17 +85180,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 408
@@ -85541,17 +85541,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "PORTUGAL",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 269
@@ -85902,17 +85902,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 1,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 80
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 426
@@ -86263,17 +86263,17 @@
                 "pred_away_name": "ARGENTINA",
                 "pred_away_score": 2,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 160
             }
         ],
         "champions": [
             {
                 "pred_home_name": "ARGENTINA",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 558
@@ -86624,17 +86624,17 @@
                 "pred_away_name": "ENGLAND",
                 "pred_away_score": 0,
                 "act_home_name": "Spain",
-                "act_home_score": null,
+                "act_home_score": 1,
                 "act_away_name": "Argentina",
-                "act_away_score": null,
+                "act_away_score": 0,
                 "pts_awarded": 0
             }
         ],
         "champions": [
             {
                 "pred_home_name": "FRANCE",
-                "act_home_name": "",
-                "pts_awarded": null
+                "act_home_name": "SPAIN",
+                "pts_awarded": 0
             }
         ],
         "total_points": 444
